@@ -21,7 +21,6 @@ export default function ReviewModal(props: Props) {
         setIsReviewModalOpen(false)
 
     }
-    console.log("GRAMMAR", props.grammar)
 
     const addToReview = async () => {
         await axios.post('/api/reviews', {

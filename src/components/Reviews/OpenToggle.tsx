@@ -27,8 +27,6 @@ export default function OpenToggle(props: Props) {
         props.refetch()
     };
 
-    console.log("enabled", mutation.isLoading)
-
 
     return (
         <div className="flex items-center justify-center">

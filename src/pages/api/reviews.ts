@@ -8,7 +8,6 @@ import connectMongoDB from '../../../lib/mongodb'
 
 const addReview = async (req: NextApiRequest, res: NextApiResponse) => {
     const { yourSentence, correctSentence, sentence, reviewNote,grammar } = req.body
-    console.log("Grammar",grammar)
 
     await Review.create({
         user: req.body.user,

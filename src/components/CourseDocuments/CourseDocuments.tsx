@@ -7,7 +7,6 @@ type Props = {
 }
 
 const CourseDocuments = (props: Props) => {
-    console.log("PSTTS::", props.post)
     return (
         <Layout>
             {props.post && <div className='w-full h-full overflow-y-scroll p-5 ' >

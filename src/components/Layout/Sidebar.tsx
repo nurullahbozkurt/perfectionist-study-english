@@ -83,7 +83,7 @@ const Sidebar = (props: Props) => {
                             <p className='whitespace-nowrap' >Ders Kayıtları</p>
                         </div>
                     </Link>
-                    <Link onClick={openNav} passHref href={{ pathname: "/course-documents", query: { page: "Dokümanlar" } }} target='_blank' className="hover:ml-10 w-full cursor-pointer text-white hover:text-yellow-400  bg-primary-800 p-2 pl-8 rounded-full transform ease-in-out duration-300 flex flex-row items-center space-x-3">
+                    <Link onClick={openNav} passHref href={{ pathname: "/course-documents", query: { page: "Dokümanlar" } }} className="hover:ml-10 w-full cursor-pointer text-white hover:text-yellow-400  bg-primary-800 p-2 pl-8 rounded-full transform ease-in-out duration-300 flex flex-row items-center space-x-3">
                         <IoDocumentsSharp />
                         <div>
                             <p className='whitespace-nowrap' >Dokümanlar</p>

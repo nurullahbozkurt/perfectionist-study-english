@@ -30,10 +30,8 @@ const Register = (props: Props) => {
             return setErrorMessage('Şifreler eşleşmiyor.')
         }
         try {
-            const response = await axios.post('/api/auth/register', userForm)
-            console.log("response", response)
+            await axios.post('/api/auth/register', userForm)
         } catch (e: any) {
-            console.log("e", e)
             setErrorMessage(e.response.data.message)
         }
 
@@ -45,7 +43,6 @@ const Register = (props: Props) => {
                 redirect: false
             })
             router.push('/')
-            console.log("res", res)
         } catch (e: any) {
             console.log(e)
         }

@@ -25,7 +25,6 @@ const PathNav = (props: Props) => {
         return ""
     }, [router.query])
 
-    console.log("routerQuery", router)
     return (
         <>
             {routerQuery && <nav className="flex px-5 py-3 text-gray-700  rounded-full bg-gray-50" aria-label="Breadcrumb">

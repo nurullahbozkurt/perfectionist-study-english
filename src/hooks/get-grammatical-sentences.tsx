@@ -13,7 +13,6 @@ const useGetGrammaticalSentences = (query: Props) => {
                 collectionName: query.collectionName
             }
         });
-        console.log("response.data", response.data)
         return response.data;
     }, {
         enabled: !!query.collectionName // Koleksiyon adı varsa sorguyu başlat

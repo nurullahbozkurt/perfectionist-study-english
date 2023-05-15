@@ -54,7 +54,6 @@ const AppProvider = ({ children }: IProps) => {
                 contentRef.current?.classList.remove("ml-12");
                 contentRef.current?.classList.add("ml-12", "md:ml-60");
                 setIsSidebarOpen(true);
-                console.log('open');
             } else {
                 // mini sidebar
                 sidebarRef.current?.classList.add("-translate-x-48");
@@ -69,7 +68,6 @@ const AppProvider = ({ children }: IProps) => {
                 contentRef.current?.classList.remove("ml-12", "md:ml-60");
                 contentRef.current?.classList.add("ml-12");
                 setIsSidebarOpen(false);
-                console.log('close');
             }
         }
     }

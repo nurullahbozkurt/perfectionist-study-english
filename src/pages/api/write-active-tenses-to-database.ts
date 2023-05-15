@@ -52,7 +52,6 @@ export default async function handler(
               negativeInterrogativeSentence
             } = activeTense;
 
-            console.log("positiveSentence::", positiveSentence)
           
             const newActiveTense = new ActiveTenseModal({
               positiveSentence:  {

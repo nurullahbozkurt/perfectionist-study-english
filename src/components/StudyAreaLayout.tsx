@@ -36,8 +36,6 @@ const StudyAreaLayout = (props: Props) => {
     const [contentHeight, setContentHeight] = useState(0);
     const [scrollContainer, setScrollContainer] = useState<HTMLDivElement | null>(null);
 
-    console.log("POST", props.post)
-
 
     useEffect(() => {
         const handleResize = () => {

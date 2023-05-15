@@ -11,12 +11,9 @@ const api = new GhostContentAPI({
 
 export const getServerSideProps: GetServerSideProps = async (context: GetServerSidePropsContext) => {
     const slug = context.params?.slug as string
-    console.log("slug", slug)
     const post = await api.posts.read({ slug }, { include: "authors" });
     const posts = await api.posts.browse({ limit: 4, include: ['tags', 'authors'] });
 
-
-    console.log("post", post)
 
     const otherPosts = posts.filter((post) => post.slug !== slug)
 

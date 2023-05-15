@@ -21,8 +21,6 @@ const Layout = (props: Props) => {
         setIsSidebarOpen(false)
     }
 
-    console.log("isSidebarOpen", isSidebarOpen)
-
 
     return (
         <>
