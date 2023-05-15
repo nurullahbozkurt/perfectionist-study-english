@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Bu mektubu aldığında, ben gitmiş olacağım.",
+      "englishSentence": "By the time you get this letter, I will have left.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Öğle yemeğine kadar gelmiş olacak.",
+      "englishSentence": "She will have arrived by lunch.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Akşam 7'ye kadar bize katılmış olmayacaklar mı?",
+      "englishSentence": "Won't they have joined us by 7 pm?",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Jane, 30 yaşına geldiğinde, dünyayı dolaşmış olacak.",
+      "englishSentence": "Jane will have traveled the world by the time she turns 30.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Eve döndüğünde, çoktan akşam yemeği yemiş olacağım, ama tatlı için dışarı çıkabiliriz!",
+      "englishSentence": "When you get home I will have eaten dinner already, but we can go out for dessert!",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "New York'a taşındıklarında, 10 eyalette yaşamış olacaklar.",
+      "englishSentence": "They will have lived in 10 states once they move to New York.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Sınava çoktan girmiş olacak böylece çalışmasına gerek kalmayacak.",
+      "englishSentence": "He will have taken the exam already, so he won't need to study more.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Jack, bu metni Türkçeye çevirmiş olacak.",
+      "englishSentence": "Jack will have translated this text into Turkish.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Buraya geldiğinde, doğum günü hediyesini vermiş olacağım.",
+      "englishSentence": "When she gets here, I will have given her birthday present.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Yarışmanın sonucunu beklemış olacaklar.",
+      "englishSentence": "They will have waited for the result of the competition.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Yazarın makalesini eleştirmiş olacak.",
+      "englishSentence": "He will have critisized the article of the author.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Görevi Pazartesi 'ye kadar tamamlamış olacağım.",
+      "englishSentence": "I will have completed the assignment by Monday.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Babası gelmeden önce, evi temizlemiş olacak.",
+      "englishSentence": "She will have cleaned the house before her father comes.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Alex ihaleyi yarına kadar ibraz etmiş olacak.",
+      "englishSentence": "Alex will have submitted the tender by tomorrow.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Ben onu görmeye gitmeden önce, orayı terk etmiş olacak.",
+      "englishSentence": "Before I go to see her, she will have left the place.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Köprü yapımını Ocak'a kadar bitirmiş olacaklar.",
+      "englishSentence": "They will have finished making the bridge by January.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Kitabı yarın bitirmiş olacağım.",
+      "englishSentence": "I will have finished the book by tomorrow.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Angela yıl sonuna kadar yeni bir iş bulmuş olacak.",
+      "englishSentence": "Angela will have found a new job by the end of the year.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Projeyi önümüzdeki Pazartesi bitirmiş olacağız.",
+      "englishSentence": "We will have finished the project by next Monday.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Sinemaya gittiğimizde, film çoktan başlamış olacak.",
+      "englishSentence": "By the time we get to the cinema, the film will have already started.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Bu bölümün sonunda, size tüm zamanları öğretmiş olacağım.",
+      "englishSentence": "I will have taught you all the tenses by the end of this chapter.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Öğrenci bu yılın sonuna kadar derslerin yarısını kaçırmış olacak.",
+      "englishSentence": "The student will have missed half of the classes by the end of this year.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Dönem sonunda tüm kitapları okumuş olacak.",
+      "englishSentence": "She will have read all the books by the end of the semester.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Bir aydır birbirlerini görmemiş olacaklar.",
+      "englishSentence": "They will not have seen each other for a month.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "O zamana kadar büyükannemi ziyaret etmiş olacağım.",
+      "englishSentence": "I will have visited my grandma by then.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Bu sonbaharda iki yıl boyunca yeni evlerinde yaşamış olacaklar.",
+      "englishSentence": "They will have lived at their new home for two years this fall.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "O filmi zaten izlemiş olacağız.",
+      "englishSentence": "We will have seen that movie already.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Bu hafta sonu kutlamalarından sonra çok para harcamış olacağım.",
+      "englishSentence": "I will have spent a lot of money after this weekend's festivities.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Sen vardığınızda, bir otel bulmuş olacağım.",
+      "englishSentence": "By the time you arrive, I will have found a hotel.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Bu akşam bulaşıkları yıkmış olacağım.",
+      "englishSentence": "By this evening, I will have done the dishes.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Öğretmenin Pazartesi sabahına kadar ödevimizi notlandıracağını düşünüyor musun?",
+      "englishSentence": "Do you think the teacher will have marked our homework by Monday morning?",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Bu yılın sonunda yurtdışında altı farklı ülkeye seyahat etmiş olacaksın.",
+      "englishSentence": "By the end of this year abroad, you will have travelled to six different countries.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Buraya geldiğinde, ödevimi bitirmiş olacağım.",
+      "englishSentence": "When you get here, I will have finished my homework.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Son sınavımı geçtikten sonra, her sertifika düzeyini tamamlamış olacağım.",
+      "englishSentence": "Once I pass my last exam, I will have completed every level of certification.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Akşam yemeğine kadar ders kitabımda iki bölüm daha okumuş olacağım.",
+      "englishSentence": "I will have read two more chapters in my textbook by dinner.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Bugün çerezlerinizin geri kalanını satmayı bitirdiğinde, satışlarda 20 dolar kazanmış olacaksın.",
+      "englishSentence": "You will have made $20 in sales when you finish selling the rest of your cookies today.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Bunu okuduğunda, gitmiş olacağım.",
+      "englishSentence": "By the time you read this, I will have left.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Önümüzdeki hafta bu saatlerde raporunu bitirmiş olacaksın.",
+      "englishSentence": "You will have finished your report by this time next week.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Saat 17:00'de gelmiş olmayacaklar mı?",
+      "englishSentence": "Won't they have arrived by 5:00?",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Seni aldığımda, yemek yemiş olacak mısın?",
+      "englishSentence": "Will you have eaten when I pick you up?",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Vardığında, muhtemelen işe başlamış olacağım.",
+      "englishSentence": "When you arrive, I will probably have started the job.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Biz oraya vardığımızda, akşam yemeği yemiş olacaklar.",
+      "englishSentence": "They will have had dinner by the time we get there.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Bir yıl içinde, daha ciddi bir işe başlamış olacak.",
+      "englishSentence": "In a year's time he will have taken to some more serious sort of job.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Bu ayın sonuna kadar, işinin çoğunu yapmış olacaksın.",
+      "englishSentence": "You will have done a lot of your work by the end of this month.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Kasım'a kadar bütün yapraklar düşmüş olacak.",
+      "englishSentence": "By November all the leaves will have fallen.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Acele etmezse, o gelmeden gitmiş olmayacaklar.",
+      "englishSentence": "If he doesn't hurry, they won't have left before he comes.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Eminim yarın tüm bu kuralları unutmuş olacaksın.",
+      "englishSentence": "I am sure that tomorrow you will have forgotten all these rules.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Çabuk ol! Sen onu kurtarmadan önce, çocuk boğulmuş olacak.",
+      "englishSentence": "Be quick! The child will have drowned before you rescue it.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Edatların kullanımını öğrenmeden önce, yaşlanmış olacak.",
+      "englishSentence": "She will have grown old before she learns the use of prepositions.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Havacı, bu ayın sonundan önce, bin milden fazla uçmuş olacak.",
+      "englishSentence": "The airman will have flown more than a thousand miles, before the end of this month.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Beni saat dokuzdan sonra ararsan, doktorla konuşmuş olacağım.",
+      "englishSentence": "If you ring me up after nine o'clock, I will have spoken to the doctor.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Sının geçmeden önce, yirmi mil daha yol almış olacağız.",
+      "englishSentence": "We will have travelled twenty miles more before we cross the frontier.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Eminim yeni yolu Nisan'dan önce tamamlamış olacaklar.",
+      "englishSentence": "I am sure they will have completed the new road before April.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Tamara, Haziran'a kadar Lisans Derecesini tamamlamış olacak.",
+      "englishSentence": "Tamara will have completed her Bachelor's Degree by June.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Sheila, Eylül'de okula başladığında, burs kazanmış olacak.",
+      "englishSentence": "Sheila will have gotten the scholarship by the time she starts school in September.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Önümüzdeki aya kadar, umarım toplum merkezini görmüş olacaklar.",
+      "englishSentence": "By this time next month, I hope they will have seen the community center.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Uçağın kalktığında, mesajı almış olacak mı?",
+      "englishSentence": "Will he have received the message by the time your flight takes off?",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Sen sabah kalkana kadar, Dana gece vardiyasını bitirmiş olmayacak.",
+      "englishSentence": "Dana won't have finished the night shift by the time you get up in the morning.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Uçağa bindiğimizde, bagajları çoktan yüklemiş olacaklar.",
+      "englishSentence": "By the time we get on the plane, they will already have loaded the luggage.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "2025'e kadar, umarım araştırmacılar kansere bir çare bulmuş olacaklar.",
+      "englishSentence": "By 2025, I hope researchers will have found a cure for cancer.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Beni yarın on birde ara. Toplantı bitmiş olacağından daha fazlasını öğreneceğim.",
+      "englishSentence": "Call me tomorrow at eleven. I'll know more because the meeting will have finished.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Önümüzdeki yıl onu beş yıldır tanımış olacağım ve onun yeterince güvenilir olduğunu düşünüyorum.",
+      "englishSentence": "By next year I will have known him for five years and I think he is reliable enough.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Umarım önümüzdeki hafta bu saatlerde ehliyet sınavımı geçmiş olacağım ve sonunda bir araba alabileceğim.",
+      "englishSentence": "Hopefully, by this time next week I will have passed my driving test and I'll finally be able to get a car.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Ben geri dönmeden önce, kişilerin listesini tamamlamış olacak mısın?",
+      "englishSentence": "Will you have completed the list of people before I get back so that we can discuss it?",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Konferansa geç kalacağını biliyor ama gelmeden önce sona ermeyeceğini umuyor.",
+      "englishSentence": "He knows he'll be late for the conference but he hopes it will not have ended before he arrives.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Analistler, yeni ürün satışa çıktığında şirketin 10 milyon doların üzerinde harcama yapmış olacağını söylüyorlar.",
+      "englishSentence": "Analysts say that by the time the new product goes on sale the company will have spent over SIO million.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Önümüzdeki haftaya kadar tüm raporları yazmış olmayacağım.",
+      "englishSentence": "I won't have written all the reports by next week.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Biz geldiğimizde, çocuklar yatmış olacaklar.",
+      "englishSentence": "By the time we arrive, the kids will have gone to bed.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Bir saat içinde bitirmiş olacağım ve sonra bir film izleyebiliriz.",
+      "englishSentence": "I'll have finished in an hour and then we can watch a film.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Üç yıl içinde üniversiteden mezun olmuş olacağım.",
+      "englishSentence": "In three years' time, I'll have graduated from university.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Çocuklar, anneleri gelmeden önce, tüm pastayı yemiş olacaklar.",
+      "englishSentence": "The children will have eaten all the cake before their mother comes.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Yangın, itfaiye gelmeden tüm binayı yok etmiş olacak.",
+      "englishSentence": "The fire will have destroyed the whole building before the firemen arrive.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Hasta, onlar hastaneye ulaşmadan önce, ölmüş olacak.",
+      "englishSentence": "The patient will have died before they reach the hospital.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Sen onun yerine varmadan önce, o gitmiş olacak.",
+      "englishSentence": "He will have left before you reach his place.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Bu şehirden ayrılmadan önce, tüm borçlarımızı geri ödemiş olacağız.",
+      "englishSentence": "We will have paid back all our debts before we leave this city.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "İki hafta içinde sınava girmiş olacağız.",
+      "englishSentence": "In a fortnight's time we will have taken our exam.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Yarın akşama kadar, valizimi toparlamış olacağım.",
+      "englishSentence": "I will have packed my suitcase by tomorrow evening.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Yarın bu saatlere kadar, enjeksiyonlarımızı yaptırmış olacağız.",
+      "englishSentence": "By this time tomorrow, we will have had our injections.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Önümüzdeki yaz burada olacağım ama Tom gitmiş olacak.",
+      "englishSentence": "I'll still be here next summer but Tom will have left.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Bu işi yirmi dakika içinde bitirmiş olacağım.",
+      "englishSentence": "I will have finished this job in twenty minutes.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Önümüzdeki kış o tarlaya dört ev inşa etmiş olacaklar.",
+      "englishSentence": "By next winter they will have built four houses in that field.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Hindistan'a vardığımızda, dünyanın her yerine yelken açmış olacağız.",
+      "englishSentence": "When we reach India, we will have sailed all round the world.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Gittiği hızda, yirmi bir yaşına kadar bütün parasını harcamış olacaktır.",
+      "englishSentence": "At the rate he is going, he will have spent all his money by the time he is twenty-one.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Önümüzdeki yıl bu zamana kadar 250 dolar biriktirmiş olacağım.",
+      "englishSentence": "By this time next year, I will have saved 250 dollars.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Üniversite kursumun sonunda 1 , 200 derse gitmiş olacağım.",
+      "englishSentence": "By the end of my university course I will have attended 1,200 lectures.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Bu haftanın sonunda, hastalığım bana 1000 dolara mal olmuş olacak.",
+      "englishSentence": "By the end of this week my illnesswill have cost me 1000 dollars.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Okuldan ayrıldığında, ailesi eğitimi için 25,000 dolar harcamış olacak.",
+      "englishSentence": "By the time that he leaves school his parents will have spent 25,000 dollars on his education.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Dönemin sonunda, on iki cildin hepsini okumuş olacağım.",
+      "englishSentence": "By the end of the term I will have read all twelve volumes.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Geri döndüğünde, tüm ev işlerini bitirmiş olacağım.",
+      "englishSentence": "When you come back I will have finised all the housework.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Polis bu zamana kadar hırsızlığı duymuş olacakt.",
+      "englishSentence": "The police will have heard of the theft by this time.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Yıl sonuna kadar bütün bu şarabı içmiş olacağız.",
+      "englishSentence": "We will have drunk all that wine by the end of the year.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Crewe'ye ulaştığımızda, yolculuğun yarısını yapmış olacağız.",
+      "englishSentence": "When we reach Crewe, we will have done half of the journey.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Bu hızla, tüm şarap kadehlerini ay sonuna kadar kırmış olacaksın.",
+      "englishSentence": "At this rate, you will have broken all the wine glasses by the end of the month.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Bu gösteriden sonra, Hamlet'i yirmi iki kez görmüş olacağım.",
+      "englishSentence": "After this performance, I will have seen Hamlet twenty-two times.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Grev lideri, \"Gece yarısına kadar 500 adam greve çıkmış olmayacak\" dedi.",
+      "englishSentence": "The strike leader said, 'By midnight 500 men wont have come out on strike.'",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Şu anki oranında, ayın sonuna kadar bu kömürün tamamını yakmış olacaksın.",
+      "englishSentence": "At your present rate, you will have burnt all that coal by the end of the month.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Ay sonuna kadar, 5,000 kişi bu sergiyi görmüş olacak.",
+      "englishSentence": "By the end of the month, 5,000 people will have seen this exhibition.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Önümüzdeki Nisan'a kadar, 3,000 dolar gelir vergisi ödemiş olacağım.",
+      "englishSentence": "By next April I will have paid 3,000 dollars in income tax.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Oraya vardığında, konuşmalarını bitirmiş olacaklar.",
+      "englishSentence": "By the time you get there, they will have finished their speeches.",
+      "topic": "will have + v3"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Hazine sorumlusu, 'Yıl sonuna kadar. tüm borçlarımızı ödemiş olacağız.",
+      "englishSentence": "The treasurer said, 'By the end of the year, we will have paid off all our debts.'",
+      "topic": "will have + v3"
+    }
+  ]

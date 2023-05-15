@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Arabayı yıkıyordu.",
+      "englishSentence": "He was washing the car.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Kadın halıların üzerinde geziniyordu.",
+      "englishSentence": "The woman was hovering the carpets.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Yolu asfaltlıyorlardı.",
+      "englishSentence": "They were paving the road.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Valizleri topluyordu.",
+      "englishSentence": "She was packing the suitcases.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Erkek çocuklar inekleri sağıyorlardı.",
+      "englishSentence": "The boys were milking the cows.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Erkekler toprağı işliyorlardı.",
+      "englishSentence": "The men were cultivating the land.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Köprüyü tamir ediyorlardı.",
+      "englishSentence": "They were repairing the bridge.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Oraya gittiğimde, gazeteyi basıyorlardı.",
+      "englishSentence": "When I went there, they were printing the newspaper.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Zil çaldığında, soruları yanıtlıyorduk.",
+      "englishSentence": "When the bell rang, we were answering the questions.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Polis, hırsızı karakola götürüyordu.",
+      "englishSentence": "The policeman was taking the thief to the police station.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Müfettiş geldiğinde, adamı sorguluyorlardı.",
+      "englishSentence": "When the inspector came, they were questioning the man.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Dün duvarları boyuyorlardı.",
+      "englishSentence": "They were painting the walls yesterday.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Onları gördüğümde, eski evi yıkıyorlardı.",
+      "englishSentence": "They were pulling down the old house when I saw them.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Yağmur başladığında, mallan sevk ediyorlardı.",
+      "englishSentence": "They were shipping the goods when it started to rain.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Onlar çalışrken, birileri taşlar atıyordu.",
+      "englishSentence": "Somebody was throwing stones while they were working.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Siz buraya gelirken, herhangi biri sizi takip ediyor muydu?",
+      "englishSentence": "Was anybody following you while you were coming here?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Siz vardığınızda, onlar işi yapıyor muydu?",
+      "englishSentence": "Were they doing the work when you arrived?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Trafiği durdurmuyorlardı.",
+      "englishSentence": "They weren't holding up the traffic.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Kimse talimatlara uymuyordu.",
+      "englishSentence": "Nobody was following the instructions.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Kumaşı nasıl boyuyorlardı?",
+      "englishSentence": "How were they dyeing the cloth?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Arabaları nereye götürüyorlardı?",
+      "englishSentence": "Where were they taking the cars?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Ben geldiğimde, arabayı tamir etmiyorlardı.",
+      "englishSentence": "They weren't fixing the car when I arrived.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Biletleri kim satıyordu?",
+      "englishSentence": "Who was selling the tickets?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Ona yardım etmiyorlardı.",
+      "englishSentence": "They weren't helping him.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Alice paten yaparken, kendine zarar verdi.",
+      "englishSentence": "Alice hurt herself while she was skating.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "İşten eve yürürken, komşumla karşılaştım.",
+      "englishSentence": "I met my neighbor while I was walking home from work.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Sally, Park St.'de bisikletine binerken, bir arkadaşını gördü.",
+      "englishSentence": "Sally saw a friend while she was riding her bicycle along Park St.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Petrus okurken, uyuyakaldı.",
+      "englishSentence": "Peter fell asleep while he was studying.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Bob, birlikte dans ederlerken, Jane'in ayaklarına bastı.",
+      "englishSentence": "Bob stepped on Jane's feet while they were dancing together.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Tıraş olurken, kendimi kestim.",
+      "englishSentence": "I cut myself while I was shaving.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Bay ve Bayan Brown kurabiye pişirirlerken, kendilerini yaktılar.",
+      "englishSentence": "Mr. and Mrs. Brown burned themselves while they were baking cookies.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Tommy bir arkadaşının evinde uyurken, bir kabus gördü.",
+      "englishSentence": "Tommy had a nightmare while he was sleeping at a friend's house.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Biz vardığımızda, uyuyordu.",
+      "englishSentence": "He was sleeping when we arrived.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "İçeri girdiğinde, bir rapor yazıyordum.",
+      "englishSentence": "When you came in, I was writing a report.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Kaza olduğunda, tartışyorlardı.",
+      "englishSentence": "They were discussing when the accident happened.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Işıklar söndüğünde, radyomu tamir ediyordum.",
+      "englishSentence": "When the lights went out, I was mending my radio.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Araba bana çarptığında, karşıdan karşya geçiyordum.",
+      "englishSentence": "I was crossing the street when the car hit me.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Babam, biz televizyon izlerken, gazete okuyordu.",
+      "englishSentence": "My father was reading the newspaper while we were watching TV.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Selma okurken, Mehmet oynuyordu.",
+      "englishSentence": "While Selma was studying, Mehmet was playing.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Saat 9'da hala uyuyordu.",
+      "englishSentence": "He was still sleeping at 9 0'clock.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Telefon çaldığında, kahvaltı yapıyordum.",
+      "englishSentence": "I was having breakfast when the telephone rang.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Yağmur başladığında, tenis oynuyorlardı.",
+      "englishSentence": "They were playing tennis when the rain started.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Siz dışarıdayken, havadan bahsediyorduk.",
+      "englishSentence": "When you were outside, we were talking about the weather.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Öğretmen içeri girdiğinde, çok gürültü yapıyorduk.",
+      "englishSentence": "When the teacher came in, we were making a lot of noise.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Kadın bulaşıkları yıkarken, adam odayı süpürüyordu.",
+      "englishSentence": "The man was sweeping the room while the woman was washing the dishes.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Yağmur başladığında, ne yapıyordunuz?",
+      "englishSentence": "What were you doing when it started to rain?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Öğretmen içeri girdiğinde, hiçbir şey yapmıyordum.",
+      "englishSentence": "I wasn't doing anything when the teacher came.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Arabası bozulduğunda, arabayla Bolu'ya gidiyordu.",
+      "englishSentence": "He was driving to Bolu when his car broke down.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Avukat konuşurken, hakim ne yapıyordu?",
+      "englishSentence": "What was the judge doing while the lawyer was speaking?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Eve gelirken, eski bir arkadaşla karşılaştım.",
+      "englishSentence": "As I was coming home, I met an old friend.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Araba çocuğa çarptığında, yola bakıyor muydun?",
+      "englishSentence": "Were you looking at the road when the car hit the boy?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Postacı, tam ben evden çıkarken, geldi.",
+      "englishSentence": "The postman came just as I was leaving home.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Okula yürürken, onu gördüm.",
+      "englishSentence": "I saw her while I was walking to school.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Dün gece saat dokuzda bir kitap okuyordum.",
+      "englishSentence": "At nine o'clock last night I was reading a book.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Onu gördüğümde, balık ve patates kızartması yiyordu.",
+      "englishSentence": "When I saw him, he was eating fish and chips.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Babam geldiğinde, sigara içiyordum.",
+      "englishSentence": "When my father came in, I was smoking a cigarette.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Tren hareket ettiğinde, trene biniyordu.",
+      "englishSentence": "He was getting on the train when the train moved.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Adam merdivenlerden yukarı çıkarken, ışıklar söndü.",
+      "englishSentence": "As the man was walking up the stairs, the lights went out.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Savaş başladığında, Avusturya'da yaşıyorlardı.",
+      "englishSentence": "When the war began, they were living in Austria.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Kardeşimi gördüğümde, metnini düzenliyordu.",
+      "englishSentence": "When I saw my brother, he was editing his text.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Otobüsten inerken, yere düştüm.",
+      "englishSentence": "I fell down as I was getting off the bus.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Onunla ilk tanıştığımda, kocaman garip bir şapka takıyordu.",
+      "englishSentence": "He was wearing a big strange hat when I first met him.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Ben duvarları boyarken, O kapıları ve pencereleri boyuyordu.",
+      "englishSentence": "He was painting the doors and the windows while I was painting the walls.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Tam ahizeyi kaldırırken, telefon çaldı.",
+      "englishSentence": "Just as I was picking up the receiver, the telephone rang.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Almanya'dayken, bir kömür madeninde çalışıyordum.",
+      "englishSentence": "When I was in Germany, I was working in a coal mine.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Öğretmen konuşurken, O dinliyor muydu?",
+      "englishSentence": "Was he listening while the teacher was talking?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Fırtına çıktığında, bahçeyi suluyordum.",
+      "englishSentence": "When the storm broke, I was watering the garden.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Dün seni gördüğümde, ne yapıyordun?",
+      "englishSentence": "What were you doing when I saw you yesterday?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Geldiklerinde, mışıl mışıl uyuyordu.",
+      "englishSentence": "He was sleeping soundly when they arrived.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Sen TV izlerken, ben ödevimi yapıyordum.",
+      "englishSentence": "While you were watching TV, I was doing my homework.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "O konuşurken, ben kitabı okumayı bitirdim.",
+      "englishSentence": "While he was talking, I finished reading the book.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Sürücü, polisi görünce, telefonla konuşuyordu.",
+      "englishSentence": "When the driver saw the policeman, he was talking on the phone.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Köpek havlamaya başladığında, rüya görüyordum.",
+      "englishSentence": "I was dreaming when the dog started to bark.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Onlar kahvaltı ederken, O yataktaydı.",
+      "englishSentence": "He was in bed while they were having breakfast.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Ankara'ya giderken, lastiğimiz patladı.",
+      "englishSentence": "We had a flat tire while we were driving to Ankara.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Dün gece seni gördüğümde, nereye gidiyordun?",
+      "englishSentence": "Where were you going when I saw you last night?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Evden çıktığımda, yağmur yağıyordu.",
+      "englishSentence": "It was raining when I left home.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Sen aradığında, uyuyordum.",
+      "englishSentence": "When you called, I was sleeping.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Patlamayı duyduğumda, radyoyu dinliyordum.",
+      "englishSentence": "I was listening to the radio when I heard the explosion.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Uçak inerken, düştü.",
+      "englishSentence": "The plane crashed while it was landing.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Yakın arkadaşlarımla evde kalıyordum.",
+      "englishSentence": "I was staying at home with my close friends.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Fred her gün sınıfa gelmiyordu.",
+      "englishSentence": "Fred wasn't coming to class every day.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Televizyonda en sevdiği dizi filmini izliyordu.",
+      "englishSentence": "She was watching her favorite series film on TV.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Arkadaşımı otobüs durağında bekliyordum.",
+      "englishSentence": "I was waiting for my friend at the bus stop.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Jane restoranın önünde duruyordu.",
+      "englishSentence": "Jane was standing in front of the restaurant.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Kar yağmaya başladığında, etrafta dolaşıyorduk.",
+      "englishSentence": "When it started to snow, we were walking around.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Öğrenciler korkunç bir gürültü duyduklarında, kütüphanede ders çalışyorlardı.",
+      "englishSentence": "Students were studying in the library when they heard an awful noise.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Mary ve ben alışveriş merkezinde alışveriş yapıyorduk.",
+      "englishSentence": "Mary and I were doing shopping at mall.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Yorumları gözden geçiriyordum.",
+      "englishSentence": "I was reviewing the comments.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Tatilimiz için bir oda ayırıyordum.",
+      "englishSentence": "I was booking a room for our holiday.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Kocam gece yarısından önce eve gelmiyordu.",
+      "englishSentence": "My husband wasn 't coming home before midnight.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Çocuklar resim çiziyorlardı.",
+      "englishSentence": "The children were drawing pictures.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Proje hakkında düşünüyorlardı.",
+      "englishSentence": "They were thinking about the project.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Mary ile dans ediyordu.",
+      "englishSentence": "He was dance) with Mary.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Okula otobüsle gidiyordu.",
+      "englishSentence": "She was taking the bus to school.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Kocası çocuklara bağırmıyordu.",
+      "englishSentence": "Her husband wasn't shouting at the children.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Sınav kâğıtlarındaki hataları düzeltiyorduk.",
+      "englishSentence": "We were correcting our mistakes on the exam papers.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Kardeşim masrafları hesaplıyordu.",
+      "englishSentence": "My brother was calcu lating the expenses.",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Karısı misafirleri için yemek mi pişiriyordu?",
+      "englishSentence": "Was his wife cooking for her guests?",
+      "topic": "was were + ving"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "O sırada koltukta dinleniyor muydunuz?",
+      "englishSentence": "Were you resting on arm-chair at that time?",
+      "topic": "was were + ving"
+    }
+  ]

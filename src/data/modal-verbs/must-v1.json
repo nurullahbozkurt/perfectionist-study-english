@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I MUST speak.",
+                "turkish": "Konuşmalıyım."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I MUSTN’T speak.",
+                "turkish": "Konuşmamalıyım."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MUST I speak?",
+                "turkish": "Konuşmalı mıyım?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MUSTN’T I speak?",
+                "turkish": "Konuşmamalı mıyım?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You MUST ask.",
+                "turkish": "Sormalısın."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You MUSTN'T ask.",
+                "turkish": "Sormamalısın."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MUST you ask?",
+                "turkish": "Sormalı mısın?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MUSTN'T you ask?",
+                "turkish": "Sormamalı mısın?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He MUST tell.",
+                "turkish": "Anlatmalı."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He MUSTN'T tell.",
+                "turkish": "Anlatmamalı."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MUST he tell?",
+                "turkish": "Anlatmalı mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MUSTN'T he tell?",
+                "turkish": "Anlatmamalı mı?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She MUST listen.",
+                "turkish": "Dinlemeli."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She MUSTN'T listen.",
+                "turkish": "Dinlememeli."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MUST she listen?",
+                "turkish": "Dinlemeli mi?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MUSTN'T she listen?",
+                "turkish": "Dinlememeli mi?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It MUST bark.",
+                "turkish": "Havlamalı."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It MUSTN'T bark.",
+                "turkish": "Havlamamalı."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MUST it bark?",
+                "turkish": "Havlamalı mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MUSTN'T it bark?",
+                "turkish": "Havlamamalı mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We MUST teach.",
+                "turkish": "Öğretmeliyiz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We MUSTN'T teach.",
+                "turkish": "Öğretmemeliyiz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MUST we teach?",
+                "turkish": "Öğretmeli miyiz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MUSTN'T we teach?",
+                "turkish": "Öğretmemeli miyiz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You MUST learn.",
+                "turkish": "Öğrenmelisiniz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You MUSTN'T learn.",
+                "turkish": "Öğrenmemelisiniz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MUST you learn?",
+                "turkish": "Öğrenmeli misiniz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MUSTN'T you learn?",
+                "turkish": "Öğrenmemelisiniz mi?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They MUST work.",
+                "turkish": "Çalışmalılar."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They MUSTN'T work.",
+                "turkish": "Çalışmamalılar."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MUST they work?",
+                "turkish": "Çalışmalılar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MUSTN'T they work?",
+                "turkish": "Çalışmamalılar mı?"
+            }
+        ]
+    }
+]

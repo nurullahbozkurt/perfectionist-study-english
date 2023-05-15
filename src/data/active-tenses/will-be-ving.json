@@ -1,0 +1,209 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I WILL BE speakING.",
+                "turkish": "Konuşuyor olacağım"
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I WON'T BE speakING.",
+                "turkish": "Konuşmuyor olmayacağım"
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WILL I BE speakING?",
+                "turkish": "Konuşuyor olacak mıyım?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WON'T I BE speakING?",
+                "turkish": "Konuşmuyor olmayacak mıyım?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You WILL BE askING.",
+                "turkish": "Soruyor olacaksın."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You WON'T BE askING.",
+                "turkish": "Sormuyor olmayacaksın."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WILL YOU BE askING?",
+                "turkish": "Soruyor olacak mısın?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WON'T YOU BE askING?",
+                "turkish": "Sormuyor olmayacak mısın?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He WILL BE tellING.",
+                "turkish": "Anlatıyor olacak."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He WON'T BE tellING.",
+                "turkish": "Anlatmıyor olmayacak."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WILL HE BE tellING?",
+                "turkish": "Anlatıyor olacak mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WON'T HE BE tellING?",
+                "turkish": "Anlatmıyor olmayacak mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "She WILL BE listenING.",
+                "turkish": "Dinliyor olacak."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She WON'T BE listenING.",
+                "turkish": "Dinlemiyor olmayacak."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WILL SHE BE listenING?",
+                "turkish": "Dinliyor olacak mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WON'T SHE BE listenING?",
+                "turkish": "Dinlemiyor olmayacak mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It WILL BE barkING.",
+                "turkish": "Havlıyor olacak."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It WON'T BE barkING.",
+                "turkish": "Havlamıyor olmayacak."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WILL IT BE barkING?",
+                "turkish": "Havlıyor olacak mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WON'T IT BE barkING?",
+                "turkish": "Havlamıyor olmayacak mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We WILL BE teachING.",
+                "turkish": "Öğretiyor olacağız."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We WON'T BE teachING.",
+                "turkish": "Öğretmiyor olmayacağız."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WILL WE BE teachING?",
+                "turkish": "Öğretiyor olacak mıyız?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WON'T WE BE teachING?",
+                "turkish": "Öğretmiyor olmayacak mıyız?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You WILL BE learnING.",
+                "turkish": "Öğreniyor olacaksınız."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You WON'T BE learnING.",
+                "turkish": "Öğrenmiyor olmayacaksınız."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WILL YOU BE learnING?",
+                "turkish": "Öğreniyor olacak mısınız?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WON'T YOU BE learnING?",
+                "turkish": "Öğrenmiyor olmayacak mısınız?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They WILL BE workING.",
+                "turkish": "Çalışıyor olacaklar."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They WON'T BE workING.",
+                "turkish": "Çalışmıyor olmayacaklar."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WILL THEY BE workING?",
+                "turkish": "Çalışıyor olacaklar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WON'T THEY BE workING?",
+                "turkish": "Çalışmıyor olmayacaklar mı?"
+            }]
+    }
+]

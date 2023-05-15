@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "İlk konserlerini verene kadar, altı aydır ders alıyorlardı.",
+      "englishSentence": "They had been taking lessons for six months before they performed their first concert.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Temmuz ayında tatile çıkmayı planlıyorduk, ancak Ağustos'ta daha iyi bir kiralık yer bulduk.",
+      "englishSentence": "We had been planning to go on vacation in July, but we found a better rental in August.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Fransa'da bir üniversiteye gitmeye karar vermeden önce, uzun süredir Fransızca öğreniyor muydun?",
+      "englishSentence": "Had you been studying French a long time before you decided to attend a university in France?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Taksi gelmeden önce, ne zamandır onu bekliyordun?",
+      "englishSentence": "How long had you been waiting for the taxi before it arrived?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Jane anahtarını bulduğunda, kapıyı beş dakikadır açmaya çalışıyorduk.",
+      "englishSentence": "We had been trying to open the door for five minutes when Jane found her key.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Birkaç saattir çok yağmur yağıyordu ve sokaklar çok ıslaktı.",
+      "englishSentence": "It had been raining hard for several hours and the streets were very wet.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "İçeri girdiğinde, arkadaşları, polisi aramayı düşünüyorlardı.",
+      "englishSentence": "Her friends had been thinking of calling the police when she walked in.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Yeni teknemi almadan önce, en yeni modelleri görmek için her gün tekne şovuna gidiyordum.",
+      "englishSentence": "Before I bought my new boat, I had been going to the boat show every day to see the newest models.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Gösteri başlamadan önce, Whitney ile konuşuyordun.",
+      "englishSentence": "You had been talking to Whitney before the show began.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Benzin fiyatı yükselmeden önce, elektrikli bir araba almayı düşünüyorduk.",
+      "englishSentence": "We had been thinking about buying an electric car even before the price of gas went up.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Kapanmadan önce, yirmi yıldır o parkurda araba yarışı yapıyorlardı.",
+      "englishSentence": "They had been racing cars at that track for twenty years before it closed.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Kaza olmadan önce, bütün öğleden sonra çok hızlı araba kullanıyordu.",
+      "englishSentence": "He had been driving too fast all afternoon before the accident happened.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Ölmeden önce, sığınağa yıllardır gizli bağışlar yapıyordu.",
+      "englishSentence": "Before she died, she had been making secret donations to the shelter for years.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Bir şaraphane açmaya karar vermeden önce, on iki yıldır üzüm yetiştiriyorduk.",
+      "englishSentence": "We had been growing grapes for twelve years before we decided to open a winery.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Koç, Tony'i bandajlayana kadar, Tony'nin dizi ağrıyordu.",
+      "englishSentence": "Tony's knee had been aching until the coach bandaged it.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Sea, kendisine yardım etmesi için bir muhasebeci bulmadan önce iyi mali kayıt tutmuyordu.",
+      "englishSentence": "Sean hadn't been keeping good financial records before he got an accountant to help him.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Kurabiye dükkanının sahibi, bina yanmadan önce iki fırın daha eklemeyi planlıyordu.",
+      "englishSentence": "The owner of the cookie shop had been planning to add two more ovens before the building burned.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Eyaletin kuzey kısmına taşnmaya karar vermeden önce, Florida Keys'de yaşıyordum.",
+      "englishSentence": "I had been living in the Florida Keys before I decided to move to the northern part of the state.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Kuşlar şeftalileri yemeden önce, onlar ağaçlarda asılı duruyordu.",
+      "englishSentence": "The peaches had been hanging on the trees for long before the birds ate them.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Göl, 1902'den beri şehre su sağlıyordu.",
+      "englishSentence": "The lake had been supplying water for the town since 1902.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Crystal, boyası bitmeden önce, duvarları boyuyordu.",
+      "englishSentence": "Crystal had been painting the walls before she ran out of paint.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Koloninin bağımsız çiftçileri, İngiliz yönetimi ve vergilendirilmesinden ötürü kendilerini kırgın hissediyorlardı.",
+      "englishSentence": "The colony's independent farmers had been feeling resentful about English rule and taxation.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Bayan Esposito, Vincent gelip en sevdiği yemekleri isteyene kadar çok fazla yemek yapmıyordu.",
+      "englishSentence": "Mrs. Esposito hadn't been cooking very much until Vincent arrived and asked for his favorite dishes.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Nigel bir kardeşliğe katılana kadar, her Cumartesi babasını arıyordu.",
+      "englishSentence": "Until Nigel joined a fraternity, he had been calling his father every Saturday.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "At bacağını kırmadan önce, genellikle her ay iki yarış koşuyordu.",
+      "englishSentence": "Before the horse broke his leg, he had usually been running two races each month.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Yeni kuyuyu kazmadan önce, köylüler kilometrelerce su taşıyorlardı.",
+      "englishSentence": "The villagers had been carrying water for miles before they dug the new well.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Jimnastik takımı saat dokuzda hala sıkı çalışıyordu.",
+      "englishSentence": "The gymnastics team had still been practicing hard at nine o'clock p.m.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Bayan Stein saat altıda uyandığında, kocası bir saattir inekleri sağıyordu.",
+      "englishSentence": "When Mrs.Stein awoke at six o'clock, her husband had been milking the cows for an hour.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "O, kediye bir tırmalama tahtası almadan önce, kedi her zaman mobilyalarda delikler çiziyordu.",
+      "englishSentence": "The cat had always been scratching holes in the furniture before he bought him a scratching board.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Natalie, sahilde mücevher yapmak için küçük deniz kabukları buluyordu.",
+      "englishSentence": "Natalie had often been finding small shells make jewelry on the beach.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Dadı çocukları kütüphaneye götürmeden önce, onlar nadiren kitap okuyorlardı.",
+      "englishSentence": "The children had seldom been reading books before the nanny began taking them to the library.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Trina, ailesi dağlara taşınmadan önce hiç kayak yapmıyordu.",
+      "englishSentence": "Trina had never been skiing before her family moved to the mountains.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Jane mutlu bir şekilde bir erkek bebek için oda hazırlıyordu ama bebek bir kızdı.",
+      "englishSentence": "Jane had happily been preparing a room for a baby boy but the baby was a girl.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Posta taşıyıcımız emekli olmadan önce, 30 yılı aşkın süredir postalarımızı sadakatle getiriyordu.",
+      "englishSentence": "Our mail carrier had faithfully been bringing our mail for over 30 years before he retired.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Köpek o yaz her gece ısrarla havlıyordu.",
+      "englishSentence": "The dog had persistently been barking each night that summer.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Daha çok yapraklı yeşil sebzeler yemeye çalışyordu.",
+      "englishSentence": "She had been trying to eat more leafy green vegetables.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Annem mutfağa girdiğinde, karton kutudan süt içiyordu.",
+      "englishSentence": "He had been drinking milk out the carton when Mom walked into the kitchen.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Terfi aldığımda, beş yıldır şirkette çalışıyordum.",
+      "englishSentence": "I had been working at the company for five years when I got the promotion.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Martha bacağını kırmadan önce, günde üç mil yürüyordu.",
+      "englishSentence": "Martha had been walking three miles a day before she broke her leg.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Program 1945ten beri iyi işliyordu.",
+      "englishSentence": "The program had been working well since 1945.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Cathy, yerel orkestra ile solo yaptığında, 35 yıldır piyano çalıyordu.",
+      "englishSentence": "Cathy had been playing the piano for 35 years when did a solo with the local orchestra.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Balkona çıkmadan önce, penceresine beş dakikadır taş atıyordu.",
+      "englishSentence": "He had been throwing rocks at her window for five minutes before she came out on the balcony.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Ben, Rachel eve geldiğinde, üç saattir çalışıyordu.",
+      "englishSentence": "Ben had been working for three hours when Rachel came home.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Sam bir şemsiye bulduğunda, on dakikadır yağmur yağıyordu.",
+      "englishSentence": "By the time Sam found an umbrella, it had been raining for ten minutes.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Takılıp düştüğümde, köpekleri besliyordum.",
+      "englishSentence": "I had been feeding the dogs when I tripped and fell.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Sen onu bulduğunda, o saatlerdir içiyor muydu?",
+      "englishSentence": "Had he been drinking for hours when you found him?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Müdür, Jim'i kovmadan önce, şikayet ediyor muydu?",
+      "englishSentence": "Had the manager been complaining about Jim before she fired him?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "O zamandan önce saatlerce kar yağmıyor muydu?",
+      "englishSentence": "Hadn't the snow been falling for hours before then?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Parmağını kestiğinde, ne yapıyordun?",
+      "englishSentence": "What had you been doing when you cut your finger?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Güç kesildiğinde, hangi faks mesajını göndermeye çalışıyordun?",
+      "englishSentence": "Which fax message had you been trying to send when the power went off?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Bir alıcı bulmadan önce, arabamı altı aydır satmaya çalışıyordum.",
+      "englishSentence": "I'd been trying to sell my car for six months before I found a buyer.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Sheila kilo vermeye başladığında, uzun süredir diyet yapmıyordu.",
+      "englishSentence": "Sheila had not been dieting for long when she began to lose weight.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Yangın, itfaiyeciler gelmeden önce, ne kadar zamandır yanıyordu?",
+      "englishSentence": "How long had the fire been burning before the firefighters arrived?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Mark kapıyı çaldığında, Louise saatlerdir pratik yapıyordu.",
+      "englishSentence": "Louise had been practising for hours when Mark knocked on the door.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "James'le tanıştığında, bir yıldır o şirkette çalışıyordu.",
+      "englishSentence": "She had been working at that company for a year when she met James.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Sonunda evi bulduğumda, saatlerdir yürüyordum.",
+      "englishSentence": "I'd been walking for hours when I finally found the house.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Ayrılmak zorunda olduğumuzda, üç aydır Berlin'de yaşıyorduk.",
+      "englishSentence": "We'd been living in Berlin for three months when we had to leave.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Nihayet New York'a varmadan önce, sekiz saattir uçuyorlardı.",
+      "englishSentence": "They had been flying for eight hours before they finally reached New York.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "İşler nihayet başlamadan önce, birkaç yıldır mücadele ediyorduk.",
+      "englishSentence": "We had been struggling for several years before the business finally took off.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Bütün gün yemek yiyor olduğu için aç değildi.",
+      "englishSentence": "He wasn't hungry because had had been eating all day long.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Bütün gece parti yapıyordu, bu yüzden sınıfta uyuyakaldı.",
+      "englishSentence": "He had been partying all night, so he fell asleep in class.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "O gelmeden önc,e bir saatten fazla süredir orada oturuyordun.",
+      "englishSentence": "You had been sitting there for more than an hour before he arrived.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Janet'i kovduklarında, Janet neredeyse bir yıldır orada çalışıyordu.",
+      "englishSentence": "Janet had been working there for almost a year when they fired her.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Dışarıda sıcakta çalışıyor olduğumuz için susuzduk.",
+      "englishSentence": "We were thirsty because we had been working out outside in the heat.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Lüke, günde üç kez pizza yiyor olduğu için kilo aldı.",
+      "englishSentence": "Luke gained weight because he had been eating pizza three times a day.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "George haftalardır evini boyuyordu ama sonunda pes etti.",
+      "englishSentence": "George had been painting his house for weeks, but he finally gave up.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Çalışıyordum ve zihnimi temizlemek için bir gezintiye çıkmaya karar verdim.",
+      "englishSentence": "I had been studying and decided to take a stroll to clear my mind.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Saatlerdir arabayı temizliyorduk, bu yüzden durduk ve bir şeyler içtik.",
+      "englishSentence": "We had been cleaning the car for hours, so we stopped and had a drink.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Motorda bir ses duyduğumda, yaklaşık bir saattir araba kullanıyordum.",
+      "englishSentence": "I had been driving for about an hour when I heard a noise in the engine.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Deprem olduğunda, Tokyo'da İngilizce öğretiyordum.",
+      "englishSentence": "I had been teaching English in Tokyo when the earthquake hit.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Washington, D.C.'deki işe girmeden önce, New York'ta yaşıyorlardı.",
+      "englishSentence": "They'd been living in New York before she got the job in Washington, D.C.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Annesinin hastalığını duyduğunda, Avrupa'yı dolaşıyordu.",
+      "englishSentence": "She had been traveling around Europe when she heard about her mother's illness.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Emekli olduğumda, hayatımın yarısından fazlasını çiftlikte çalışyordum.",
+      "englishSentence": "I had been working on the ranch for more than half my life when I retired.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Ülkeye taşındığında, dört yıldır Japonca çalışyordu.",
+      "englishSentence": "She had been studying Japanese for four years by the time she moved to the country.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Öğretmen geri geldiğinde, yarım saattir okuyorduk.",
+      "englishSentence": "When the teacher came back, we had been reading for half an hour.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Yaklaşık bir saattir koşuyor olduğu için, çok terliydi.",
+      "englishSentence": "She was very sweaty because she had been running for nearly an hour.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Bütün hafta çok çalışıyor olduğum için, çocuklarla oynayacak enerjim yoktu.",
+      "englishSentence": "I didn't have any energy to play with the kids because I had been working so hard all the week.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Bu işe girmeden önce, roman yazmıyor muydun?",
+      "englishSentence": "Hadn't you been writing a novel before you got this job?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "O sırada kendini iyi hissetmiyor muydu?",
+      "englishSentence": "Had he not been feeling well at the time?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Bol paran vardı, öyleyse neden faturalarını ödemiyordun?",
+      "englishSentence": "You had plenty of money, so why hadn't you been paying your bills?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Amerika Birleşik Devletleri'ne gitmeden önce, bir yıldır bankada çalışıyordu.",
+      "englishSentence": "He had been working at the bank for a year before he left for the United States.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Öğretmen geldiğinde, birkaç dakikadır koşuyorlar mıydı?",
+      "englishSentence": "Had they been running for several minutes when the teacher came?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Saat 3'ten beri İngilizce mi öğreniyordun?",
+      "englishSentence": "Had you been studying English since 3 0'clock?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Sarah bizi aramadan önce, 40 dakikadır onu mu bekliyorduk?",
+      "englishSentence": "Had we been waiting for Sarah for 40 minutes before she called us?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Kızı bütün gün herhangi bir şey yiyor muydu?",
+      "englishSentence": "Had her daughter been eating anything all day?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Bütün gün çalışıyor muydu?",
+      "englishSentence": "Had she been working all day?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Sen onu rahatsız edene kadar, kitap okuyor muydu?",
+      "englishSentence": "Had he been reading a book before you bothered him?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Evime geldiğinde, herhangi bir yemek pişiriyor muydu?",
+      "englishSentence": "Had he been cooking any meal when she came to his home?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Annen seni uyarana kadar, bütün gün İngilizce mi çalışyordun?",
+      "englishSentence": "Had you been studying English all day before your mother warned you?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Oyuncu sabahtan beri çalışıyor muydu?",
+      "englishSentence": "Had the actor been working since morning?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Zil çaldığında öğretmen onlara bir video mı gösteriyordu?",
+      "englishSentence": "Had the teacher been showing them a video when the bell rang?",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Kocası eve geldiğinde, kadın saatlerdir evi temizliyordu.",
+      "englishSentence": "When her husband came home, the woman had been cleaning the house for hours.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Yer karla kaplıydı. Birkaç saattir yoğun kar yağıyordu.",
+      "englishSentence": "The ground was covered with snow. It had been snowing heavy for several hours.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Çocukluktan beri birlikte çalışıyorlardı.",
+      "englishSentence": "They had been working together since childhood.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Thomas bütün gün telefonu tamir etmeye çalışyordu.",
+      "englishSentence": "Thomas had been trying to repair the phone the whole day.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Bütün gün çalışıyorduk, bu yüzden yorgunduk.",
+      "englishSentence": "We had been studying all day so we tired.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Eve döndüğümde, Helen dört saattir aynı müziği dinliyordu.",
+      "englishSentence": "Helen had been listening the same music for four hours when I came back home.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Daniel uyumadan önce, saatlerdir televizyon izliyordu.",
+      "englishSentence": "Daniel had been watching TV for hours before he slept.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Bütün öğleden sonra sahilde yürüyordun.",
+      "englishSentence": "You had been walking all afternoon on the beach.",
+      "topic": "had been + ving"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Bütün gün çalışmıyordu, bu yüzden enerjikti.",
+      "englishSentence": "She hadn't been working all day so she was energetic.",
+      "topic": "had been + ving"
+    }
+  ]

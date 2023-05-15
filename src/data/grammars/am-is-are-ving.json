@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Odaları temizliyorlar.",
+      "englishSentence": "They are cleaning the rooms.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Mary pencereleri yıkıyor.",
+      "englishSentence": "Mary is washing the windows.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Masaların tozunu alıyor.",
+      "englishSentence": "She's dusting the tables.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Duvarları boyuyorlar.",
+      "englishSentence": "They're painting the walls.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Anne bulaşıkları yıkıyor.",
+      "englishSentence": "The mother is washing the dishes.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Kız halıları süpürüyor.",
+      "englishSentence": "The girl is sweeping the carpets.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Oğlan sandalyeleri taşıyor.",
+      "englishSentence": "The boy is carrying the chairs.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Adam televizyonu tamir ediyor.",
+      "englishSentence": "The man is repairing the TV.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Biri bizi takip ediyor.",
+      "englishSentence": "Somebody is following us.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Yeni bir asma köprü inşa ediyorlar.",
+      "englishSentence": "They are building a new suspension bridge.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Kamyon arabayı çekiyor.",
+      "englishSentence": "The lorry is towing the car.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Bu öğleden sonra malları gönderiyorlar.",
+      "englishSentence": "They are sending the goods this aftemoon.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Öğretmen yeni kelimeleri açıklıyor.",
+      "englishSentence": "The teacher is explaining the new words.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Müdür belgeleri şimdi imzalıyor.",
+      "englishSentence": "The director is signing the documents now.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Şu anda yolu asfaltlamıyorlar.",
+      "englishSentence": "They are not paving the way now.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Artık ona kimse bakmıyor.",
+      "englishSentence": "Nobody is looking after him now.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Raporları şimdi mi yazıyorlar?",
+      "englishSentence": "Are they typing the reports now?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Hala onlara yardım ediyor mu?",
+      "englishSentence": "Is he still helping them?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Ne getiriyorlar?",
+      "englishSentence": "What are they bringing?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Yemek yapıyor.",
+      "englishSentence": "She is cooking.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Trafiği polis yönlendiriyor.",
+      "englishSentence": "The policeman is directing the traffic.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Bir hikaye okuyorum.",
+      "englishSentence": "I am reading a story.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Çay içiyoruz.",
+      "englishSentence": "We are drinking tea.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Bazı soruları yanıtlıyor.",
+      "englishSentence": "He is answering some questions.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Postacı mektupları teslim ediyor.",
+      "englishSentence": "The postman is delivering the letters.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Daktilocu bir şeyler yazıyor.",
+      "englishSentence": "The typist is typing something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Öğretmen tahtaya bir cümle yazıyor.",
+      "englishSentence": "The teacher is writing a sentence on the board.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Valizleri taşıyorlar.",
+      "englishSentence": "They are carrying the suitcases.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "TV izliyor.",
+      "englishSentence": "She is watching TV.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Güneş parlıyor.",
+      "englishSentence": "The sun is shining.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Radyoyu dinliyorum.",
+      "englishSentence": "I am listening to the radio.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Okuyorlar.",
+      "englishSentence": "They are studying.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Köpek havlıyor.",
+      "englishSentence": "The dog is barking.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Rehber, turistleri Sultanahmet Camii'ne götürüyor.",
+      "englishSentence": "The guide is taking the tourists to the Blue Mosque.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Ayakkabılarını cilalıyor.",
+      "englishSentence": "He is polishing his shoes.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Futbol oynuyorlar.",
+      "englishSentence": "They are playing football.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Sekreter telefona cevap veriyor.",
+      "englishSentence": "The secretary is answering the telephone.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Ellerini yıkıyor.",
+      "englishSentence": "He is washing his hands.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Otobüs bekliyoruz.",
+      "englishSentence": "We are waiting for a bus.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Anahtarı tamir ediyor.",
+      "englishSentence": "He is repairing the switch.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Çok çalışıyorlar.",
+      "englishSentence": "They are working hard.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Telefonda konuşuyor.",
+      "englishSentence": "She is talking on the phone.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Öğrenciler öğretmeni mi dinliyor yoksa kitaplarını mı okuyorlar?",
+      "englishSentence": "Are the students listening to the teacher or reading their books?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Masaları veya sandalyeleri taşıyorlar mı?",
+      "englishSentence": "Are they carrying the tables or the chairs?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Çay mı kahve mi içiyorlar?",
+      "englishSentence": "Are they drinking tea or coffee?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Konuşuyorlar mı yoksa düşünüyorlar mı?",
+      "englishSentence": "Are they talking or thinking?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Otobüs mü yoksa minibüs mü bekliyorlar?",
+      "englishSentence": "Are they waiting for a bus or a mini-bus?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "TV mi izliyorlar yoksa uyuyorlar mı?",
+      "englishSentence": "Are they watching TV or sleeping?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Bir gazete mi yoksa dergi mi satın alıyorsun?",
+      "englishSentence": "Are you buying a newspaper or a magazine?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Kapıyı mı yoksa pencereyi mi kapatıyorsun?",
+      "englishSentence": "Are you closing the door or the window?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Elma mı yoksa portakal mı yiyorsun?",
+      "englishSentence": "Are you eating an apple or an orange?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Dolma kalemini mi yoksa kurşun kalemini mi arıyorsun?",
+      "englishSentence": "Are you looking for your pen or your pencil?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Kitaplarını mı yoksa defterlerini mi açıyorsun?",
+      "englishSentence": "Are you opening your books or your notebooks?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Basketbol mu yoksa voleybol mu oynuyorsunuz?",
+      "englishSentence": "Are you playing basketball or volleyball?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Kitap mı yoksa gazete mi okuyorsunuz?",
+      "englishSentence": "Are you reading a book or a newspaper?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Ahmet öğle mi arıyorsun akşam yemeği mi yiyor?",
+      "englishSentence": "Is Ahmet having lunch or dinner?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Betty dans mı ediyor yoksa şarkı mı söylüyor?",
+      "englishSentence": "Is Betty dancing or singing?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Bob Arapça mı yoksa Türkçe mi öğreniyor?",
+      "englishSentence": "Is Bob learning Arabic or Turkish?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Hasan radyo mu dinliyor yoksa ders mi çalışıyor?",
+      "englishSentence": "Is Hasan listening to the radio or studying?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Mary yemek mi yoksa çay mı yapıyor?",
+      "englishSentence": "Is Mary cooking or making tea?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Osman mektup mu yazıyor yoksa ödevini mi yapıyor?",
+      "englishSentence": "Is Osman writing a letter or doing his homework?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Resim mi çiziyor yoksa bir şeyler mi yazıyor?",
+      "englishSentence": "Is she drawing a picture or writing something?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Gülüyor mu yoksa gülümsüyor mu?",
+      "englishSentence": "Is she laughing or smiling?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Köpek havlıyor mu arıyorsun bir şeyler mi yiyor?",
+      "englishSentence": "Is the dog barking or eating something?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "At ot mu yiyor yoksa su mu içiyor?",
+      "englishSentence": "Is the horse eating grass or drinking water?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Polis oturuyor mu yoksa ayakta mı duruyor?",
+      "englishSentence": "Is the policeman sitting or standing?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Bir şeyler yapıyor.",
+      "englishSentence": "He is doing something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Bir şey içiyor.",
+      "englishSentence": "He is drinking something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Bir şeye bakıyor.",
+      "englishSentence": "He is looking at something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Birini arıyor.",
+      "englishSentence": "He is phoning somebody.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Kitapları bir yere götürüyor.",
+      "englishSentence": "He is taking the books somewhere.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Birini bekliyor.",
+      "englishSentence": "He is waiting for somebody.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Bir şey arıyorum.",
+      "englishSentence": "I am looking for something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Bir şey satın alıyor.",
+      "englishSentence": "She is buying something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Bir şeyler pişiriyor.",
+      "englishSentence": "She is cooking something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Bir şeyler yiyor.",
+      "englishSentence": "She is eating something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Bir yere gidiyor.",
+      "englishSentence": "She is going somewhere.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Bir yerde kalıyor.",
+      "englishSentence": "She is staying somewhere.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Birkaç insan kapının yanında duruyor.",
+      "englishSentence": "Some people are standing by the door.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Biri bizi takip ediyor.",
+      "englishSentence": "Somebody is following us.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Biri öğretmene yardım ediyor.",
+      "englishSentence": "Somebody is helping the teacher.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Bir şey hareket ediyor.",
+      "englishSentence": "Something is moving.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Polis birini takip ediyor.",
+      "englishSentence": "The police are following somebody.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Bir şey taşıyorlar.",
+      "englishSentence": "They are carrying something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Bir yerden geliyorlar.",
+      "englishSentence": "They are coming from somewhere.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Bir şeyler yapıyorlar.",
+      "englishSentence": "They are doing something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Birine yardım ediyorlar.",
+      "englishSentence": "They are helping somebody.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Bir şey okuyorlar.",
+      "englishSentence": "They are reading something.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Biriyle konuşuyoruz.",
+      "englishSentence": "We are talking to somebody.",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Anneniz yemek mi pişiriyor yoksa bulaşıkları mı yıkıyor?",
+      "englishSentence": "Is your mother cooking or washing the dishes?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Doktor reçete mi yazıyor yoksa hastayı mı muayene ediyor?",
+      "englishSentence": "Is the doctor writing a prescription or examining a patient?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Öğretmen soru mu soruyor yoksa cümle mi yazıyor?",
+      "englishSentence": "Is the teacher asking a question or writing a sentence?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Sekreter yazıyor mu yoksa telefonda mı konuşuyor?",
+      "englishSentence": "Is the secretary typing or talking on the telephone?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Ahmet arabasını mı yıkıyor yoksa arabasını mı boyuyor?",
+      "englishSentence": "Is Ahmet washing his car or painting his car?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Kardeşiniz Fransızca mı yoksa İngilizce mi öğreniyor?",
+      "englishSentence": "Is your brother learning French or English?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Öğrenciler okuyorlar mu yoksa yazıyorlar mu?",
+      "englishSentence": "Are the students reading or writing?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Osman yüzüyor mu yoksa koşuyor mu?",
+      "englishSentence": "Is Osman swimming or running?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Paul ve Bill çalışıyorlar mı yoksa dinleniyorlar mı?",
+      "englishSentence": "Are Paul and Bill working or having a rest?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Çocuklar uyuyorlar mı yoksa kahvaltı mı ediyorlar?",
+      "englishSentence": "Are the children sleeping or having breakfast?",
+      "topic": "am is are + ving"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Taksi şoförü araba mı kullanıyor yoksa müşteri mi bekliyor?",
+      "englishSentence": "Is the taxi driver driving or waiting for a customer?",
+      "topic": "am is are + ving"
+    }
+  ]

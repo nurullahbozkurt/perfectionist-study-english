@@ -1,0 +1,602 @@
+[
+  {
+    "index": 1,
+    "turkishSentence": "Tren yarım saattir istasyondaydı.",
+    "englishSentence": "The train at the station for half an hour.",
+    "topic": "had been"
+  },
+  {
+    "index": 2,
+    "turkishSentence": "Güneş gözlüklerim dünden beri ofisteydi.",
+    "englishSentence": "My sunglasses had been in the office since yesterday.",
+    "topic": "had been"
+  },
+  {
+    "index": 3,
+    "turkishSentence": "Bu mağazadaki gömlekler iki gündür indirimdeydi.",
+    "englishSentence": "The shirts in this store had been on sale for two days.",
+    "topic": "had been"
+  },
+  {
+    "index": 4,
+    "turkishSentence": "Beş yıldan fazla bir süredir bu şirkette satış temsilcisiydi.",
+    "englishSentence": "He had been a sales representative in this company for over five years.",
+    "topic": "had been"
+  },
+  {
+    "index": 5,
+    "turkishSentence": "Geçen Pazartesi'den beri hava çok soğuktu.",
+    "englishSentence": "It had been very cold since last Monday.",
+    "topic": "had been"
+  },
+  {
+    "index": 6,
+    "turkishSentence": "Odanın anahtarı günlerdir kayıptı.",
+    "englishSentence": "The key of the room has been lost for days.",
+    "topic": "had been"
+  },
+  {
+    "index": 7,
+    "turkishSentence": "Bilgisayar şirketleri on yıldan fazla bir süredir New York taydı.",
+    "englishSentence": "Their computer company had been in New York for more than ten years.",
+    "topic": "had been"
+  },
+  {
+    "index": 8,
+    "turkishSentence": "Annem geçen haftadan beri benim için çok endişeliydi.",
+    "englishSentence": "My mother had been worried about me a lot since last week.",
+    "topic": "had been"
+  },
+  {
+    "index": 9,
+    "turkishSentence": "İtfaiye erleri on dakikadır yanan binanın önündeydiler.",
+    "englishSentence": "Firefighters had been in front of the burning building for ten minutes.",
+    "topic": "had been"
+  },
+  {
+    "index": 10,
+    "turkishSentence": "Ali, 2015ten beri bu şirkette düzenli çalışanlardan biriydi.",
+    "englishSentence": "Ali had been one of the regular workers in that company since 2015.",
+    "topic": "had been"
+  },
+  {
+    "index": 11,
+    "turkishSentence": "Bill yıllardır yavaş bir sporcuydu.",
+    "englishSentence": "Bill had been a slow athlete for years.",
+    "topic": "had been"
+  },
+  {
+    "index": 12,
+    "turkishSentence": "Bob son beş yıldır kötü bir oyuncuydu.",
+    "englishSentence": "Bob had been a bad actor for last five years.",
+    "topic": "had been"
+  },
+  {
+    "index": 13,
+    "turkishSentence": "George, emekli olmadan önce, 2002'den beri hızlı bir şofördü.",
+    "englishSentence": "George had been a fast driver since 2002 before he retired.",
+    "topic": "had been"
+  },
+  {
+    "index": 14,
+    "turkishSentence": "Hasan burada çalışmaya başlamadan önce, dört yıldır ciddi bir işçiydi.",
+    "englishSentence": "Hasan had been a serious worker for four years before he started to work here.",
+    "topic": "had been"
+  },
+  {
+    "index": 15,
+    "turkishSentence": "Bu yarıştan önce aylardır dikkatli bir sürücüydü.",
+    "englishSentence": "He had been a careful driver for months before this race.",
+    "topic": "had been"
+  },
+  {
+    "index": 16,
+    "turkishSentence": "Evlenmeden önce, yedi yıldır hızlı bir ressamdı.",
+    "englishSentence": "He had been a fast painter for seven years before he married.",
+    "topic": "had been"
+  },
+  {
+    "index": 17,
+    "turkishSentence": "İşi bırakmaya karar verdiğinde iyi bir öğretmendi.",
+    "englishSentence": "He had been a good teacher by the time she decided to quit the job.",
+    "topic": "had been"
+  },
+  {
+    "index": 18,
+    "turkishSentence": "Son romanına kadar yıllarca iyi bir yazardı.",
+    "englishSentence": "He had been a good writer for years until his last novel.",
+    "topic": "had been"
+  },
+  {
+    "index": 19,
+    "turkishSentence": "Mary yeni işinden önce dikkatsiz bir yazardı.",
+    "englishSentence": "Mary had been a careless typist before her new job.",
+    "topic": "had been"
+  },
+  {
+    "index": 20,
+    "turkishSentence": "Mehmet, kötü bir kaza geçirene kadar, dikkatli bir sürücüydü.",
+    "englishSentence": "Mehmet had been a careful driver by the time he had a bad accident.",
+    "topic": "had been"
+  },
+  {
+    "index": 21,
+    "turkishSentence": "Kardeşim sağ bacağını kırmadan önce, hızh bir koşucuydu.",
+    "englishSentence": "My brother had been a fast runner before he broke his right leg.",
+    "topic": "had been"
+  },
+  {
+    "index": 22,
+    "turkishSentence": "Annem hastalanana kadar, iyi bir aşçıydı.",
+    "englishSentence": "My mother had been a good cook by the time she got sick.",
+    "topic": "had been"
+  },
+  {
+    "index": 23,
+    "turkishSentence": "Peter bu şansı elde edene kadar, kötü bir oyuncuydu.",
+    "englishSentence": "Peter had been a bad player until he got this chance.",
+    "topic": "had been"
+  },
+  {
+    "index": 24,
+    "turkishSentence": "Hamile kalmadan önce, hızlı yüzücüydü.",
+    "englishSentence": "She had been a fast swimmer before she got pregnant.",
+    "topic": "had been"
+  },
+  {
+    "index": 25,
+    "turkishSentence": "Bölümünü değiştirmeden önce, kibar bir konuşmacıydı.",
+    "englishSentence": "She had been a polite speaker before she changed her department.",
+    "topic": "had been"
+  },
+  {
+    "index": 26,
+    "turkishSentence": "Neredeyse üç yıldır hızlı bir yazardı.",
+    "englishSentence": "She had been a quick typist for almost three years.",
+    "topic": "had been"
+  },
+  {
+    "index": 27,
+    "turkishSentence": "İkizler paralarını kaybedene kadar, çok çalışkanlardı.",
+    "englishSentence": "The twins had been hard workers by the time they lost thier money.",
+    "topic": "had been"
+  },
+  {
+    "index": 28,
+    "turkishSentence": "Şirketleri iflas etmeden önce, meşgul işçilerdi.",
+    "englishSentence": "They had been busy workers before their company bankrupted.",
+    "topic": "had been"
+  },
+  {
+    "index": 29,
+    "turkishSentence": "Baba olmadan önce, tehlikeli sürücüydüler.",
+    "englishSentence": "They had been dangerous drivers before they became fathers.",
+    "topic": "had been"
+  },
+  {
+    "index": 30,
+    "turkishSentence": "Bırakmaya karar verene kadar, altı yıldır ağır sigara içicilerdi.",
+    "englishSentence": "They had been heavy smokers for six years until they decided to quit.",
+    "topic": "had been"
+  },
+  {
+    "index": 31,
+    "turkishSentence": "Yöneticileri onları uyarmadan önce, sessiz işçilerdi.",
+    "englishSentence": "They quiet workers before their manager wamed them.",
+    "topic": "had been"
+  },
+  {
+    "index": 32,
+    "turkishSentence": "Onlar sonuçları açıklayana kadar, saatlerdir çok endişeliydik.",
+    "englishSentence": "We had been very worried for hours by the time they explained the results.",
+    "topic": "had been"
+  },
+  {
+    "index": 33,
+    "turkishSentence": "Zeynep pratik yapmadan önce, akıcı bir konuşmacı değildi.",
+    "englishSentence": "Zeynep hadn 't been a fluent speaker before she practised.",
+    "topic": "had been"
+  },
+  {
+    "index": 34,
+    "turkishSentence": "Son sınavda kötü bir not alana kadar, çok zeki bir öğrenciydi.",
+    "englishSentence": "He had been a very intelligent student until he got a bad mark in the last exam.",
+    "topic": "had been"
+  },
+  {
+    "index": 35,
+    "turkishSentence": "Kurallara uymadan önce, dikkatsiz bir işçiydi.",
+    "englishSentence": "He had been a careless worker before he obeyed the rules.",
+    "topic": "had been"
+  },
+  {
+    "index": 36,
+    "turkishSentence": "Bu sandalye, sen onu kırana kadar, son iki yıldır çok rahattı.",
+    "englishSentence": "This chair had been very comfortable for last two years by the time you broke it.",
+    "topic": "had been"
+  },
+  {
+    "index": 37,
+    "turkishSentence": "On beş yaşına kadar çok uzun değildi.",
+    "englishSentence": "You hadn 't been not very tall before the age of fifteen.",
+    "topic": "had been"
+  },
+  {
+    "index": 38,
+    "turkishSentence": "David, yeni öğretmeniyle tanışmadan önce, çok çalışkan bir öğrenci değildi.",
+    "englishSentence": "David hadn't been very hardworking student before he met his new teacher.",
+    "topic": "had been"
+  },
+  {
+    "index": 39,
+    "turkishSentence": "Kanepem son bir aydır pek rahat değildi.",
+    "englishSentence": "My sofa hadn't been very comfortable for last one month.",
+    "topic": "had been"
+  },
+  {
+    "index": 40,
+    "turkishSentence": "Planınız, siz öğrenmeden önce, pek iyi değildi.",
+    "englishSentence": "Your plan hadn't been very good before you found out.",
+    "topic": "had been"
+  },
+  {
+    "index": 41,
+    "turkishSentence": "Bu çiçekler, ben onlara bakana kadar, çok iyi değildi.",
+    "englishSentence": "These flowers hadn 't been very nice until I took care of them.",
+    "topic": "had been"
+  },
+  {
+    "index": 42,
+    "turkishSentence": "Sen bana yardım edene kadar, çantalarım çok ağırdı.",
+    "englishSentence": "My bags had been very heavy by the time you helped me.",
+    "topic": "had been"
+  },
+  {
+    "index": 43,
+    "turkishSentence": "Bu kursa başlamadan önce, sanata çok ilgili değildim.",
+    "englishSentence": "I hadn't been very interested in art before I started this course.",
+    "topic": "had been"
+  },
+  {
+    "index": 44,
+    "turkishSentence": "Hava, haftalardır çok sıcak değildi.",
+    "englishSentence": "It hadn't been very warm for weeks.",
+    "topic": "had been"
+  },
+  {
+    "index": 45,
+    "turkishSentence": "Bu domatesler yarım saattir tezgahın üzerindeydi.",
+    "englishSentence": "These tomatoes had been on the counter for half an hour.",
+    "topic": "had been"
+  },
+  {
+    "index": 46,
+    "turkishSentence": "Bu bıçak, ben onu keskinleştirmeden önce çok keskin değildi.",
+    "englishSentence": "This knife hadn't been very sharp before I sharpened it.",
+    "topic": "had been"
+  },
+  {
+    "index": 47,
+    "turkishSentence": "İnsanlar savaştan önce çok kibarlardı.",
+    "englishSentence": "People had been very polite before the war.",
+    "topic": "had been"
+  },
+  {
+    "index": 48,
+    "turkishSentence": "Yaklaşık beş yıldır aşçıydı.",
+    "englishSentence": "She had been a cook for almost five years.",
+    "topic": "had been"
+  },
+  {
+    "index": 49,
+    "turkishSentence": "Hava, üç gündür bulutluydu.",
+    "englishSentence": "The weather had been cloudy for three days.",
+    "topic": "had been"
+  },
+  {
+    "index": 50,
+    "turkishSentence": "Onlar, onu bir restorana dönüştürmeden önce, o yıllarca bir uçaktı.",
+    "englishSentence": "It had been a plane for years before they transformed it to a restaurant.",
+    "topic": "had been"
+  },
+  {
+    "index": 51,
+    "turkishSentence": "Onunla tanışmadan önce, önemli oyunculardan biriydi.",
+    "englishSentence": "She had been one of the important players before he met her.",
+    "topic": "had been"
+  },
+  {
+    "index": 52,
+    "turkishSentence": "İstanbul'a taşınmadan önce, 2014 yılından beri Antalya'daydılar.",
+    "englishSentence": "They had been in Antalya since 2014 before they moved to Istanbul.",
+    "topic": "had been"
+  },
+  {
+    "index": 53,
+    "turkishSentence": "Kardeşim arabayı çarpana kadar, araba yeniydi.",
+    "englishSentence": "The car had been new by the time my brother crashed it.",
+    "topic": "had been"
+  },
+  {
+    "index": 54,
+    "turkishSentence": "İşçiler, zili duymadan önce, yarım saattir fabrika dışındaydılar.",
+    "englishSentence": "The workers had been outside the factory for half an hour before they heard the bell.",
+    "topic": "had been"
+  },
+  {
+    "index": 55,
+    "turkishSentence": "Ben onu aramadan önce, trafik nedeniyle geç kaldı.",
+    "englishSentence": "He had been late because of the traffic before I called him.",
+    "topic": "had been"
+  },
+  {
+    "index": 56,
+    "turkishSentence": "Müdür öğrenciler uyarana kadar, onları tembellerdi.",
+    "englishSentence": "The students had been lazy by the time the principal warned them.",
+    "topic": "had been"
+  },
+  {
+    "index": 57,
+    "turkishSentence": "Çözmek için kolay bir yol bulana kadar, sorular zordu.",
+    "englishSentence": "The questions had been difficult by the time they found an easy way to solve them.",
+    "topic": "had been"
+  },
+  {
+    "index": 58,
+    "turkishSentence": "Son seçime kadar dört yıldır Başbakan'dı.",
+    "englishSentence": "He had been the Prime Minister for four years until the last election.",
+    "topic": "had been"
+  },
+  {
+    "index": 59,
+    "turkishSentence": "Onlar bize yardım edene kadar kötü bir durumdaydık.",
+    "englishSentence": "We had been a bad situation until they helped us.",
+    "topic": "had been"
+  },
+  {
+    "index": 60,
+    "turkishSentence": "Neredeyse beş gündür evdeydiler.",
+    "englishSentence": "They had been at home for almost five days.",
+    "topic": "had been"
+  },
+  {
+    "index": 61,
+    "turkishSentence": "Okulun basketbol takımına katılmadan önce, kısa boyluydu.",
+    "englishSentence": "She short before he joined the school's basketball team.",
+    "topic": "had been"
+  },
+  {
+    "index": 62,
+    "turkishSentence": "Kedi, ben onu dışarı çıkarana kadar, masanın altındaydı.",
+    "englishSentence": "The cat had been under the table by the time I took him out.",
+    "topic": "had been"
+  },
+  {
+    "index": 63,
+    "turkishSentence": "Kursu tamamlamadan önce, geçen Mart'tan beri Britanya'daydı.",
+    "englishSentence": "He had been in Britain since last March before he completed his course.",
+    "topic": "had been"
+  },
+  {
+    "index": 64,
+    "turkishSentence": "Kötü haberi duyana kadar bir haftadır mutluydular.",
+    "englishSentence": "They had been happy for a week until they heard the bad news.",
+    "topic": "had been"
+  },
+  {
+    "index": 65,
+    "turkishSentence": "Ameliyat olmadan önce, aylardır hastaydı.",
+    "englishSentence": "He had been ill for months before he had an operation.",
+    "topic": "had been"
+  },
+  {
+    "index": 66,
+    "turkishSentence": "Toplantı, onlar takvimi değiştirmeden önce, yıllardır Çarşamba günleriydi.",
+    "englishSentence": "The meeting had been on Wednesdays for years before they changed the schedule.",
+    "topic": "had been"
+  },
+  {
+    "index": 67,
+    "turkishSentence": "Federasyon bazı düzen [emeler yapmadan önce, futbol maçları saat ikideydi.",
+    "englishSentence": "The football matches had been at two o'clocks before the federation made some arrangments.",
+    "topic": "had been"
+  },
+  {
+    "index": 68,
+    "turkishSentence": "İngiltere'de yaşamaya başlayana kadar, beş yıldır Almanya'daydı.",
+    "englishSentence": "He had been in Germany for five years by the time he started to live in England.",
+    "topic": "had been"
+  },
+  {
+    "index": 69,
+    "turkishSentence": "Sözlük, yarım saattir masanın üstündeydi.",
+    "englishSentence": "The dictionary had been on the desk for half an hour.",
+    "topic": "had been"
+  },
+  {
+    "index": 70,
+    "turkishSentence": "Kapı, biri onu açana kadar, sabahtan beri kapalıydı.",
+    "englishSentence": "The door had been closed since morning by the time somebody opened it.",
+    "topic": "had been"
+  },
+  {
+    "index": 71,
+    "turkishSentence": "Büyükbabam, o restoranı satana kadar, yirmi yıldır o restoranın sahibiydi.",
+    "englishSentence": "My grandfatherhad been the owner of that restaurant for twenty years until he sold it.",
+    "topic": "had been"
+  },
+  {
+    "index": 72,
+    "turkishSentence": "Onlar, telefonu tamir etmeden önce, telefon neredeyse iki saattir bağlantısızdı.",
+    "englishSentence": "The telephone had been disconnected for almost two hours before they fixed it.",
+    "topic": "had been"
+  },
+  {
+    "index": 73,
+    "turkishSentence": "Onlar, tamirci çağırmadan önce, pencere günlerdir kırık değil miydi?",
+    "englishSentence": "Had the window been broken for days before they called a mechanic?",
+    "topic": "had been"
+  },
+  {
+    "index": 74,
+    "turkishSentence": "Onlar, onu uyandırdıklarında, 0 12 saattir yatakta mıydı?",
+    "englishSentence": "Had he been in bed for 12 hours when they woke him up?",
+    "topic": "had been"
+  },
+  {
+    "index": 75,
+    "turkishSentence": "Tren nihayet geldiğinde, 90 dakika istasyonda mıydılar?",
+    "englishSentence": "Had they been at the station for 90 minutes when the train finally arrived?",
+    "topic": "had been"
+  },
+  {
+    "index": 76,
+    "turkishSentence": "Yüzüğü banyoda bulduğumuzda, yüzük iki saattir kayıp mıydı?",
+    "englishSentence": "Had her ring been lost for two hours when we found it in the bathroom?",
+    "topic": "had been"
+  },
+  {
+    "index": 77,
+    "turkishSentence": "Aniden yağmur yağmaya başladığında, uzun zamandır parkta değil miydin?",
+    "englishSentence": "Hadn't you been at park for a long time when it suddenly began to rain?",
+    "topic": "had been"
+  },
+  {
+    "index": 78,
+    "turkishSentence": "Londra'ya gitmeden önce, ne kadar süredir İngilizce sınıfindaydı?",
+    "englishSentence": "How long had she been in the English class before she went to London?",
+    "topic": "had been"
+  },
+  {
+    "index": 79,
+    "turkishSentence": "Frank, doktoru onu tedavi edene kadar, günlerdir hastaydı.",
+    "englishSentence": "Frank had been sick for days by the time his doctor treated him.",
+    "topic": "had been"
+  },
+  {
+    "index": 80,
+    "turkishSentence": "Benzini bittiğinde bir saatten az bir süredir yolda değil miydi?",
+    "englishSentence": "Hadn't he been on the way less than an hour when he ran out of petrol?",
+    "topic": "had been"
+  },
+  {
+    "index": 81,
+    "turkishSentence": "Çocuklar yüzünden günlerdir çok yorgun değiller miydi?",
+    "englishSentence": "Hadn't they been very tired for days because of the children?",
+    "topic": "had been"
+  },
+  {
+    "index": 82,
+    "turkishSentence": "Ben onu almadan önce, iki saattir sinemadaydı.",
+    "englishSentence": "He had been at the cinema for two hours before I picked him up.",
+    "topic": "had been"
+  },
+  {
+    "index": 83,
+    "turkishSentence": "Yeni bir ev satın almadan önce, iki gündür çok gergindiler.",
+    "englishSentence": "They had been very nervous for two days before they bought a new house.",
+    "topic": "had been"
+  },
+  {
+    "index": 84,
+    "turkishSentence": "Tony gelmeden önce, onlar yarım saattir etkinlikteydiler.",
+    "englishSentence": "They had been at the event for half an hour before Tony arrived.",
+    "topic": "had been"
+  },
+  {
+    "index": 85,
+    "turkishSentence": "Onu kovduklarında, üç yıldır o şirketteydi.",
+    "englishSentence": "She had been at that company for three years when they fired her.",
+    "topic": "had been"
+  },
+  {
+    "index": 86,
+    "turkishSentence": "Otobüse binmek için ne kadar süredir otobüs durağındaydın?",
+    "englishSentence": "How long had you been at the bus stop to get on the bus?",
+    "topic": "had been"
+  },
+  {
+    "index": 87,
+    "turkishSentence": "Mike yirmi dakikadır kahve dükkanındaydı.",
+    "englishSentence": "Mike had been at the cofee shop for twenty minutes.",
+    "topic": "had been"
+  },
+  {
+    "index": 88,
+    "turkishSentence": "James, Asya'ya gitmeden önce, bir yıldan fazla bir süredir üniversitedeydi.",
+    "englishSentence": "James had been at the university for more than a year before he left for Asia.",
+    "topic": "had been"
+  },
+  {
+    "index": 89,
+    "turkishSentence": "Uykuya dalmadan önce, çok yorgundu.",
+    "englishSentence": "He had been very tired before he fell asleep.",
+    "topic": "had been"
+  },
+  {
+    "index": 90,
+    "turkishSentence": "Giysilerini çamaşır makinesine koymadan önce, çok kirliydi.",
+    "englishSentence": "His clothes had been very dirty before he put them into washing machine.",
+    "topic": "had been"
+  },
+  {
+    "index": 91,
+    "turkishSentence": "Sen onları aramadan önce, bir saattir düğün töreninde değiller miydi?",
+    "englishSentence": "Hadn't they been at the wedding ceremony for an hour before you called them?",
+    "topic": "had been"
+  },
+  {
+    "index": 92,
+    "turkishSentence": "Boşanmadan önce, ne kadar süredir evlilerdi?",
+    "englishSentence": "How long had they been married before they divorced?",
+    "topic": "had been"
+  },
+  {
+    "index": 93,
+    "turkishSentence": "İki buçuk yıldır gizli bir çalışmanın parçasıydı.",
+    "englishSentence": "She had been part of a secret study for two and half years.",
+    "topic": "had been"
+  },
+  {
+    "index": 94,
+    "turkishSentence": "Dükkandaki elektronik klavyeyi satmadan önce, toz içindeydi.",
+    "englishSentence": "The electronic keyboard in the shop had been in dust before he sold it.",
+    "topic": "had been"
+  },
+  {
+    "index": 95,
+    "turkishSentence": "Mario çok fazla pratik yapana kadar, mükemmel bir müzisyen değildi.",
+    "englishSentence": "Mario hadn't been an excellent musician until he practised a lot.",
+    "topic": "had been"
+  },
+  {
+    "index": 96,
+    "turkishSentence": "Bestecilik yapmaya başlamadan önce, üç yıldır piyano sınıfındaydı.",
+    "englishSentence": "He had been at the piano class for three years before he started composin music.",
+    "topic": "had been"
+  },
+  {
+    "index": 97,
+    "turkishSentence": "Yakın arkadaşın, karısı onunla konuşmadan önce, bir saattir stadyumda mıydı?",
+    "englishSentence": "Had your close friend been at the stadium for an hour before her wife talked to him?",
+    "topic": "had been"
+  },
+  {
+    "index": 98,
+    "turkishSentence": "Rengini siyaha değiştirene kadar, evin duvarlarının rengi beyazdı.",
+    "englishSentence": "The color of walls of the house had been white until we changed its color black.",
+    "topic": "had been"
+  },
+  {
+    "index": 99,
+    "turkishSentence": "Ben onu rahatlatmadan önce, dakikalardır çok stresliydi.",
+    "englishSentence": "He had been very stressful for minutes before I relieved him.",
+    "topic": "had been"
+  },
+  {
+    "index": 100,
+    "turkishSentence": "Ebeveynlerin seni aramadan önce, sen saatlerdir onlarla mıydın?",
+    "englishSentence": "Had you been with them for hours before your parents looked for you?",
+    "topic": "had been"
+  }
+]

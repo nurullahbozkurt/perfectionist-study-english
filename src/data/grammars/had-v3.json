@@ -1,0 +1,702 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Mary gitmeden önce Tonynin adresini bana vermişti.",
+      "englishSentence": "Mary had given me Tony's address before she left.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Çocuklar sinemaya geldiğinde, film çoktan başlamıştı.",
+      "englishSentence": "When the boys arrived at the cinema, the film had already started.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 3,
+      "turkishSentence": "İstasyona varmadan önce, yolumuzu kaybetmiştik.",
+      "englishSentence": "Before we reached the station, we had lost our way.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Konser başlamadan önce, tüm biletleri satmışlardı.",
+      "englishSentence": "They had sold all the tickets before the concert began.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Oyunu bitirdikten sonra, duş aldılar.",
+      "englishSentence": "They took a shower after they had finished the game.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Alan öğle yemeğini yedikten sonra, televizyon izledi.",
+      "englishSentence": "Alan watched TV after he had had lunch.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 7,
+      "turkishSentence": "David Amca, arkadaşı ona gitmesini önerdikten sonra, doktora gitti.",
+      "englishSentence": "Uncle David went to the doctor after his friend had suggested him to go.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Polis hırsızı yakalamadan önce, hırsız iki saat daha çalmıştı.",
+      "englishSentence": "Before the police caught the thief, he had stolen two more watches.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Ben suya düştükten sonra, babam beni eve bıraktı.",
+      "englishSentence": "Dad drove me home after I had fallen into the water.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Eve gitmeden önce iki Big Mac yemiştik.",
+      "englishSentence": "We had eaten two Big Macs before we went home.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Günler, kar yağdıktan sonra, soğudu.",
+      "englishSentence": "The days got colder after it had snowed.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Sınavı geçtikten sonra kendimi harika hissettim.",
+      "englishSentence": "I felt great after I had passed the exam.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Toplantıya kimse gelmedi çünkü Angela onlara bunu söylemeyi unutmuştu.",
+      "englishSentence": "Nobody came to the meeting because Angela had forgotten to tell them about it.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Geldiğimde, ders çoktan başlamıştı.",
+      "englishSentence": "The lesson had already started when I arrived.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Mutfağı boyadığında, dinlenmeye karar verdi.",
+      "englishSentence": "When he had painted the kitchen, he decided to have a rest.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Kötü haber aldığı için, bütün gece ayakta kaldı.",
+      "englishSentence": "She stayed up all night because she had received bad news.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Yeterince pratik yapmadıkları için, pek çok maç kaybettiler.",
+      "englishSentence": "They lost many of the games because they had not practiced enough.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Anthony, siz onu partide bizimle tanıştırmadan önce Ryan ile tanışmıştı.",
+      "englishSentence": "Anthony had met Ryan before you introduced him to us at the party.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Roma'ya taşnmadan önce İtalyanca öğrenmiştin.",
+      "englishSentence": "You had studied Italian before you moved to Rome.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Şirketini 2008'den önce kurmuştu.",
+      "englishSentence": "She had established her company before 2008.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Geçen haftaya kadar hiç futbol oynamamıştı.",
+      "englishSentence": "He had never played football until last week.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Geçen yıldan önce nişanlanmışlardı.",
+      "englishSentence": "They had gotten engaged before last year.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Saat sekizden önce uykuya dalmıştım.",
+      "englishSentence": "I had fallen asleep before eight o'clock.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Adaya gitmeden önce hiç bu kadar güzel bir gün batımı görmemiştim.",
+      "englishSentence": "I had never seen such a beautiful sunset before I went to the island.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Marc beş yıldır Philadelphia'da yaşadığı için, orayı çok iyi biliyordu.",
+      "englishSentence": "Marc knew Philadelphia so well because he had lived there for five years.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Cüzdanımı kaybettiğim için, nakit param yoktu.",
+      "englishSentence": "I did not have any cash because I had lost my purse.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Ödevini yapmadan önce, yardım için okuldan sonra kalmıştı.",
+      "englishSentence": "Before he did his homework, he had stayed after school for help.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Kedi, kuşu avludan çıkmadan önce kovalamıştı.",
+      "englishSentence": "The cat had chased the bird before it flew out of the yard.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Annem bize mesaj attığında evi yeni aramıştık.",
+      "englishSentence": "We had just called home when my mom texted us",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Eve saat 9:00'da vardığımızda, yemeği 8:45'te hazırlamıştı.",
+      "englishSentence": "When we arrived home at 9:00, he had prepared the meal at 8:45.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Evini sattıktan sonra, başka bir şehre taşndı.",
+      "englishSentence": "After he had sold his house, he moved to another city.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Evden ayrılmadan önce, tıraş olmuştu.",
+      "englishSentence": "Before he left home, he had had a shave.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Polis 9:15'te geldiğinde, soyguncular saat 9:10'da kaçmışlardı.",
+      "englishSentence": "When the policeman arrived at 9:15, the robbers had run away at 9:10.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Zil çalar çalmaz, öğrenciler koşmaya başladılar.",
+      "englishSentence": "The students started to run as soon as the bell had rung.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Zil çaldığında, öğretmen gelmişti.",
+      "englishSentence": "The teacher had come in when the bell rang.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 36,
+      "turkishSentence": "1987'de ordudan ayrıldıktan sonra, 1988'de yurtdışına çıktı.",
+      "englishSentence": "He went abroad in 1988 after he had left the army in 1987.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 37,
+      "turkishSentence": "İstasyona 11 :05te ardığımızda, tren 11:00'de kalkmıştı.",
+      "englishSentence": "The train had left at 11 by the time we got to the station at 11:05.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Sekreter mektubu yazdıktan sonra, onu bir zarfa koydu.",
+      "englishSentence": "After the secretary had typed the letter, she put it in an envelope.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Öğrenci, diyaloğu yazmadan önce, onu ezberlemişti.",
+      "englishSentence": "Before the student wrote the dialogue, he had memorized it.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Diş hekimi dişi çektikten sonra, adam bunun yanlış diş olduğunu söyledi.",
+      "englishSentence": "After the dentist had pulled out the tooth, the man said it was the wrong tooth.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Ders bittiğinde, herkes zilden önce yazmayı bırakmıştı.",
+      "englishSentence": "Everybody had stopped writing before the bell when the lesson finished.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Kapı görevlisi kapıyı açar açmaz, herkes içeri koştu.",
+      "englishSentence": "As soon as the door keeper had opened the door, everybody rushed in.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Polis hırsızla konuştuğunda, her şeyi öğrendiler.",
+      "englishSentence": "When the policeman had talked to the burglar, they found out everything.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Yatağa gittikten sonra, telefon çaldı.",
+      "englishSentence": "After I had gone to bed, the telephone rang.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Geç kalmamalarını söylememe rağmen, yine geç geldiler.",
+      "englishSentence": "They came late again although I told them not to be late.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Sürücü, polis memuru durmasını emrettiği için durdu.",
+      "englishSentence": "The driver stopped because he policeman had ordered him to stop.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Askerliğimi bitirdikten sonra, bir gazete için çalışmaya başladım.",
+      "englishSentence": "I started to work for a newspaper after I finished military service.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Kedi fareyi görür görmez, fareyi kovalamaya başladı.",
+      "englishSentence": "As soon as the cat had seen the mouse, it started to chase the mouse.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Soruları saat 9:00'da cevaplamayı bitirmeden önce, herkes daha erken cevaplamıştı.",
+      "englishSentence": "Before she finished answering the questions at 9:00, everybody else had done earlier.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Adam arabayı çalıştırdıktan sonra, uzaklaştı.",
+      "englishSentence": "After the man had started the car, he drove off.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Polis, adam banka soyduğu için, adamı hapse attı.",
+      "englishSentence": "The police put the man in prison because the man had robbed a bank.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Öğleden sonra malları göndermeden önce sabah müdürle görüşmüştü.",
+      "englishSentence": "He had talked to the manager in the morning before he sent the goods in the afternoon.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Film biter bitmez, televizyonu kapattı.",
+      "englishSentence": "As soon as the film had ended, he tumed off TV.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Annem dışarı çıkmadan önce şemsiyesini almıştı.",
+      "englishSentence": "My mother had taken her umbrella before she went out.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Frank beni aradıktan sonra, okula gittim.",
+      "englishSentence": "After Frank had called me, I went to school.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Bulaşıkları yıkadıktan sonra, TV izledim.",
+      "englishSentence": "I watched TV after I had washed the dishes.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Öğle yemeği yemeden önce, ellerini yıkamıştı.",
+      "englishSentence": "She had washed her hands before she had lunch.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Erkek çocuklar bir top satın aldıktan sonra, futbol oynadılar.",
+      "englishSentence": "After the boys had bought a ball, they played football.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Misafirler gelmeden önce, annem pasta yaptı.",
+      "englishSentence": "My mother made a cake before the guests came.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Çayına şeker koyduktan sonra, onu içti.",
+      "englishSentence": "After he had put sugar in his tea, he drank it.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Kalktıktan sonra, kahvaltı yaptım.",
+      "englishSentence": "After I had got up, I had breakfast.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Çocuklar camı kırdıktan sonra, kaçtılar.",
+      "englishSentence": "The children ran away after they had broken the window.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Uçak kalkmadan önce, emniyet kemerimi takmıştım.",
+      "englishSentence": "I had fastened my seat belt before the plane took off.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Onlar gittikten sonra, uyumaya gittik.",
+      "englishSentence": "After they had left, we went to bed.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Oraya vardığımızda, toplantı yeni başlamıştı.",
+      "englishSentence": "When we got there, the meeting had just started.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Zamanında gelmedikleri için, onlara kızdım.",
+      "englishSentence": "I got angry with them because they hadn't come on time.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Treni, erkenden hareket etmeden önce, yakalamak için acele etmişlerdi.",
+      "englishSentence": "They had hurried to catch the train before it departed early.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Akşam yemeğimizi yedikten hemen sonra, dışarı çıktık.",
+      "englishSentence": "We went out as soon as we had had dinner.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Suudi Arabistan'a gidene kadar, hiç deve görmemiştim.",
+      "englishSentence": "I had never seen a camel until I went to Saudi Arabia.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Arabamı sattıktan sonra, bir ev satın aldım.",
+      "englishSentence": "I bought a house after I had sold my car.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Yemek yedikten sonra, kitabı okudum.",
+      "englishSentence": "I read the book after I had had dinner.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 72,
+      "turkishSentence": "İşçiler, itfaiye gelmeden önce yangını söndürmüşlerdi.",
+      "englishSentence": "The workers had put out the fire before the firemen arrived.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Evlendikten sonra, onu görmedik.",
+      "englishSentence": "We didn't see him after he had got married.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Güneş doğmadan, kalkmıştım.",
+      "englishSentence": "I had got up before the sun rose.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Hiçbir şey yapmadığı halde, onu hapse attılar.",
+      "englishSentence": "They put him to prison though he hadn't done anything.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Polis, iki kişiyi öldürdüğü için onu tutukladı.",
+      "englishSentence": "The police arrested him because he had killed two people.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Kalemimi kullanmamasını söylemiştim ama onu yine aldı.",
+      "englishSentence": "I had told him not to use my pen but he took it again.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Biz eve döndüğümüzde, çoktan uykuya dalmıştı.",
+      "englishSentence": "He had already fallen asleep when we returned home.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Yaşlı adam tüm mal varlığını sattıktan sonra, başka bir ülkeye taşındı.",
+      "englishSentence": "After the old man had sold all his property, he moved to another country.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Neden ondan, Paris'ten ayrılmadan önce, bekleyip tekrar düşünmesini istememişti.",
+      "englishSentence": "Why hadn't he asked her to wait and think again before she left Paris.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Komutan \"ateş\" deyince askerler çılgınca ateş etmeye başladılar.",
+      "englishSentence": "Once the commander had said \"fire\" , the soldiers started to fire crazily.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Polis adamı sorguladıktan sonra, onu serbest bıraktılar.",
+      "englishSentence": "After the police had questioned the man, they release him.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Adam, oğlu başarısız olduğunda çok hayal kırıklığına uğramıştı.",
+      "englishSentence": "The man was very disappointed when his son had failed.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Linda ödevini yaptıktan sonra, tenis oynadı.",
+      "englishSentence": "Linda played tennis after she had done her homework.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Ankara'ya taşınmadan önce, Bursa'da yaşamışlardı.",
+      "englishSentence": "Before they moved to Ankara, they had lived in Bursa.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Ders bitmeden önce, herkes uyuyakalmıştı.",
+      "englishSentence": "Everybody had fallen asleep before the lecture finished.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Havaalanına vardığımızda uçak inmişti.",
+      "englishSentence": "By the time we got to the airport, the plane had landed.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Güvende olduğunu duymadan önce, onun hakkında çok endişelenmiştim.",
+      "englishSentence": "I had worried a lot about her before I heard that she was safe.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Kahvaltılarını bitirdikten sonra, okula gittiler.",
+      "englishSentence": "After they had finished their breakfast, they left for school.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Biz dönmeden önce, kardeşim tüm turtayı yemişti.",
+      "englishSentence": "My brother had eaten all the pie before we got back.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Akşam yemeğini bitirdikten sonra, çay içtiler.",
+      "englishSentence": "They drank tea after they had finished dinner.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Arabası bozulduğu için, işe otobüsle gitmek zorunda kaldı.",
+      "englishSentence": "He had to go to work by bus because his car had broken down.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 93,
+      "turkishSentence": "İki yıl hastanede çalıştıktan sonra, işini bırakmaya karar verdi.",
+      "englishSentence": "After he had worked at the hospital for two years he decided to give up the job.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Partiye geldiğimde, John çoktan eve gitmişti.",
+      "englishSentence": "When I arrived at the party John had already gone home.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Maç bitene kadar, beklemiştik.",
+      "englishSentence": "We had waited until the match finished.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Toplantı bitmeden önce, odadan ayrılmışlardı.",
+      "englishSentence": "They had left the room before the meeting finished.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Londra'ya gitmeden önce, yeni bir fotoğraf makinesi satın almıştım.",
+      "englishSentence": "I had bought a new camera before I went to London.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Telefon çaldığında, ışıklan henüz kapatmıştım.",
+      "englishSentence": "I had just turned off the lights when the telephone rang.",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Evlenmeden önce, onu uzun süredir tanıyor muydu?",
+      "englishSentence": "Had he known her for a long time before they got married?",
+      "topic": "had + v3"
+      
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Babam arabayı temizledikten sonra, çiçekleri suladı.",
+      "englishSentence": "My father watered the flowers after he had cleaned the car.",
+      "topic": "had + v3"
+      
+    }
+  ]

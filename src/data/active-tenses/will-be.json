@@ -1,0 +1,187 @@
+[
+    {
+
+        "positiveSentence":[
+            {
+                "english":"I WILL BE happy.",
+                "turkish":"Mutlu olacağım."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"I WON'T BE happy.",
+                "turkish":"Mutlu olmayacağım."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WILL I BE happy?",
+                "turkish":"Mutlu olacak mıyım?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WON'T I BE happy?",
+                "turkish":"Mutlu olmayacak mıyım?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"Youl WILL BE strong.",
+                "turkish":"Güçlü olacaksın."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"You WON'T BE strong.",
+                "turkish":"Güçlü olmayacaksın."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WILL you BE strong?",
+                "turkish":"Güçlü olacak mısın?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WON'T you BE strong?",
+                "turkish":"Güçlü olmayacak mısın?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"He WILL BE angry.",
+                "turkish":"Kızgın olacaksın."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"He WON'T BE angry.",
+                "turkish":"Kızgın olmayacaksın."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WILL he BE angry?",
+                "turkish":"Kızgın olacak mısın?"
+            }
+         ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WON'T he BE angry?",
+                "turkish":"Kızgın olmayacak mısın?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence":[
+            {
+                "english":"She WILL BE beautiful.",
+                "turkish":"Güzel olacak."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"She WON'T BE beautiful.",
+                "turkish":"Güzel olmayacak."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WILL she BE beautiful?",
+                "turkish":"Güzel olacak mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WON'T she BE beautiful?",
+                "turkish":"Güzel olmayacak mı?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence":[
+            {
+                "english":"It WILL BE perfect",
+                "turkish":"Mükemmel olacak."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"It WON'T BE perfect",
+                "turkish":"Mükemmel olmayacak."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WILL it BE perfect?",
+                "turkish":"Mükemmel olacak mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WON'T it BE perfect?",
+                "turkish":"Mükemmel olmayacak mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"We WILL BE calm",
+                "turkish":"Sakin olacağız."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"We WON'T BE calm",
+                "turkish":"Sakin olmayacağız."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WILL we BE calm?",
+                "turkish":"Sakin olacak mıyız?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WON'T we BE calm?",
+                "turkish":"Sakin olmayacak mıyız?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"You WILL BE successful",
+                "turkish":"Başarılı olacaksınız."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"You WON'T BE successful",
+                "turkish":"Başarılı olmayacaksınız."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WILL you BE successful?",
+                "turkish":"Başarılı olacak mısınız?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WON'T you BE successful?",
+                "turkish":"Başarılı olmayacak mısınız?"
+            }
+        ]
+    }
+]

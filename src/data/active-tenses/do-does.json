@@ -1,0 +1,215 @@
+[
+    {
+
+        "positiveSentence":[
+            {
+                "english":"I speak",
+                "turkish":"Konuşurum."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"I DON'T speak",
+                "turkish":"Konuşmam."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DO I speak?",
+                "turkish":"Konuşur muyum?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DON'T I speak?",
+                "turkish":"Konuşmaz mıyım?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"You ask",
+                "turkish":"Sorarsın"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"You DON'T ask",
+                "turkish":"Sormazsın"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DO you ask?",
+                "turkish":"Sorar mısın?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DON'T you ask?",
+                "turkish":"Sormaz mısın?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"He tells",
+                "turkish":"Anlatır"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"He DOESN'T tell",
+                "turkish":"Anlatmaz"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DOES he tell?",
+                "turkish":"Anlatır mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DOESN'T he tell?",
+                "turkish":"Anlatmaz mı?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence":[
+            {
+                "english":"She listens",
+                "turkish":"Dinler"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"She DOESN'T listen",
+                "turkish":"Dinlemez"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DOES she listen?",
+                "turkish":"Dinler mi?"
+            }
+        
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DOESN'T she listen?",
+                "turkish":"Dinlemez mi?"
+            }
+        
+        ]
+    },
+
+    {
+        "positiveSentence":[
+            {
+                "english":"It barks",
+                "turkish":"Havlar"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"It DOESN'T bark",
+                "turkish":"Havlamaz"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DOES it bark?",
+                "turkish":"Havlar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DOESN'T it bark?",
+                "turkish":"Havlamaz mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"We teach",
+                "turkish":"Öğretiriz"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"We DON'T teach",
+                "turkish":"Öğretmeyiz."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DO we teach?",
+                "turkish":"Öğretir miyiz?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DON'T we teach?",
+                "turkish":"Öğretmez miyiiz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"You learn",
+                "turkish":"Öğrenirsiniz"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"You DON'T learn",
+                "turkish":"Öğrenmezsiniz"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DO you learn?",
+                "turkish":"Öğrenir misiniz?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DON'T you learn?",
+                "turkish":"Öğrenmez misiniz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"They work.",
+                "turkish":"Çalışırlar"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"They DON'T work",
+                "turkish":"Çalışmazlar."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DO they work?",
+                "turkish":"Çalışırlar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DON'T they work?",
+                "turkish":"Çalışmazlar mı?"
+            }
+        ]
+    }
+]

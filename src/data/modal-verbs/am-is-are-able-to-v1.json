@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I AM ABLE TO speak.",
+                "turkish": "Konuşabilirim. / Konuşabiliyorum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I AM NOT ABLE TO speak.",
+                "turkish": "Konuşamam. / Konuşamıyorum."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "AM I ABLE TO speak?",
+                "turkish": "Konuşabilir miyim? / Konuşabiliyor muyum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AM I NOT ABLE TO speak?",
+                "turkish": "Konuşamaz mıyım? / Konuşamıyor muyum?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You ARE ABLE TO ask",
+                "turkish": "Sorabilirsin. / Sorabiliyorsun."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You AREN'T ABLE TO ask",
+                "turkish": "Soramazsın. / Soramıyorsun."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "ARE YOU ABLE TO ask?",
+                "turkish": "Sorabilir misin? / Sorabiliyor musun?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AREN'T YOU ABLE TO ask?",
+                "turkish": "Soramaz mısın? / Soramıyor musun?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He IS ABLE TO tell.",
+                "turkish": "Anlatabilir. / Anlatabiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He ISN'T ABLE TO tell.",
+                "turkish": "Anlatamaz. / Anlatamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "IS HE ABLE TO tell?",
+                "turkish": "Anlatabilir mi? / Anlatabiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "ISN'T HE ABLE TO tell?",
+                "turkish": "Anlatamaz mı? / Anlatamıyor mu?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She IS ABLE TO listen.",
+                "turkish": "Dinleyebilir. / Dinleyebiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She ISN’T ABLE TO listen.",
+                "turkish": "Dinleyemez. / Dinleyemiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "IS she ABLE TO listen?",
+                "turkish": "Dinleyebilir mi? / Dinleyebiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "ISN’T she ABLE TO listen?",
+                "turkish": "Dinleyemez mi? / Dinleyemiyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It IS ABLE TO bark.",
+                "turkish": "Havlayabilir. / Havlayabiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It ISN’T ABLE TO bark.",
+                "turkish": "Havlayamaz. / Havlayamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "IS it ABLE TO bark?",
+                "turkish": "Havlayabilir mi? / Havlayabiliyor mu?"
+            }
+         ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "ISN’T it ABLE TO bark?",
+                "turkish": "Havlayamaz mı? / Havlayamıyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We ARE ABLE TO teach.",
+                "turkish": "Öğretebiliriz. / Öğretebiliyoruz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We AREN’T ABLE TO teach.",
+                "turkish": "Öğretemeyiz. / Öğretemiyoruz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "ARE we ABLE TO teach?",
+                "turkish": "Öğretebilir miyiz? / Öğretebiliyor muyuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AREN’T we ABLE TO teach?",
+                "turkish": "Öğretemez miyiz? / Öğretemiyor muyuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You ARE ABLE TO learn.",
+                "turkish": "Öğrenebilirsiniz. / Öğrenebiliyorsunuz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You AREN’T ABLE TO learn.",
+                "turkish": "Öğrenemezsiniz. / Öğrenemiyorsunuz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "ARE you ABLE TO learn?",
+                "turkish": "Öğrenebilir misiniz? / Öğrenebiliyor musunuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AREN’T you ABLE TO learn?",
+                "turkish": "Öğrenemez misiniz? / Öğrenemiyor musunuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They ARE ABLE TO work.",
+                "turkish": "Çalışabilirler. / Çalışabiliyorlar."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They AREN’T ABLE TO work.",
+                "turkish": "Çalışamazlar. / Çalışamıyorlar."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "ARE they ABLE TO work?",
+                "turkish": "Çalışabilirler mi? / Çalışabiliyorlar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AREN’T they ABLE TO work?",
+                "turkish": "Çalışamazlar mı? / Çalışamıyorlar mı?"
+            }
+        ]
+    }
+]

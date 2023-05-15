@@ -1,0 +1,210 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I HAD BEEN speakING for months.",
+                "turkish": "Aylardır konuşuyordum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I HADN'T BEEN speakING for months.",
+                "turkish": "Aylardır konuşmuyordum."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD I BEEN speakING for months?",
+                "turkish": "Aylardır konuşuyor muydum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HADN'T I BEEN speakING for months?",
+                "turkish": "Aylardır konuşmuyor muydum?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You HAD BEEN askING since 2002.",
+                "turkish": "2002'den beri soruyordun."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You HADN'T BEEN askING since 2002.",
+                "turkish": "2002'den beri sormuyordun."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD YOU BEEN askING since 2002?",
+                "turkish": "2002'den beri soruyor muydun?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HADN'T YOU BEEN askING since 2002?",
+                "turkish": "2002'den beri sormuyor muydun?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He HAD BEEN tellING for two hours.",
+                "turkish": "İki saattir anlatıyordu."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He HADN'T BEEN tellING for two hours.",
+                "turkish": "İki saattir anlatmıyordu."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD HE BEEN tellING for two hours?",
+                "turkish": "İki saattir anlatıyor muydu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HADN'T HE BEEN tellING for two hours?",
+                "turkish": "İki saattir anlatmıyor muydu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "She HAD BEEN listenING for years.",
+                "turkish": "Yıllardır dinliyordu."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She HADN'T BEEN listenING for years.",
+                "turkish": "Yıllardır dinlemiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD SHE BEEN listenING for years?",
+                "turkish": "Yıllardır dinliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HADN'T SHE BEEN listenING for years?",
+                "turkish": "Yıllardır dinlemiyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It HAD BEEN barkING for minutes.",
+                "turkish": "Dakikalarca havlıyordu."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It HADN'T BEEN barkING for minutes.",
+                "turkish": "Dakikalarca havlamıyordu."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD IT BEEN barkING for minutes?",
+                "turkish": "Dakikalarca havlıyor muydu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HADN'T IT BEEN barkING for minutes?",
+                "turkish": "Dakikalarca havlamıyor muydu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We HAD BEEN teachING since April.",
+                "turkish": "Nisan'dan beri öğretiyorduk."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We HADN'T BEEN teachING since April.",
+                "turkish": "Nisan'dan beri öğretmiyorduk."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD WE BEEN teachING since April?",
+                "turkish": "Nisan'dan beri öğretiyor muyduk?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HADN'T WE BEEN teachING since April?",
+                "turkish": "Nisan'dan beri öğretmiyor muyduk?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You HAD BEEN learnING for days.",
+                "turkish": "Günlerdir öğreniyordunuz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You HADN'T BEEN learnING for days.",
+                "turkish": "Günlerdir öğrenmiyordunuz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD YOU BEEN learnING for days?",
+                "turkish": "Günlerdir öğreniyor muydunuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HADN'T YOU BEEN learnING for days?",
+                "turkish": "Günlerdir öğrenmiyor muydunuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They HAD BEEN workING for weeks.",
+                "turkish": "Haftalardır çalışıyorlardı."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They HADN'T BEEN workING for weeks.",
+                "turkish": "Haftalardır çalışmıyorlardı."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD THEY BEEN workING for weeks?",
+                "turkish": "Haftalardır çalışıyorlar mıydı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HADN'T THEY BEEN workING for weeks?",
+                "turkish": "Haftalardır çalışmıyorlar mıydı?"
+            }
+        ]
+    }
+]

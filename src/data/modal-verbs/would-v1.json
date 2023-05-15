@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I WOULD speak.",
+                "turkish": "Konuşacaktım. / Konuşurdum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I WOULDN'T speak.",
+                "turkish": "Konuşmayacaktım. / Konuşmazdım."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WOULD I speak?",
+                "turkish": "Konuşacak mıydım? / Konuşur muydum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WOULDN'T I speak?",
+                "turkish": "Konuşmayacak mıydım? / Konuşmaz mıydım?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You WOULD ask.",
+                "turkish": "Soracaktın / Sorardın."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You WOULDN'T ask.",
+                "turkish": "Sormayacaktın. / Sormazdın."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WOULD you ask?",
+                "turkish": "Soracak mıydın? / Sorar mıydın?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WOULDN'T you ask?",
+                "turkish": "Sormayacak mıydın? / Sormaz mıydın?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He WOULD tell.",
+                "turkish": "Anlatacaktı. / Anlatırdı."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He WOULDN'T tell.",
+                "turkish": "Anlatmayacaktı. / Anlatmazdı."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WOULD he tell?",
+                "turkish": "Anlatacak mıydı? / Anlatır mıydı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WOULDN'T he tell?",
+                "turkish": "Anlatmayacak mıydı? / Anlatmaz mıydı?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She WOULD listen.",
+                "turkish": "Dinleyecekti. / Dinlerdi."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She WOULDN'T listen.",
+                "turkish": "Dinlemeyecekti. / Dinlemezdi."
+            }
+        ],
+        "questionSentence": [
+            {   
+                "english": "WOULD she listen?",
+                "turkish": "Dinleyecek miydi? / Dinler miydi?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WOULDN'T she listen?",
+                "turkish": "Dinlemeyecek miydi? / Dinlemez miydi?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It WOULD bark.",
+                "turkish": "Havlayacaktı. / Havlardı."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It WOULDN'T bark.",
+                "turkish": "Havlamayacaktı. / Havlamazdı."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WOULD it bark?",
+                "turkish": "Havlayacak mıydı? / Havlar mıydı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WOULDN'T it bark?",
+                "turkish": "Havlamayacak mıydı? / Havlamaz mıydı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We WOULD teach.",
+                "turkish": "Öğretecektik. / Öğretirdik."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We WOULDN'T teach.",
+                "turkish": "Öğretmeyecektik. / Öğretmezdik."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WOULD we teach?",
+                "turkish": "Öğretecek miydik? / Öğretir miydik?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WOULDN'T we teach?",
+                "turkish": "Öğretmeyecek miydik? / Öğretmez miydik?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You WOULD learn.",
+                "turkish": "Öğrenecektiniz. / Öğrenirdiniz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You WOULDN'T learn.",
+                "turkish": "Öğrenmeyecektiniz. / Öğrenmezdiniz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WOULD you learn?",
+                "turkish": "Öğrenecek miydiniz? / Öğrenir miydiniz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WOULDN'T you learn?",
+                "turkish": "Öğrenmeyecek miydiniz? / Öğrenmez miydiniz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They WOULD work.",
+                "turkish": "Çalışacaklardı. / Çalışırlardı."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They WOULDN'T work.",
+                "turkish": "Çalışmayacaklardı. / Çalışmazlardı."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WOULD they work?",
+                "turkish": "Çalışacaklar mıydı? / Çalışırlar mıydı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WOULDN'T they work?",
+                "turkish": "Çalışmayacaklar mıydı? / Çalışmazlar mıydı?"
+            }
+        ]
+    }
+]

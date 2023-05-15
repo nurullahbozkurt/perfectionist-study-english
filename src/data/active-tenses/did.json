@@ -1,0 +1,213 @@
+[
+    {
+
+        "positiveSentence":[
+            {
+                "english":"I spoke",
+                "turkish":"Konuştum."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"I DIDN'T speak",
+                "turkish":"Konuşmadım."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DID I speak?",
+                "turkish":"Konuştum mu?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DIDN'T I speak?",
+                "turkish":"Konuşmadım mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"You asked",
+                "turkish":"Sordun"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"You DIDN'T ask",
+                "turkish":"Sormadın"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DID you ask?",
+                "turkish":"Sordun mu?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DIDN'T you ask?",
+                "turkish":"Sormadın mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"He told",
+                "turkish":"Anlattı"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"He DIDN'T tell",
+                "turkish":"Anlatmadı"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DID he tell?",
+                "turkish":"Anlattı mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DIDN'T he tell?",
+                "turkish":"Anlatmadı mı?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence":[
+            {
+                "english":"She listened",
+                "turkish":"Dinledi"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"She DIDN'T listen",
+                "turkish":"Dinlemedi"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DID she listen?",
+                "turkish":"Dinledi mi?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DIDN'T she listen?",
+                "turkish":"Dinlemedi mi?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence":[
+            {
+                "english":"It barked",
+                "turkish":"Havladı"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"It DIDN'T bark",
+                "turkish":"Havlamadı"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DID it bark?",
+                "turkish":"Havladı mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DIDN'T it bark?",
+                "turkish":"Havlamadı mı?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"We taught",
+                "turkish":"Öğrettik"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"We DIDN'T teach",
+                "turkish":"Öğretmedik"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DID we teach?",
+                "turkish":"Öğrettik mi?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DIDN'T we teach?",
+                "turkish":"Öğretmedik mi?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"You learned",
+                "turkish":"Öğrendiniz"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"You DIDN'T learn",
+                "turkish":"Öğrenmediniz"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DID you learn?",
+                "turkish":"Öğrendiniz mi?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DIDN'T you learn?",
+                "turkish":"Öğrenmediniz mi?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"They worked.",
+                "turkish":"Çalıştılar"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"They DIDN'T work",
+                "turkish":"Çalışmadılar"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"DID they work?",
+                "turkish":"Çalıştılar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"DIDN'T they work?",
+                "turkish":"Çalışmadılar mı?"
+            }
+        ]
+    }
+]

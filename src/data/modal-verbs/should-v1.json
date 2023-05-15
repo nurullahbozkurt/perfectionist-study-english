@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I SHOULD speak.",
+                "turkish": "Konuşmam gerek. / Konuşmam gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I SHOULDN'T speak.",
+                "turkish": "Konuşmamam gerek. / Konuşmamam gerekiyor.."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "SHOULD I speak?",
+                "turkish": "Konuşmam mı gerek? / Konuşmam mı gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "SHOULDN’T I speak?",
+                "turkish": "Konuşmamam mı gerek? / Konuşmamam mı gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You SHOULD ask.",
+                "turkish": "Sorman gerek. / Sorman gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You SHOULDN'T ask.",
+                "turkish": "Sormaman gerek. / Sormaman gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "SHOULD you ask?",
+                "turkish": "Sorman mı gerek? / Sorman mı gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "SHOULDN’T you ask?",
+                "turkish": "Sormaman mı gerek? / Sormaman mı gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He SHOULD tell.",
+                "turkish": "Anlatması gerek. / Anlatması gerekiyor.."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He SHOULDN'T tell.",
+                "turkish": "Anlatmaması gerek. / Anlatmaması gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "SHOULD he tell?",
+                "turkish": "Anlatması gerek? / Anlatması mı gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "SHOULDN'T he tell?",
+                "turkish": "Anlatmaması mı gerek? / Anlatmaması mı gerekiyor?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She SHOULD listen.",
+                "turkish": "Dinlemesi gerek. / Dinlemesi gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She WOULDN’T listen.",
+                "turkish": "Dinlemeyecekti. / Dinlemezdi."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "She SHOULDN’T listen.",
+                "turkish": "Dinlememesi gerek? / Dinlememeesi gerekiyor."
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "She SHOULDN’T listen.",
+                "turkish": "Dinlememesi gerek? / Dinlememesi gerekiyor."
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It SHOULD bark.",
+                "turkish": "Havlaması gerek. / Havlaması gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It SHOULDN’T bark.",
+                "turkish": "Havlamaması gerek. / Havlamaması gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "SHOULD it bark?",
+                "turkish": "Havlaması mı gerek? / Havlaması gerekiyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "SHOULDN’T it bark?",
+                "turkish": "Havlamaması mı gerek? / Havlamaması mı gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We SHOULD teach.",
+                "turkish": "Öğretmemiz gerek. / Öğretmemiz gerekiyor.."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We SHOULDN'T teach.",
+                "turkish": "Öğretmememiz gerek. / Öğretmememiz gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "SHOULD we teach?",
+                "turkish": "Öğretmemiz mi gerek? / Öğretmemiz mi gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "SHOULDN’T we teach?",
+                "turkish": "Öğretmememiz mi gerek? / Öğretmememiz mi gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You SHOULD learn.",
+                "turkish": "Öğrenmeniz gerek. / Öğrenmeniz gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You SHOULDN'T learn.",
+                "turkish": "Öğrenmemeniz gerek. / Öğrenmemeniz gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "SHOULD you learn?",
+                "turkish": "Öğrenmeniz mi gerek? / Öğrenmeniz mi gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "SHOULDN’T you learn?",
+                "turkish": "Öğrenmemeniz mi gerek? / Öğrenmemeniz mi gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They SHOULD work.",
+                "turkish": "Çalışmaları gerek. / Çalışmaları gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They SHOULDN'T work.",
+                "turkish": "Çalışmamaları gerek. / Çalışmamaları gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "SHOULD they work?",
+                "turkish": "Çalışmaları mı gerek? / Çalışmaları mı gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "SHOULDN’T they work?",
+                "turkish": "Çalışmamaları mı gerek? / Çalışmamaları mı gerekiyor?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I COULD speak.",
+                "turkish": "Konuşabildim. / Konuşabiliyordum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I COULDN'T speak.",
+                "turkish": "Konuşamadım. / Konuşamıyordum."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "COULD I speak?",
+                "turkish": "Konuşabildim mi? / Konuşabiliyor muydum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "COULDN’T I speak?",
+                "turkish": "Konuşamadım mı? / Konuşamıyor muydum?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You COULD ask",
+                "turkish": "Sorabildin. / Sorabiliyordun."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You COULDN’T ask",
+                "turkish": "Soramadın. / Soramıyordun."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "COULD you ask?",
+                "turkish": "Sorabildin mi? / Sorabiliyor muydun?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "COULDN’T you ask?",
+                "turkish": "Soramadın mı? / Soramıyor muydu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He COULD tell.",
+                "turkish": "Anlatabildi. / Anlatabiliyordu."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He COULDN’T tell.",
+                "turkish": "Anlatamadı. / Anlatamıyordu."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "COULD he tell?",
+                "turkish": "Anlatabildi mi? / Anlatabiliyor muydu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "COULDN’T he tell?",
+                "turkish": "Anlatamadı mı? / Anlatamıyor muydu?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She COULD listen.",
+                "turkish": "Dinleyebildi. / Dinleyebiliyordu."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She COULDN’T listen.",
+                "turkish": "Dinleyemedi. / Dinleyemiyordu."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "COULD she listen?",
+                "turkish": "Dinleyebildi mi? / Dinleyebiliyordu mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "COULDN’T she listen?",
+                "turkish": "Dinleyemedi mi? / Dinleyemiyor muydu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It COULD bark.",
+                "turkish": "Havlayabildi. / Havlayabiliyordu."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It COULDN’T bark.",
+                "turkish": "Havlayamadı. / Havlayamıyordu."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "COULD it bark?",
+                "turkish": "Havlayabildi mi? / Havlayabiliyordu mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "COULDN’T it bark?",
+                "turkish": "Havlayamadı mı? / Havlayamıyor muydu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We COULD teach.",
+                "turkish": "Öğretebildik. / Öğretebiliyorduk."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We COULDN’T teach.",
+                "turkish": "Öğretemedik. / Öğretemiyorduk."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "COULD we teach?",
+                "turkish": "Öğretebildik mi? / Öğretebiliyorduk mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "COULDN’T we teach?",
+                "turkish": "Öğretemedik mi? / Öğretemiyor muyduk?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You COULD learn.",
+                "turkish": "Öğrenebildiniz. / Öğrenebiliyordunuz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You COULDN’T learn.",
+                "turkish": "Öğrenemediniz. / Öğrenemiyordunuz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "COULD you learn?",
+                "turkish": "Öğrenebildiniz mi? /  Öğrenebiliyor muydunuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "COULDN’T you learn?",
+                "turkish": "Öğrenemediniz mi? / Öğrenemiyor muydunuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They COULD work.",
+                "turkish": "Çalışabildiler. / Çalışabiliyorlardı."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They COULDN’T work.",
+                "turkish": "Çalışamadılar. / Çalışamıyorlardı."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "COULD they work?",
+                "turkish": "Çalışabildiler mi? / Çalışabiliyorlar mıydı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "COULDN’T they work?",
+                "turkish": "Çalışamadılar mı? / Çalışamıyorlar mıydı?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1430 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Believe me.",
+      "englishSentence": "İnan bana.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Call me back.",
+      "englishSentence": "Beni geri ara.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Come with me.",
+      "englishSentence": "Benimle gel.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Give me a hand.",
+      "englishSentence": "Bana el uzat.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Good afternoon.",
+      "englishSentence": "İyi günler.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Good morning.",
+      "englishSentence": "Günaydın.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Good night.",
+      "englishSentence": "İyi geceler.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Have a good trip.",
+      "englishSentence": "İyi yolculuklar.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Have a good weekend.",
+      "englishSentence": "İyi hafta sonları.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "I admire you.",
+      "englishSentence": "Sana hayranım.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "I apologize.",
+      "englishSentence": "Özür dilerim.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "I can’t wait.",
+      "englishSentence": "Bekleyemem.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "I got it.",
+      "englishSentence": "Anladım / Aldım.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "I hate you!",
+      "englishSentence": "Senden nefret ediyorum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "I hope so.",
+      "englishSentence": "Umarım.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "I knew it.",
+      "englishSentence": "Biliyordum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "I love you.",
+      "englishSentence": "Seni seviyorum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "I think so.",
+      "englishSentence": "Sanırım.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "I would love to.",
+      "englishSentence": "Çok isterim.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "I’m busy.",
+      "englishSentence": "Meşgulüm.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "I’m sorry.",
+      "englishSentence": "Üzgünüm.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "I’m tired.",
+      "englishSentence": "Yorgunum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "I’m good.",
+      "englishSentence": "İyiyim.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Join me.",
+      "englishSentence": "Katıl bana.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Let’s catch up!",
+      "englishSentence": "Hadi arayı kapatalım.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Let’s do it!",
+      "englishSentence": "Hadi yapalım.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Nice to meet you.",
+      "englishSentence": "Tanıştığıma memnun oldum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "See you later.",
+      "englishSentence": "Sonra görüşürüz.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Talk to you tomorrow.",
+      "englishSentence": "Yarın konuşuruz.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Thank you very much.",
+      "englishSentence": "Çok teşekkür ederim.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Your turn.",
+      "englishSentence": "Senin sıran.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "I don’t understand.",
+      "englishSentence": "Anlamıyorum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "I have no idea.",
+      "englishSentence": "Hiçbir fikrim yok.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "I don’t believe you.",
+      "englishSentence": "Sana inanmıyorum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "I am not hungry.",
+      "englishSentence": "Aç değilim.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "I don’t know.",
+      "englishSentence": "Bilmiyorum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "I don’t care.",
+      "englishSentence": "Umrumda değil.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "I don't have time.",
+      "englishSentence": "Zamanım yok.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "I don’t agree.",
+      "englishSentence": "Katılmıyorum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "I don’t want to.",
+      "englishSentence": "İstemiyorum.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Don’t move.",
+      "englishSentence": "Kıpırdama.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Don’t worry.",
+      "englishSentence": "Endişelenme.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Not yet.",
+      "englishSentence": "Daha değil.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "It doesn’t matter.",
+      "englishSentence": "Fark etmez.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Can you help me please?",
+      "englishSentence": "Lütfen bana yardım eder misin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "What’s your name?",
+      "englishSentence": "Adın ne?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "How are you?",
+      "englishSentence": "Nasılsın?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Where are you from?",
+      "englishSentence": "Nerelisin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Are you coming?",
+      "englishSentence": "Geliyor musun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Are you hungry?",
+      "englishSentence": "Aç mısın?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Are you lost?",
+      "englishSentence": "Kayıp mı oldun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Are you not feeling well?",
+      "englishSentence": "Kendini iyi hissetmiyor musun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "What happened?",
+      "englishSentence": "Ne oldu?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Are you okay?",
+      "englishSentence": "İyi misin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Are you kidding me?",
+      "englishSentence": "Benimle dalga mı geçiyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "What time is it?",
+      "englishSentence": "Saat kaç?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "For what?",
+      "englishSentence": "Ne için?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Guess what?",
+      "englishSentence": "Tahmin et, ne oldu?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "What?",
+      "englishSentence": "Ne?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Who?",
+      "englishSentence": "Kim?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "When?",
+      "englishSentence": "Ne zaman?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Why?",
+      "englishSentence": "Neden?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Why not?",
+      "englishSentence": "Neden olmasın?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Allow me",
+      "englishSentence": "Bana izin ver",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Be calm!",
+      "englishSentence": "Sakin ol!",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Be careful!",
+      "englishSentence": "Dikkatli ol!",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Be patient!",
+      "englishSentence": "Sabırlı ol!",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Be quiet!",
+      "englishSentence": "Sessiz ol",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Believe me",
+      "englishSentence": "İnan bana",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Bless you!",
+      "englishSentence": "Çok yasa!",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Bottoms up!",
+      "englishSentence": "Şerefe!",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Call me back",
+      "englishSentence": "Beni geri ara",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Call me later",
+      "englishSentence": "Beni daha sonra ara",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Cheer up!",
+      "englishSentence": "Neşelen",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Come on",
+      "englishSentence": "Hadi ama",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Come with me",
+      "englishSentence": "Benimle gel",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Congratulations!",
+      "englishSentence": "Tebrikler!",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Count me on, Count me in",
+      "englishSentence": "Ben varım, beni de sayın",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Do me a favor",
+      "englishSentence": "Bana bir iyilik yap",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Enjoy yourself",
+      "englishSentence": "Eğlenmene bak",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Excuse me Sir",
+      "englishSentence": "Affedersiniz efendim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Follow me",
+      "englishSentence": "Beni takip et",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Forget it!",
+      "englishSentence": "Unut gitsin",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Forgive me",
+      "englishSentence": "Beni affet",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Give me a hand",
+      "englishSentence": "Bana el uzat, bana yardımcı ol",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Good afternoon",
+      "englishSentence": "İyi günler",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Good job!",
+      "englishSentence": "İyi iş",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Good luck!",
+      "englishSentence": "İyi şanslar",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Good morning",
+      "englishSentence": "Günaydın",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Good night",
+      "englishSentence": "İyi geceler",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Goodbye",
+      "englishSentence": "Hoşça kal",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Have a good trip",
+      "englishSentence": "İyi yolculuklar",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Have a good weekend",
+      "englishSentence": "İyi hafta sonları",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Have fun",
+      "englishSentence": "İyi eğlenceler",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Help yourself",
+      "englishSentence": "Buyurun",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Hurry up",
+      "englishSentence": "Acele et",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "I admire you",
+      "englishSentence": "Sana hayranım",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "I agree with you",
+      "englishSentence": "Sana katılıyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "I am home",
+      "englishSentence": "Ben evdeyim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "I am hungry",
+      "englishSentence": "Açım",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 101,
+      "turkishSentence": "I am lost",
+      "englishSentence": "Ben kayboldum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 102,
+      "turkishSentence": "I am serious",
+      "englishSentence": "Ben ciddiyim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 103,
+      "turkishSentence": "I am sure",
+      "englishSentence": "Eminim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 104,
+      "turkishSentence": "I apologize",
+      "englishSentence": "Özür dilerim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 105,
+      "turkishSentence": "I got it",
+      "englishSentence": "Anladım",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 106,
+      "turkishSentence": "I hate you!",
+      "englishSentence": "Senden nefret ediyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 107,
+      "turkishSentence": "I have no idea",
+      "englishSentence": "Hiçbir fikrim yok",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 108,
+      "turkishSentence": "I hope so",
+      "englishSentence": "Umarım",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 109,
+      "turkishSentence": "I knew it",
+      "englishSentence": "Biliyordum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 110,
+      "turkishSentence": "I know",
+      "englishSentence": "Biliyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 111,
+      "turkishSentence": "I love you",
+      "englishSentence": "Seni seviyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 112,
+      "turkishSentence": "I promise",
+      "englishSentence": "Söz veriyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 113,
+      "turkishSentence": "I think so",
+      "englishSentence": "Sanırım",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 114,
+      "turkishSentence": "I will be back",
+      "englishSentence": "Geri döneceğim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 115,
+      "turkishSentence": "I wish you all the best",
+      "englishSentence": "Her şeyin gönlünce olması dileğiyle",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 116,
+      "turkishSentence": "I would love to",
+      "englishSentence": "Çok isterim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 117,
+      "turkishSentence": "I’m busy",
+      "englishSentence": "Meşgulüm",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 118,
+      "turkishSentence": "I’m good",
+      "englishSentence": "İyiyim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 119,
+      "turkishSentence": "I’m sorry",
+      "englishSentence": "Üzgünüm",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 120,
+      "turkishSentence": "I’m tired",
+      "englishSentence": "Yorgunum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 121,
+      "turkishSentence": "I’m sorry",
+      "englishSentence": "Üzgünüm, affedersiniz",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 122,
+      "turkishSentence": "It is beyond me",
+      "englishSentence": "Bu beni aşar",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 123,
+      "turkishSentence": "It’s okay",
+      "englishSentence": "Her şey yolunda",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 124,
+      "turkishSentence": "It’s so good to see you again",
+      "englishSentence": "Seni tekrar görmek çok güzel",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 125,
+      "turkishSentence": "Join me",
+      "englishSentence": "Katıl bana",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 126,
+      "turkishSentence": "Keep in touch",
+      "englishSentence": "İletişimi koparmayalım",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 127,
+      "turkishSentence": "Keep it up",
+      "englishSentence": "Aynen devam et",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 128,
+      "turkishSentence": "Let’s catch up!",
+      "englishSentence": "Hadi arayı kapatalım",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 129,
+      "turkishSentence": "Let’s do it!",
+      "englishSentence": "Hadi yapalım.",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 130,
+      "turkishSentence": "Line up",
+      "englishSentence": "Sıraya gir",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 131,
+      "turkishSentence": "Long time no talk",
+      "englishSentence": "Konuşmayalı uzun zaman oldu",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 132,
+      "turkishSentence": "My battery is low",
+      "englishSentence": "Şarjım az kaldı",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 133,
+      "turkishSentence": "Nice to meet you",
+      "englishSentence": "Tanıştığıma memnun oldum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 134,
+      "turkishSentence": "Of course",
+      "englishSentence": "Tabii ki, Elbette",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 135,
+      "turkishSentence": "See you",
+      "englishSentence": "Görüşürüz",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 136,
+      "turkishSentence": "See you later",
+      "englishSentence": "Sonra görüşürüz",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 137,
+      "turkishSentence": "See you next time",
+      "englishSentence": "Bir dahaki sefere görüşürüz",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 138,
+      "turkishSentence": "See you tomorrow",
+      "englishSentence": "Yarın görüşürüz",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 139,
+      "turkishSentence": "Slow down",
+      "englishSentence": "Yavaşla",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 140,
+      "turkishSentence": "Take care",
+      "englishSentence": "Kendine iyi bak",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 141,
+      "turkishSentence": "Talk to you tomorrow",
+      "englishSentence": "Yarın konuşuruz",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 142,
+      "turkishSentence": "Thank you very much",
+      "englishSentence": "Çok teşekkür ederim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 143,
+      "turkishSentence": "That’s all for now",
+      "englishSentence": "Şimdilik bu kadar",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 144,
+      "turkishSentence": "This way",
+      "englishSentence": "Buradan",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 145,
+      "turkishSentence": "Try again",
+      "englishSentence": "Tekrar dene",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 146,
+      "turkishSentence": "You are going too fast",
+      "englishSentence": "Çok hızlı gidiyorsun",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 147,
+      "turkishSentence": "You are welcome",
+      "englishSentence": "Rica ederim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 148,
+      "turkishSentence": "Your turn",
+      "englishSentence": "Senin sıran",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 149,
+      "turkishSentence": "Don’t be ridiculous",
+      "englishSentence": "Komik olma",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 150,
+      "turkishSentence": "Don’t be so childish",
+      "englishSentence": "Çocuk olma",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 151,
+      "turkishSentence": "Don’t be so modest",
+      "englishSentence": "Alçak gönüllü olma",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 152,
+      "turkishSentence": "Don’t keep the truth from me",
+      "englishSentence": "Benden gerçekleri saklama",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 153,
+      "turkishSentence": "Don’t let me down",
+      "englishSentence": "Beni hayal kırıklığına uğratma",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 154,
+      "turkishSentence": "Don’t move",
+      "englishSentence": "Kıpırdama",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 155,
+      "turkishSentence": "Don’t touch me",
+      "englishSentence": "Dokunma bana",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 156,
+      "turkishSentence": "Don’t worry",
+      "englishSentence": "Endişelenme",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 157,
+      "turkishSentence": "I am not hungry",
+      "englishSentence": "Aç değilim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 158,
+      "turkishSentence": "I can’t wait",
+      "englishSentence": "Bekleyemem",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 159,
+      "turkishSentence": "I don’t agree",
+      "englishSentence": "Katılmıyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 160,
+      "turkishSentence": "I don’t believe you",
+      "englishSentence": "Sana inanmıyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 161,
+      "turkishSentence": "I don’t care",
+      "englishSentence": "Umrumda değil",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 162,
+      "turkishSentence": "I don’t know",
+      "englishSentence": "Bilmiyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 163,
+      "turkishSentence": "I don’t mean it",
+      "englishSentence": "Onu demek istemedim",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 164,
+      "turkishSentence": "I don’t understand",
+      "englishSentence": "Anlamadım",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 165,
+      "turkishSentence": "I don’t want to",
+      "englishSentence": "İstemiyorum",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 166,
+      "turkishSentence": "I don’t have time",
+      "englishSentence": "Zamanım yok",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 167,
+      "turkishSentence": "I have no idea",
+      "englishSentence": "Hiçbir fikrim yok",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 168,
+      "turkishSentence": "It doesn’t matter",
+      "englishSentence": "Fark etmez",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 169,
+      "turkishSentence": "Not at all",
+      "englishSentence": "Önemli değil",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 170,
+      "turkishSentence": "Not bad",
+      "englishSentence": "Kötü değil",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 171,
+      "turkishSentence": "Not yet",
+      "englishSentence": "Daha değil",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 172,
+      "turkishSentence": "Anything else?",
+      "englishSentence": "Başka bir şey var mı?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 173,
+      "turkishSentence": "Are you coming with me?",
+      "englishSentence": "Benimle geliyor musun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 174,
+      "turkishSentence": "Are you coming?",
+      "englishSentence": "Geliyor musun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 175,
+      "turkishSentence": "Are you done?",
+      "englishSentence": "Bitirdin mi?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 176,
+      "turkishSentence": "Are you hungry?",
+      "englishSentence": "Aç mısın?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 177,
+      "turkishSentence": "Are you kidding me?",
+      "englishSentence": "Benimle dalga mı geçiyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 178,
+      "turkishSentence": "Are you lost?",
+      "englishSentence": "Kayıp mı oldun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 179,
+      "turkishSentence": "Are you not feeling well?",
+      "englishSentence": "Kendini iyi hissetmiyor musun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 180,
+      "turkishSentence": "Are you okay?",
+      "englishSentence": "İyi misin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 181,
+      "turkishSentence": "Are you sure?",
+      "englishSentence": "Emin misin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 182,
+      "turkishSentence": "Can I ask you something?",
+      "englishSentence": "Sana bir şey sorabilir miyim?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 183,
+      "turkishSentence": "Can I help you?",
+      "englishSentence": "Yardım edebilir miyim?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 184,
+      "turkishSentence": "Can you help me please?",
+      "englishSentence": "Lütfen bana yardım eder misin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 185,
+      "turkishSentence": "Can you please repeat that?",
+      "englishSentence": "Lütfen tekrar eder misin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 186,
+      "turkishSentence": "Can you repeat it?",
+      "englishSentence": "Tekrar edebilir misin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 187,
+      "turkishSentence": "Did you get it?",
+      "englishSentence": "Aldın mı? / Anladın mı?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 188,
+      "turkishSentence": "Did you lose your bag?",
+      "englishSentence": "Çantanızı mı kaybettiniz?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 189,
+      "turkishSentence": "Do l have to?",
+      "englishSentence": "Yapmak zorunda mıyım?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 190,
+      "turkishSentence": "Do you need anything?",
+      "englishSentence": "Bir şeye ihtiyacın var mı?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 191,
+      "turkishSentence": "Do you speak our language?",
+      "englishSentence": "Dilimizi konuşabiliyor musunuz?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 192,
+      "turkishSentence": "Do you understand?",
+      "englishSentence": "Anlıyor musun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 193,
+      "turkishSentence": "Do you want it?",
+      "englishSentence": "Bunu istiyor musun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 194,
+      "turkishSentence": "Do you want something?",
+      "englishSentence": "Bir şey ister misin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 195,
+      "turkishSentence": "Excuse me?",
+      "englishSentence": "Bakar mısınız?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 196,
+      "turkishSentence": "For what?",
+      "englishSentence": "Ne için?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 197,
+      "turkishSentence": "Guess what?",
+      "englishSentence": "Tahmin et, ne oldu?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 198,
+      "turkishSentence": "How are things doing?",
+      "englishSentence": "İşler nasıl gidiyor?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 199,
+      "turkishSentence": "How are you?",
+      "englishSentence": "Nasılsın?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 200,
+      "turkishSentence": "How do you feel?",
+      "englishSentence": "Ne hissediyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 201,
+      "turkishSentence": "How much is it?",
+      "englishSentence": "Fiyatı ne kadar?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 202,
+      "turkishSentence": "How much?",
+      "englishSentence": "Ne kadar?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 203,
+      "turkishSentence": "How old are you?",
+      "englishSentence": "Kaç yaşındasın?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 204,
+      "turkishSentence": "How was your weekend?",
+      "englishSentence": "Hafta sonun nasıldı?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 205,
+      "turkishSentence": "Is all good?",
+      "englishSentence": "Her şey iyi mi?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 206,
+      "turkishSentence": "Is everything OK?",
+      "englishSentence": "Her şey yolunda mı?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 207,
+      "turkishSentence": "Is it true or false?",
+      "englishSentence": "Doğru mu yanlış mı?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 208,
+      "turkishSentence": "What are you doing?",
+      "englishSentence": "Ne yapıyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 209,
+      "turkishSentence": "What are you talking about?",
+      "englishSentence": "Neyden bahsediyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 210,
+      "turkishSentence": "What are you up to?",
+      "englishSentence": "Neler yapıyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 211,
+      "turkishSentence": "What are your hobbies?",
+      "englishSentence": "Hobilerin neler?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 212,
+      "turkishSentence": "What did you say?",
+      "englishSentence": "Ne dedin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 213,
+      "turkishSentence": "What do you need?",
+      "englishSentence": "Neye ihtiyacın var?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 214,
+      "turkishSentence": "What do you think?",
+      "englishSentence": "Ne düşünüyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 215,
+      "turkishSentence": "What do you want to do?",
+      "englishSentence": "Ne yapmak istersin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 216,
+      "turkishSentence": "What else?",
+      "englishSentence": "Başka",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 217,
+      "turkishSentence": "What happened?",
+      "englishSentence": "Ne oldu?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 218,
+      "turkishSentence": "What is the matter?",
+      "englishSentence": "Sorun nedir?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 219,
+      "turkishSentence": "What time is it?",
+      "englishSentence": "Saat kaç?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 220,
+      "turkishSentence": "What’s going on?",
+      "englishSentence": "Neler oluyor?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 221,
+      "turkishSentence": "What’s the weather like?",
+      "englishSentence": "Hava nasıl?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 222,
+      "turkishSentence": "What’s up?",
+      "englishSentence": "Ne haber?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 223,
+      "turkishSentence": "What’s wrong with you?",
+      "englishSentence": "Neyin var?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 224,
+      "turkishSentence": "What’s your email address?",
+      "englishSentence": "E-posta adresin ne?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 225,
+      "turkishSentence": "What’s your job?",
+      "englishSentence": "Ne iş yapıyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 226,
+      "turkishSentence": "What’s your name?",
+      "englishSentence": "Adın ne?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 227,
+      "turkishSentence": "What’s your phone number?",
+      "englishSentence": "Telefon numaran ne?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 228,
+      "turkishSentence": "When did you come here?",
+      "englishSentence": "Ne zaman buraya geldin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 229,
+      "turkishSentence": "Where are you from?",
+      "englishSentence": "Nerelisin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 230,
+      "turkishSentence": "Where are you going?",
+      "englishSentence": "Nereye gidiyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 231,
+      "turkishSentence": "Where are you?",
+      "englishSentence": "Neredesin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 232,
+      "turkishSentence": "Where did you get it?",
+      "englishSentence": "Nereden aldın?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 233,
+      "turkishSentence": "Where do you live?",
+      "englishSentence": "Nerede yaşıyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 234,
+      "turkishSentence": "Where have you been all this while",
+      "englishSentence": "Bunca zamandır neredeydin?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 235,
+      "turkishSentence": "Which bus do you want?",
+      "englishSentence": "Hangi otobüsü istiyorsun?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 236,
+      "turkishSentence": "Who are you?",
+      "englishSentence": "Kimsin sen?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 237,
+      "turkishSentence": "Why not?",
+      "englishSentence": "Neden olmasın?",
+      "topic": "dailyEnglishSentences"
+    },
+    {
+      "index": 238,
+      "turkishSentence": "Why are you here?",
+      "englishSentence": "Neden buradasın?",
+      "topic": "dailyEnglishSentences"
+    }
+  ]

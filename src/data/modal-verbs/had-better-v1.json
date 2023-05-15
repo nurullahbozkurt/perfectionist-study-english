@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I HAD BETTER speak.",
+                "turkish": "Konuşsam daha iyi olur."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I HAD BETTER NOT speak.",
+                "turkish": "Konuşmasam daha iyi olur."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD I BETTER speak?",
+                "turkish": "Konuşsam daha iyi olur mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HAD I BETTER NOT speak?",
+                "turkish": "Konuşmasam daha mı iyi olur?"
+            }
+         ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You HAD BETTER ask.",
+                "turkish": "Sorsan daha iyi olur."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You HAD BETTER NOT ask.",
+                "turkish": "Sormasan daha iyi olur."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD you BETTER ask?",
+                "turkish": "Sorsan daha iyi olur mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HAD you BETTER NOT ask?",
+                "turkish": "Sormasan daha mı iyi olur?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He HAD BETTER tell.",
+                "turkish": "Anlatsa daha iyi olur.."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He HAD BETTER NOT tell.",
+                "turkish": "Anlatmasa daha iyi olur."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD he BETTER tell?",
+                "turkish": "Anlatsa daha mı iyi olur?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HAD he BETTER NOT tell?",
+                "turkish": "Anlatmasa daha mı iyi olur?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She HAD BETTER listen.",
+                "turkish": "Dinlese daha iyi olur."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She HAD BETTER NOT listen.",
+                "turkish": "Dinlemese daha iyi olur."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD she BETTER listen?",
+                "turkish": "Dinlese daha mı iyi olur?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HAD she BETTER NOT listen?",
+                "turkish": "Dinlemese daha mı iyi olur?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It HAD BETTER bark.",
+                "turkish": "Havlasa daha iyi olur."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It HAD BETTER NOT bark.",
+                "turkish": "Havlamasa daha iyi olur."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD it BETTER bark?",
+                "turkish": "Havlasa daha mı iyi olur?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HAD it BETTER NOT bark?",
+                "turkish": "Havlamasa daha mı iyi olur?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We HAD BETTER teach.",
+                "turkish": "Öğretsek daha iyi olur."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We HAD BETTER NOT teach.",
+                "turkish": "Öğretmesek daha iyi olur."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD we BETTER teach?",
+                "turkish": "Öğretsek daha mı iyi olur?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HAD we BETTER NOT teach?",
+                "turkish": "Öğretmesek daha mı iyi olur?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You HAD BETTER learn.",
+                "turkish": "Öğrenseniz daha iyi olur."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You HAD BETTER NOT learn.",
+                "turkish": "Öğrenmeseniz daha iyi olur."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD you BETTER learn?",
+                "turkish": "Öğrenseniz daha mı iyi olur?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HAD you BETTER NOT learn?",
+                "turkish": "Öğrenmeseniz daha mı iyi olur?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They HAD BETTER work.",
+                "turkish": "Çalışsalar daha iyi olur."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They HAD BETTER NOT work.",
+                "turkish": "Çalışmasalar daha iyi olur."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "HAD they BETTER work?",
+                "turkish": "Çalışsalar daha mı iyi olur?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "HAD they BETTER NOT work?",
+                "turkish": "Çalışmasalar daha mı iyi olur?"
+            }
+        ]
+    }
+]

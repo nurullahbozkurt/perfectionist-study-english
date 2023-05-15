@@ -1,0 +1,184 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I WAS speaking",
+                "turkish": "Konuşuyordum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I WASN'T speaking.",
+                "turkish": "Konuşmuyordum."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WAS I speaking?",
+                "turkish": "Konuşuyor muydum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WASN'T I speaking?",
+                "turkish": "Konuşmuyor muydum?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You WERE asking",
+                "turkish": "Soruyordun."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You WEREN'T asking.",
+                "turkish": "Sormuyordun."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WERE YOU asking?",
+                "turkish": "Soruyor muydun?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WEREN'T YOU asking?",
+                "turkish": "Sormuyor muydun?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He WAS telling",
+                "turkish": "Anlatıyordu."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He WASN'T telling.",
+                "turkish": "Anlatmıyordu."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WAS HE telling?",
+                "turkish": "Anlatıyor muydu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WASN'T HE telling?",
+                "turkish": "Anlatmıyor muydu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "She WAS listening",
+                "turkish": "Dinliyordu"
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She WASN'T listening.",
+                "turkish": "Dinlemiyordu."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WAS SHE listening?",
+                "turkish": "Dinliyor muydu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WASN'T SHE listening?",
+                "turkish": "Dinlemiyor muydu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It WAS barking",
+                "turkish": "Havlıyordu."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It WASN'T barking.",
+                "turkish": "Havlamıyordu."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WAS IT barking?",
+                "turkish": "Havlıyor muydu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WASN'T IT barking?",
+                "turkish": "Havlamıyor muydu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We WERE teaching",
+                "turkish": "Öğretiorduk."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We WEREN'T teaching.",
+                "turkish": "Öğretmiyorduk."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WERE WE teaching?",
+                "turkish": "Öğretiyor muyduk?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WEREN'T WE teaching?",
+                "turkish": "Öğretmiyor muyduk?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You WERE learning",
+                "turkish": "Öğreniyordunuz"
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You WEREN'T learning.",
+                "turkish": "Öğrenmiyordunuz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "WERE YOU learning?",
+                "turkish": "Öğreniyor muydunuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "WEREN'T YOU learning?",
+                "turkish": "Öğrenmiyor muydunuz?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,602 @@
+[
+  {
+      "index": 1,
+      "turkishSentence": "Johan iki haftadan fazla bir süredir İngiltere'de.",
+      "englishSentence": "Johan has been in England for more than two weeks now.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 2,
+      "turkishSentence": "Peter, dokuz yaşndan beri en iyi arkadaşım.",
+      "englishSentence": "Peter has been my best friend since we were nine years old.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 3,
+      "turkishSentence": "İki saattir sinemada değilim.",
+      "englishSentence": "I haven't been at the cinema for two hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 4,
+      "turkishSentence": "George ve Sally 50 yıldır evliler.",
+      "englishSentence": "George and Sally have been married for 50 years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 5,
+      "turkishSentence": "Genç çocuk dünden beri çok mutlu.",
+      "englishSentence": "The young boy has been very happy since yesterday.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 6,
+      "turkishSentence": "Frank uzun yıllardır bu şirkette.",
+      "englishSentence": "Frank has been at that company for many years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 7,
+      "turkishSentence": "udy ve ben geçen yıldan beri aynı sınıftayız.",
+      "englishSentence": "Judy and I have been in the same class since last year.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 8,
+      "turkishSentence": "Arkadaşlarımız Haziran 'dan beri yaz tatilindeler.",
+      "englishSentence": "Our friends have been on their summer holidays since June.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 9,
+      "turkishSentence": "George, altı yaşından beri iyi bir futbolcu.",
+      "englishSentence": "George has been a good football player since he was six years old.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 10,
+      "turkishSentence": "Köpek üç saattir masanın altında.",
+      "englishSentence": "The dog has been under the table for three hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 11,
+      "turkishSentence": "Arkadaşları arasında yıllardır çok komik.",
+      "englishSentence": "He has been very funny among his friends for years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 12,
+      "turkishSentence": "Kız kardeşim çocukluğundan beri iyi bir yüzücü.",
+      "englishSentence": "My sister has been a good swimmer since she was a child.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 13,
+      "turkishSentence": "Susan, son on aydır teniste iyi.",
+      "englishSentence": "Susan has been good at tennis for last ten months.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 14,
+      "turkishSentence": "Sabahtan beri evde değil.",
+      "englishSentence": "She hasn 't been at home since morning.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 15,
+      "turkishSentence": "Üç yıldır Londra'dayım.",
+      "englishSentence": "I've been in London for three years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 16,
+      "turkishSentence": "Ne kadar süredir yöneticisiniz?",
+      "englishSentence": "How long have you been a manager?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 17,
+      "turkishSentence": "Parası dört yıldır bankada.",
+      "englishSentence": "His money has been in the bank for four years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 18,
+      "turkishSentence": "Bu heykel 1995'ten beri meydanda.",
+      "englishSentence": "This statue has been in the square since 1995.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 19,
+      "turkishSentence": "Teklif haftalardır çekmecede.",
+      "englishSentence": "The proposal has been in the drawer for weeks.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 20,
+      "turkishSentence": "Yıllık plan, beş gündür yöneticinin masasında.",
+      "englishSentence": "The annual plan has been on manager's table for five days.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 21,
+      "turkishSentence": "Üvey kız kardeşi dün geceden beri sınav sonucundan endişeli.",
+      "englishSentence": "Her step sister has been worried about the exam result since last night.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 22,
+      "turkishSentence": "Babamın arkadaşı yedi yıldır emekli.",
+      "englishSentence": "My father's friend has been retired for seven years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 23,
+      "turkishSentence": "Yakın arkadaşı geçen haftadan beri anne.",
+      "englishSentence": "Her close friend has been a mother since last week.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 24,
+      "turkishSentence": "Kitaplar yıllardır rafta.",
+      "englishSentence": "The books have been on the shelf for years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 25,
+      "turkishSentence": "Amaçları beş yıldır sabit.",
+      "englishSentence": "Their ambition has been stable for five years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 26,
+      "turkishSentence": "Ne kadar zamandır tatilde?",
+      "englishSentence": "How long has he been on a holiday?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 27,
+      "turkishSentence": "Son maçtan beri üzgünler.",
+      "englishSentence": "They have been sad since last match.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 28,
+      "turkishSentence": "Mektuplar günlerdir gönderilmeye hazır.",
+      "englishSentence": "The letters have been ready to post for days.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 29,
+      "turkishSentence": "Komşusunun kızı 2015'ten beri doktor.",
+      "englishSentence": "Her neighbor's daughter has been a doctor since 2015.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 30,
+      "turkishSentence": "Kırık telefon iki haftadır çekmecede.",
+      "englishSentence": "The broken phone has been in the drawer for two weeks.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 31,
+      "turkishSentence": "Gazete sabahtan beri kapının önünde mi?",
+      "englishSentence": "Has the newspaper been in front of the door since morning?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 32,
+      "turkishSentence": "Ne kadar zamandır kuaförde?",
+      "englishSentence": "How long has she been in the hairdressser's?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 33,
+      "turkishSentence": "Annesi beş saattir misafirleri ile mi?",
+      "englishSentence": "Has his mother been with her guests for five hours?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 34,
+      "turkishSentence": "Arkadaşları dünden beri okulda değiller.",
+      "englishSentence": "Her friends haven't been at school since yesterday.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 35,
+      "turkishSentence": "Kevin o zamandan beri yönetici değil.",
+      "englishSentence": "Kevin hasn't been a manager since then.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 36,
+      "turkishSentence": "Julia iki yıldır evli değil.",
+      "englishSentence": "Julia hasn't been married for two years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 37,
+      "turkishSentence": "Delegeler sabahtan beri çok önemli bir toplantıdalar.",
+      "englishSentence": "The delegates have been at a very important meeting since morning.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 38,
+      "turkishSentence": "Bu fabrikadaki işçiler iki haftadır grevdeler.",
+      "englishSentence": "The workers in this factory have been on strike for two weeks.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 39,
+      "turkishSentence": "Bilgisayar geçen haftadan beri bozuk.",
+      "englishSentence": "The computer has been broken since last week.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 40,
+      "turkishSentence": "Fiyat listesi üç gündür dosyada.",
+      "englishSentence": "The list of price has been in the file for three days.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 41,
+      "turkishSentence": "Dört saattir hastanede misin?",
+      "englishSentence": "Have you been in hospital for four hours?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 42,
+      "turkishSentence": "Öğleden beri seninle mi?",
+      "englishSentence": "Has she been with you since noon?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 43,
+      "turkishSentence": "Neden saatlerdir burada?",
+      "englishSentence": "Why has he been in here for hours?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 44,
+      "turkishSentence": "Bir saattir tahtada zor sorular var.",
+      "englishSentence": "There have been difficult questions on board for an hour.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 45,
+      "turkishSentence": "Bu restoranın yemekleri yıllardır lezzetli.",
+      "englishSentence": "The meals of this restaurant have been delicious for years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 46,
+      "turkishSentence": "Duvardaki fotoğrafların çerçeveleri haftalardır tozlu.",
+      "englishSentence": "The frames of the photos on the wall have been dusty for weeks.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 47,
+      "turkishSentence": "İlaçlar iki gündür çantanın içinde.",
+      "englishSentence": "The medications have been in the bag for two days.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 48,
+      "turkishSentence": "Onlarla günlerdir mutlu musun?",
+      "englishSentence": "Have you been happy with them for days?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 49,
+      "turkishSentence": "Geçen haftadan beri kötü durumdalar.",
+      "englishSentence": "They have been in a bad situation since last week.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 50,
+      "turkishSentence": "Ofis için kırtasiye malzemeleri dünden beri masanın üzerinde.",
+      "englishSentence": "The stationery tools for the office have been on the desk since yesterday.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 51,
+      "turkishSentence": "En iyi çözüm günlerdir aklında.",
+      "englishSentence": "The best solution has been in his mind for days.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 52,
+      "turkishSentence": "Uçak bileti saat ikiden beri yanında değil.",
+      "englishSentence": "The flight ticket hasn't been with him since two o'clock.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 53,
+      "turkishSentence": "Hastanın raporu dünden beri doktorun masasında.",
+      "englishSentence": "The report of the patient has been on the table of doctor since yesterday.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 54,
+      "turkishSentence": "Son iki yıldır daha zengin.",
+      "englishSentence": "He has been richer for last two years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 55,
+      "turkishSentence": "Geçen Salı'dan beri nerelerdesin?",
+      "englishSentence": "Where have you been since last Tuesday?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 56,
+      "turkishSentence": "Bir aydır salgın nedeniyle evdeler.",
+      "englishSentence": "They have been at home due to epidemic for one month.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 57,
+      "turkishSentence": "Öğretmen üç saattir sınıfta öğrencileriyle birlikte.",
+      "englishSentence": "The teacher has been with her students in the class for three hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 58,
+      "turkishSentence": "Eşyalarımız aylardır depoda.",
+      "englishSentence": "Our goods have been in the storage for months.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 59,
+      "turkishSentence": "Kız kardeşimin arkadaşı on dakikadır arabada değil.",
+      "englishSentence": "My sister's friend hasn 't been in the car for ten minutes.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 60,
+      "turkishSentence": "Sözlük dakikadır masanın üzerinde değil.",
+      "englishSentence": "The dictionary hasn 't been on the desk for minutes.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 61,
+      "turkishSentence": "Bebekleri saatlerdir beşikte.",
+      "englishSentence": "Their baby has been in the cradle for hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 62,
+      "turkishSentence": "İki saattir konserdeler mi?",
+      "englishSentence": "Have they been at the concert for two hours?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 63,
+      "turkishSentence": "Kahvaltı on dakikadır hazır.",
+      "englishSentence": "Breakfast has been ready for ten minutes.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 64,
+      "turkishSentence": "Alışveriş merkezi sabahtan beri çok kalabalık.",
+      "englishSentence": "The mall has been very crowded since morning.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 65,
+      "turkishSentence": "Elleri bir saattir kirli.",
+      "englishSentence": "His hands have been dirty for an hour.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 66,
+      "turkishSentence": "Bir grup insan saatlerdir kamp ateşinin etrafında.",
+      "englishSentence": "A group of people have been around the camp fire for hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 67,
+      "turkishSentence": "Süt yarım saattir buzdolabında.",
+      "englishSentence": "Milk has been in the fridge for half an hour.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 68,
+      "turkishSentence": "Siparişler günlerdir sekreterin bilgisayarında.",
+      "englishSentence": "The orders have been on the secretary's computer for days.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 69,
+      "turkishSentence": "Öğleden beri balkonda mı?",
+      "englishSentence": "Has she been in the balcony since noon?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 70,
+      "turkishSentence": "Arabanın anahtarı iki buçuk saattir cebinde.",
+      "englishSentence": "The key of the car has been in his pocket for two and half hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 71,
+      "turkishSentence": "Biberon on beş dakikadır bulaşık makinesinde.",
+      "englishSentence": "The feeding bottle has been in the dish washer for fifteen minutes.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 72,
+      "turkishSentence": "Ünlü oyuncu üç aydır kanser.",
+      "englishSentence": "The famous actor has been cancer for three months.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 73,
+      "turkishSentence": "O toplantıdaki kararlar yıllardır adil değil.",
+      "englishSentence": "Decisions at that meeting haven't been fair for years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 74,
+      "turkishSentence": "2017'den beri ürünlerden sorumluyum.",
+      "englishSentence": "I have been responsible for products since 2017.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 75,
+      "turkishSentence": "Annesi saat 4'ten beri süpermarkette.",
+      "englishSentence": "His mother has been at the supermarket since four o'clock.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 76,
+      "turkishSentence": "İki saattir dişçide mi?",
+      "englishSentence": "Has she been at the dentist's for two hours?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 77,
+      "turkishSentence": "Dondurma dünden beri derin dondurucuda.",
+      "englishSentence": "Ice-cream has been in deep freeze since yesterday.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 78,
+      "turkishSentence": "Kırılan bardaklar geçen haftadan beri çöp kutusunda.",
+      "englishSentence": "The broken glasses have been in the rubbish box since last week.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 79,
+      "turkishSentence": "Ne zamandır sinemadalar?",
+      "englishSentence": "How long have they been at the cinema?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 80,
+      "turkishSentence": "Bilgisayar yirmi dakikadır açık.",
+      "englishSentence": "The computer has been on for twenty minutes.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 81,
+      "turkishSentence": "Gençliğimden beri ekonomik olarak ailemden bağımsızım.",
+      "englishSentence": "I have been economically independent of my parents since my youth.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 82,
+      "turkishSentence": "Orkestra dört saattir sahnede.",
+      "englishSentence": "The orchestra has been on the stage for four hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 83,
+      "turkishSentence": "Askerler sabahtan beri mevziideler.",
+      "englishSentence": "Soldiers have been in the pit since morning.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 84,
+      "turkishSentence": "Kız kardeşi çocukluğundan beri utangaç.",
+      "englishSentence": "His sister has been shy since her childhood.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 85,
+      "turkishSentence": "Çocuklar beş saattir bahçedeler.",
+      "englishSentence": "The kids have been in the garden for five hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 86,
+      "turkishSentence": "İki yıldır baba değil misin?",
+      "englishSentence": "Haven't you been a father for two years?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 87,
+      "turkishSentence": "Paraları geçen yıldan beri bu bankada değil mi?",
+      "englishSentence": "Hasn't their money been in this bank since last year?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 88,
+      "turkishSentence": "Neden son iki gündür fuarda değiller?",
+      "englishSentence": "Why haven't they been at the fair for last two days?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 89,
+      "turkishSentence": "O şirkette ne kadar süredir mühendis?",
+      "englishSentence": "How long has she been an engineer in that company?",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 90,
+      "turkishSentence": "Doktorlar üç saattir ameliyathanedeler.",
+      "englishSentence": "Doctors have been in the operating room for three hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 91,
+      "turkishSentence": "Takipçileri günlerdir öfkeliler.",
+      "englishSentence": "His followers have been angry for days.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 92,
+      "turkishSentence": "Çoraplar geçen haftadan beri sepette.",
+      "englishSentence": "The socks have been in the basket since last week.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 93,
+      "turkishSentence": "Güzel şarkılar iki saattir en sevdiğim radyo kanalında.",
+      "englishSentence": "Good songs have been on my favorite radio channel for two hours.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 94,
+      "turkishSentence": "Bazı oyuncular yarım saattir yedek kulübesinde.",
+      "englishSentence": "Some players have been on the bench for half an hour.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 95,
+      "turkishSentence": "Son beş yıldır bu şirkette yönetici.",
+      "englishSentence": "He has been an executive in this company for last five years.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 96,
+      "turkishSentence": "Anahtar sabahtan beri yanımda.",
+      "englishSentence": "The key has been with me since moming.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 97,
+      "turkishSentence": "Bilgisayardaki klasörler dünden beri sunum için hazır.",
+      "englishSentence": "The folders on the computer have been ready for the presentation since yesterday.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 98,
+      "turkishSentence": "Bahçedeki çocuk dakikalardır çamur içinde.",
+      "englishSentence": "The child in the garden has been in mud for minutes.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 99,
+      "turkishSentence": "Bu binadaki komşular geçen haftadan beri çok gürültülü.",
+      "englishSentence": "Neighbors in this building have been ver noisy since last week.",
+      "topic": "have been - has been"
+  },
+  {
+      "index": 100,
+      "turkishSentence": "Kırmızı kalemim günlerdir kalem kutusunun içinde değil.",
+      "englishSentence": "My red pencil hasn't been in the pencil case for days.",
+      "topic": "have been - has been"
+  }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I AM speaking.",
+                "turkish": "Konuşuyorum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I AM NOT speaking.",
+                "turkish": "Konuşmuyorum."
+            }
+         ],
+        "questionSentence": [
+            {
+                "english": "AM I speaking?",
+                "turkish": "Konuşuyor muyum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AM I NOT speaking?",
+                "turkish": "Konuşmuyor muyum?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You ARE asking",
+                "turkish": "Soruyorsun."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You AREN'T asking.",
+                "turkish": "Sormuyorsun."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "ARE YOU asking?",
+                "turkish": "Soruyor musun?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AREN'T YOU asking?",
+                "turkish": "Sormuyor musun?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He IS telling",
+                "turkish": "Anlatıyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He IS NOT telling.",
+                "turkish": "Anlatmıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "IS HE telling?",
+                "turkish": "Anlatıyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "ISN'T HE telling?",
+                "turkish": "Anlatmıyor mu?"
+            }
+         ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "She IS listening",
+                "turkish": "Dinliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She IS NOT listening.",
+                "turkish": "Dinlemiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "IS SHE listening?",
+                "turkish": "Dinliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "ISN'T SHE listening?",
+                "turkish": "Dinlemiyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It IS barking",
+                "turkish": "Havlıyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It IS NOT barking.",
+                "turkish": "Havlamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "IS IT barking?",
+                "turkish": "Havlıyor mu?"
+            }
+         ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "ISN'T IT barking?",
+                "turkish": "Havlamıyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We ARE teaching",
+                "turkish": "Öğretiyoruz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We AREN'T teaching.",
+                "turkish": "Öğretmiyoruz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "ARE WE teaching?",
+                "turkish": "Öğretiyor muyuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AREN'T WE teaching?",
+                "turkish": "Öğretmiyor muyuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You ARE learning",
+                "turkish": "Öğreniyorsunuz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You AREN'T learning.",
+                "turkish": "Öğrenmiyorsunuz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "ARE YOU learning?",
+                "turkish": "Öğreniyor musunuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "AREN'T YOU learning?",
+                "turkish": "Öğrenmiyor musunuz?"
+            }
+        ]
+    }
+]

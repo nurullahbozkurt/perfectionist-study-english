@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I MAY speak.",
+                "turkish": "Konuşabilirim. / Konuşabiliyorum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I MAY NOT speak.",
+                "turkish": "Konuşamam. / Konuşamıyorum."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN I speak?",
+                "turkish": "Konuşabilir miyim? / Konuşabiliyor muyum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MAY I NOT speak?",
+                "turkish": "Konuşamaz mıyım? / Konuşamıyor muyum?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You MAY ask",
+                "turkish": "Sorabilirsin. / Sorabiliyorsun."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You MAY NOT ask",
+                "turkish": "Soramazsın. / Soramıyorsun."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MAY you ask?",
+                "turkish": "Sorabilir misin? / Sorabiliyor musun?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MAY you NOT ask?",
+                "turkish": "Soramaz mısın? / Soramıyor musun?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He MAY tell.",
+                "turkish": "Anlatabilir. / Anlatabiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He MAY NOT tell.",
+                "turkish": "Anlatamaz. / Anlatamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MAY he tell?",
+                "turkish": "Anlatabilir mi? / Anlatabiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MAY he NOT tell?",
+                "turkish": "Anlatamaz mı? / Anlatamıyor mu?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She MAY listen.",
+                "turkish": "Dinleyebilir. / Dinleyebiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She MAY NOT listen.",
+                "turkish": "Dinleyemez. / Dinleyemiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MAY she listen?",
+                "turkish": "Dinleyebilir mi? / Dinleyebiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MAY NOT she listen?",
+                "turkish": "Dinleyemez mi? / Dinleyemiyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It MAY bark.",
+                "turkish": "Havlayabilir. / Havlayabiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It MAY NOT bark.",
+                "turkish": "Havlayamaz. / Havlayamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MAY it bark?",
+                "turkish": "Havlayabilir mi? / Havlayabiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MAY it NOT bark?",
+                "turkish": "Havlayamaz mı? / Havlayamıyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We MAY teach.",
+                "turkish": "Öğretebiliriz. / Öğretebiliyoruz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We MAY NOT teach.",
+                "turkish": "Öğretemeyiz. / Öğretemiyoruz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MAY we teach?",
+                "turkish": "Öğretebilir miyiz? / Öğretebiliyor muyuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MAY we NOT teach?",
+                "turkish": "Öğretemez miyiz? / Öğretemiyor muyuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You MAY learn.",
+                "turkish": "Öğrenebilirsiniz. / Öğrenebiliyorsunuz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You MAY NOT learn.",
+                "turkish": "Öğrenemezsiniz. / Öğrenemiyorsunuz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MAY you learn?",
+                "turkish": "Öğrenebilir misiniz? / Öğrenebiliyor musunuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MAY you NOT learn?",
+                "turkish": "Öğrenemez misiniz? / Öğrenemiyor musunuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They MAY work.",
+                "turkish": "Çalışabilirler. / Çalışabiliyorlar."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They MAY NOT work.",
+                "turkish": "Çalışamazlar. / Çalışamıyorlar."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MAY they work?",
+                "turkish": "Çalışabilirler mi? / Çalışabiliyorlar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MAY they NOT work?",
+                "turkish": "Çalışamazlar mı? / Çalışamıyorlar mı?"
+            }
+        ]
+    }
+]

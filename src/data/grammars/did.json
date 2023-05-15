@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Kız kardeşim iki dakika önce dişlerini fırçaladı.",
+      "englishSentence": "My sister brushed her teeth two minutes ago.",
+      "topic": "did"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Greg dün çok iyi oynadı.",
+      "englishSentence": "Greg played so well yesterday.",
+      "topic": "did"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Dün annelerine yardım ettiler.",
+      "englishSentence": "They helped their mother yesterday.",
+      "topic": "did"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Dün beni aradı.",
+      "englishSentence": "She called me yesterday.",
+      "topic": "did"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Susan köpeğini iki gün önce gezdirdi.",
+      "englishSentence": "Susan walked her dog two days ago.",
+      "topic": "did"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Geçen ay arabamızı yıkadık.",
+      "englishSentence": "We washed our car last month.",
+      "topic": "did"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Amcam üç yıl önce sigarayı bıraktı.",
+      "englishSentence": "My uncle stopped smoking three years ago.",
+      "topic": "did"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Küçük bebek bir saat önce çok ağladı.",
+      "englishSentence": "The little baby cried a lot an hour ago.",
+      "topic": "did"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Geçen sene İngilizce okudum.",
+      "englishSentence": "I studied English last year.",
+      "topic": "did"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "John ve Jessie öğretmenlerini sevdiler. (seviyorlardı)",
+      "englishSentence": "John and Jessie liked their teacher.",
+      "topic": "did"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Kardeşim Avrupa'ya bir gezi planladı.",
+      "englishSentence": "My brother planned a trip to Europe.",
+      "topic": "did"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Sınavlarını geçtin.",
+      "englishSentence": "You passed your exams.",
+      "topic": "did"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Çiçekleri suladım.",
+      "englishSentence": "I watered the flowers.",
+      "topic": "did"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Arkadaşlarımdan hiçbiri beni desteklemedi.",
+      "englishSentence": "None of my friends supported me.",
+      "topic": "did"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Benimle sessizce konuştu.",
+      "englishSentence": "He talked to me silently.",
+      "topic": "did"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Annem mücevherlerini kasasında sakladı.",
+      "englishSentence": "My mother kept her jewels in her safe.",
+      "topic": "did"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Doğum günümde evde kalmayı seçtim.",
+      "englishSentence": "I chose to stay at home on my birthday.",
+      "topic": "did"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Teyzeme Noel için bir kartpostal gönderdim.",
+      "englishSentence": "I sent a postcard to my aunt for Christmas.",
+      "topic": "did"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Çok fazla şeker yedikten sonra kendini kötü hissetti.",
+      "englishSentence": "He felt terrible after eating too much sugar.",
+      "topic": "did"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Uzun süre yüzdüler.",
+      "englishSentence": "They swam for a long time.",
+      "topic": "did"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Sarah partiye biraz içki ve cips getirdi.",
+      "englishSentence": "Sarah brought some drinks and chips to the party.",
+      "topic": "did"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Kız kardeşim geçen yıl iki kitap yazdı.",
+      "englishSentence": "My sister wrote two books last year.",
+      "topic": "did"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Kediyi yakalamak için onun peşinden koştular.",
+      "englishSentence": "They ran after the cat to catch it.",
+      "topic": "did"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Her şeyi anladı. (anlıyordu)",
+      "englishSentence": "He understood everything.",
+      "topic": "did"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Peynir almayı unuttuk. (unutuyorduk)",
+      "englishSentence": "We forgot to buy cheese.",
+      "topic": "did"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Dün gereğinden fazla kahve içtiniz.",
+      "englishSentence": "You drank too much coffee yesterday.",
+      "topic": "did"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Arkadaşlarım depremden sonra arabalarında uyudular.",
+      "englishSentence": "My friends slept in their car after the earthquake.",
+      "topic": "did"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Tren erken kalktı.",
+      "englishSentence": "The train left early.",
+      "topic": "did"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Oğlum dün San Francisco'ya uçtu.",
+      "englishSentence": "My son flew to San Francisco yesterday.",
+      "topic": "did"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "İki saat önce duş aldım.",
+      "englishSentence": "I took a shower two hours ago.",
+      "topic": "did"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Paris'te yaşadılar.",
+      "englishSentence": "They lived in Paris.",
+      "topic": "did"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Dün gazeteyi okudu.",
+      "englishSentence": "She read the newspaper yesterday.",
+      "topic": "did"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "TV izlemedim.",
+      "englishSentence": "I didn't watch TV.",
+      "topic": "did"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Sınava çalışmadı.",
+      "englishSentence": "He didn 't study for the exam.",
+      "topic": "did"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Seni aradı mı?",
+      "englishSentence": "Did he call you?",
+      "topic": "did"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Bir şey mi unuttum? (unutuyırdum?)",
+      "englishSentence": "Did I forget something?",
+      "topic": "did"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Film ne zaman başladı?",
+      "englishSentence": "What time did the film start?",
+      "topic": "did"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Duş aldı.",
+      "englishSentence": "He had a shower.",
+      "topic": "did"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Neden geldin?",
+      "englishSentence": "Why did you come?",
+      "topic": "did"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Partiye gitti mi?",
+      "englishSentence": "Did he go to the party?",
+      "topic": "did"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Almanya'da üç hafta kaldık.",
+      "englishSentence": "We stayed in Germany for three weeks.",
+      "topic": "did"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Tiyatroya gitmek istemedim.",
+      "englishSentence": "I didn't want to go to the theatre.",
+      "topic": "did"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Dün gece maça gittiler mi?",
+      "englishSentence": "Did they go to the match last night?",
+      "topic": "did"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Teyzesi hastayken, Sean onu hastanede ziyaret etti.",
+      "englishSentence": "Sean visited his aunt in hospital when she was ill.",
+      "topic": "did"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Aile bize yiyecek ve içecek verdi.",
+      "englishSentence": "The family gave us some food and drink.",
+      "topic": "did"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Çete, şehir merkezindeki iki banka soydu.",
+      "englishSentence": "The gang robbed two banks in the town centre.",
+      "topic": "did"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Yemeğinizi beğendin mi? (beğeniyor muydun?) Hayır, beğenmedim (beğenmiyordum).",
+      "englishSentence": "Did you like your meal? No, I didn't.",
+      "topic": "did"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Tatile kiminle gittiniz?",
+      "englishSentence": "With who did you go on holiday with?",
+      "topic": "did"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Annem Kanada'ya tek başına seyahat etti.",
+      "englishSentence": "My mum travelled to Canada on her own.",
+      "topic": "did"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Kız kardeşime doğum günü için bir şiir yazdım.",
+      "englishSentence": "I wrote a poem for my sister for her birthday.",
+      "topic": "did"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "O kitabı okudun mu?",
+      "englishSentence": "Did you read that book?",
+      "topic": "did"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Dün gece seni hayal ettim!",
+      "englishSentence": "I dreamt about you last night!",
+      "topic": "did"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Okula nerede gittiniz?",
+      "englishSentence": "Where did you go to school?",
+      "topic": "did"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Ne zaman geldi?",
+      "englishSentence": "When did she arrive?",
+      "topic": "did"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Neden bu kadar çok yemek yedi?",
+      "englishSentence": "Why did he eat so much?",
+      "topic": "did"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Dün ne yaptılar?",
+      "englishSentence": "What did they do yesterday?",
+      "topic": "did"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Partide kiminle tanıştınız?",
+      "englishSentence": "Who did you meet at the party?",
+      "topic": "did"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Bu sabah işe nasıl geldi?",
+      "englishSentence": "How did she come to work this morning?",
+      "topic": "did"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Gözlüklerimi nerede bıraktım?",
+      "englishSentence": "Where did I leave my glasses?",
+      "topic": "did"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Dün gece eve ne zaman geldi?",
+      "englishSentence": "When did he get home last night?",
+      "topic": "did"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Dün annemin en sevdiği vazoyu kırdın.",
+      "englishSentence": "You broke my mother's favorite vase yesterday.",
+      "topic": "did"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Geçen hafta yeni bir araba satın aldım.",
+      "englishSentence": "I bought a new car last week.",
+      "topic": "did"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Anneme doğum günü için çiçek verdim.",
+      "englishSentence": "I gave my mother some flowers for her birthday.",
+      "topic": "did"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Öğretmen oldum.",
+      "englishSentence": "I became a teacher.",
+      "topic": "did"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Bana ikinci sorunun cevabını söyledi.",
+      "englishSentence": "He told me the answer of the second question.",
+      "topic": "did"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "İşe nasıl gittiler?",
+      "englishSentence": "How did they go to work?",
+      "topic": "did"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Sam pek konuşmadı.",
+      "englishSentence": "Sam didn't talk much.",
+      "topic": "did"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Eve ne zaman geldiniz?",
+      "englishSentence": "When did you arrive home?",
+      "topic": "did"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Kardeşim bilgisayarlar hakkında çok şey bildi. (biliyordu)",
+      "englishSentence": "My brother knew a lot about computers.",
+      "topic": "did"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Pazar kiliseye gittik.",
+      "englishSentence": "We went to church on Sunday.",
+      "topic": "did"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Sınav için yeterince çalışmadı.",
+      "englishSentence": "She didn 't study enough for the exam.",
+      "topic": "did"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Kız kardeşin uçağı yakaladı mı?",
+      "englishSentence": "Did your sister catch the plane?",
+      "topic": "did"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Yemekleri beğenmediler. (beğenmiyorlardı)",
+      "englishSentence": "They didn 't like the meals.",
+      "topic": "did"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Cathy geçen hafta çamaşır yıkadı mı?",
+      "englishSentence": "Did Cathy do the laundry last week?",
+      "topic": "did"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Çalar saati ayarlamadın.",
+      "englishSentence": "You didn't set the alarm clock.",
+      "topic": "did"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Bay Green dün ne zaman kalktı?",
+      "englishSentence": "When did Mr. Green get up yesterday?",
+      "topic": "did"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Gözlüklerimi nerede buldun?",
+      "englishSentence": "Where did you find my glasses?",
+      "topic": "did"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Alice partiden hoşlanmadı. (hoşlanmıyordu)",
+      "englishSentence": "Alice didn 't enjoy the party.",
+      "topic": "did"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Joseph ne zaman garip bir ses duydu?",
+      "englishSentence": "When did Joseph hear a strange noise?",
+      "topic": "did"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Bay Daniels beni havaalanına götürdü.",
+      "englishSentence": "Mr. Daniels took me to the airport.",
+      "topic": "did"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Dün gece hiç bira içmedim.",
+      "englishSentence": "I didn't drink any beer last night.",
+      "topic": "did"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Şehir merkezinde otobüse bindi.",
+      "englishSentence": "She got on the bus in the centre of the city.",
+      "topic": "did"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Dün kaçta kalktı?",
+      "englishSentence": "What time did he get up yesterday?",
+      "topic": "did"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Trenden nerede indiniz?",
+      "englishSentence": "Where did you get off the train?",
+      "topic": "did"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Victoria'da tren değiştirmedim.",
+      "englishSentence": "I didn't change trains at Victoria.",
+      "topic": "did"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Çok geç uyandık.",
+      "englishSentence": "We woke up very late.",
+      "topic": "did"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Annesine Noel için ne verdi?",
+      "englishSentence": "What did he give his mother for Christmas?",
+      "topic": "did"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Amcam öldüğünde 300 sterlin aldım.",
+      "englishSentence": "I received €300 when my uncle died.",
+      "topic": "did"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Dün gece bilgisayarı kullanmadık.",
+      "englishSentence": "We didn 't use the computer last night.",
+      "topic": "did"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "İyi kahve yaptı mı?",
+      "englishSentence": "Did she make good coffee?",
+      "topic": "did"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Hafta sonu ne yaptınız?",
+      "englishSentence": "What did you do at the weekend?",
+      "topic": "did"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Neden kızdı?",
+      "englishSentence": "Why did she get angry?",
+      "topic": "did"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Daha önce kiminle konuştular?",
+      "englishSentence": "Who did they talk to earlier?",
+      "topic": "did"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Geçen Noel'de ne yaptık?",
+      "englishSentence": "What did we do last Christmas?",
+      "topic": "did"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Doğum günümde neden yağmur yağdı?",
+      "englishSentence": "Why did it rain on my birthday?",
+      "topic": "did"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Nasıl bu kadar çabuk bitirdi?",
+      "englishSentence": "How did she finish so quickly?",
+      "topic": "did"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Geçen hafta dersten sonra nereye gitti?",
+      "englishSentence": "Where did he go after the class last week?",
+      "topic": "did"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Geçen Salı ne yaptım?",
+      "englishSentence": "What did I do last Tuesday?",
+      "topic": "did"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "İşinize ne zaman başladınız?",
+      "englishSentence": "When did you start your job?",
+      "topic": "did"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Buraya nasıl geldi?",
+      "englishSentence": "How did she get here?",
+      "topic": "did"
+    }
+  ]

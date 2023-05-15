@@ -1,0 +1,108 @@
+[
+    {
+
+        "positiveSentence":[
+            {
+                "english":"I WAS happy",
+                "turkish":"Ben mutluydum"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"I WASN'T happy",
+                "turkish":"Ben mutlu değildim"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WAS i happy?",
+                "turkish":"Ben mutlu muydum?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+
+            {
+                "english":"WASN'T i happy?",
+                "turkish":"Ben mutlu değil miydim?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"You were strong",
+                "turkish":"Güçlüydün"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"You were not strong",
+                "turkish":"Güçlü değildin."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"Were you strong?",
+                "turkish":"Güçlü müydün?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WEREN'T you strong?",
+                "turkish":"Güçlü değil miydin?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"He WAS angry.",
+                "turkish":"O kızgın."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"He WASN'T angry.",
+                "turkish":"O kızgın değil."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"WAS he angry?",
+                "turkish":"O kızgın mıydı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"WASN'T he angry?",
+                "turkish":"O kızgın değil miydi?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"They WERE ill.",
+                "turkish":"Hastalardı."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"They AREN'T ill.",
+                "turkish":"Hasta değiller."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"ARE they ill?",
+                "turkish":"Hastalar mıydı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"AREN'T they ill?",
+                "turkish":"Hasta değil miydi?"
+            }
+        ]
+    }
+]

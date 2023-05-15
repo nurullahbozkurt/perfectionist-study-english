@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Beş yıldır burada çalışıyor.",
+      "englishSentence": "She has been working here for five years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Üç saattir Matematik çalışyorum.",
+      "englishSentence": "I have been studying Maths for three hours.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "On dakikadır herkese bağırıyorsun.",
+      "englishSentence": "You have been shouting at everybody for ten minutes.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Altı aydır Londra'da yaşıyoruz.",
+      "englishSentence": "We have been living in London for six months.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Beş yaşından beri futbol oynuyor.",
+      "englishSentence": "He has been playing football since he was five years old.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "İki yıldır İngilizce öğreniyorlar.",
+      "englishSentence": "They have been learning English for two years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Sabahtan beri yemek pişiriyorum.",
+      "englishSentence": "I have been cooking since moming.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Yıllardır her hafta sonu sinemaya gidiyor.",
+      "englishSentence": "She has been going to the cinema every weekend for years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "On dakikadır yağmurda dolaşıyorlar.",
+      "englishSentence": "They have been walking around in rain for ten minutes.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "On iki saattir uyuyorsun.",
+      "englishSentence": "You have been sleeping for twelve hours.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Geçen haftadan beri çalışmıyorum.",
+      "englishSentence": "I haven't been working since last week.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Geçen Perşembe'den beri iyi yemiyorsun.",
+      "englishSentence": "You haven't been eating well since last Thursday.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Bir aydır yeterince egzersiz yapmıyoruz.",
+      "englishSentence": "We haven't been exercising enough for a month.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Yarım saattir ebeveynlerini dinlemiyor.",
+      "englishSentence": "She hasn't been listening to his parents for half an hour.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Çok uzun zamandır burada yaşamıyorlar.",
+      "englishSentence": "They haven 't been living here for very long time.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Beş yıldır burada kar yağmıyor.",
+      "englishSentence": "It hasn't been snowing in here for five years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Beş yıldır futbol oynamıyor.",
+      "englishSentence": "He hasn 't been playing football for five years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Dünden beri yeterince su içmiyoruz.",
+      "englishSentence": "We haven't been drinking enough water since yesterday.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "İki gündür uyumuyorum.",
+      "englishSentence": "I haven't been sleeping for two days.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Geçen aydan beri TV izlemiyorlar.",
+      "englishSentence": "They haven 't been watching TV much since last month.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Baban geçen dönemden beri İngilizce ödevini yapmaya yardım ediyor mu?",
+      "englishSentence": "Has your father helping you do your English homework since last term?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "İki saattir pasta yapmayı mı öğreniyorsun?",
+      "englishSentence": "Have you been learning how to make a cake for two hours?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "İngilizce öğretmenin ders başladığından beri size mi bağırıyor?",
+      "englishSentence": "Has your English teacher been shouting at you since the lesson started?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "İngilizce öğretmenleriniz geçen Çarşamba'dan beri piknik mi düzenliyorlar?",
+      "englishSentence": "Have your English teachers been organizing a picnic since last Wednesday?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Babanız sizi yıllardır tiyatroya götürüyor mu?",
+      "englishSentence": "Has your father been taking you to the theatre for years?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Tanıştığınızdan beri sıra arkadaşın seni kızdırıyor mu?",
+      "englishSentence": "Has your deskmate been making you get angry since you met?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Baban yıllardır doğum gününde hediye alıyor mu?",
+      "englishSentence": "Has your father been buying presents on your birthday for years?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Onunla iki saattir mi konuşuyorsun?",
+      "englishSentence": "Have you been talking to her for two hours?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Baban yedi yıldır aynı şirkette mi çalışıyor?",
+      "englishSentence": "Has your father been working at the same company for seven years?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Kardeşin altı aydır proje üzerinde mi çalışıyor?",
+      "englishSentence": "Has your brother working on the project for six months?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Nasıl araba kullanılacağını mı öğrenmeye çalışıyorsun?",
+      "englishSentence": "Have you been trying to learn how to drive a car?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "İngilizce öğretmenin geçen aydan beri gramer mi öğretiyor?",
+      "englishSentence": "Has your English teacher been teaching grammar since last month?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Satıcıyla on dakikadır pazarlık mı yapıyor?",
+      "englishSentence": "Has he been bargaining with the seller for ten minutes?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Annen yarım saattir sana \"mayonezli kızarmış balık\" mı pişiriyor?",
+      "englishSentence": "Has your mother cooking 'fried fish with mayonnaise\" for you for half an hour?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "İngilizce öğretmenleriniz okul başladığından beri çok ödev veriyorlar mı?",
+      "englishSentence": "Have your English teachers been giving a lot of homework since the school began?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "On beş dakikadır kafesinde bir aslan mı izliyorlar?",
+      "englishSentence": "Have they been watching a lion in its cage for fifteen minutes?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Çocukluğundan beri para kazanıyor musun?",
+      "englishSentence": "Have you been making money since your childhood?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Baban yıllardır sigara kullanıyor mu?",
+      "englishSentence": "Has your father been smoking for years?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Sıra arkadaşın Eylül'den beri malzemelerini mi kullanıyor?",
+      "englishSentence": "Has your deskmate been using your tools since September?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Yıllardır İngilizce sınavlardan en iyi puanları alıyor musun?",
+      "englishSentence": "Have you been getting the best points from the quizzes in English for years?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Pandemi ortaya çıktığından beri baban maske takıyor mu?",
+      "englishSentence": "Has your father been wearing a mask since the pandemia came out?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "On beş yaşından beri tehlikeli bir şeyler mi yapmaya çalışıyorsun?",
+      "englishSentence": "Have you been trying to do something dangerous since you were fifteen years old?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Doğduğumdan beri Roma'da yaşıyorum.",
+      "englishSentence": "I have been living in Rome since I was born.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Üvey babası 1988'den beri çalışmıyor.",
+      "englishSentence": "His step father hasn't been working since 1988.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Geçen yıldan beri bana yazmıyor.",
+      "englishSentence": "She hasn't been writing to me since last year.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "İki yıldır o fabrikada çalışmıyorum.",
+      "englishSentence": "I haven't been working in that factory for two years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Geçen Şubat'tan beri bizi ziyaret etmiyorlar.",
+      "englishSentence": "They haven 't been visiting us since last February.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Yaşadığınız yerde üç yıldır kar yağmıyor mu?",
+      "englishSentence": "Hasn't it been snowing in your town for three years?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Babam geçen yıldan beri çay içmiyor.",
+      "englishSentence": "My father hasn 't been drinking tea since last year.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Geçen aydan beri bu önemli proje üzerinde çalışıyor.",
+      "englishSentence": "He has been working on this important project since last month.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Uzun zamandır Fransızca öğreniyorum.",
+      "englishSentence": "I have been studying French for a long time.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Yıllardır o arabayı kullanmıyor.",
+      "englishSentence": "He hasn't been driving that car for ages.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Bu kravatı bir yılı aşkın süredir takıyorum.",
+      "englishSentence": "I have been wearing this tie for over a year.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "İki yıldır öğretmen olarak çalışıyor.",
+      "englishSentence": "She has been working as a teacher for two years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "İki haftadır futbol oynamıyorlar.",
+      "englishSentence": "They haven 't been playing football for a fortnight.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Yarım saattir sınıfta gürültü yapmıyoruz.",
+      "englishSentence": "We haven't been making a noise in the classroom for half an hour.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Yarım saattir makyaj yapıyor.",
+      "englishSentence": "She has been making up for half an hour.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Onunla saat üçten beri çalışyorum.",
+      "englishSentence": "I have been studying with him since three o'clock.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Dünden beri hiçbir şey yemiyorum.",
+      "englishSentence": "I haven't been eating anything since yesterday.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Geçen Çarşamba'dan beri evimize hiç kimse gelmedi.",
+      "englishSentence": "Nobody has been coming to our house since last Wednesday.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Bu firmayı üç yıldır mı yönetiyor?",
+      "englishSentence": "Has he been running this firm for three years?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Geçen haftadan beri seni aramıyor mu?",
+      "englishSentence": "Hasn't she been calling you since last week?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Çocukluğumdan beri sırlarımı onunla paylaşıyorum.",
+      "englishSentence": "I have been sharing my secrets with him since my childhood.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Öldüğünden beri mirastan mı bahsediyorlar?",
+      "englishSentence": "Have they been talking about the inheritance since he died?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Üç yıldır aynı şeyleri tartışıyor.",
+      "englishSentence": "He has been discussing the same things for three years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "İki haftadır benimle konuşmuyor.",
+      "englishSentence": "She hasn 't been talking to me for two weeks.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "1970'den beri bu sokakta yaşıyorlar.",
+      "englishSentence": "They have been living in this street since 1970.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Geçen aydan beri masrafları hesaplamıyorum.",
+      "englishSentence": "I haven't been calculating the expenses since last month.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "İki saattir onları bekliyoruz.",
+      "englishSentence": "We have been waiting for them for two hours.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Teklifi iki gündür değerlendiriyorum.",
+      "englishSentence": "I have been evaluating the offer for two days.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Salı gününden beri aynı kotu giyiyor.",
+      "englishSentence": "He has been wearing the same jeans since Tuesday.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Paul iki aydır çok çalışyor.",
+      "englishSentence": "Paul's been working hard for two months.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Sabahtan beri ne yapıyorsun?",
+      "englishSentence": "What have you been doing since morning?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Geldiğinden beri Amanda ile konuşuyorum.",
+      "englishSentence": "I've been talking to Amanda since she came.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Onu saatlerdir nerede arıyorsun?",
+      "englishSentence": "Where have you been looking for her for hours?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Ne zamandır İngilizce öğreniyorsun?",
+      "englishSentence": "How long have you been learning English?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Ben saat üçten beri TV izliyor.",
+      "englishSentence": "Ben's been watching TV since three o'clock.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Son yarım saattir onu ikna ediyorum.",
+      "englishSentence": "I've been convincing him for the last half hour.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Chris dünden beri kendini iyi hissetmiyor.",
+      "englishSentence": "Chris hasn 't been feeling well since yesterday.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Maria iki yıldır İngilizce öğreniyor.",
+      "englishSentence": "Maria has been learning English for two years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Beni aradığından beri bisikletimi tamir ediyorum.",
+      "englishSentence": "I've been repairing my bike since you called me.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Joe, son iki yıldır çok fazla yemek yiyor.",
+      "englishSentence": "Joe has been eating too much for last two years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Son görüşmemizden beri ne yapıyorsun?",
+      "englishSentence": "What have you been doing since we last met?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Ne zamandır bu kitabı okuyorsun?",
+      "englishSentence": "How long have you been reading that book?",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Sabahtan beri e-posta yazıyor.",
+      "englishSentence": "She's been writing e-mails since morning.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Saat 2'den beri tenis oynuyorlar.",
+      "englishSentence": "They've been playing tennis since 2 0'clock.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Uzun zamandır Arapça öğreniyorum.",
+      "englishSentence": "I have been learning Arabic for a long time.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Öğle yemeğinden beri yağmur yağıyor.",
+      "englishSentence": "It's been raining since lunchtime.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Paul on yıldır Brezilya'da yaşıyor.",
+      "englishSentence": "Paul has been living in Brazil for ten years.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Bir saattir burada oturuyoruz.",
+      "englishSentence": "We've been sitting here for an hour.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Kevin haftalardır iş arıyor.",
+      "englishSentence": "Kevin has been looking for a job for weeks.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Yıllardır partilere katılmıyorum.",
+      "englishSentence": "I haven't been joining the parties .forages.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Dünden beri belgeleri dosyalamıyorum.",
+      "englishSentence": "I haven't been filing the documents since yesterday.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Jane saatlerdir mezuniyetini kutluyor.",
+      "englishSentence": "Jane's been celebrating her graduation for hours.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Buraya geldiğimizden beri kar yağmıyor.",
+      "englishSentence": "It hasn 't been snowing since we came here.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Saatlerdir onun düğünü hakkında konuşuyoruz.",
+      "englishSentence": "We have been talking about her wedding for hours.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "O adam geçen yıldan beri şirketten çalıyor.",
+      "englishSentence": "That man has been stealing from the company since last year.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Buraya geldiğimden beri birçok yeni arkadaş ediniyorum.",
+      "englishSentence": "I have been making a lot of new friends since I came here.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Bir saatten fazladır size ulaşmaya çalışyorum.",
+      "englishSentence": "I have been trying to reach you for over an hour.",
+      "topic": "have been has been + ving"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Sabahtan beri abur cubur yiyorsun.",
+      "englishSentence": "You have been eating junky food since morning.",
+      "topic": "have been has been + ving"
+    }
+  ]

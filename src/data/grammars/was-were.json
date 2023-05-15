@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Dün evde miydin?",
+      "englishSentence": "Were you at home yesterday?",
+      "topic": "was were"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Gerçekten mutluydular.",
+      "englishSentence": "They were really happy.",
+      "topic": "was were"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Kız kardeşim geçen yıl üniversite öğrencisiydi.",
+      "englishSentence": "My sister was a college student last year.",
+      "topic": "was were"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Thomas dün öğleden sonra üç buçukta trendeydi.",
+      "englishSentence": "Thomas was on the train at three-thirty yesterday afternoon.",
+      "topic": "was were"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Jennifer işten sonra yorgun muydu?",
+      "englishSentence": "Was Jennifer tired after work?",
+      "topic": "was were"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Laura ve Susan gergin miydiler?",
+      "englishSentence": "Were Laura and Susan nervous?",
+      "topic": "was were"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Kurabiyeler lezzetliydi.",
+      "englishSentence": "The cookies were delicious.",
+      "topic": "was were"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Dün kütüphanede miydin?",
+      "englishSentence": "Were you at the library yesterday?",
+      "topic": "was were"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Birçok dinozor gerçekten çok büyüktü.",
+      "englishSentence": "Many dinosaurs were really huge.",
+      "topic": "was were"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "1996'da doğdum.",
+      "englishSentence": "I was born in 1996.",
+      "topic": "was were"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Film çok eğlenceliydi.",
+      "englishSentence": "The movie was very funny.",
+      "topic": "was were"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Eylül'de bir garsondum.",
+      "englishSentence": "I was a waiter in September.",
+      "topic": "was were"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "En sevdiğim program dün gece saat sekizde televizyondaydı.",
+      "englishSentence": "My favorite program was on TV at eight o'clock last night.",
+      "topic": "was were"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Sınıf arkadaşlarım sınıftaydı.",
+      "englishSentence": "My classmates were in class.",
+      "topic": "was were"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Jane ve Michael doktorlardı.",
+      "englishSentence": "Jane and Michael were doctors.",
+      "topic": "was were"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Müzedeydi.",
+      "englishSentence": "She was in the museum.",
+      "topic": "was were"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "O büyük bir köpekti.",
+      "englishSentence": "It was a big dog.",
+      "topic": "was were"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Sen benim arkadaşımdın.",
+      "englishSentence": "You were my friend.",
+      "topic": "was were"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Mühendis değillerdi.",
+      "englishSentence": "They weren 't engineers.",
+      "topic": "was were"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Mutlu değildik.",
+      "englishSentence": "We weren 't happy.",
+      "topic": "was were"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Çok yorgundum.",
+      "englishSentence": "I was very tired.",
+      "topic": "was were"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Yeterince uzun boylu değildin.",
+      "englishSentence": "You weren't tall enough.",
+      "topic": "was were"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Mutfaktaydık.",
+      "englishSentence": "We were in the kitchen.",
+      "topic": "was were"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Herkes hazırdı.",
+      "englishSentence": "Everyone was ready.",
+      "topic": "was were"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Meşgul değildim.",
+      "englishSentence": "I was not busy.",
+      "topic": "was were"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Dün gece geç kaldı.",
+      "englishSentence": "She was late last night.",
+      "topic": "was were"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Kedi dün açtı.",
+      "englishSentence": "The cat was hungry yesterday.",
+      "topic": "was were"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Bu sabah yorgun değildim.",
+      "englishSentence": "I wasn't tired this morning.",
+      "topic": "was were"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Öğrenciler beş dakika önce gürültülüydüler.",
+      "englishSentence": "The students were noisy five minutes ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Babam geçen yıl Almanya'daydı.",
+      "englishSentence": "My father was in Germany last year.",
+      "topic": "was were"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Bir saat önce dışarıda bir adam vardı.",
+      "englishSentence": "There was a man outside an hour ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Kapılar saat 8'de kapalıydı.",
+      "englishSentence": "The doors were closed at 8 0'clock.",
+      "topic": "was were"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Üç yıl önce iyi bir oyuncuydu.",
+      "englishSentence": "He was a good player three years ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Çocuklar bir saat önce oturma odasındaydılar.",
+      "englishSentence": "The children were in the living room an hour ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Hava dün iyi değildi.",
+      "englishSentence": "The weather wasn 't fine yesterday.",
+      "topic": "was were"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "İyi bir oyuncuydu.",
+      "englishSentence": "He was a good actor.",
+      "topic": "was were"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Gazeteler iki saat önce masadaydı.",
+      "englishSentence": "Newspapers were on the table two hours ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Patron bu sabah kızgındı.",
+      "englishSentence": "The boss was angry this morning.",
+      "topic": "was were"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "İki hafta önce Çin'de değillerdi.",
+      "englishSentence": "They weren 't in China a fortnight ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Deniz dün öğleden sonra sıcaktı.",
+      "englishSentence": "The sea was warm yesterday afternoon.",
+      "topic": "was were"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Ailem beş dakika önce mutfaktaydı.",
+      "englishSentence": "My parents were in the kitchen five minutes ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "İki adam bir dakika önce dükkandaydı.",
+      "englishSentence": "Two men were in the shop a minute ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "İtfaiyeciler saat beşte çatıdaydı [ar.",
+      "englishSentence": "The firemen were on the roof at five o'clock.",
+      "topic": "was were"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Bir dakika önce otobüs durağında bir otobüs vardı.",
+      "englishSentence": "There was a bus at the bus stop a minute ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "1987'de öğretmendi.",
+      "englishSentence": "He was a teacher in 1987.",
+      "topic": "was were"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "İki yıl önce sekreterdi.",
+      "englishSentence": "She was a secretary two years ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Dün gece üzgün değildiler.",
+      "englishSentence": "They weren 't sad last night.",
+      "topic": "was were"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "1989'da Londra'daydı.",
+      "englishSentence": "He was in London in 1989.",
+      "topic": "was were"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Geçen Cumartesi hava çok sıcaktı.",
+      "englishSentence": "The weather was very hot last Saturday.",
+      "topic": "was were"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Öğrenciler dün gece tiyatrodaydılar.",
+      "englishSentence": "The students were at the theater last night.",
+      "topic": "was were"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Betty geçen yaz Almanya'daydı.",
+      "englishSentence": "Betty was in Germany last summer.",
+      "topic": "was were"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Kardeşim ve ben Cumartesi futbol stadındaydık.",
+      "englishSentence": "My brother and I were at the football stadium on Saturday.",
+      "topic": "was were"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Dün soğuk muydu?",
+      "englishSentence": "Was it cold yesterday?",
+      "topic": "was were"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Kevin benim partimdeydi.",
+      "englishSentence": "Kevin was at my party.",
+      "topic": "was were"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Nick dün sınıftaydı.",
+      "englishSentence": "Nick was in class yesterday.",
+      "topic": "was were"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Dün sıcak değildi.",
+      "englishSentence": "It wasn't warm yesterday.",
+      "topic": "was were"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Tina ve Jim çok başarılıydılar.",
+      "englishSentence": "Tina and Jim were very successful.",
+      "topic": "was were"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Susan otobüsteydi.",
+      "englishSentence": "Susan was on the bus.",
+      "topic": "was were"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Dün maçtaydık.",
+      "englishSentence": "We were at the match yesterday.",
+      "topic": "was were"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Öğretmenlerimiz bizden memnundular.",
+      "englishSentence": "Our teachers were pleased with us.",
+      "topic": "was were"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Restoranda değildim.",
+      "englishSentence": "I wasn't at the restaurant.",
+      "topic": "was were"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Geçen yıl aşçıydı.",
+      "englishSentence": "She was a cook last year.",
+      "topic": "was were"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Dün hava sıcaktı.",
+      "englishSentence": "The weather was warm yesterday.",
+      "topic": "was were"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Bir uçaktı.",
+      "englishSentence": "It was a plane.",
+      "topic": "was were"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "O, Ali'ydi.",
+      "englishSentence": "It was Ali.",
+      "topic": "was were"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Geçen yaz Banburry'deydiler.",
+      "englishSentence": "They were in Banburry last summer.",
+      "topic": "was were"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "İşçiler fabrika dışndaydı.",
+      "englishSentence": "The workers were outside the factory.",
+      "topic": "was were"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Trafik yüzünden geç kaldı.",
+      "englishSentence": "He was late because of the traffic.",
+      "topic": "was were"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Öğrenciler tembeldiler.",
+      "englishSentence": "The students were lazy.",
+      "topic": "was were"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Sorular zordu.",
+      "englishSentence": "The questions were difficult.",
+      "topic": "was were"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "O, Başbakandı.",
+      "englishSentence": "He was the Prime Minister.",
+      "topic": "was were"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "O, bir video kasetti.",
+      "englishSentence": "It was a video cassette.",
+      "topic": "was were"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Evdeydi [er.",
+      "englishSentence": "They were at home.",
+      "topic": "was were"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Uzun boyluydu.",
+      "englishSentence": "She was tall.",
+      "topic": "was were"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Kedi masanın altındaydı.",
+      "englishSentence": "The cat was under the table.",
+      "topic": "was were"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Britanya'daydı.",
+      "englishSentence": "He was in Britain.",
+      "topic": "was were"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Toplantı Çarşamba günüydü.",
+      "englishSentence": "The meeting was on Wednesday.",
+      "topic": "was were"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Futbol maçı saat ikideydi.",
+      "englishSentence": "The football match was at two o'clock.",
+      "topic": "was were"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Beş yıl önce Almanya'daydı.",
+      "englishSentence": "He was in Germany five years ago.",
+      "topic": "was were"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Dün gece sinemadaydım.",
+      "englishSentence": "I was at the cinema last night.",
+      "topic": "was were"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Çocuklar yaramazlar mıydı?",
+      "englishSentence": "Were the children naughty?",
+      "topic": "was were"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Aradığınızda bir kafedeydik.",
+      "englishSentence": "We were in a cafe when you called.",
+      "topic": "was were"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Normal miydi?",
+      "englishSentence": "Was it normal?",
+      "topic": "was were"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Geçen yıl öğretmendi.",
+      "englishSentence": "She was a teacher last year.",
+      "topic": "was were"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Neredeydik?",
+      "englishSentence": "Where were we?",
+      "topic": "was were"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "İyi miydin?",
+      "englishSentence": "Were you okay?",
+      "topic": "was were"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Yorgun muyduk?",
+      "englishSentence": "Were we tired?",
+      "topic": "was were"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Parti nasıldı?",
+      "englishSentence": "How was the party?",
+      "topic": "was were"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Görüşmeye geç kaldılar.",
+      "englishSentence": "They were late for the interview.",
+      "topic": "was were"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Bahçedeydin.",
+      "englishSentence": "You were in the garden.",
+      "topic": "was were"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Adı neydi?",
+      "englishSentence": "What was his name?",
+      "topic": "was were"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Hava soğuk değildi.",
+      "englishSentence": "It wasn't cold.",
+      "topic": "was were"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Güzel miydi?",
+      "englishSentence": "Was she beautiful?",
+      "topic": "was were"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "O zamanlar karım değildi.",
+      "englishSentence": "She wasn't my wife at the time.",
+      "topic": "was were"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Açtı.",
+      "englishSentence": "He was hungry.",
+      "topic": "was were"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Neden oradaydın?",
+      "englishSentence": "Why were you there?",
+      "topic": "was were"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Kör değildiniz.",
+      "englishSentence": "You weren't blind.",
+      "topic": "was were"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Kötü durumda değillerdi.",
+      "englishSentence": "They weren't in a bad situation.",
+      "topic": "was were"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Fuar için Çin'de değildik.",
+      "englishSentence": "We weren't in China for the fair.",
+      "topic": "was were"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Öğrenciler neredeydiler?",
+      "englishSentence": "Where were the students?",
+      "topic": "was were"
+    }
+  ]

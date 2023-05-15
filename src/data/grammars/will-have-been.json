@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Sen gelmeden önce, farklı konularda makaleler yaıyor olacağım.",
+      "englishSentence": "I will have been written articles on different topics before you come.",
+      "topic": "will have been"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Robert bu konuda çeşitli kitaplar okuyor olacak.",
+      "englishSentence": "Robert will have been reading various kinds of books on this topic.",
+      "topic": "will have been"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Sen ulaşmadan öncei onlar o sahada futbol oynuyor olacaklar.",
+      "englishSentence": "They will have been playing football in that field before you reach.",
+      "topic": "will have been"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "April buraya gelmeden önce, kafede dedikodu yapıyor olacak.",
+      "englishSentence": "April will have been gossiping in the coffee shop before she comes here.",
+      "topic": "will have been"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Bob sınıfa gelmeden önce, kütüphanede çalışıyor olacak.",
+      "englishSentence": "Bob will have been studying in the library before he comes to the class.",
+      "topic": "will have been"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Sen eve gelmeden önce, o markette alışveriş yapıyor olacağız.",
+      "englishSentence": "We will have been shopping in that market before you come home.",
+      "topic": "will have been"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "O gelmeden önce, Cineplex'te bir film izliyor olacağız.",
+      "englishSentence": "We will have been watching a movie in the Cineplex before he comes.",
+      "topic": "will have been"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Annen seni aramdan önce, ev işi yapıyor olacaksın.",
+      "englishSentence": "You will have been doing housework before your calls you.",
+      "topic": "will have been"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Sen bize katılmadan önce, farklı türden şarkılar söylüyor olacağım.",
+      "englishSentence": "I will have been singing different kinds of songs before you join us.",
+      "topic": "will have been"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Buraya gelmeden önce, programa katılıyor olacağım.",
+      "englishSentence": "I will have been attending the program before I come here.",
+      "topic": "will have been"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Jeff, Bangladeş'e gelmeden önce dünyayı dolaşıyor olacak.",
+      "englishSentence": "Jeff will have been traveling around the world before he comes to Bangladesh.",
+      "topic": "will have been"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Sen işini bitirmeden önce, o sahada hokey oynuyor olacaklar.",
+      "englishSentence": "They will have been playing hockey in that field before you finish you work.",
+      "topic": "will have been"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Şair, program başlamadan önce romantik bir şiir yazıyor olacak.",
+      "englishSentence": "The poet will have been writing a romantic poem before the program starts.",
+      "topic": "will have been"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Söz yazan, film için gerçekçi bir şarkı yazıyor olacak.",
+      "englishSentence": "The lyricist will have been writing a realistic song for the film.",
+      "topic": "will have been"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Ben seninle konuşmadan önce, konsere gidiyor olacak mısın?",
+      "englishSentence": "Will you have been going to the concert before I talk to you?",
+      "topic": "will have been"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Bu makaleyi okumadan önce, toplantıya katılıyor olmayacağım.",
+      "englishSentence": "I will not have been attending the meeting before I read this article.",
+      "topic": "will have been"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Sen sunumu tamamlamadan öce, Robin toplantıda bize katılıyor olacak.",
+      "englishSentence": "Robin will have been joining us at the meeting before you complete the presentation.",
+      "topic": "will have been"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Ders başlamadan önce, görevini yerine getirmesine yardım ediyor olacağım.",
+      "englishSentence": "I will have been helping him to do the task before the class starts.",
+      "topic": "will have been"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Yarışma başlamadan önce, müzikal dramanın tadını çıkarıyor olacağız.",
+      "englishSentence": "We will have been enjoying the musical drama before the game show starts.",
+      "topic": "will have been"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Program başlamadan önce, gerekli tüm malzemeleri düzenliyor olacağım.",
+      "englishSentence": "I will have been arranging all the necessary materials before the program starts.",
+      "topic": "will have been"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "On yıldır Mumbai'de yaşıyor olacaklar.",
+      "englishSentence": "They will have been living in Mumbai for 10 years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Mayıs'tan beri alışverişine başlıyor olacaksın.",
+      "englishSentence": "You will have been starting your shopping since May.",
+      "topic": "will have been"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Önümüzdeki yıl bu şirkette bir yıldır çalışıyor olacağım.",
+      "englishSentence": "Next year, I will have been working at this company for one year.",
+      "topic": "will have been"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Üç saattir yürüyor olacağım.",
+      "englishSentence": "I will have been walking for three hours.",
+      "topic": "will have been"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Jane on iki saattir çahşıyor olacak, bu yüzden yemek yapmak isteyeceğini sanmıyorum.",
+      "englishSentence": "Jane will have been working for twelve hours, so I don 't think she will want to cook.",
+      "topic": "will have been"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Bitkileri her gün suluyor olacağım; umarım ölmezler.",
+      "englishSentence": "I will have been watering the plants every day; I hope they won't die.",
+      "topic": "will have been"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Bu Mart'ta on yıldır o evde yaşıyor olacaklar.",
+      "englishSentence": "They will have been living in that house for ten years this March.",
+      "topic": "will have been"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Öğleden beri araba kullanıyor olacak, bu yüzden dinlenmeye ihtiyacı olacak.",
+      "englishSentence": "He will have been driving since noon, so he will need a rest.",
+      "topic": "will have been"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Saat altıya kadar beş saattir çalışyor olacaklar.",
+      "englishSentence": "They will have been studying for five hours by six o'clock.",
+      "topic": "will have been"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Mary bitirene kadar beş saattir golf oynuyor olacak.",
+      "englishSentence": "Mary will have been playing golf for five hours by the time she finishes.",
+      "topic": "will have been"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "İki yıldır orada yaşıyor olacak.",
+      "englishSentence": "She will have been living there for 2 years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Beş yıldır burada çalışıyor olacağım.",
+      "englishSentence": "I will have been working here for 5 years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Bütün gün çalışıyor olacak.",
+      "englishSentence": "He will have been studying all day.",
+      "topic": "will have been"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Bir saatten fazla bir süredir bekliyor olacak.",
+      "englishSentence": "She will have been waiting for over an hour.",
+      "topic": "will have been"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Yarım saattir koşuyor olacaklar.",
+      "englishSentence": "They will have been running half an hour.",
+      "topic": "will have been"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Otobüs nihayet geldiğinde, uzun zamandır bekliyor olacağız.",
+      "englishSentence": "We will have been waiting for a long time when the bus finally comes.",
+      "topic": "will have been"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Küçük kız kardeşim, film bittiğinde, bir saattir sessizce oturuyor olacak.",
+      "englishSentence": "My little sister will have been sitting quietly for an hour when the movie finishes.",
+      "topic": "will have been"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Geldiğinde bütün gün temizlik yapıyor olacağım, bu yüzden dışarı çıkamayacak kadar yorgun olacağım.",
+      "englishSentence": "I will have been cleaning all day when you arrive, so I'll be too tired to go out.",
+      "topic": "will have been"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "2030 yılına kadar bu şirketin müdürü olarak otuz yıldır çalışıyor olacak.",
+      "englishSentence": "By 2030, he will have been working as the director of this company for thirty years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Mart'ta evlendiklerinde, altı yıldır birlikte yaşıyor olacaklar.",
+      "englishSentence": "When they get married in March, they will have been living together for six years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Eve döndüğümüzde, 30 dakikadır futbol oynuyor olacaklar.",
+      "englishSentence": "By the time we get home, they will have been playing football for 30 minutes.",
+      "topic": "will have been"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Haziran sonunda, bir yıldır öğretmenlik yapıyor olacağım.",
+      "englishSentence": "By the end of June, I will have been teaching for one whole year.",
+      "topic": "will have been"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Gece yarısı, beş saattir aralıksız dans ediyor olacağız!",
+      "englishSentence": "At midnight, we will have been dancing for five hours straight!",
+      "topic": "will have been"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Önümüzdeki haftaya kadar üç yıldır piyano dersleri alıyor olacağım.",
+      "englishSentence": "By next week, I will have been taking piano lessons for three years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Büyükannemin evine vardığımızda, sekiz saattir arabaya sürüyor olacağız.",
+      "englishSentence": "We will have been driving for eight hours when we reach my grandma's house.",
+      "topic": "will have been"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Saat altıya kadar burada üç saattir bekliyor olacağım.",
+      "englishSentence": "I will have been waiting here for three hours by six o'clock.",
+      "topic": "will have been"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "2022'ye kadar, on altı yıldır Londra'da yaşıyor olacak.",
+      "englishSentence": "By 2022, he will have been living in London for sixteen years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Bu kursu bitirdiğimde, iki aydır İngilizce öğreniyor olacağım.",
+      "englishSentence": "When I finish this course, I will have been learning English for two months.",
+      "topic": "will have been"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Önümüzdeki yıl burada dört yıldır çalışıyor olacak.",
+      "englishSentence": "Next year, she will have been working here for four years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "6:00'da geldiğimde, uzun süredir pratik yapıyor olmayacak mısın?",
+      "englishSentence": "When I come at 6:00, will you have been practising long?",
+      "topic": "will have been"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Başkan Yardımcısı döndüğünde, üç haftadır denizaşırı seyahat ediyor olacak.",
+      "englishSentence": "The Vice President will have been traveling overseas for three weeks when he returns.",
+      "topic": "will have been"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Temmuz'a kadar Gina yeni işini bir yıldır yönetiyor olacak.",
+      "englishSentence": "By July, Gina will have been running her new business for a year.",
+      "topic": "will have been"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Bu bahar, ikizler iki yıldır aşçılık okuluna gidiyor olacaklar.",
+      "englishSentence": "This spring, the twins will have been attending culinary school for two years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "2022 yılına kadar, şehrimiz kasırgadan on yıldır ıstırap çekiyor olacak.",
+      "englishSentence": "By 2022, our city will have been suffering from the hurricane for ten years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Mobilya mağazası önümüzdeki hafta kapandığında, 1910'dan beri iş yapıyor olacak.",
+      "englishSentence": "When the furniture store closes next week, it will have been doing business since 1910.",
+      "topic": "will have been"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Yarın sabaha kadar, dört gündür hiç durmadan kar yağıyor olacak!",
+      "englishSentence": "By tomorrow morning, it will have been snowing for four days without stopping!",
+      "topic": "will have been"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Jane Teyze, biz kalktığımızda yaklaşık bir saattir kahvaltı yapıyor olacak.",
+      "englishSentence": "Aunt Jane will have been cooking breakfast for about an hour when we get up.",
+      "topic": "will have been"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Yıl sonu itibariyle şirketimiz, on yılı aşkın süredir satışlarda pazarda lider konumda oluyor olacak.",
+      "englishSentence": "As of the end of the year, our company will have been leading the market in sales for over a decade.",
+      "topic": "will have been"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Bay Ramirez emekli olduğunda, 34 yıldır öğretmenlik yapıyor olacak.",
+      "englishSentence": "When Mr. Ramirez retires, he will have been teaching for 34 years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Gelinin arkadaşları resepsiyon başlamadan önce, ziyafet salonunu dekore ediyor olacaklar.",
+      "englishSentence": "Friends of the bride will have been decorating the banquet hall before the reception begins.",
+      "topic": "will have been"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Topluluğumuzun katılımı son 20 yılda yılda yüzde 10 artıyor olacak.",
+      "englishSentence": "Our community's attendance will have been increasing by 10 percent per year for the past 20 years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Arpçının bir molaya ihtiyacı var. Bu parçadan sonra iki saattir üst üste çalıyor olacak.",
+      "englishSentence": "The harpist needs a break. After this piece, she will have been playing for two hours straight.",
+      "topic": "will have been"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "İnsanoğlu, 2039 yılına kadar yaklaşık 600 yıldır makine ile kitap basıyor olacak.",
+      "englishSentence": "Mankind will have been printing books by machine for around 600 years by the year 2039.",
+      "topic": "will have been"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Saat beşte ne kadar süredir çalışıyo olacaksın?",
+      "englishSentence": "How long will you have been working by five o'clock?",
+      "topic": "will have been"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Uçağımız geldiğinde, uzun süre bekliyor olacak mısın?",
+      "englishSentence": "Will you have been waiting long when our plane arrives?",
+      "topic": "will have been"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Bruce Columbia'ya ulaştığında, kaç mil yol alıyor olacak?",
+      "englishSentence": "How many miles will Bruce have been driving when he reaches Columbia?",
+      "topic": "will have been"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Pastayı saat ikiye kadar yeterince uzun süre pişiriyor olacak mı?",
+      "englishSentence": "Will she have been baking the cake long enough by two o'clock?",
+      "topic": "will have been"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Seni 6:00'da uyandırırsam, yeterince uzun süre uyuyor olacak mısın?",
+      "englishSentence": "Will you have been sleeping long enough if I wake you at 6:00 a.m.?",
+      "topic": "will have been"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "AVM'den çıkana kadar ne kadar süredir alışveriş yapıyor olacağız?",
+      "englishSentence": "How long will we have been shopping by the time we leave the mall?",
+      "topic": "will have been"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Bayan Grant, yeni işine başladığında bu şirkette kaç yıldır çalışıyor olacak?",
+      "englishSentence": "How many years will Mrs. Grant have been working for this company when she starts her new job?",
+      "topic": "will have been"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Polis, itfaiye aracı oraya varmadan önce, yolu açıyor olacak mı?",
+      "englishSentence": "Will the police have been clear the road for the fire truck before it gets there?",
+      "topic": "will have been"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Eve gittiğimizde, çorba çok uzun süre kaynıyor olacak mı?",
+      "englishSentence": "Will the soup have been boil too long when we get home?",
+      "topic": "will have been"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Janet bitiş çizgisini geçtiğinde, ne kadar süredir koşuyor olacak?",
+      "englishSentence": "How long will Janet have been running when she crosses the finish line?",
+      "topic": "will have been"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Profesör Evans bugün aynı dersi verdiğinde, kaç yarıyıl aynı dersi veriyor olacak?",
+      "englishSentence": "How many semesters will Professor Evans have been giving this same lecture when he gives it today?",
+      "topic": "will have been"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Kurtarma ekibi, yarına kadar bir haftadır yürüyüşçülere ulaşmaya çalışıyor olacak mı?",
+      "englishSentence": "Will the rescue crew have been trying to reach the hikers for a week by tomorrow?",
+      "topic": "will have been"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Erma, bitirdiğinde, o elbiseyi kaç saattir dikiyor olacak?",
+      "englishSentence": "How many hours will Erma have been sewing that dress when she finishes?",
+      "topic": "will have been"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Bu Noel'e kadar, koro ile beş yıldır mı şarkı söylüyor olacaksın?",
+      "englishSentence": "Will you have been singing with the choir for five years by this Christmas?",
+      "topic": "will have been"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Bu yıl elli yaşına geldiğinde, 45 yıldır bisiklete biniyor olacak.",
+      "englishSentence": "When he turns fifty years old this year, he will have been riding a bicycle for 45 years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Yirmi dört yıldır şirkette çalışıyor olacak.",
+      "englishSentence": "He will have been working for the company for 24 years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Yaşlandığımızda, daha iyi durumda olacağız çünkü yıllardır bisikletlerimizde egzersiz yapıyor olacağız.",
+      "englishSentence": "When we get older, we will be in better shape because we will have been exercising on our bikes for years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Mezun olduğu zaman yedi yıldır okuyor olacak.",
+      "englishSentence": "By the time she graduates, she will have been studying for 7 years.",
+      "topic": "will have been"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Akşam 7'ye kadar, bu proje üzerinde sekiz saattir çalışıyor olacağım.",
+      "englishSentence": "By 7 pm, I will have been working on this project for eight hours straight.",
+      "topic": "will have been"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Önümüzdeki yıl bu zamana kadar, yirmi yıldır Japonya'da yaşıyor olacaklar.",
+      "englishSentence": "By this time next year, they will have been living in Japan for two decades.",
+      "topic": "will have been"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Bütün hafta sonu çalışıyor olacağım, bu yüzden Pazar gecesi enerjik olmayacağım.",
+      "englishSentence": "I will have been working all weekend so I won't be energetic on Sunday night.",
+      "topic": "will have been"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Nihayet sınav sonuçlarınızı aldığınızda, ne kadar süredir bekliyor olacaksınız?",
+      "englishSentence": "How long will you have been waiting when you finally get your exam results?",
+      "topic": "will have been"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Julie fazla yiyor olmayacak, bu yüzden geldiğinde iyi bir yemek yediğinden emin olmamız gerekecek.",
+      "englishSentence": "Julie won't have been eating much, so we'll need to make sure she has a good meal when she arrives.",
+      "topic": "will have been"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Nihayet taşındığında, ne kadar zamandır eve taşnmayı planlıyor olacak?",
+      "englishSentence": "How long will she have been planning) to move house when she finally moves?",
+      "topic": "will have been"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Biz oraya vardığımızda, uzun süredir mi bekliyor olacak?",
+      "englishSentence": "Will she have been waiting long by the time we get there?",
+      "topic": "will have been"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Sonunda durduğunda, on saattir bilgisayar oyunları mı oynuyor olacak?",
+      "englishSentence": "Will he have been playing computer games for ten hours when he finally stops?",
+      "topic": "will have been"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Bütün gün ders çalışıyor olacaklar, bu yüzden akşam dışarı çıkmak isteyecekler.",
+      "englishSentence": "They will have been studying all day, so they'll want to go out in the evening.",
+      "topic": "will have been"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "O geldiğinde, onlar uzun süredir otelde kalmıyor olacaklar.",
+      "englishSentence": "They won't have been staying in the hotel for long when she arrives.",
+      "topic": "will have been"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Seninle karşılaştığımda, yürüyor olmayacağım.",
+      "englishSentence": "I won't have been walking when I meet you.",
+      "topic": "will have been"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Squash oynuyor olacak, bu yüzden giyinmeyecek.",
+      "englishSentence": "She will have been playing squash, so she wont be dressed up.",
+      "topic": "will have been"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Önümüzdeki Salı dört aydır evlere bakıyor olacağız.",
+      "englishSentence": "We will have been looking at houses for four months next Tuesday.",
+      "topic": "will have been"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Müfettiş geldiğinde, bu projeyi uzun süredir yapmıyor olacağız.",
+      "englishSentence": "We won 't have been doing this project for long when the inspector arrives.",
+      "topic": "will have been"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Bittiğinde, bu projede ne kadar süredir çalışıyor olacaksın?",
+      "englishSentence": "How long will you have been working this project when it is finished?",
+      "topic": "will have been"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Seni gördüğümde, kıyafet alıyor olacak mısın?",
+      "englishSentence": "Will you have been buying clothes when I see you?",
+      "topic": "will have been"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "O fazla iş yapmıyor olacak, bu yüzden yeni bir projeye başlamaktan mutlu olacak.",
+      "englishSentence": "He won't have been doing much work, so he'll be happy to start a new project.",
+      "topic": "will have been"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Yeni yatak odası hazır olduğunda, çocuklar ne kadar süredir oturma odasında uyuyor olacaklar?",
+      "englishSentence": "How long will children have been sleeping in the living room when their new bedroom is ready?",
+      "topic": "will have been"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Yarışmaya girdiğinde, ne kadar süredir antrenman yapıyor olacak?",
+      "englishSentence": "How long will he have been training when he enters the competition?",
+      "topic": "will have been"
+    }
+  ]

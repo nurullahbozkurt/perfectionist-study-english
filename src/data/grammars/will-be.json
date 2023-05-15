@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Stevie, Pazartesi Polonya'da olacak.",
+      "englishSentence": "On Monday, Stevie will be in Poland.",
+      "topic": "will be"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Salı orada olmayacak.",
+      "englishSentence": "On Tuesday, he wont be there.",
+      "topic": "will be"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Çarşamba nerede olacak?",
+      "englishSentence": "Where he will be on Wednesday?",
+      "topic": "will be"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Stevie, Perşembe saat 8:00'de bir uçakta olacak.",
+      "englishSentence": "At 8.00 on Thursday, Stevie will be on a plane.",
+      "topic": "will be"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Cuma akşamı yine İsviçre'de olacak.",
+      "englishSentence": "On Friday evening, he will still be in Switzerland.",
+      "topic": "will be"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Cumartesi İsviçre'de olmayacak. Fransa'da olacak.",
+      "englishSentence": "On Saturday, he wont be in Switzerland. He'll be inFrance.",
+      "topic": "will be"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Pazar nerede olacak?",
+      "englishSentence": "Where will he be on Sunday?",
+      "topic": "will be"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Ne kadar uzakta kalacak?",
+      "englishSentence": "How long will he be away?",
+      "topic": "will be"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Önümüzdeki hafta bu vakitlerde nerede olacak?",
+      "englishSentence": "Where will he be at this time next week?",
+      "topic": "will be"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Önümüzdeki ay evde olacak mı?",
+      "englishSentence": "Will he be at home next month?",
+      "topic": "will be"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Bu gece soğuk olacak.",
+      "englishSentence": "It will be cold tonight.",
+      "topic": "will be"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Dikkatli olacağım.",
+      "englishSentence": "I will be careful.",
+      "topic": "will be"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Jack bugün işte olmayacak.",
+      "englishSentence": "Jack will not be at work today.",
+      "topic": "will be"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Saat 6'da evde olacaklar.",
+      "englishSentence": "They will be home at 6 0'clock.",
+      "topic": "will be"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Daha sonra orada olacak.",
+      "englishSentence": "She will be there later.",
+      "topic": "will be"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Pazar burada olmayacağız.",
+      "englishSentence": "We will not be here on Sunday.",
+      "topic": "will be"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Toplantı 303 numaralı odada olacak.",
+      "englishSentence": "The meeting will be in room 303.",
+      "topic": "will be"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Sanırım, arkadaşımın milli takımda olacak.",
+      "englishSentence": "I think my friend will be in the national team.",
+      "topic": "will be"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Sınavlar zor olmayacak.",
+      "englishSentence": "The exams will not be difficult.",
+      "topic": "will be"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Yarın sabah ofiste olacak.",
+      "englishSentence": "He will be in the office tomorrow morning.",
+      "topic": "will be"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Yemek ne zaman hazır olacak?",
+      "englishSentence": "When will dinner be ready?",
+      "topic": "will be"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Partide olacak mısın?",
+      "englishSentence": "Will you be at the party?",
+      "topic": "will be"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Önümüzdeki Cuma bir toplantı olacak mı?",
+      "englishSentence": "Will there be a meeting next Friday?",
+      "topic": "will be"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Bugün saat kaçta evde olacağız?",
+      "englishSentence": "What time will we be at home today?",
+      "topic": "will be"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Bu gece soğuk olacak mı?",
+      "englishSentence": "Will it be cold tonight?",
+      "topic": "will be"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Bu hafta sonu nerede olacaksın?",
+      "englishSentence": "Where will you be this weekend?",
+      "topic": "will be"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Başarılı olacaklar mı?",
+      "englishSentence": "Will they be successful?",
+      "topic": "will be"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Öğretmen kızgın olacak mı?",
+      "englishSentence": "Will the teacher be angry?",
+      "topic": "will be"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Ne zaman oku Ida olacak?",
+      "englishSentence": "When will he be at school?",
+      "topic": "will be"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Gelecekte ünlü olacak mı?",
+      "englishSentence": "Will she be famous in the future?",
+      "topic": "will be"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Beni bekleme, saat 10'dan önce orada olmayacağım.",
+      "englishSentence": "Don't wait for me, I won't be there before 10 0'clock.",
+      "topic": "will be"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Bu gece evde kimse olmayacak.",
+      "englishSentence": "Nobody will be at home tonight.",
+      "topic": "will be"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Korkarım, bu oldukça imkansız olacak.",
+      "englishSentence": "I am afraid, it will be quite impossible.",
+      "topic": "will be"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Çarşamba fuar için burada olacak.",
+      "englishSentence": "He will be here for fair on Wednesday.",
+      "topic": "will be"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Edenbridge'e ulaşmak zor olmayacak.",
+      "englishSentence": "It wont be hard to get to Edenbridge.",
+      "topic": "will be"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Eski bir malikanede olacak.",
+      "englishSentence": "She will be in an old manor house.",
+      "topic": "will be"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Bu yaz bir aylığına İngiltere'de olacak.",
+      "englishSentence": "He will be in England for a month this summer.",
+      "topic": "will be"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Tamirci Çarşamba burada olacak.",
+      "englishSentence": "The repairman will be here on Wednesday.",
+      "topic": "will be"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Tamam o zaman, grubumuz Perşembe toplantıda olacak.",
+      "englishSentence": "Okay then, our group will be at the meeting on Thursday.",
+      "topic": "will be"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Cuma bizimle olacak mısın?",
+      "englishSentence": "Will you be with us on Friday?",
+      "topic": "will be"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Sarf malzemeleri Cumartesi arabamızda olacak mı?",
+      "englishSentence": "Will the supplies be in our car Saturday?",
+      "topic": "will be"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Başkan biraz gergin olacak.",
+      "englishSentence": "The chairman will be a little nervous.",
+      "topic": "will be"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Ju lie yüksek platformda olacak.",
+      "englishSentence": "Julie will be on the high platform.",
+      "topic": "will be"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Banka soyguncusu muhtemelen yakında hapishanede olacak.",
+      "englishSentence": "The bank robber will probably be in the jail soon.",
+      "topic": "will be"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Finallerle meşgul olacaksın.",
+      "englishSentence": "You will be busy with finals.",
+      "topic": "will be"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Ebeveynlerimizle yemeğe neredeyse geç kalacağız.",
+      "englishSentence": "We will almost be late for dinner with our parents.",
+      "topic": "will be"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Nikkos ve Biliy yarın bu saatte parkta olacaklar.",
+      "englishSentence": "Nikkos and Billy will be at the park at this time tomorrow.",
+      "topic": "will be"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Yeni çekiç çekmecede olacak.",
+      "englishSentence": "The new hammer will be in the drawer.",
+      "topic": "will be"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Ailemle sahilde olacağım.",
+      "englishSentence": "I will be at the beach with my family.",
+      "topic": "will be"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Kütüphane 21 :00'e kadar açık olacak.",
+      "englishSentence": "The library will be open until 9:00 p.m.",
+      "topic": "will be"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Hava hala karanlık olacak.",
+      "englishSentence": "It will still be dark.",
+      "topic": "will be"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Kız kardeşim yeterince güçlü olmayacak.",
+      "englishSentence": "My sister won't be strong enough.",
+      "topic": "will be"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Yarın sabah oldukça meşgul olacağım.",
+      "englishSentence": "I will be pretty busy tomorrow morning.",
+      "topic": "will be"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Önümüzdeki altı ay içinde yeni evlerinde olacaklar.",
+      "englishSentence": "They will be in their new house in next six months.",
+      "topic": "will be"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Çocuklar yarın öğleden sonra okulda olacak mı?",
+      "englishSentence": "Will children be at school tomorrow afternoon?",
+      "topic": "will be"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Önümüzdeki Pazartesi sınava gireceğiz.",
+      "englishSentence": "We will be in the exam next Monday.",
+      "topic": "will be"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Sorular daha kolay olacak mı?",
+      "englishSentence": "Will questions be easier?",
+      "topic": "will be"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Sıcak yemek az sonra sofrada olacak.",
+      "englishSentence": "The hot meal will be on tyhe table in a little while.",
+      "topic": "will be"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Öğrenciler banka önünde olacaklar.",
+      "englishSentence": "Students will be in front of the bank.",
+      "topic": "will be"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Ebeveyn lerim bugün iyi olmayacak.",
+      "englishSentence": "My parents won't be well today.",
+      "topic": "will be"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "O çocuk çok şişman olacak.",
+      "englishSentence": "That boy will be very fat.",
+      "topic": "will be"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Çok gergin olacağım.",
+      "englishSentence": "I will be so nervous.",
+      "topic": "will be"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Bir haftalığına Dublin'de tatilde olacak.",
+      "englishSentence": "He will be on holiday in Dublin for a week.",
+      "topic": "will be"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Yanında bir miktar para olacak.",
+      "englishSentence": "Some money will be with him.",
+      "topic": "will be"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Anna akşam yemeği hazırlamak için mutfakta olacak.",
+      "englishSentence": "Anna will be in the kitchen to make dinner.",
+      "topic": "will be"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Yarın bu vakitlerde çok yorgun olacağız.",
+      "englishSentence": "We will be exhausted at this time tomorrow.",
+      "topic": "will be"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Yarın karh olacak.",
+      "englishSentence": "It will be snowy tomorrow.",
+      "topic": "will be"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Sonbahar yakında burada olacak.",
+      "englishSentence": "Autumn will soon be here.",
+      "topic": "will be"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "2030 yılı çok ilginç bir yıl olacak.",
+      "englishSentence": "The year 2030 will be a very interesting year.",
+      "topic": "will be"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Bu öğleden sonra Londra'daki yeni ofisimizde olacağım.",
+      "englishSentence": "I will be in our new office in London this afternoon.",
+      "topic": "will be"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Biraz dinlenmek için yatakta olacağım.",
+      "englishSentence": "I will be in bed to get some rest.",
+      "topic": "will be"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Önümüzdeki Salı tüm mağazalar kapalı olacak.",
+      "englishSentence": "All the stores will be closed next Tuesday.",
+      "topic": "will be"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Önümüzdeki yıl İngilizce öğretmeni olacak.",
+      "englishSentence": "She will be a teacher of English next year.",
+      "topic": "will be"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Arkadaşlarım bir süre karanlık odada olacaklar.",
+      "englishSentence": "My friends will be in the dark room for a while.",
+      "topic": "will be"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Senin yüzünden mi kızgın olacak?",
+      "englishSentence": "Will she be angry because of you?",
+      "topic": "will be"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Cevaplar net olmayacak mı?",
+      "englishSentence": "Won 't the answers be clear?",
+      "topic": "will be"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Antremandan sonra zayıflayacaklar.",
+      "englishSentence": "They will be slim after Exercise.",
+      "topic": "will be"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Neden dakik olacak?",
+      "englishSentence": "Why will she be punctual?",
+      "topic": "will be"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Bu projenin lideri olacak.",
+      "englishSentence": "He will be the leader of this project.",
+      "topic": "will be"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Bu takım bu yıl şampiyon olacak mı?",
+      "englishSentence": "Will this team be the champion this year?",
+      "topic": "will be"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Dosyalar sunum için hazır olacak mı?",
+      "englishSentence": "Will the files be ready for the presentation?",
+      "topic": "will be"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Annesi bu kurstan sonra iyi bir aşçı olacak.",
+      "englishSentence": "Her mother will be a good cook after this course.",
+      "topic": "will be"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Babası bir iş toplantısı için Dubai'de olacak.",
+      "englishSentence": "His father will be in Dubai for a business meeting.",
+      "topic": "will be"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Zamanında burada olmayacak.",
+      "englishSentence": "She won't be in here on time.",
+      "topic": "will be"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Bu gösteri çok eğlenceli olacak.",
+      "englishSentence": "This demostration will be very fun.",
+      "topic": "will be"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Yeni elbiseleri iki saat sonra gardıropta olacak.",
+      "englishSentence": "Her new dresses will be in the wardrobe in two hours.",
+      "topic": "will be"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Milli Eğitim Bakanlığı yarın bu okulda olacak.",
+      "englishSentence": "The Ministry of Education will be at this school tomorrow.",
+      "topic": "will be"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Yatırımı yeni enerji sektöründe olacak.",
+      "englishSentence": "His investment will be on the new energy sector.",
+      "topic": "will be"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Kararlar çok katı olacakt.",
+      "englishSentence": "Decisions will be very rigid.",
+      "topic": "will be"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Kardeşimin karısı gelecek ay anne olacak.",
+      "englishSentence": "My brother's wife will be a mother next month.",
+      "topic": "will be"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Tüm üyeler seminerde hazır olacaklar.",
+      "englishSentence": "All members will be ready at the seminar.",
+      "topic": "will be"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Kurabiyeler on beş dakika içinde hazır olacak.",
+      "englishSentence": "Cookies will be ready within fifteen minutes.",
+      "topic": "will be"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Tüm bıçaklar çok keskin olacak.",
+      "englishSentence": "All knives will be very sharp.",
+      "topic": "will be"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Tatilimiz bu yaz Paris'te olacak.",
+      "englishSentence": "Our holiday will be in Paris this summer.",
+      "topic": "will be"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Yakın arkadaşım o lüks restoranda şef olacak.",
+      "englishSentence": "My close friend will be a chef in that luxury restaurant.",
+      "topic": "will be"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Anahtar gece masasının üstüne olacak.",
+      "englishSentence": "The key will be on the night table.",
+      "topic": "will be"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Bu program diğerinden daha iyi olmayacak.",
+      "englishSentence": "This program won 't be better than the other.",
+      "topic": "will be"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Kardeşi en iyi öğrencilerden biri olacak.",
+      "englishSentence": "Her brother will be one of the best students.",
+      "topic": "will be"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Klima tavanda olacak.",
+      "englishSentence": "The air conditioning will be on the ceilng.",
+      "topic": "will be"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "İki saat içinde Ankara'da olmayacak.",
+      "englishSentence": "She won't be in Ankara within two hours.",
+      "topic": "will be"
+    }
+  ]

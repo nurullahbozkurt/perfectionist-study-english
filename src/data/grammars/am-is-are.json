@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Jane ve Michael doktorlar(dır).",
+      "englishSentence": "Jane and Michael are doctors.",
+      "topic": "am is are"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "O müzede.",
+      "englishSentence": "She's in the museum.",
+      "topic": "am is are"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Bu büyük bir köpektir.",
+      "englishSentence": "It's a big dog.",
+      "topic": "am is are"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Sen benim arkadaşımsın.",
+      "englishSentence": "You're my friend.",
+      "topic": "am is are"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Mühendis değiller.",
+      "englishSentence": "They aren't engineers.",
+      "topic": "am is are"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Mutlu değiliz.",
+      "englishSentence": "We aren't happy.",
+      "topic": "am is are"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Çok yorgunum.",
+      "englishSentence": "I'm very tired.",
+      "topic": "am is are"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Yeterince uzun değilsin.",
+      "englishSentence": "You aren't tall enough.",
+      "topic": "am is are"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Mutfaktayız.",
+      "englishSentence": "We're in the kitchen.",
+      "topic": "am is are"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Paula kitaplarla ilgili değil.",
+      "englishSentence": "Paula isn't interested in books.",
+      "topic": "am is are"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Herkes hazır.",
+      "englishSentence": "Everyone is ready.",
+      "topic": "am is are"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Meşgul değilim.",
+      "englishSentence": "I'm not busy.",
+      "topic": "am is are"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Ann ve ben iyi arkadaşlarız.",
+      "englishSentence": "Ann and I are good friends.",
+      "topic": "am is are"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Anahtarlarınız masanın üzerinde.",
+      "englishSentence": "Your keys are on the table.",
+      "topic": "am is are"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Yorgunum ama aç değilim.",
+      "englishSentence": "I'm tired, but I'm not hungry.",
+      "topic": "am is are"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "James öğretmen değil. O bir öğrenci.",
+      "englishSentence": "James isn't a teacher. He's a student.",
+      "topic": "am is are"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Bu insanlar İngiliz değil. Avustralyalılar.",
+      "englishSentence": "Those people aren't English. They're Australian.",
+      "topic": "am is are"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Bugün hava güneşli, ancak sıcak değil.",
+      "englishSentence": "It's sunny today, but it isn't warm.",
+      "topic": "am is are"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Bugün hava güzel.",
+      "englishSentence": "The weather is nice today.",
+      "topic": "am is are"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Zengin değilim.",
+      "englishSentence": "I am not rich.",
+      "topic": "am is are"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Bu çanta ağır değil.",
+      "englishSentence": "This bag isn't heavy.",
+      "topic": "am is are"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Bu çantalar hafif değil.",
+      "englishSentence": "These bags aren 't light.",
+      "topic": "am is are"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Kardeşim ve ben iyi tenisçi değiliz.",
+      "englishSentence": "My brother and I aren't good tennis players.",
+      "topic": "am is are"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Emily evde değil.",
+      "englishSentence": "Emily isn't at home.",
+      "topic": "am is are"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Çocukları okulda değil.",
+      "englishSentence": "Her children aren't at school.",
+      "topic": "am is are"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Kız kardeşim hemşire değil.",
+      "englishSentence": "My sister isn't a nurse.",
+      "topic": "am is are"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Ben taksi şoförü değilim.",
+      "englishSentence": "I am not a taxi driver.",
+      "topic": "am is are"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Kamera nerede?",
+      "englishSentence": "Where's the camera?",
+      "topic": "am is are"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Arabanız mavi mi?",
+      "englishSentence": "Is your car blue?",
+      "topic": "am is are"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Kate Londralı mı?",
+      "englishSentence": "Is Kate from London?",
+      "topic": "am is are"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Evde mi?",
+      "englishSentence": "Is she at home?",
+      "topic": "am is are"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Geç miyim? (Geç mi kaldım?)",
+      "englishSentence": "Am I late?",
+      "topic": "am is are"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Amy nereli?",
+      "englishSentence": "Where's Amy from?",
+      "topic": "am is are"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Çantanız ne renk?",
+      "englishSentence": "What colour is your bag?",
+      "topic": "am is are"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Aç mısınız?",
+      "englishSentence": "Are you hungry?",
+      "topic": "am is are"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "George nasıl?",
+      "englishSentence": "How is George?",
+      "topic": "am is are"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "O kadın kim?",
+      "englishSentence": "Who's that woman?",
+      "topic": "am is are"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Yorgun musunuz?",
+      "englishSentence": "Are you tired?",
+      "topic": "am is are"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Hala restoranın önündeler mi?",
+      "englishSentence": "Are they still in front of the restaurant?",
+      "topic": "am is are"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Arkadaşınız İngiliz mi?",
+      "englishSentence": "Is your friend English?",
+      "topic": "am is are"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Bunlar sizin anahtarlarınız mı?",
+      "englishSentence": "Are these your keys?",
+      "topic": "am is are"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Bu benim koltuğum.",
+      "englishSentence": "That's my seat.",
+      "topic": "am is are"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Annen nerede?",
+      "englishSentence": "Where is your mother?",
+      "topic": "am is are"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Nerelisiniz?",
+      "englishSentence": "Where are you from?",
+      "topic": "am is are"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Arabanız ne renk?",
+      "englishSentence": "What colour is your car?",
+      "topic": "am is are"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Joe kaç yaşında?",
+      "englishSentence": "How old is Joe?",
+      "topic": "am is are"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Ailen nasıl?",
+      "englishSentence": "How are your parents?",
+      "topic": "am is are"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Bu ayakkabılar ne kadar?",
+      "englishSentence": "How much are these shoes?",
+      "topic": "am is are"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Bu otel neden bu kadar pahalı?",
+      "englishSentence": "Why is this hotel so expensive?",
+      "topic": "am is are"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Annen evde mi?",
+      "englishSentence": "Is your mother at home?",
+      "topic": "am is are"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Ailen evde mi?",
+      "englishSentence": "Are your parents at home?",
+      "topic": "am is are"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Odan soğuk mu?",
+      "englishSentence": "Is it cold in your room?",
+      "topic": "am is are"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Ayakkabıların güzel.",
+      "englishSentence": "Your shoes are nice.",
+      "topic": "am is are"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Uçaklar yavaş değil. Hızlılar.",
+      "englishSentence": "Airplanes aren't slow. They are fast.",
+      "topic": "am is are"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Bakır ucuzdur. Elmaslar pahalıdır.",
+      "englishSentence": "Copper are cheap. Diamonds are expensive.",
+      "topic": "am is are"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "İnekler böcek değildir.",
+      "englishSentence": "Cows aren 't insects.",
+      "topic": "am is are"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Dave ve Adrian kardeş değiller.",
+      "englishSentence": "Dave and Adrian aren't sisters.",
+      "topic": "am is are"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Almanya, İngiltere ve İspanya şehir değildir.",
+      "englishSentence": "Germany, England, and Spain aren 't cities.",
+      "topic": "am is are"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "O bir postacı.",
+      "englishSentence": "He is a postman.",
+      "topic": "am is are"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Ben profesyonel bir futbolcuyum.",
+      "englishSentence": "I am a professional football player.",
+      "topic": "am is are"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Çok aç değilim.",
+      "englishSentence": "I am not very hungry.",
+      "topic": "am is are"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "San Franciscoluyum. Kanada'lı değilim.",
+      "englishSentence": "I am from San Francisco. I am not from Canada.",
+      "topic": "am is are"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Seni tanıyorum. Benim sınıfımdasın.",
+      "englishSentence": "I know you. You are in my class.",
+      "topic": "am is are"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Dondurma ve şekerleme tatlıdır.",
+      "englishSentence": "Ice-cream and candy are sweet.",
+      "topic": "am is are"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "O bir soğan.",
+      "englishSentence": "It is an onion.",
+      "topic": "am is are"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Jasmine o okulda öğrenci.",
+      "englishSentence": "Jasmine is a student in that school.",
+      "topic": "am is are"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Londra büyük bir şehirdir.",
+      "englishSentence": "London is a big city.",
+      "topic": "am is are"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Manhattan bir ada değil.",
+      "englishSentence": "Manhattan isn't an island.",
+      "topic": "am is are"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Mariah güzel bir kızdır. O çirkin değil.",
+      "englishSentence": "Mariah is a beautiful girl. She isn't ugly.",
+      "topic": "am is are"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Mark 20 yaşında.",
+      "englishSentence": "Mark is 20 years old.",
+      "topic": "am is are"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Matematik zordur. Kolay değil.",
+      "englishSentence": "Maths is hard. It isn't easy.",
+      "topic": "am is are"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Bay Richards bir avukattır.",
+      "englishSentence": "Mr. Richards is a lawyer.",
+      "topic": "am is are"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Kardeşim evli. Bekar değil.",
+      "englishSentence": "My brother is married. He isn't single.",
+      "topic": "am is are"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "New York, New Jersey'e yakın.",
+      "englishSentence": "New York is near to New Jersey.",
+      "topic": "am is are"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Newsweek bir dergidir.",
+      "englishSentence": "Newsweek is a magazine.",
+      "topic": "am is are"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Susan ve ben öğretmeniz.",
+      "englishSentence": "Susan and I are teachers.",
+      "topic": "am is are"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Kardeşler.",
+      "englishSentence": "They are brothers.",
+      "topic": "am is are"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Bugün hava bulutlu. Açık değil.",
+      "englishSentence": "Today is cloudy. It isn't bright.",
+      "topic": "am is are"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Köpekler dışarıda.",
+      "englishSentence": "The dogs are outside.",
+      "topic": "am is are"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Şunlar radyo.",
+      "englishSentence": "Those are radios.",
+      "topic": "am is are"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Bu gömlekler yeşil.",
+      "englishSentence": "Those shirts are green.",
+      "topic": "am is are"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Uçaklar hızlıdır.",
+      "englishSentence": "Planes are fast.",
+      "topic": "am is are"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Bu oteller büyük.",
+      "englishSentence": "These hotels are large.",
+      "topic": "am is are"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Bunlar asker.",
+      "englishSentence": "Those are soldiers.",
+      "topic": "am is are"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Bunlar resim.",
+      "englishSentence": "These are pictures.",
+      "topic": "am is are"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Bunlar zarf.",
+      "englishSentence": "Those are envelopes.",
+      "topic": "am is are"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Arabalar garajda.",
+      "englishSentence": "The cars are in the garage.",
+      "topic": "am is are"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Resimler duvarda.",
+      "englishSentence": "The pictures are on the wall.",
+      "topic": "am is are"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Sıralar sınıfta.",
+      "englishSentence": "The desks are in the classroom.",
+      "topic": "am is are"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Öğretmenler okuldalar.",
+      "englishSentence": "The teachers are in the school.",
+      "topic": "am is are"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Uçaklar havaalanında.",
+      "englishSentence": "The planes are at the airport.",
+      "topic": "am is are"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Fotoğraflar albümde.",
+      "englishSentence": "The photographs are in the album.",
+      "topic": "am is are"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Bunlar tehlikeli hayvanlar.",
+      "englishSentence": "Those are dangerous animals.",
+      "topic": "am is are"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Bunlar iyi kitaplar.",
+      "englishSentence": "These are good books.",
+      "topic": "am is are"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Ağaçlar yeşil mi yoksa gri mi?",
+      "englishSentence": "Are trees green or gray?",
+      "topic": "am is are"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Bulutlar kahverengi mi yoksa beyaz mı?",
+      "englishSentence": "Are clouds brown or white?",
+      "topic": "am is are"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Bu, İngilizce mi yoksa Fransızca sözlük mü?",
+      "englishSentence": "Is it an English or French dictionary?",
+      "topic": "am is are"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Bir spor araba mı yoksa klasik bir araba mı?",
+      "englishSentence": "Is it a sports car or a classic car?",
+      "topic": "am is are"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Mısır Avrupa'da mı yoksa Afrika'da mı?",
+      "englishSentence": "Is Egypt in Europe or in Africa?",
+      "topic": "am is are"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Bu, kelebek mi arı mı?",
+      "englishSentence": "Is it a butterfly or a bee?",
+      "topic": "am is are"
+    }
+  ]

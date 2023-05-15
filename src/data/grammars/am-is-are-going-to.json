@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Yuki bizimle filme gelecek.",
+      "englishSentence": "Yuki is going to come to the movie with us.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Ailemiz Alaska'ya taşınacak.",
+      "englishSentence": "Our family is going to move to Alaska.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Bu hafta sonu Pazartesi İspanyolca sınavına çalışacağız.",
+      "englishSentence": "This weekend we are going to study for the Spanish test on Monday.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Dört mil koşacaklar.",
+      "englishSentence": "They are going to to run four miles.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Yarın akşam New York'a gidecekler.",
+      "englishSentence": "They are going to drive to New York tomorrow evening.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Bu öğleden sonra futbol oynayacağım, bu yüzden partiye gelemem.",
+      "englishSentence": "I am going to play football this afternoon so I cant make it to the party.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "John ile yarın saat 5.30'da havaalanında buluşacağım.",
+      "englishSentence": "I am going to meet John at the airport tomorrow at 5.30.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Tatilimizi gelecek yıl Fransa'da geçireceğiz.",
+      "englishSentence": "We are going to spend our holidays in France next year.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Kendi işimi kuracağım.",
+      "englishSentence": "I'm going to start my own business.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Hayatım boyunca burada yaşamayacağım.",
+      "englishSentence": "I'm not going to live here all my life.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Buraya eski apartman daireleri inşa edecekler.",
+      "englishSentence": "They're going to build some old people's flats here.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Biraz yürüyüş yapacağım.",
+      "englishSentence": "I'm going to do some walking.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "O an beni sokacak,",
+      "englishSentence": "That bee is going to sting me,",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Çocuklar yarın futbol oynamayacaklar,",
+      "englishSentence": "The kids aren't going to play soccer tomorrow,",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Dan siparişi müşteriye devredecek.",
+      "englishSentence": "Dan's going to take the order over to the customer.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Kızlar \"Amazing Grace\" şarkısını söyleyecek.",
+      "englishSentence": "The girls are going to sing 'Amazing Grace'.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Bu gece odasını temizleyecek.",
+      "englishSentence": "He is going to clean up his room tonight.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Evi satın almayacaklar.",
+      "englishSentence": "They aren't going to buy the house.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Teddy ve Sam bir daha o restoranda yemek yemeyecekler.",
+      "englishSentence": "Teddy and Sam aren't going to eat at that restaurant again.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Kararım konusunda kendimi kötü hissedecek miyim?",
+      "englishSentence": "Am I going to feel bad about my decision?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Bu gece filmi izleyecek mi?",
+      "englishSentence": "Is he going to watch the film tonight?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Yarın yarışa katılacak mısınız?",
+      "englishSentence": "Are you going to participate in the race tomorrow?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Neden o arabayı almayacaksın?",
+      "englishSentence": "Why aren't you going to buy that car?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "O işi bitireceksiniz.",
+      "englishSentence": "You are going to finish that work.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Tatilini Hawaii'de geçirmeyecek.",
+      "englishSentence": "She is not going to spend her vacation in Hawaii.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Michelle önümüzdeki yıl tıp fakültesine başlayacak.",
+      "englishSentence": "Michelle is going to begin medical school next year.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Alaska'ya kadar gidecekler.",
+      "englishSentence": "They are going to drive all the way to Alaska.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Partiye kimi davet edeceksiniz?",
+      "englishSentence": "Who are you going to invite to the party?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "John'un doğum günü pastasını kim yapacak?",
+      "englishSentence": "Who is going to make John's birthday cake?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Önümüzdeki yıl ne yapacaksın?",
+      "englishSentence": "What are you going to do next year?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Ekonomi hızla toparlanacak.",
+      "englishSentence": "The economy is recover quickly.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Bir spor salonuna katılacağım.",
+      "englishSentence": "I'm going to join a gym.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Daha fazla kitap okuyacağım.",
+      "englishSentence": "I'm going to read more books.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Bu yıl borcumdan kurtulacağım.",
+      "englishSentence": "I'm going to get out of debt this year.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Bazı gönüllü işler yapmaya başlayacağım.",
+      "englishSentence": "I'm going to start doing some volunteer work.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Jen, hedefine ulaşmadan pes etmeyecek.",
+      "englishSentence": "Jen is not going to quit before she reaches her goal.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Buradan ne zaman ayrılacak?",
+      "englishSentence": "When is he going to leave here?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Ödevini ne zaman yapacaksın?",
+      "englishSentence": "When are you going to do your homework?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Bu akşam neyi tamir edecek?",
+      "englishSentence": "What is he going to mend this evening?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Ne zaman öğrenime başlayacaklar?",
+      "englishSentence": "When are they going to start studying?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Gömlekleri neden ütüleyecek?",
+      "englishSentence": "Why is she going to iron the shirts?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Telefon faturasını nasıl ödeyeceksiniz?",
+      "englishSentence": "How are you going to pay the telephone bill?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Hediyeleri on lar seçmeyecek mi?",
+      "englishSentence": "Aren 't they going to choose the presents?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Yıkamayı o yapmayacak mı?",
+      "englishSentence": "Isn't she going to do the washing?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Onunla konuşacak mısın?",
+      "englishSentence": "Are you going to talk to him?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Siteye kim bir blok yaşlılar dairesi inşa edecek?",
+      "englishSentence": "Who are going to build a block of old people's flats on the site?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Sinema yakında kapanacak.",
+      "englishSentence": "The cinema is going to close soon.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Bay Dudley çalışmaya devam edecek.",
+      "englishSentence": "Mr Dudley is going to continue working.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Bu çit yakında yıkılacak.",
+      "englishSentence": "This fence is going tofall down soon.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Kendi işimi kuracağım.",
+      "englishSentence": "I'm going to start my own business.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Hayatım boyunca burada yaşamayacağım.",
+      "englishSentence": "I'm not going to live here all my life.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Hafta sonu arkadaşlarımızı ziyaret edeceğiz.",
+      "englishSentence": "We're going to visitfriends at the weekend.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Bir gün güneş soğuyacak.",
+      "englishSentence": "One day the sun is going to cool down.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Yağmur yağacak. Şu bulutlara bak.",
+      "englishSentence": "It's going to rain. Look at those clouds.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Yardım! Düşeceğim!",
+      "englishSentence": "Help! I'm going to fall!",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Biraz yürüyüş yapacağım.",
+      "englishSentence": "I'm going to do some walking.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Bay Smith emekli olduğunda deniz kenarına taşnacak.",
+      "englishSentence": "Mr. Smith is going to move to the seaside when he retires.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Yazı yurtdışında geçireceğiz.",
+      "englishSentence": "We're going to spend the summer abroad.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Frank Tıp okuyacak.",
+      "englishSentence": "Frank is going to study Medicine.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Geldiklerinde nerede kalacaklar?",
+      "englishSentence": "Where are they going to stay when they come?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Sonuçta yeni evi satın almayacak.",
+      "englishSentence": "She isn't buy the new house afterall.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Dikkatli olun! O bulaşıkları düşüreceksin!",
+      "englishSentence": "Be careful! You're going to drop those dishes!",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "İndiğimizde arkadaşlarımla yemek yiyeceğim.",
+      "englishSentence": "I am going to dine with friends when we land.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Daha sonra yiyecek bir şeyler alacağım.",
+      "englishSentence": "I'm going to get something to eat later.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Bu harika takımı ne zaman giyeceksin?",
+      "englishSentence": "When are you going to wear that great suit?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Partiye bisikletle gidecek misiniz?",
+      "englishSentence": "Are you going to cycle to the party?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Doğum gününü kutlayacak mı?",
+      "englishSentence": "Is she going to celebrate her birthday?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Sabah saat 8'de ofise gidiyoruz.",
+      "englishSentence": "We are going to the office at 8 0'clock in the morning.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Daha çok çalışmazsam bu sınavda başarısız olacağım.",
+      "englishSentence": "I am going to fail this exam if I do not study harder.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Mevcut belediye başkanı seçimleri kazanacak, oyların çoğuna sahip.",
+      "englishSentence": "The current mayor is going to win the elections, he has most of the votes.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Gerçekten üşüyorum. Isıtmayı açacağım.",
+      "englishSentence": "I am really cold. I am going to turn the heating on.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Bu gece için yiyeceğimiz kalmadı. Alışverişe gidiyorum.",
+      "englishSentence": "We have no food left for tonight. I am going to go for shopping.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Aynı hikayeyi anlatmayacaklar.",
+      "englishSentence": "They aren't going to tell the same story.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Yarın sana ödevlerinde yardım edecek.",
+      "englishSentence": "She is going to help you tomorrow with your homework.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Kız kardeşimle sinemaya gideceğim.",
+      "englishSentence": "I am going to go to the cinema with my sister.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Değişim döneminiz için nereye gideceksiniz?",
+      "englishSentence": "Where are you going to go for your exchange semester?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Havaalanına geldiniz mi? Seni eve bırakacağım.",
+      "englishSentence": "Have you arrived at the airport? I am going to give you a lift home.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Neden bu gece spor salonuna gitmiyor?",
+      "englishSentence": "Why is he not going to the gym tonight?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Önümüzdeki on yıl içinde çocuklarım olacak.",
+      "englishSentence": "I'm going to have children within the next ten years.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Bir hafta tatil yapmayacak mısın?",
+      "englishSentence": "Aren't you going to get a week off?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Bayan Lucky kasabada bir arkadaşıyla buluşacak.",
+      "englishSentence": "Mrs Lucky is going to meet a friend in town.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "1.000 $ kazandım. Yeni bir TV alacağım.",
+      "englishSentence": "I have won $1,000. I am going to buy a new TV.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Yarın annemi görmeyeceğiz.",
+      "englishSentence": "We're not going to see my mother tomorrow.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Ne zaman tatile çıkacaksınız?",
+      "englishSentence": "When are you going to go on holiday?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Yarın yatak odasını boyayacağız.",
+      "englishSentence": "We're going to paint the bedroom tomorrow.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Annemi Nisan ayında göreceğim.",
+      "englishSentence": "I am going to see my mother in April.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Çok fazla taşıyorsun. Senin için kapıyı açacağım.",
+      "englishSentence": "You're carrying too much. I am going to open the door for you.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Dersimize başlamadan önce, bir inceleme yapacağız.",
+      "englishSentence": "Before we start our lesson, we are going to have a review.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Yarın seni gördüğümde, sana yeni kitabımı göstereceğim.",
+      "englishSentence": "When I see you tomorrow, I am going to show you my new book.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Biraz kestirdikten sonra çok daha iyi hissedeceksiniz.",
+      "englishSentence": "After you take a nap, you are going to feel a lot better.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Sigaraları açıldığında köşe bakkaldan alacağım.",
+      "englishSentence": "I am buy the cigarettes from the corner shop when it opens.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Otobüs gelene kadar barınakta bekleyeceğiz.",
+      "englishSentence": "We are going to wait in the shelter until the bus comes.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Üç yıl içinde farklı bir ülkede yaşayacağım.",
+      "englishSentence": "In three years I am going to live in a different country.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Çocuklarınızı yanınızda Fransa'ya götürecek misiniz?",
+      "englishSentence": "Are you going to take your children with you to France?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Kardeşim okuldan sonra bizi alacak.",
+      "englishSentence": "My brother is going to pick us up after school.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Garson birazdan yiyecekleri getirecek.",
+      "englishSentence": "The waiter is going to bring the food in a moment.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Markete gidip marketleri alacağım.",
+      "englishSentence": "I am going to go to the store and pick up the groceries.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Köpeği bloğun etrafinda birkaç kez gezdireceğiz.",
+      "englishSentence": "We are going to walk the dog around the block a few times.",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Yarın arabasını tamir etmeyecekler mi?",
+      "englishSentence": "Aren 't they going to fix her car tomorrow?",
+      "topic": "am is are + going to"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Doktor hastalarını muayene etmeyecek mi?",
+      "englishSentence": "Isn't the doctor going to examine his patients?",
+      "topic": "am is are + going to"
+    }
+  ]

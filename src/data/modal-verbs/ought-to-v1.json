@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I OUGHT TO speak.",
+                "turkish": "Konuşmam gerek. / Konuşmam gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I OUGHT NOT TO speak.",
+                "turkish": "Konuşmamam gerek. / Konuşmamam gerekiyor.."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "OUGHT I TO speak?",
+                "turkish": "Konuşmam mı gerek? / Konuşmam mı gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "OUGHT I NOT TO I speak?",
+                "turkish": "Konuşmamam mı gerek? / Konuşmamam mı gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You OUGHT TO ask.",
+                "turkish": "Sorman gerek. / Sorman gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You SHOULDN'T ask.",
+                "turkish": "Sormaman gerek. / Sormaman gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "You OUGHT NOT TO ask.",
+                "turkish": "Sorman mı gerek? / Sorman mı gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "OUGHT you TO ask?",
+                "turkish": "Sormaman mı gerek? / Sormaman mı gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He OUGHT TO tell.",
+                "turkish": "Anlatması gerek. / Anlatması gerekiyor.."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He OUGHT NOT TO tell.",
+                "turkish": "Anlatmaması gerek. / Anlatmaması gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "OUGHT he TO tell?",
+                "turkish": "Anlatması gerek? / Anlatması mı gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "OUGHT he NOT TO tell?",
+                "turkish": "Anlatmaması mı gerek? / Anlatmaması mı gerekiyor?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She OUGHT TO listen.",
+                "turkish": "Dinlemesi gerek. / Dinlemesi gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She OUGHT NOT TO listen.",
+                "turkish": "Dinlemeyecekti. / Dinlemezdi."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "OUGHT she TO listen?",
+                "turkish": "Dinlememesi gerek? / Dinlememeesi gerekiyor."
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "OUGHT she NOT TO listen?",
+                "turkish": "Dinlememesi gerek? / Dinlememesi gerekiyor."
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It OUGHT TO bark.",
+                "turkish": "Havlaması gerek. / Havlaması gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It OUGHT NOT TO bark.",
+                "turkish": "Havlamaması gerek. / Havlamaması gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "OUGHT it TO bark?",
+                "turkish": "Havlaması mı gerek? / Havlaması gerekiyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "OUGHT it NOT TO bark?",
+                "turkish": "Havlamaması mı gerek? / Havlamaması mı gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We OUGHT TO teach.",
+                "turkish": "Öğretmemiz gerek. / Öğretmemiz gerekiyor.."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We OUGHT NOT TO teach.",
+                "turkish": "Öğretmememiz gerek. / Öğretmememiz gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "OUGHT we TO teach?",
+                "turkish": "Öğretmemiz mi gerek? / Öğretmemiz mi gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "OUGHT we NOT TO teach?",
+                "turkish": "Öğretmememiz mi gerek? / Öğretmememiz mi gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You OUGHT TO learn.",
+                "turkish": "Öğrenmeniz gerek. / Öğrenmeniz gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You OUGHT NOT TO learn.",
+                "turkish": "Öğrenmemeniz gerek. / Öğrenmemeniz gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "OUGHT you TO learn?",
+                "turkish": "Öğrenmeniz mi gerek? / Öğrenmeniz mi gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "OUGHT you NOT TO learn?",
+                "turkish": "Öğrenmemeniz mi gerek? / Öğrenmemeniz mi gerekiyor?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They OUGHT TO work.",
+                "turkish": "Çalışmaları gerek. / Çalışmaları gerekiyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They OUGHT NOT TO work.",
+                "turkish": "Çalışmamaları gerek. / Çalışmamaları gerekiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "OUGHT they TO work?",
+                "turkish": "Çalışmaları mı gerek? / Çalışmaları mı gerekiyor?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "OUGHT they NOT TO work?",
+                "turkish": "Çalışmamaları mı gerek? / Çalışmamaları mı gerekiyor?"
+            }
+        ]
+    }
+]

@@ -2,26 +2,121 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+.h-screen-header {
+  height: calc(100vh - 100px);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+.kg-file-card{
+  @apply p-4 rounded border flex items-center gap-2 my-2 hover:bg-gray-50
+}
+.kg-file-card-icon{
+  @apply w-10 h-10 hidden
+}
+.kg-file-card-container{
+  @apply flex justify-between gap-2 w-full
+}
+.kg-file-card-title{
+  @apply text-lg font-medium font-semibold
+}
+.kg-file-card-caption{
+  @apply text-sm text-red-700 pt-1 pb-2
+}
+.kg-file-card-metadata{
+  @apply text-sm text-gray-500 border rounded-md p-1 bg-gray-50 hover:bg-gray-200 hover:border-gray-300
+}
+
+.blog p,
+.blog figure,
+.blog ul,
+.blog blockquote,
+
+.blog ol {
+  @apply text-base my-2
+}
+
+.blog hr {
+  @apply mt-4
+}
+.blog strong {
+  @apply font-semibold
+}
+.blog p{
+  @apply leading-7 text-base my-3
+}
+.blog ul li {
+  @apply list-disc list-inside my-2 
+}
+.blog ul {
+  @apply pl-6 my-4
+}
+.blog h3{
+  @apply text-lg font-medium my-4 text-red-800 font-semibold
+}
+.blog .kg-callout-card{
+  @apply p-4 rounded border flex items-center gap-2 my-2 italic mb-7
+}
+.blog .kg-callout-emoji{
+  @apply lg:text-lg
+}
+.blog .kg-callout-card-yellow {
+  @apply bg-yellow-50 border-yellow-200
+}
+.blog .kg-callout-card-blue {
+  @apply bg-blue-50 border-blue-200
+}
+.blog .kg-callout-card-green {
+  @apply bg-green-50 border-green-200
+}
+.blog .kg-callout-card-red {
+  @apply bg-red-50 border-red-200
+}
+.blog .kg-callout-card-purple {
+  @apply bg-purple-50 border-purple-200
+}
+.blog .kg-callout-card-grey {
+  @apply bg-gray-50 border-gray-200
+}
+.blog .kg-callout-card-pink {
+  @apply bg-pink-50 border-pink-200
+}
+.blog .kg-embed-card{
+  @apply p-2 rounded border flex items-center gap-2 my-2 w-full 
+}
+.blog iframe{
+  @apply w-full h-full aspect-video	rounded
+}
+.blog blockquote{
+  @apply border-l-4 border-pink-700 pl-4 italic my-4
+}
+
+
+.icon-placeholder {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    flex: 40px 0;
+    margin-right: 20px;
   }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
+  
+  .text-placeholder {
+    border-radius: 5px;
+    width: 200px;
+    height: 20px;
+    flex: 1;
+  }
+  
+  .refresh {
+    padding: 10px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  

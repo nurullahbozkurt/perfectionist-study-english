@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Kız kardeşim zaten büyük bir pasta yaptı / yapmış(tır).",
+      "englishSentence": "My sister has already made a big cake.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Seni son gördüğümden beri büyüdün / büyümüşsün(dür).",
+      "englishSentence": "You have grown since the last time I saw you.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Suyu içmedi / içmemiş(tir).",
+      "englishSentence": "It hasn't drunk the water.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "O filmi gördüm / görmüşüm(dür).",
+      "englishSentence": "I have seen that movie.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Emekli olduğumuzdan beri hiç posta almadık i almamışız(dır).",
+      "englishSentence": "We haven 't received any mail since we were retired.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Alışveriş merkezine gitmediler / gitmemişler(dir).",
+      "englishSentence": "They haven't gone to the shopping center.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Piyano çaldılar mı / çalmışlar mı? Hayır, öalmadılar / çalmamışlar(dır).",
+      "englishSentence": "Have they played the piano? No, they haven 't.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Michael'ı liseden beri tanıyorum / tanıdım / tanımışım(dır).",
+      "englishSentence": "I have known Michael since high school.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Bebeğim tüm geceden beri uyudu / uyumuş(tur).",
+      "englishSentence": "My baby has slept since all night.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Teksas'a hiç gitmedim / gitmemişim(dir).",
+      "englishSentence": "I have never been to Texas.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Yeni bir araba aldılar / almışlar(dır).",
+      "englishSentence": "They have bought a new car.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Evde bir saat çalıştım / çalışmışım(dır).",
+      "englishSentence": "I have studied at home for one hour.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Teklifi değerlendirdi / değerlendirmiş(tir).",
+      "englishSentence": "She has evaluated the offer.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "İnsanlar Venüs'e seyahat etmediler / seyahat etmemişler(dir).",
+      "englishSentence": "People have not traveled to Venus.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Alex iki yabancı dil okudu / okumuş(tur).",
+      "englishSentence": "Alex has studied two foreign languages.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "İspanyolca konuşmayı öğrendi / öğrenmiş(tir).",
+      "englishSentence": "She has learned to speak Spanish.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Kütüphaneye gitti / gitmiş(tir).",
+      "englishSentence": "She has gone to the library.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Eve gitmedin / gitmemişsin(dir).",
+      "englishSentence": "You have not gone home.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Yıllardır burada yaşamadılar / yaşamamışlar(dır).",
+      "englishSentence": "They haven 't lived here for years.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Cüzdanımı nerede bıraktım / bırakmışım(dır)?",
+      "englishSentence": "Where have I left my wallet?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Kız kardeşim banyonun anahtarını kaybetti / kaybetmiş(tir).",
+      "englishSentence": "My sister has lost the key to the bathroom.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Bu pizzaları hiç yemedi / yememiş(tir).",
+      "englishSentence": "He has never eaten these pizzas.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Ordu o şehre iki kez saldırdı / saldırmış(tır).",
+      "englishSentence": "The army has attacked that city two times.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Konserde Madonna'yı dinledin / dinlemişsin(dir).",
+      "englishSentence": "You have listened to Madonna in the concert.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Bilim adamları atomu böldüler / bölmüşler(dir).",
+      "englishSentence": "Scientists have split the atom.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Bir otelde kaldın mı / kalmış mısın(dır)?",
+      "englishSentence": "Have you ever stayed in a hotel?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Neden böyle söyledi / söylemiş(tir)?",
+      "englishSentence": "Why has she said like that?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Köpeklerim hiçbir şey yemedi / yememiş(tir).",
+      "englishSentence": "My dogs have not eaten anything.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Tom okulda değil. Sanırım tiyatroya gitti / gitmiş(tir).",
+      "englishSentence": "Tom isn 't at school. I think he has gone to the theater.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Tavuklar bol miktarda yumurtladı / yumurtlamış(tır).",
+      "englishSentence": "The hens have laid plenty of eggs.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Hatırlayabildiğimden beri pek çok arabaları oldu / olmuş(tur).",
+      "englishSentence": "They have had many cars since I can remember.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Babasını ikna ettim / etmişim(dir).",
+      "englishSentence": "I have convinced her father.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Bir restorana girdi / girmiş(tir).",
+      "englishSentence": "He has entered in a restaurant.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Bu şehirde ne kadar süredir yaşadın / yaşamışsın(dır)?",
+      "englishSentence": "How long have you lived in this city?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Saat 9'dan beri havuzda kaldılar / kalmışlar(dır).",
+      "englishSentence": "They have stayed in the pool since 9 0'clock.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Hiç basketbol oynadın mı / oynamış mısın(dır)?",
+      "englishSentence": "Have you ever played basketball?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Michael'la hiç tanıştın mı / tanışmış mısın(dır)?",
+      "englishSentence": "Have you ever met Michael?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Bebek camı (bardağı) kırdı / kırmış(tır).",
+      "englishSentence": "The baby has broken the glass.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Bu yere daha önce gittin mi / gitmiş misin(dir)?",
+      "englishSentence": "Have you been to this place before?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Şimdiye kadar 20 soruya cevap verdim / vermişim(dir).",
+      "englishSentence": "I have answered 20 questions so far.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Dizüstü bilgisayar satın aldılar / satın almışlar(dır).",
+      "englishSentence": "They have bought laptops.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Dört mektup yazdı / yazmış(tır).",
+      "englishSentence": "She has written four letters.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Kahvaltımızı çoktan yaptık / yapmışız(dır).",
+      "englishSentence": "We've already had our breakfast.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Sansa ve Cersei birbirlerini ilkokuldan beri tanıyorlar / tanıdılar / tanışmışlar(dır).",
+      "englishSentence": "Sansa and Cersei have known each other since they were at primary school.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Annem pastayı yeni bitirdi / bitirmiş(tir).",
+      "englishSentence": "My mother has just finished the cake.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Çok fazla soru sorduk / sormuşuz(dur).",
+      "englishSentence": "We have asked too many questions.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Muz henüz kahverengiye dönmedi / dönmemiş(tir).",
+      "englishSentence": "The banana has not turned brown yet.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Babam uzun süredir Austin'de çalıştı / çalışmış(tır).",
+      "englishSentence": "My father has worked in Austin for a long time.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Parayı masanın üzerine koydum / koymuşum(dur).",
+      "englishSentence": "I have put the money on the table.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Dünden beri uyumadı / uyumamış(tır).",
+      "englishSentence": "She hasn 't slept since yesterday.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "İki yıllığına mühendis olarak çalıştım / çalışmışım(dır).",
+      "englishSentence": "I have worked as a engineer for two years.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Kardeşim daha önce araba kullandı / kullanmış(tır).",
+      "englishSentence": "My brother has driven a car before.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Bana telefon etmediler / telefon etmemişler(dir).",
+      "englishSentence": "They haven 't phoned me.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Sana bir fincan kahve yaptım / yapmışım(dır).",
+      "englishSentence": "I have made you a cup of coffee.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Aslanı gördün mü / görmüş müsün(dür)?",
+      "englishSentence": "Have you seen the lion?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Sınıf teneffüs için dışarı çıktı / çıkmış(tır).",
+      "englishSentence": "The class has gone outside for recess.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Bu filmi birkaç kez izledi / izlemiş(tir).",
+      "englishSentence": "She has watched this movie several times.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Mary'yi son zamanlarda görmedim / görmemişim(dir).",
+      "englishSentence": "I haven't seen Mary recently.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Yeni filmi izlemeye gitmedik / gitmemişiz(dir).",
+      "englishSentence": "We haven 't gone to watch the new movie.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Annem evi yeni temizledi / temizlemiş(tir).",
+      "englishSentence": "My mother has just cleaned the house.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Oğlum arkadaşını bekledi / beklemiş(tir).",
+      "englishSentence": "My son has waited for his friend.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Mark'1 7-8 yıldır tanıyorum / tanıdım / tanımışım(dır).",
+      "englishSentence": "I've known Mark for 7 or 8 years.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Öğle yemeği yedim / yemişim(dir).",
+      "englishSentence": "I have eaten lunch.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Bu kitabı henüz okudun mu / okumuş musun(dur)?",
+      "englishSentence": "Have you read this book yet?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Son zamanlarda Madrid'e gitmedim / gitmemişim(dir).",
+      "englishSentence": "I haven't gone to Madrid recently.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Nisan'dan beri burada çalıştım / çalışmışım(dır).",
+      "englishSentence": "I've worked here since April.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Kitabı henüz satın almadım / almamışım(dır).",
+      "englishSentence": "I haven't bought the book yet.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Asla yeni bir şey icat etmeye çalışmadık / çalışmamışız(dır).",
+      "englishSentence": "We have never tried to invent something new.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Hiç bu kadar pahalı bir ev görmedim / görmemişim(dir).",
+      "englishSentence": "I have never seen such an expensive house.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Onu son gördüğünüzden beri davranışları ve tutumları çok değişti / değişmiş(tir).",
+      "englishSentence": "Her behavior and attitudes have changed a lot since you last saw her.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Çoktan geldi / gelmiş(tir).",
+      "englishSentence": "She has already come.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Kardeşlerim hiç İspanya'ya gitmediler / gitmemişler(dir).",
+      "englishSentence": "My brothers haven 't ever gone to Spain.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Bacağını kırdı / kırmış(tır).",
+      "englishSentence": "He has broken his leg.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Bu tatil şimdiye kadar beş sınav ve altı test oldum / olmuşum(dur).",
+      "englishSentence": "I have had five quizzes and six tests so far this holiday.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Ödevinizi yeni mi bitirdin / bitirmişsin(dir)?",
+      "englishSentence": "Have you just finished homework?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Defteri satın aldılar / almışlar(dır).",
+      "englishSentence": "They have bought the notebook.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Hiç Meksika'ya gittin mi / gitmiş misin(dir)?",
+      "englishSentence": "Have you ever gone to Mexico?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Bunu bana daha önce kimse söylemedi / söylememiş(tir).",
+      "englishSentence": "Nobody has ever said that to me before.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Dört kez Çin'e gittim / gitmişim(tir).",
+      "englishSentence": "I have gone to China four times.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Samuel sekiz aydır aramadı / aramamış(tır).",
+      "englishSentence": "Samuel hasn't called for eight months.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "George hiç trenle seyahat etmedi / seyahat etmemiş(tir).",
+      "englishSentence": "George has never travelled by a train.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "O filmi çoktan gördüm / görmüşüm(dür).",
+      "englishSentence": "I have seen that movie already.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Ödevini yaptın mı / yapmış mısın(dır)?",
+      "englishSentence": "Have you done your homework?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "İşimiz sayesinde çok para kazandılar / kazanmışlar(dır).",
+      "englishSentence": "They have earned a lot of money thanks to our job.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Futbol takımları bu sezon çok gol attı / atmış(tır).",
+      "englishSentence": "Football teams have scored a lot of goals this season.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Hiç ünlü birini görmedim / görmemişim(dir).",
+      "englishSentence": "I have never seen a famous person.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Bugün müşterilerimizden dördünü ziyaret ettim / ziyaret etmişim(dir).",
+      "englishSentence": "I've visited four of our clients today.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Gömlekleri zaten ütüledim / ütülemişim(dir).",
+      "englishSentence": "I have already ironed the shirts.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Kiminle konuştun / konuşmuşsun(dur)?",
+      "englishSentence": "Who have you spoken with?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Buraya hiç gelmedi / gelmemiş(tir).",
+      "englishSentence": "She has never been here.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Odamı temizledim / temizlemişim(dir).",
+      "englishSentence": "I have cleaned my room.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Posta henüz gelmedi mi / gelmemiş mi(dir)?",
+      "englishSentence": "Hasn't the post arrived yet?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Az önce bir gol attı / atmış(tır).",
+      "englishSentence": "He has just scored a goal.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Basketbol oynamadılar / oynamamışlar(dır).",
+      "englishSentence": "They've not played basketball.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Doktorlar birçok hastalığa çare buldular / bulmuşlar(dır).",
+      "englishSentence": "Doctors have found a cure for many diseases.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Alexis üç mil koştu / koşmuş(tur).",
+      "englishSentence": "Alexis has run three miles.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Gazeteyi okumayı bitirmedin mi / bitirmemiş misin(dir)?",
+      "englishSentence": "Have you finished reading the newspaper yet?",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Raporu zaten yazdım / yazmışım(dır).",
+      "englishSentence": "I have already written the report.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Gölü hiç görmedim / görmemişim(dir).",
+      "englishSentence": "I have ever seen the lake.",
+      "topic": "have has + v3"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Kardeşiniz dekorasyonu bitirdi mi / bitirmiş mi(dir)?",
+      "englishSentence": "Has your brother finished decorating yet?",
+      "topic": "have has + v3"
+    }
+  ]

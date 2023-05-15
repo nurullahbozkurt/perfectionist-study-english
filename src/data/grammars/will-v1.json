@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Ödevimi yarın yapacağım.",
+      "englishSentence": "I will do my homework tomorrow.",
+      "topic": "will v1"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Şey, sanırım önümüzdeki hafta işe gitmek için otobüse bineceğiz.",
+      "englishSentence": "Well, I guess we will ride the bus to work next week.",
+      "topic": "will v1"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Akşam yemeğinde dana rosto yiyecek.",
+      "englishSentence": "He will eat roast beef for dinner.",
+      "topic": "will v1"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "Jane Pazartesi işinden ayrılmayacak.",
+      "englishSentence": "Jane will not quit her job on Monday.",
+      "topic": "will v1"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Sanırım bu gece James ile bir film izleyeceğim.",
+      "englishSentence": "I think I will watch a movie with James tonight.",
+      "topic": "will v1"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Jane ne zaman araba sürecek?",
+      "englishSentence": "When will Jane drive?",
+      "topic": "will v1"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "Kız kardeşim muhtemelen bu yaz kampa gidecek.",
+      "englishSentence": "My sister will probably go to camp this summer.",
+      "topic": "will v1"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Önümüzdeki yıl emlak fiyatlarının yeniden yükseleceğini tahmin ediyorum.",
+      "englishSentence": "I suppose real estate prices will go up again next year.",
+      "topic": "will v1"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Muhtemelen cevabı bilecek.",
+      "englishSentence": "She will probably know the answer.",
+      "topic": "will v1"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "Tüm mağazalarımız önümüzdeki Pazartesi saat 10.00'da açılacak.",
+      "englishSentence": "All our stores will open next Monday at 10.00 a.m.",
+      "topic": "will v1"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Barcelona harika bir futbol takımı. Bence Barcelona maçı kazanacak.",
+      "englishSentence": "Barcelona is a great football team. I think Barcelona will win the match.",
+      "topic": "will v1"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "Jenny kötü bir sürücüdür. Sürüş testini geçmeyecek.",
+      "englishSentence": "Jenny is a bad driver. She won't pass the driving test.",
+      "topic": "will v1"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Sanırım Tony konsere gidecek. Müziği seviyor.",
+      "englishSentence": "I think Tony will go to concert. He loves music.",
+      "topic": "will v1"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Bu hafta sonu plaja gideceğiz. Güzel zaman geçireceğiz.",
+      "englishSentence": "We will go to the beach this weekend. We will have a great time.",
+      "topic": "will v1"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Emma partiye gelmeyecek. Korkunç bir baş ağrısı var. Evde kalacak.",
+      "englishSentence": "Emma won't come to the party. She has a terrible headache. She will stay at home.",
+      "topic": "will v1"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Çok yorgunum. Bu akşam dışarı çıkmayacağım.",
+      "englishSentence": "I am very tired. I won't go out this evening.",
+      "topic": "will v1"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Tim tembel bir öğrencidir. Düzenli çalışmıyor. Sınavı geçmeyecek.",
+      "englishSentence": "Tim is a lazy student. He doesn't study regularly. He won't pass the exam.",
+      "topic": "will v1"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Tony dakik değil. Zamanında gelmeyecek.",
+      "englishSentence": "Tony is not punctual. He won't come on time.",
+      "topic": "will v1"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Bu akşam televizyonda ne izleyeceksin?",
+      "englishSentence": "What will you watch on TV this evening?",
+      "topic": "will v1"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Parti ne zaman başlayacak?",
+      "englishSentence": "What time will the party start?",
+      "topic": "will v1"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Bu yaz tatil için nereye gideceksin?",
+      "englishSentence": "Where will you go for holiday this summer?",
+      "topic": "will v1"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "Süslü elbise partisinde ne giyeceksin?",
+      "englishSentence": "What will you wear at fancy dress party?",
+      "topic": "will v1"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Partiye kaç kişi gelecek?",
+      "englishSentence": "How many people will come to party?",
+      "topic": "will v1"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "Bu kitap hayatınızı değiştirecek.",
+      "englishSentence": "This book will change your life.",
+      "topic": "will v1"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Sınav sonuçlarımızı Ağustos'ta öğreneceğiz.",
+      "englishSentence": "We'll know our exam results in August.",
+      "topic": "will v1"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "En yakın sinemaya yaklaşık on mil yürüyecekler.",
+      "englishSentence": "They will walk nearly ten miles to the nearest cinema.",
+      "topic": "will v1"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Yarın beni yine sevecek misin?",
+      "englishSentence": "Will you still love me tomorrow?",
+      "topic": "will v1"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Jim bunu sizin için tercüme edecek.",
+      "englishSentence": "Jim will translate it for you.",
+      "topic": "will v1"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Kartpostal alacağım.",
+      "englishSentence": "I'll buy some postcards.",
+      "topic": "will v1"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Güney İngiltere bu gece bulutlu ve rüzgarlı kalacak.",
+      "englishSentence": "Southern England will stay cloudy and windy tonight.",
+      "topic": "will v1"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Doktor gecenin bu saatinde gelmeyecek.",
+      "englishSentence": "The doctor won't come at this time of night.",
+      "topic": "will v1"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Bu saçmalığa katlanmayacağım.",
+      "englishSentence": "I won't put up with this nonsense.",
+      "topic": "will v1"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Sonraki hafta görüşeceğiz.",
+      "englishSentence": "I'll see you the week after.",
+      "topic": "will v1"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Kapıyı sizin için açık tutacağım.",
+      "englishSentence": "I'll hold the door open for you.",
+      "topic": "will v1"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Sanırım bir kahve için vaktimiz olacak.",
+      "englishSentence": "I think we'll have time for a coffee.",
+      "topic": "will v1"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Çalışma yaklaşık altı ay sürecekt.",
+      "englishSentence": "The work will take about six months.",
+      "topic": "will v1"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Yolumu kaybedeceğim.",
+      "englishSentence": "I'll lose my way.",
+      "topic": "will v1"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Onu nasıl tanıyacağım?",
+      "englishSentence": "How will I recognize him?",
+      "topic": "will v1"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Kraliçe geldiğinde kalabalık neşelenecek.",
+      "englishSentence": "The crowd will cheer when the Queen arrives.",
+      "topic": "will v1"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "İskoçya maçı kazanacak.",
+      "englishSentence": "Scotland will win the game.",
+      "topic": "will v1"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Bu oyuncular iyi bir takım oluşturacaklar.",
+      "englishSentence": "These players will make a good team.",
+      "topic": "will v1"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Hikaye onu gerçekten güldürecek.",
+      "englishSentence": "The story will really make him laugh.",
+      "topic": "will v1"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "İnsanlar her yere çöp bırakacak.",
+      "englishSentence": "People will leave litter everywhere.",
+      "topic": "will v1"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Formülü hatırlamayacak.",
+      "englishSentence": "He won't remember the formula.",
+      "topic": "will v1"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Muhtemelen sonucu yakında öğreneceğiz.",
+      "englishSentence": "We'll probably know the result soon.",
+      "topic": "will v1"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Bir gün insanlar güneş sistemi paket turuna çıkacak.",
+      "englishSentence": "One day people will go on a package tour of the solar system.",
+      "topic": "will v1"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Jane okuldan eve gelecek ve arkadaşlarını arayacak.",
+      "englishSentence": "Jane will come home from school and ring up the friends.",
+      "topic": "will v1"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Programda bir konuşma yapacağım.",
+      "englishSentence": "I will give a speech in the program.",
+      "topic": "will v1"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Robert üniversiteye gidecek.",
+      "englishSentence": "Robert will be going to the varsity.",
+      "topic": "will v1"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Tom yarın saat beşte o yere ulaşacak.",
+      "englishSentence": "Tom will reach that place at five o'clock tomorrow.",
+      "topic": "will v1"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Programda modern şarkılar söyleyeceğim.",
+      "englishSentence": "I will sing modern songs in the program.",
+      "topic": "will v1"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "Projeyi yapmanıza yardımcı olacağım.",
+      "englishSentence": "I will help you to do the project.",
+      "topic": "will v1"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Alice bu durumda size yardımcı olacaktır.",
+      "englishSentence": "Alice will assist you in this case.",
+      "topic": "will v1"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Ev işimizi yapacağız.",
+      "englishSentence": "We will do our housework.",
+      "topic": "will v1"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Robin yerimize gelecek.",
+      "englishSentence": "Robin will come to our place.",
+      "topic": "will v1"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Alana programda country şarkıları söyleyecek.",
+      "englishSentence": "Alana will sing country songs in the program.",
+      "topic": "will v1"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Bob bir şiir yazacak.",
+      "englishSentence": "Bob will write a poem.",
+      "topic": "will v1"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Görevi Ben yapacak.",
+      "englishSentence": "Ben will do the assignment.",
+      "topic": "will v1"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Henry, Mart'ta İtalya'ya seyahat edecek.",
+      "englishSentence": "Henry will travel to Italy in March.",
+      "topic": "will v1"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Akşam seninle buluşacağım.",
+      "englishSentence": "I will meet with you in the evening.",
+      "topic": "will v1"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "Bu Cuma bir film izleyeceğiz.",
+      "englishSentence": "We will watch a movie this Friday.",
+      "topic": "will v1"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Patrick, siz eve varmadan önce yemeği pişirecek.",
+      "englishSentence": "Patrick will cook the meal before you reach home.",
+      "topic": "will v1"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Dona tatlıyı hazırlayacak.",
+      "englishSentence": "Dona will prepare the dessert.",
+      "topic": "will v1"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Evlerinde bir parti düzenleyecekler.",
+      "englishSentence": "They will arrange a party at their home.",
+      "topic": "will v1"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Tom bunu duyduktan sonra üzülecek.",
+      "englishSentence": "Tom will get upset after hearing this.",
+      "topic": "will v1"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Kevin buraya gelmeden önce kuzeniyle buluşacak.",
+      "englishSentence": "Kevin will go to meet with his cousin before he comes here.",
+      "topic": "will v1"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "Oyunda Hamlet rolünü oynayacağım.",
+      "englishSentence": "I will perform the role of Hamlet in the play.",
+      "topic": "will v1"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Ayrılma zamanı geldiğinde ağlayacağım.",
+      "englishSentence": "I will cry when it's time to leave.",
+      "topic": "will v1"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Aileen ilk romanını bu Ekim ayında tamamlayacak.",
+      "englishSentence": "Aileen will complete her first novel this October.",
+      "topic": "will v1"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Kanye West, Başkan adayı olacak.",
+      "englishSentence": "Kanye West will run for President.",
+      "topic": "will v1"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Turtaları pişirecekler.",
+      "englishSentence": "They will bake the pies.",
+      "topic": "will v1"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Akşam varacağız.",
+      "englishSentence": "We will arrive in the evening.",
+      "topic": "will v1"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Bilgileri aldığımda size göndereceğim.",
+      "englishSentence": "I will send you the information when I get it.",
+      "topic": "will v1"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "E-postayı tercüme edeceğim, böylece Bay Smith'in okuyabilir",
+      "englishSentence": "I will translate the email, so Mr. Smith can read it.",
+      "topic": "will v1"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Bu ağır masayı taşımama yardım (edecek) eder misin?",
+      "englishSentence": "Will you help me move this heavy table?",
+      "topic": "will v1"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Akşam yemeği yapacak mısın?",
+      "englishSentence": "Will you make dinner?",
+      "topic": "will v1"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Ödevini senin için yapmayacağım.",
+      "englishSentence": "I will not do your homework for you.",
+      "topic": "will v1"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Bütün ev işlerini kendim yapmayacağım!",
+      "englishSentence": "I won't do all the housework myself!",
+      "topic": "will v1"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "Geldiğimde seni arayacağım.",
+      "englishSentence": "I will call you when I arrive.",
+      "topic": "will v1"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Herkes ucuz sağlık sigortasına erişecek.",
+      "englishSentence": "Everyone will access to inexpensive health insurance.",
+      "topic": "will v1"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Ona sürpriz partiden bahsetmeyeceğime söz veriyorum.",
+      "englishSentence": "I promise I will not tell him about the surprise party.",
+      "topic": "will v1"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Merak etmeyin, onlara haber vereceğim.",
+      "englishSentence": "Don't worry, I'll inform them.",
+      "topic": "will v1"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Sırrını kimseye söylemeyeceğim.",
+      "englishSentence": "I won't tell anyone your secret.",
+      "topic": "will v1"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "Mektubu en yakın arkadaşlarına yazacaklar.",
+      "englishSentence": "They will write the letter to their best friend.",
+      "topic": "will v1"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Dükkanı kapatacak.",
+      "englishSentence": "He will close the shop.",
+      "topic": "will v1"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Hafta sonu arkadaşını görecek.",
+      "englishSentence": "She will see her friend at the weekend.",
+      "topic": "will v1"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Otogara gittiğimde gazete okuyacağım.",
+      "englishSentence": "I will read the newspaper when I go to bus station.",
+      "topic": "will v1"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Yarın, güneş saat 6:00'da doğacak.",
+      "englishSentence": "Tomorrow, the sun will rise at 6:00 am.",
+      "topic": "will v1"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Başka bir ülkeye taşındığında seni özleyeceğim.",
+      "englishSentence": "I will miss you when you move to another country.",
+      "topic": "will v1"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Mark arabamı tamir edecek.",
+      "englishSentence": "Mark will fix my car.",
+      "topic": "will v1"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Tiyatroya gitmeyeceğim.",
+      "englishSentence": "I won't go to the theater.",
+      "topic": "will v1"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Yarın, babam yeni bir işe başvuracak.",
+      "englishSentence": "Tomorrow, my father will apply for a new job.",
+      "topic": "will v1"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Soruları bir daha tekrar etmeyeceğiz.",
+      "englishSentence": "We won 't repeat the questions again.",
+      "topic": "will v1"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Bu portakal suyuyla daha iyi hissedeceksin.",
+      "englishSentence": "You'll feel better with this orange juice.",
+      "topic": "will v1"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Korkarım beni hatırlamayacaksın.",
+      "englishSentence": "I am afraid you won't remember me.",
+      "topic": "will v1"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Acıtacak mı ?",
+      "englishSentence": "Will it hurt?",
+      "topic": "will v1"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Çay yapacağım.",
+      "englishSentence": "I will make a tea.",
+      "topic": "will v1"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "En iyi arkadaşları ile tanışacak.",
+      "englishSentence": "She will meet with her best friends.",
+      "topic": "will v1"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Dışarıda kalacak.",
+      "englishSentence": "It will stay in the outside.",
+      "topic": "will v1"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Muhtemelen kazanacağız.",
+      "englishSentence": "We will probably win.",
+      "topic": "will v1"
+    }
+  ]

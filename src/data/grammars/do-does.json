@@ -1,0 +1,602 @@
+[
+    {
+      "index": 1,
+      "turkishSentence": "Basketbol oynamayı sever (seviyor).",
+      "englishSentence": "He loves playing basketball.",
+      "topic": "do does"
+    },
+    {
+      "index": 2,
+      "turkishSentence": "Okula gider.",
+      "englishSentence": "He goes to school.",
+      "topic": "do does"
+    },
+    {
+      "index": 3,
+      "turkishSentence": "Her sabah otobüsü bekler mi?",
+      "englishSentence": "Does he wait for the bus every moming?",
+      "topic": "do does"
+    },
+    {
+      "index": 4,
+      "turkishSentence": "En yakın arkadaşına bir e-posta yazar.",
+      "englishSentence": "She writes an e-mail to her best friend.",
+      "topic": "do does"
+    },
+    {
+      "index": 5,
+      "turkishSentence": "Çok yakışıklı olduğunu düşünür (düşünüyor).",
+      "englishSentence": "He thinks he is very handsome.",
+      "topic": "do does"
+    },
+    {
+      "index": 6,
+      "turkishSentence": "Burada genellikle her gün yağmur yağar.",
+      "englishSentence": "It usually rains every day here.",
+      "topic": "do does"
+    },
+    {
+      "index": 7,
+      "turkishSentence": "O,mutfakta çok lezzetli kokar (kokuyor).",
+      "englishSentence": "It smells very delicious in the kitchen.",
+      "topic": "do does"
+    },
+    {
+      "index": 8,
+      "turkishSentence": "Genellikle hep birlikte şarkı söyleriz.",
+      "englishSentence": "We generally sing songs all together.",
+      "topic": "do does"
+    },
+    {
+      "index": 9,
+      "turkishSentence": "Her Pazar galeriye gideriz.",
+      "englishSentence": "We go to a gallery every Sunday.",
+      "topic": "do does"
+    },
+    {
+      "index": 10,
+      "turkishSentence": "E-posta yazar mı?",
+      "englishSentence": "Does he write an email?",
+      "topic": "do does"
+    },
+    {
+      "index": 11,
+      "turkishSentence": "Güneş doğudan doğar.",
+      "englishSentence": "The sun rises at the east.",
+      "topic": "do does"
+    },
+    {
+      "index": 12,
+      "turkishSentence": "İşe arabayla gider.",
+      "englishSentence": "She goes to work by car.",
+      "topic": "do does"
+    },
+    {
+      "index": 13,
+      "turkishSentence": "Yaz aylarında burada yağmur yağmaz.",
+      "englishSentence": "It doesn't rain here in summer.",
+      "topic": "do does"
+    },
+    {
+      "index": 14,
+      "turkishSentence": "Her gün yemek yaparız.",
+      "englishSentence": "We cook every day.",
+      "topic": "do does"
+    },
+    {
+      "index": 15,
+      "turkishSentence": "Spor kulübüne birlikte gideriz.",
+      "englishSentence": "We go to the gym club together.",
+      "topic": "do does"
+    },
+    {
+      "index": 16,
+      "turkishSentence": "Büyük bir eviniz var. / Büyük bir eve sahipsiniz.",
+      "englishSentence": "You have a big house.",
+      "topic": "do does"
+    },
+    {
+      "index": 17,
+      "turkishSentence": "Birbirimizi tanır mıyız? (tanıyor muyuz?)",
+      "englishSentence": "Do we know each other?",
+      "topic": "do does"
+    },
+    {
+      "index": 18,
+      "turkishSentence": "Öğleden sonra uyurlar.",
+      "englishSentence": "They sleep in the afternoon.",
+      "topic": "do does"
+    },
+    {
+      "index": 19,
+      "turkishSentence": "Genellikle birbirleriyle ne zaman konuşurlar?",
+      "englishSentence": "When do they usually talk to each other?",
+      "topic": "do does"
+    },
+    {
+      "index": 20,
+      "turkishSentence": "Çocuklar bahçede oynamak isterler (istiyorlar).",
+      "englishSentence": "The children want to play in the garden.",
+      "topic": "do does"
+    },
+    {
+      "index": 21,
+      "turkishSentence": "Dünya güneşin etrafında döner.",
+      "englishSentence": "The earth goes round the sun.",
+      "topic": "do does"
+    },
+    {
+      "index": 22,
+      "turkishSentence": "George dişlerini günde iki kez firçalar.",
+      "englishSentence": "George brushes his teeth twice a day.",
+      "topic": "do does"
+    },
+    {
+      "index": 23,
+      "turkishSentence": "Her gün erken kalkar.",
+      "englishSentence": "He gets up early every day.",
+      "topic": "do does"
+    },
+    {
+      "index": 24,
+      "turkishSentence": "ABD'de İngilizce konuşurlar.",
+      "englishSentence": "They speak English in USA.",
+      "topic": "do does"
+    },
+    {
+      "index": 25,
+      "turkishSentence": "Dedektif hikayeleri okumayı severim. (seviyorum)",
+      "englishSentence": "I like reading detective stories.",
+      "topic": "do does"
+    },
+    {
+      "index": 26,
+      "turkishSentence": "Coğrafya ve bilimi severim.",
+      "englishSentence": "I like geography and science.",
+      "topic": "do does"
+    },
+    {
+      "index": 27,
+      "turkishSentence": "Pazartesi Almanca çalışmaz.",
+      "englishSentence": "She doesn 't study German on Monday.",
+      "topic": "do does"
+    },
+    {
+      "index": 28,
+      "turkishSentence": "Paris'te mi yaşar?",
+      "englishSentence": "Does she live in Paris?",
+      "topic": "do does"
+    },
+    {
+      "index": 29,
+      "turkishSentence": "Matematik öğretmez.",
+      "englishSentence": "He doesn't teach math.",
+      "topic": "do does"
+    },
+    {
+      "index": 30,
+      "turkishSentence": "Kediler sudan nefret eder.",
+      "englishSentence": "Cats hate water.",
+      "topic": "do does"
+    },
+    {
+      "index": 31,
+      "turkishSentence": "Her çocuk dondurmayı sever. (seviyor)",
+      "englishSentence": "Every child likes an icecream.",
+      "topic": "do does"
+    },
+    {
+      "index": 32,
+      "turkishSentence": "Annem asla yalan söylemez.",
+      "englishSentence": "My mother never lies.",
+      "topic": "do does"
+    },
+    {
+      "index": 33,
+      "turkishSentence": "Hikayeyi anlatmak istemez. (istemiyor)",
+      "englishSentence": "She doesn 't want to tell the story.",
+      "topic": "do does"
+    },
+    {
+      "index": 34,
+      "turkishSentence": "Bilgisayar kullanmaz.",
+      "englishSentence": "She doesn 't use a computer.",
+      "topic": "do does"
+    },
+    {
+      "index": 35,
+      "turkishSentence": "Rusya'da kışın çok kar yağar.",
+      "englishSentence": "It snows a lot in winter in Russia.",
+      "topic": "do does"
+    },
+    {
+      "index": 36,
+      "turkishSentence": "Teksas'ta yaşarız.",
+      "englishSentence": "We live in Texas.",
+      "topic": "do does"
+    },
+    {
+      "index": 37,
+      "turkishSentence": "Her yaz tatile gidersiniz.",
+      "englishSentence": "You go on holiday every summer.",
+      "topic": "do does"
+    },
+    {
+      "index": 38,
+      "turkishSentence": "Spagetti sever misin? (seviyor musun?)",
+      "englishSentence": "Do you like spaghetti?",
+      "topic": "do does"
+    },
+    {
+      "index": 39,
+      "turkishSentence": "Kızım çamaşır yıkar.",
+      "englishSentence": "My daughter does the laundry.",
+      "topic": "do does"
+    },
+    {
+      "index": 40,
+      "turkishSentence": "Kardeşim çöpü çıkarır.",
+      "englishSentence": "My brother takes out the trash.",
+      "topic": "do does"
+    },
+    {
+      "index": 41,
+      "turkishSentence": "Kurs önümüzdeki Pazar başlar.",
+      "englishSentence": "The course starts next Sunday.",
+      "topic": "do does"
+    },
+    {
+      "index": 42,
+      "turkishSentence": "Her sabah yüzer.",
+      "englishSentence": "She swims every morning.",
+      "topic": "do does"
+    },
+    {
+      "index": 43,
+      "turkishSentence": "Bulaşıkları yıkamam.",
+      "englishSentence": "I don't wash the dishes.",
+      "topic": "do does"
+    },
+    {
+      "index": 44,
+      "turkishSentence": "Onları her hafta görürüz.",
+      "englishSentence": "We see them every week.",
+      "topic": "do does"
+    },
+    {
+      "index": 45,
+      "turkishSentence": "Çay sevmem. (sevmiyorum)",
+      "englishSentence": "I don't like tea.",
+      "topic": "do does"
+    },
+    {
+      "index": 46,
+      "turkishSentence": "Tren genellikle ne zaman kalkar?",
+      "englishSentence": "When does the train usually leave?",
+      "topic": "do does"
+    },
+    {
+      "index": 47,
+      "turkishSentence": "Çantasını her zaman unutur. (unutuyor)",
+      "englishSentence": "She always forgets her purse.",
+      "topic": "do does"
+    },
+    {
+      "index": 48,
+      "turkishSentence": "Çocuğunuz yok. / Çocuğa sahip değilsiniz.",
+      "englishSentence": "You don't have children.",
+      "topic": "do does"
+    },
+    {
+      "index": 49,
+      "turkishSentence": "Ben ve kız kardeşim artık birbirimizi görmeyiz (görmüyoruz).",
+      "englishSentence": "I and my sister don't see each other anymore.",
+      "topic": "do does"
+    },
+    {
+      "index": 50,
+      "turkishSentence": "Yarın okula gitmezler.",
+      "englishSentence": "They don't go to school tomorrow.",
+      "topic": "do does"
+    },
+    {
+      "index": 51,
+      "turkishSentence": "Diş hekimi olmak ister. (istiyor)",
+      "englishSentence": "She wants to be a dentist.",
+      "topic": "do does"
+    },
+    {
+      "index": 52,
+      "turkishSentence": "İnekler ot yer.",
+      "englishSentence": "Cows eat grass.",
+      "topic": "do does"
+    },
+    {
+      "index": 53,
+      "turkishSentence": "Kedim çok hızlı koşar.",
+      "englishSentence": "My cat runs very fast.",
+      "topic": "do does"
+    },
+    {
+      "index": 54,
+      "turkishSentence": "Arılarla dolu bir arı kovanı var. / Arılarla dolu bir arı kovanına sahip.",
+      "englishSentence": "She has a beehive full of bees.",
+      "topic": "do does"
+    },
+    {
+      "index": 55,
+      "turkishSentence": "Oğlum Londra'da yaşar.",
+      "englishSentence": "My son lives in London.",
+      "topic": "do does"
+    },
+    {
+      "index": 56,
+      "turkishSentence": "Paraları yok. / Paraya sahip değiller.",
+      "englishSentence": "They don't have any money.",
+      "topic": "do does"
+    },
+    {
+      "index": 57,
+      "turkishSentence": "Basketbol oynar.",
+      "englishSentence": "She plays basketball.",
+      "topic": "do does"
+    },
+    {
+      "index": 58,
+      "turkishSentence": "Her sabah treni yakalar.",
+      "englishSentence": "He catches the train every morning.",
+      "topic": "do does"
+    },
+    {
+      "index": 59,
+      "turkishSentence": "Kız kardeşim tiyatroda çalışır.",
+      "englishSentence": "My sister works at the theater.",
+      "topic": "do does"
+    },
+    {
+      "index": 60,
+      "turkishSentence": "Michael çalışmaz.",
+      "englishSentence": "Michael doesn't work.",
+      "topic": "do does"
+    },
+    {
+      "index": 61,
+      "turkishSentence": "George'u ne sıklıkla görürsün? (görüyorsun?)",
+      "englishSentence": "How often do you see George?",
+      "topic": "do does"
+    },
+    {
+      "index": 62,
+      "turkishSentence": "Peter'l her gün görmez. (görmüyor)",
+      "englishSentence": "She doesn 't see Peter every day.",
+      "topic": "do does"
+    },
+    {
+      "index": 63,
+      "turkishSentence": "Erkek arkadaşım bu şarkıyı çok sever. (seviyor)",
+      "englishSentence": "My boyfriend loves this song.",
+      "topic": "do does"
+    },
+    {
+      "index": 64,
+      "turkishSentence": "Babam iyi İngilizce bilmez. (bilmiyor)",
+      "englishSentence": "My father doesn't speak good English.",
+      "topic": "do does"
+    },
+    {
+      "index": 65,
+      "turkishSentence": "Her gün futbola gider.",
+      "englishSentence": "He goes to football every day.",
+      "topic": "do does"
+    },
+    {
+      "index": 66,
+      "turkishSentence": "Genelde California 'ya gitmezler.",
+      "englishSentence": "They don't usually go to California.",
+      "topic": "do does"
+    },
+    {
+      "index": 67,
+      "turkishSentence": "İngiltere Kraliçesi Buckingham Sarayı'nda yaşar.",
+      "englishSentence": "The Queen of England lives in Buckingham Palace.",
+      "topic": "do does"
+    },
+    {
+      "index": 68,
+      "turkishSentence": "Julie çok hızlı konuşur.",
+      "englishSentence": "Ju lie talks very fast.",
+      "topic": "do does"
+    },
+    {
+      "index": 69,
+      "turkishSentence": "Kardeşimin köpeği çok havlar.",
+      "englishSentence": "My brother's dog barks a lot.",
+      "topic": "do does"
+    },
+    {
+      "index": 70,
+      "turkishSentence": "Tenis oynar mı?",
+      "englishSentence": "Does he play tennis?",
+      "topic": "do does"
+    },
+    {
+      "index": 71,
+      "turkishSentence": "Tren her sabah 08:00'da kalkar.",
+      "englishSentence": "The train leaves every morning at 8 AM.",
+      "topic": "do does"
+    },
+    {
+      "index": 72,
+      "turkishSentence": "Su 0 'C'de donar.",
+      "englishSentence": "Water freezes at O 'C.",
+      "topic": "do does"
+    },
+    {
+      "index": 73,
+      "turkishSentence": "Yeni evcil hayvanlarımı severim. (seviyorum)",
+      "englishSentence": "I love my new pets.",
+      "topic": "do does"
+    },
+    {
+      "index": 74,
+      "turkishSentence": "Her sabah kahve içeriz.",
+      "englishSentence": "We drink coffee every morning.",
+      "topic": "do does"
+    },
+    {
+      "index": 75,
+      "turkishSentence": "Babam hafta sonları asla çalışmaz.",
+      "englishSentence": "My dad never works on the weekends.",
+      "topic": "do does"
+    },
+    {
+      "index": 76,
+      "turkishSentence": "Kimya öğretmez.",
+      "englishSentence": "She doesn 't teach chemistry.",
+      "topic": "do does"
+    },
+    {
+      "index": 77,
+      "turkishSentence": "Konuşmak istemez. (istemiyor)",
+      "englishSentence": "He doesn't want to talk.",
+      "topic": "do does"
+    },
+    {
+      "index": 78,
+      "turkishSentence": "Mary dişlerini günde iki kez fırçalar.",
+      "englishSentence": "Mary brushes her teeth twice a day.",
+      "topic": "do does"
+    },
+    {
+      "index": 79,
+      "turkishSentence": "İşe araba ile gider.",
+      "englishSentence": "He drives to work.",
+      "topic": "do does"
+    },
+    {
+      "index": 80,
+      "turkishSentence": "Mary yemek yapmayı sever. (seviyor)",
+      "englishSentence": "Mary enjoys cooking.",
+      "topic": "do does"
+    },
+    {
+      "index": 81,
+      "turkishSentence": "Muz sevmez. (sevmiyor)",
+      "englishSentence": "She doesn 't like bananas.",
+      "topic": "do does"
+    },
+    {
+      "index": 82,
+      "turkishSentence": "Beni dinlemezsin.",
+      "englishSentence": "You don't listen to me.",
+      "topic": "do does"
+    },
+    {
+      "index": 83,
+      "turkishSentence": "Her sabah dört mil koşarım.",
+      "englishSentence": "I run four miles every morning.",
+      "topic": "do does"
+    },
+    {
+      "index": 84,
+      "turkishSentence": "İş yerinde İngilizce konuşurlar.",
+      "englishSentence": "They speak English at work.",
+      "topic": "do does"
+    },
+    {
+      "index": 85,
+      "turkishSentence": "Tren 12.00'de ayrılmamaktadır.",
+      "englishSentence": "The train does not leave at 12 AM.",
+      "topic": "do does"
+    },
+    {
+      "index": 86,
+      "turkishSentence": "Şu anda param yok. i Şu anda paraya sahip değilim.",
+      "englishSentence": "I have no money at the moment.",
+      "topic": "do does"
+    },
+    {
+      "index": 87,
+      "turkishSentence": "Çok konuşurlar mı?",
+      "englishSentence": "Do they talk a lot?",
+      "topic": "do does"
+    },
+    {
+      "index": 88,
+      "turkishSentence": "Yarın sabah erkenden sabah yürüyüşüne çıkarım.",
+      "englishSentence": "Tomorrow early morning first I go to morning walk.",
+      "topic": "do does"
+    },
+    {
+      "index": 89,
+      "turkishSentence": "Kahve içer mi?",
+      "englishSentence": "Does she drink coffee?",
+      "topic": "do does"
+    },
+    {
+      "index": 90,
+      "turkishSentence": "Partide eğlenirsin.",
+      "englishSentence": "You have fun at the party.",
+      "topic": "do does"
+    },
+    {
+      "index": 91,
+      "turkishSentence": "Yapılacak (yapmak için) bazı ödevlerin var. / Yapılacak (yapmak için) bazı ödevlere sahipsin.",
+      "englishSentence": "You have some schoolwork to do.",
+      "topic": "do does"
+    },
+    {
+      "index": 92,
+      "turkishSentence": "Dondurma yer misin?",
+      "englishSentence": "Do you eat ice cream?",
+      "topic": "do does"
+    },
+    {
+      "index": 93,
+      "turkishSentence": "Tren on dakika içinde kalkar.",
+      "englishSentence": "The train leaves in ten minutes.",
+      "topic": "do does"
+    },
+    {
+      "index": 94,
+      "turkishSentence": "Domuzlar süt sever mi? (seviyor mu?)",
+      "englishSentence": "Do pigs like milk?",
+      "topic": "do does"
+    },
+    {
+      "index": 95,
+      "turkishSentence": "Amerika'da Kaliforniya'da yaşar.",
+      "englishSentence": "He lives in California in America.",
+      "topic": "do does"
+    },
+    {
+      "index": 96,
+      "turkishSentence": "Penguenler Antarktika'da yaşar.",
+      "englishSentence": "Penguins live in the Antarctica.",
+      "topic": "do does"
+    },
+    {
+      "index": 97,
+      "turkishSentence": "Hemşireler kliniklerde ve hastanelerde çalışırlar.",
+      "englishSentence": "Nurses work in clinics and hospitals.",
+      "topic": "do does"
+    },
+    {
+      "index": 98,
+      "turkishSentence": "Alex her gün yedi saat çalışır.",
+      "englishSentence": "Alex works seven hours every day.",
+      "topic": "do does"
+    },
+    {
+      "index": 99,
+      "turkishSentence": "Eti sevmem. (sevmiyorum)",
+      "englishSentence": "I do not like meat.",
+      "topic": "do does"
+    },
+    {
+      "index": 100,
+      "turkishSentence": "Her Cumartesi galeriye giderler.",
+      "englishSentence": "They go to a gallery every Saturday.",
+      "topic": "do does"
+    }
+  ]

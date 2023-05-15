@@ -1,0 +1,188 @@
+[
+    {
+
+        "positiveSentence":[
+            {
+                "english":"I HAVE BEEN happy since yesterday.",
+                "turkish":"Dünden beri mutluyum"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"I HAVEN'T BEEN happy since yesterday.",
+                "turkish":"Dünden beri mutlu değilim"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"HAVE I BEEN happy since yesterday?",
+                "turkish":"Dünden beri mutlu muyum?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"HAVEN'T I BEEN happy since yesterday?",
+                "turkish":"Dünden beri mutlu değil miyim?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"You HAVE BEEN strong since 2002.",
+                "turkish":"2002'den beri güçlüsün"
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"You HAVEN'T BEEN strong since 2002.",
+                "turkish":"2002'den beri güçlü değilsin"
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"HAVE you BEEN strong since 2002?",
+                "turkish":"2002'den beri güçlü müsün?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"HAVEN'T you BEEN strong since 2002?",
+                "turkish":"2002'den beri güçlü değil misin?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"He HAS BEEN angry for two hours.",
+                "turkish":"İki saattir kızgın."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"He HASN'T BEEN angry for two hours.",
+                "turkish":"İki saattir kızgın değil."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"HAS he BEEN angry for two hours?",
+                "turkish":"İki saattir kızgın mı?"
+            }
+         ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"HASN'T he BEEN angry for two hours?",
+                "turkish":"İki saattir kızgın değil mi?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence":[
+            {
+                "english":"She HAS BEEN beautiful for years.",
+                "turkish":"O yıllardır güzel."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"She HASN’T BEEN beautiful for years. ",
+                "turkish":"Yıllardır güzel değil."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"HAS she BEEN beautiful for years?",
+                "turkish":"Yıllardır güzel mi?"
+            }
+        
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"HASN’T she BEEN beautiful for years?",
+                "turkish":"Yıllardır güzel değil mi?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence":[
+            {
+                "english":"It HAS BEEN perfect for six months. ",
+                "turkish":"Altı aydır mükemmel."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"It HASN’T BEEN perfect for six months. ",
+                "turkish":"Altı aydır mükemmel değil."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"HAS it BEEN perfect for six months?",
+                "turkish":"Altı aydır mükemmel mi?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"HASN’T it BEEN perfect for six months?",
+                "turkish":"Altı aydır mükemmel değil mi?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"We HAVE BEEN calm for three days. ",
+                "turkish":"Üç gündür sakiniz."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"We HAVEN’T BEEN calm for three days. ",
+                "turkish":"Üç gündür sakin değiliz."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"HAVE we BEEN calm for three days?",
+                "turkish":"Üç gündür sakin miyiz?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"HAVEN’T we BEEN calm for three days?",
+                "turkish":"Üç gündür sakin değil miyiz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence":[
+            {
+                "english":"They HAVE BEEN ill since May. ",
+                "turkish":"Mayıstan beri hastalar."
+            }
+        ],
+        "negativeSentence":[
+            {
+                "english":"They HAVEN’T BEEN ill since May. ",
+                "turkish":"Mayıstan beri hasta değiller."
+            }
+        ],
+        "questionSentence":[
+            {
+                "english":"HAVE they BEEN ill since May?",
+                "turkish":"Mayıstan beri hastalar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence":[
+            {
+                "english":"HAVEN’T they BEEN ill since May?",
+                "turkish":"Mayıstan beri hasta değiller mi?"
+            }
+        ]
+    }
+]

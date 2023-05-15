@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I MIGHT speak.",
+                "turkish": "Konuşabilirim. / Konuşabiliyorum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I MIGHT NOT speak.",
+                "turkish": "Konuşamam. / Konuşamıyorum."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN I speak?",
+                "turkish": "Konuşabilir miyim? / Konuşabiliyor muyum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MIGHT I NOT speak?",
+                "turkish": "Konuşamaz mıyım? / Konuşamıyor muyum?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You MIGHT ask",
+                "turkish": "Sorabilirsin. / Sorabiliyorsun."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You MIGHT NOT ask",
+                "turkish": "Soramazsın. / Soramıyorsun."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MIGHT you ask?",
+                "turkish": "Sorabilir misin? / Sorabiliyor musun?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MIGHT you NOT ask?",
+                "turkish": "Soramaz mısın? / Soramıyor musun?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He MIGHT tell.",
+                "turkish": "Anlatabilir. / Anlatabiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He MIGHT NOT tell.",
+                "turkish": "Anlatamaz. / Anlatamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MIGHT he tell?",
+                "turkish": "Anlatabilir mi? / Anlatabiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MIGHT he NOT tell?",
+                "turkish": "Anlatamaz mı? / Anlatamıyor mu?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She MIGHT listen.",
+                "turkish": "Dinleyebilir. / Dinleyebiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She MIGHT NOT listen.",
+                "turkish": "Dinleyemez. / Dinleyemiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MIGHT she listen?",
+                "turkish": "Dinleyebilir mi? / Dinleyebiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MIGHT NOT she listen?",
+                "turkish": "Dinleyemez mi? / Dinleyemiyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It MIGHT bark.",
+                "turkish": "Havlayabilir. / Havlayabiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It MIGHT NOT bark.",
+                "turkish": "Havlayamaz. / Havlayamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MIGHT it bark?",
+                "turkish": "Havlayabilir mi? / Havlayabiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MIGHT it NOT bark?",
+                "turkish": "Havlayamaz mı? / Havlayamıyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We MIGHT teach.",
+                "turkish": "Öğretebiliriz. / Öğretebiliyoruz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We MIGHT NOT teach.",
+                "turkish": "Öğretemeyiz. / Öğretemiyoruz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MIGHT we teach?",
+                "turkish": "Öğretebilir miyiz? / Öğretebiliyor muyuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MIGHT we NOT teach?",
+                "turkish": "Öğretemez miyiz? / Öğretemiyor muyuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You MIGHT learn.",
+                "turkish": "Öğrenebilirsiniz. / Öğrenebiliyorsunuz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You MIGHT NOT learn.",
+                "turkish": "Öğrenemezsiniz. / Öğrenemiyorsunuz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MIGHT you learn?",
+                "turkish": "Öğrenebilir misiniz? / Öğrenebiliyor musunuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MIGHT you NOT learn?",
+                "turkish": "Öğrenemez misiniz? / Öğrenemiyor musunuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They MIGHT work.",
+                "turkish": "Çalışabilirler. / Çalışabiliyorlar."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They MIGHT NOT work.",
+                "turkish": "Çalışamazlar. / Çalışamıyorlar."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "MIGHT they work?",
+                "turkish": "Çalışabilirler mi? / Çalışabiliyorlar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "MIGHT they NOT work?",
+                "turkish": "Çalışamazlar mı? / Çalışamıyorlar mı?"
+            }
+        ]
+    }
+]

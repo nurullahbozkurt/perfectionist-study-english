@@ -1,0 +1,211 @@
+[
+    {
+        "positiveSentence": [
+            {
+                "english": "I CAN speak.",
+                "turkish": "Konuşabilirim. / Konuşabiliyorum."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "I CAN'T speak.",
+                "turkish": "Konuşamam. / Konuşamıyorum."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN I speak?",
+                "turkish": "Konuşabilir miyim? / Konuşabiliyor muyum?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "CAN'T I speak?",
+                "turkish": "Konuşamaz mıyım? / Konuşamıyor muyum?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You CAN ask",
+                "turkish": "Sorabilirsin. / Sorabiliyorsun."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You CAN'T ask",
+                "turkish": "Soramazsın. / Soramıyorsun."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN you ask?",
+                "turkish": "Sorabilir misin? / Sorabiliyor musun?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "CAN'T you ask?",
+                "turkish": "Soramaz mısın? / Soramıyor musun?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "He CAN tell.",
+                "turkish": "Anlatabilir. / Anlatabiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "He CAN'T tell.",
+                "turkish": "Anlatamaz. / Anlatamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN he tell?",
+                "turkish": "Anlatabilir mi? / Anlatabiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "CAN'T he tell?",
+                "turkish": "Anlatamaz mı? / Anlatamıyor mu?"
+            }
+        ]
+    },
+
+    {
+        "positiveSentence": [
+            {
+                "english": "She CAN listen.",
+                "turkish": "Dinleyebilir. / Dinleyebiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "She CAN'T listen.",
+                "turkish": "Dinleyemez. / Dinleyemiyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN she listen?",
+                "turkish": "Dinleyebilir mi? / Dinleyebiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "CAN'T she listen?",
+                "turkish": "Dinleyemez mi? / Dinleyemiyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "It CAN bark.",
+                "turkish": "Havlayabilir. / Havlayabiliyor."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "It CAN'T bark.",
+                "turkish": "Havlayamaz. / Havlayamıyor."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN it bark?",
+                "turkish": "Havlayabilir mi? / Havlayabiliyor mu?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "CAN'T it bark?",
+                "turkish": "Havlayamaz mı? / Havlayamıyor mu?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "We CAN teach.",
+                "turkish": "Öğretebiliriz. / Öğretebiliyoruz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "We CAN'T teach.",
+                "turkish": "Öğretemeyiz. / Öğretemiyoruz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN we teach?",
+                "turkish": "Öğretebilir miyiz? / Öğretebiliyor muyuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "CAN'T we teach?",
+                "turkish": "Öğretemez miyiz? / Öğretemiyor muyuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "You CAN learn.",
+                "turkish": "Öğrenebilirsiniz. / Öğrenebiliyorsunuz."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "You CAN'T learn.",
+                "turkish": "Öğrenemezsiniz. / Öğrenemiyorsunuz."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN you learn?",
+                "turkish": "Öğrenebilir misiniz? / Öğrenebiliyor musunuz?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "CAN'T you learn?",
+                "turkish": "Öğrenemez misiniz? / Öğrenemiyor musunuz?"
+            }
+        ]
+    },
+    {
+        "positiveSentence": [
+            {
+                "english": "They CAN work.",
+                "turkish": "Çalışabilirler. / Çalışabiliyorlar."
+            }
+        ],
+        "negativeSentence": [
+            {
+                "english": "They CAN'T work.",
+                "turkish": "Çalışamazlar. / Çalışamıyorlar."
+            }
+        ],
+        "questionSentence": [
+            {
+                "english": "CAN they work?",
+                "turkish": "Çalışabilirler mi? / Çalışabiliyorlar mı?"
+            }
+        ],
+        "negativeInterrogativeSentence": [
+            {
+                "english": "CAN'T they work?",
+                "turkish": "Çalışamazlar mı? / Çalışamıyorlar mı?"
+            }
+        ]
+    }
+]
