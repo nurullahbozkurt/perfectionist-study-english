@@ -2,8 +2,9 @@ import React, { useEffect, useState } from 'react'
 import { Layout } from '@/components/Layout';
 import { IDailySentence } from '@/types/api';
 import { useApp } from '@/states/app';
-import StudyAreaLayout from '../StudyAreaLayout';
+import WorkSpaceLayout from '../WorkSpaceLayout';
 import { PostOrPage } from '@tryghost/content-api';
+import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
 
 type Props = {
     post: PostOrPage
@@ -115,21 +116,40 @@ const DailySentences = (props: Props) => {
 
     return (
         <Layout>
-            <StudyAreaLayout
-                post={props.post}
-                postError={props.postError}
-                isLoading={isLoading}
-                turkishSentence={sentence?.turkishSentence}
-                englishSentence={sentence?.englishSentence}
-                topic={"Günlük İfadeler"}
-                changeSentence={changeSentence}
-                answer={answer}
-                setAnswer={setAnswer}
-                sendAnswer={sendAnswer}
-                correctSentence={correctSentence}
-                setCorretSentence={() => setCorrectSentence}
-                openReviewModal={openReviewModal}
-            />
+            <div className='hidden lg:block' >
+                <WorkSpaceLayout
+                    post={props.post}
+                    postError={props.postError}
+                    isLoading={isLoading}
+                    turkishSentence={sentence?.turkishSentence}
+                    englishSentence={sentence?.englishSentence}
+                    topic={"Günlük İfadeler"}
+                    changeSentence={changeSentence}
+                    answer={answer}
+                    setAnswer={setAnswer}
+                    sendAnswer={sendAnswer}
+                    correctSentence={correctSentence}
+                    setCorretSentence={() => setCorrectSentence}
+                    openReviewModal={openReviewModal}
+                />
+            </div>
+            <div className='block lg:hidden' >
+                <MobileWorkSpaceLayout
+                    post={props.post}
+                    postError={props.postError}
+                    isLoading={isLoading}
+                    turkishSentence={sentence?.turkishSentence}
+                    englishSentence={sentence?.englishSentence}
+                    topic={"Günlük İfadeler"}
+                    changeSentence={changeSentence}
+                    answer={answer}
+                    setAnswer={setAnswer}
+                    sendAnswer={sendAnswer}
+                    correctSentence={correctSentence}
+                    setCorretSentence={() => setCorrectSentence}
+                    openReviewModal={openReviewModal}
+                />
+            </div>
         </Layout>
     )
 }

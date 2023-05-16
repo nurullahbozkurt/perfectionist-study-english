@@ -25,7 +25,7 @@ type Props = {
 
 }
 
-const MobileStudyAreaLayout = (props: Props) => {
+const MobileWorkSpaceLayout = (props: Props) => {
     const [scrollContainer, setScrollContainer] = useState<HTMLDivElement | null>(null);
 
     console.log("props.correctSentence", props.correctSentence)
@@ -43,7 +43,7 @@ const MobileStudyAreaLayout = (props: Props) => {
 
                     {
                         props.correctSentence.map((sentence, index) => (
-                            <div className='flex flex-col border p-2 border-gray-300 bg-gray-100 text-sm md:text-base' >
+                            <div className='flex flex-col border p-2 border-gray-300 bg-gray-100' >
 
                                 <div className='flex items-center justify-between' >
                                     <p><span className='font-semibold' >Cümlen :</span>{sentence.yourSentence}</p>
@@ -57,7 +57,7 @@ const MobileStudyAreaLayout = (props: Props) => {
                     }
                 </div>}
                 <div className='' >
-                    <div className='flex flex-col gap-1 text-sm md:text-base bg-primary-800 text-white p-2' >
+                    <div className='flex flex-col gap-1 bg-primary-800 text-white p-2' >
                         <div className='flex items-center justify-between my-1' >
                             <p className='text-xs' >Cümleyi çevir</p>
                             <p className='text-[10px] md:text-xs border rounded bg-gray-50 text-black px-1' >{props.topic}</p>
@@ -91,4 +91,4 @@ const MobileStudyAreaLayout = (props: Props) => {
     )
 }
 
-export default MobileStudyAreaLayout
+export default MobileWorkSpaceLayout

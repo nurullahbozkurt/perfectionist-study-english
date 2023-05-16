@@ -3,6 +3,7 @@ import { Switch } from '@headlessui/react'
 import { useMutation } from "react-query";
 import axios from "axios";
 import { Puff } from 'react-loader-spinner'
+import { set } from 'mongoose';
 
 
 
@@ -18,13 +19,15 @@ export default function OpenToggle(props: Props) {
     const mutation = useMutation(async (itemId: string) =>
         await axios.put(`/api/reviews`, {
             itemId: itemId,
+            enabled: !enabled
         })
     );
 
     const handleChange = async () => {
         setEnabled((prevEnabled) => !prevEnabled);
-        await mutation.mutateAsync(props.itemId);
+        const res = await mutation.mutateAsync(props.itemId);
         props.refetch()
+        setEnabled(res.data.review.enabled)
     };
 
 

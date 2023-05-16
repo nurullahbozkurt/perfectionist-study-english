@@ -3,10 +3,10 @@ import useGetActiveTenses from '@/hooks/get-active-tenses';
 import { useRouter } from 'next/router';
 import { Layout } from '@/components/Layout';
 import { IActiveTense } from '@/types/api';
-import StudyAreaLayout from '../StudyAreaLayout';
+import WorkSpaceLayout from '../WorkSpaceLayout';
 import { PostOrPage } from '@tryghost/content-api';
 import { useApp } from '@/states/app';
-import MobileStudyAreaLayout from '../MobileStudyAreaLayout';
+import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
 
 type Props = {
     post: PostOrPage
@@ -110,7 +110,7 @@ const ActiveTense = (props: Props) => {
     return (
         <Layout>
             <div className='hidden lg:block' >
-                <StudyAreaLayout
+                <WorkSpaceLayout
                     sendAnswer={sendAnswer}
                     isLoading={isLoading}
                     turkishSentence={activeSentence?.turkish}
@@ -128,7 +128,7 @@ const ActiveTense = (props: Props) => {
             </div>
 
             <div className='block lg:hidden' >
-                <MobileStudyAreaLayout
+                <MobileWorkSpaceLayout
                     sendAnswer={sendAnswer}
                     isLoading={isLoading}
                     turkishSentence={activeSentence?.turkish}

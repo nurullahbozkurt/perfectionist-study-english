@@ -1,6 +1,14 @@
+export interface IUser{
+    firstName: string;
+    lastName: string;
+    email: string;
+    role: string;
+    createdAt: string;
+}
+
 export interface IReview{
     _id: string;
-    user:string;
+    user: IUser ;
     sentence:string;
     reviewNote:string;
     yourSentence: string;
@@ -8,6 +16,9 @@ export interface IReview{
     createdAt: string;
     enabled: boolean;
     grammar: string;
+    sendToTeacher: boolean;
+    teacherAnswer: string | null;
+    
 }
 
 export interface IGrammar{

@@ -14,22 +14,30 @@ type Props = {}
 const Sidebar = (props: Props) => {
     const { data: session, status } = useSession();
     const { isSidebarOpen, setIsSidebarOpen, logoRef, sidebarRef, contentRef, maxSidebarRef, maxToolbarRef, miniSidebarRef, openNav } = useApp();
-
+    console.log("session", session)
     const [isOpenMenuModal, setIsOpenMenuModal] = useState(false);
     const [showActiveTenses, setShowActiveTenses] = useState(false);
     const [showGrammers, setShowGrammers] = useState(false);
 
 
-    const openGrammarModal = () => {
+    const openGrammarModal = (e: any) => {
         setIsOpenMenuModal(true);
         setShowActiveTenses(false);
         setShowGrammers(true);
+        if (e !== "miniSidebar") {
+            openNav && openNav();
+        }
     }
 
-    const openActiveTensesModal = () => {
+    const openActiveTensesModal = (e: any) => {
+        console.log("e", e)
         setIsOpenMenuModal(true);
         setShowGrammers(false);
         setShowActiveTenses(true);
+        if (e !== "miniSidebar") {
+            openNav && openNav();
+        }
+
     }
 
 
@@ -103,19 +111,19 @@ const Sidebar = (props: Props) => {
                         </div>
                     </Link>
 
-                    <Link onClick={openNav} href="/admin" className="hover:ml-10 w-full cursor-pointer text-white hover:text-yellow-400  bg-primary-800 p-2 pl-8 rounded-full transform ease-in-out duration-300 flex flex-row items-center space-x-3">
+                    {session?.user.role === "admin" && <Link onClick={openNav} href="/admin" className="hover:ml-10 w-full cursor-pointer text-white hover:text-yellow-400  bg-primary-800 p-2 pl-8 rounded-full transform ease-in-out duration-300 flex flex-row items-center space-x-3">
                         <FaUserTie />
                         <div>
                             <p className='whitespace-nowrap' >Admin</p>
                         </div>
-                    </Link>
+                    </Link>}
                 </div>
                 <div ref={miniSidebarRef} className="mini mt-20 flex flex-col space-y-2 w-full h-[calc(100vh)]">
-                    <button onClick={openGrammarModal} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
+                    <button onClick={() => openGrammarModal("miniSidebar")} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
                         <AiFillAlipayCircle />
                     </button>
 
-                    <button onClick={openActiveTensesModal} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
+                    <button onClick={() => openActiveTensesModal("miniSidebar")} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
                         <AiFillLayout />
                     </button>
 
@@ -143,9 +151,9 @@ const Sidebar = (props: Props) => {
                         <SiBloglovin />
                     </Link>
 
-                    <Link passHref href={{ pathname: "/admin", query: { page: "Admin" } }} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
+                    {session?.user.role === "admin" && <Link passHref href={{ pathname: "/admin", query: { page: "Admin" } }} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
                         <FaUserTie />
-                    </Link>
+                    </Link>}
                 </div>
             </aside>
 

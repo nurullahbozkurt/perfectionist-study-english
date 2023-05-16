@@ -5,15 +5,15 @@ import bcrypt from "bcrypt";
 import User from '../../../../modals/user'
 import connectMongoDB from '../../../../lib/mongodb'
 import { useState } from "react";
+import { sign } from "jsonwebtoken";
+
 
 
 export const authOptions: NextAuthOptions = {
 
-  session: {
-    strategy: "jwt",
-    // maxAge: 30 * 24 * 60 * 60, // 30 days
-    // updateAge: 24 * 60 * 60, // 24 hours
-  },
+  session:{
+  strategy: 'jwt',
+ },
   providers: [
     CredentialsProvider({
       type: 'credentials',
@@ -36,22 +36,23 @@ export const authOptions: NextAuthOptions = {
           email: user.email,
           name: user.firstName,
           id: user._id,
+          role: user.role,
         };
       },
     }),
   ],
   callbacks: {
+    async jwt({ token, user}) {
+      return {
+        ...token,
+        ...user
+      };
+    },
     async session({session,token}) {
-        if(session.user) {
-          {
-            session.user = {
-              ...session.user,
-              id: token.sub as string,
-            }
-          }
-        }
+      session.user = token as any;
         return session;
     },
+
   },
   
   pages: {

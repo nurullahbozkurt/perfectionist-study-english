@@ -36,12 +36,21 @@ const updateReview = async (req: NextApiRequest, res: NextApiResponse) => {
     if (!review) {
       return res.status(404).json({ message: "Review not found" });
     }
-  
-    review.enabled = !review.enabled;
+    if(req.body.enabled !== undefined){
+        review.enabled = req.body.enabled;
+    }
+    if(req.body.sendToTeacher !== undefined){
+        console.log("sea")
+        review.sendToTeacher = req.body.sendToTeacher;
+    }
+
+
     await review.save();
   
     res.status(200).json({ message: "Review updated", review });
   };
+
+
 
   const deleteReview = async (req: NextApiRequest, res: NextApiResponse) => {
     const review = await Review.findById(req.query.itemId);

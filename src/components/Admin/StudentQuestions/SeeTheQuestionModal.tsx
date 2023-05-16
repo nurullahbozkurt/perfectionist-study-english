@@ -1,18 +1,53 @@
+import { IReview } from '@/types/api'
 import { Dialog, Transition } from '@headlessui/react'
-import { Fragment, useState } from 'react'
+import { Fragment, useEffect, useState } from 'react'
 import { FaUserGraduate } from 'react-icons/fa'
+import { useMutation } from 'react-query'
+import axios from 'axios'
 
 
 type Props = {
     isOpenQuestionModal: boolean
     setIsOpenQuestionModal: (isOpen: boolean) => void
+    question: IReview | null
+    questionsRefetch: () => void
 }
 
 export default function SeeTheQuestionModal(props: Props) {
+    const [teacherAnswer, setTeacherAnswer] = useState("")
+
+
+    const mutation = useMutation(async (teacherAnswer: string) =>
+        await axios.put(`/api/admin/reviews`, {
+            reviewId: props.question?._id,
+            teacherAnswer: teacherAnswer as string
+        })
+    );
+
+    const onSubmit = async (e: any) => {
+        e.preventDefault();
+        try {
+            await mutation.mutateAsync(teacherAnswer);
+        } catch (error) {
+            console.log("error", error)
+        }
+        setTeacherAnswer("")
+        props.questionsRefetch()
+        props.setIsOpenQuestionModal(false)
+    };
+
 
     function closeModal() {
         props.setIsOpenQuestionModal(false)
     }
+
+    useEffect(() => {
+        if (props.question?.teacherAnswer === null) {
+            setTeacherAnswer("")
+        }
+        setTeacherAnswer(props.question?.teacherAnswer as string)
+    }, [props.question])
+
 
 
     return (
@@ -49,22 +84,25 @@ export default function SeeTheQuestionModal(props: Props) {
                                         className="text-lg font-medium leading-6 text-gray-900 flex items-center gap-2 mb-5 border-b pb-2"
                                     >
                                         <FaUserGraduate />
-                                        Nurullah'ın Sorusu
+                                        {props.question?.user?.firstName}
                                     </Dialog.Title>
                                     <div className="mt-2 flex flex-col gap-3">
                                         <p className="border rounded p-2 bg-red-100">
-                                            <span className='font-semibold text-primary-900' >Nurullah :</span> Hocam, bu cümlede neden "Were" değilde "Is" kullandık ?
+                                            <span className='font-semibold text-primary-900' >{props.question?.user.firstName} :</span>{props.question?.reviewNote}
                                         </p>
                                         <div className='flex flex-col gap-1' >
-                                            <p><span className='text-green-700 font-semibold' >Verilen Cümle :</span> Annen evde mi ?</p>
-                                            <p><span className='text-red-700 font-semibold' >Öğrencinin Cümlesi :</span> Were your mother at home ?</p>
+                                            <p><span className='text-green-700 font-semibold' >Verilen Cümle :</span> {props.question?.sentence}</p>
+                                            <p><span className='text-red-700 font-semibold' >Öğrencinin Cümlesi :</span>{props.question?.yourSentence}</p>
+                                            <p><span className='text-primary-900 font-semibold' >Doğru Cümle :</span>{props.question?.correctSentence}</p>
                                         </div>
-                                        <div className='border p-2 rounded bg-green-50' >
+                                        <form onSubmit={(e) => onSubmit(e)} className='border p-2 rounded bg-green-50' >
                                             <label htmlFor="answer" className="block text-sm font-medium text-gray-700">
                                                 <span className='font-semibold text-green-800' >Eğitmen Cevabı :</span>
                                             </label>
                                             <div className="mt-1">
                                                 <textarea
+                                                    onChange={(e) => setTeacherAnswer(e.target.value)}
+                                                    value={teacherAnswer}
                                                     id="answer"
                                                     name="answer"
                                                     rows={3}
@@ -72,18 +110,19 @@ export default function SeeTheQuestionModal(props: Props) {
                                                     placeholder="Cevabınızı buraya yazınız."
                                                 />
                                             </div>
-                                        </div>
+                                            <div className="mt-4">
+                                                <button
+                                                    type="submit"
+                                                    className="inline-flex justify-center rounded-md border border-transparent bg-blue-100 px-4 py-2 text-sm font-medium text-blue-900 hover:bg-blue-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+                                                    onClick={closeModal}
+                                                >
+                                                    Cevabı Gönder
+                                                </button>
+                                            </div>
+                                        </form>
                                     </div>
 
-                                    <div className="mt-4">
-                                        <button
-                                            type="button"
-                                            className="inline-flex justify-center rounded-md border border-transparent bg-blue-100 px-4 py-2 text-sm font-medium text-blue-900 hover:bg-blue-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
-                                            onClick={closeModal}
-                                        >
-                                            Cevabı Gönder
-                                        </button>
-                                    </div>
+
                                 </Dialog.Panel>
                             </Transition.Child>
                         </div>

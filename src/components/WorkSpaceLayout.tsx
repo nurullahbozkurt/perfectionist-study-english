@@ -31,7 +31,7 @@ type Props = {
 
 }
 
-const StudyAreaLayout = (props: Props) => {
+const WorkSpaceLayout = (props: Props) => {
     const { headerHeight, setHeaderHeight } = useApp();
     const [contentHeight, setContentHeight] = useState(0);
     const [scrollContainer, setScrollContainer] = useState<HTMLDivElement | null>(null);
@@ -130,4 +130,4 @@ const StudyAreaLayout = (props: Props) => {
     )
 }
 
-export default StudyAreaLayout
+export default WorkSpaceLayout

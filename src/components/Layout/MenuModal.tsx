@@ -81,6 +81,8 @@ type Props = {
 export default function MenuModal(props: Props) {
     const { setIsSidebarOpen, isSidebarOpen, openNav } = useApp()
 
+
+
     function closeModal() {
         props.setIsOpenMenuModal(false)
         if (isSidebarOpen) {
@@ -116,34 +118,35 @@ export default function MenuModal(props: Props) {
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full max-w-3xl transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="w-full z-50 max-h-[520px] sm:max-h-max overflow-y-scroll sm:max-w-3xl max-w-[300px] ml-[40px] transform overflow-hidden rounded-2xl bg-white p-2 sm:p-6 text-left align-middle shadow-xl transition-all">
                                     <Dialog.Title
                                         as="h3"
-                                        className="text-lg font-medium leading-6 text-gray-900"
+                                        className="text-lg font-medium leading-6 text-gray-900 ml-3 pt-1 sm:ml-0"
                                     >
-                                        Gramer Çalış
+                                        {props.showGrammers && "Gramerler"}
+                                        {props.showActiveTenses && "Active Tense"}
                                     </Dialog.Title>
                                     <div className="mt-2">
-                                        {props.showGrammers && <div className="p-4 grid grid-cols-3 gap-4">
+                                        {props.showGrammers && <div className="p-2 sm:p-4 grid grid-cols-2 sm:grid-cols-3 gap-4">
                                             {tenses.map((tense) => (
-                                                <div>
+                                                <div className='w-full' >
                                                     <h3 className="text-xs leading-6 font-medium text-gray-900">{tense}</h3>
                                                     {grammars.filter((item) => item.tense === tense).map((item) => (
-                                                        <div className='' >
-                                                            <Link onClick={closeModal} passHref href={{ pathname: item.href, query: { page: "Gramer" } }} className="mt-1 text-[10px] text-gray-900 hover:bg-gray-200 px-2 py-1 rounded">{item.name}</Link>
+                                                        <div className='w-full border p-0.5 rounded m-0.5 md:m-1 text-gray-900 hover:bg-gray-200' >
+                                                            <Link onClick={closeModal} passHref href={{ pathname: item.href, query: { page: "Gramer" } }} className="w-full h-full flex items-center mt-1 text-[10px] px-2 py-1 rounded">{item.name}</Link>
                                                         </div>
                                                     ))}
                                                 </div>
                                             ))}
                                         </div>}
 
-                                        {props.showActiveTenses && <div className="p-4 grid grid-cols-3 gap-4">
+                                        {props.showActiveTenses && <div className="p-2 sm:p-4 grid grid-cols-2 sm:grid-cols-3 gap-4">
                                             {tenses.map((tense) => (
                                                 <div>
                                                     <h3 className="text-xs leading-6 font-medium text-gray-900">{tense}</h3>
                                                     {activeTenses.filter((item) => item.tense === tense).map((item) => (
-                                                        <div className='' >
-                                                            <Link onClick={closeModal} passHref href={{ pathname: item.href, query: { page: "Active Tense" } }} className="mt-1 text-[10px] text-gray-900 hover:bg-gray-200 px-2 py-1 rounded">{item.name}</Link>
+                                                        <div className='border p-0.5 rounded m-0.5 md:m-1 text-gray-900 hover:bg-gray-200' >
+                                                            <Link onClick={closeModal} passHref href={{ pathname: item.href, query: { page: "Active Tense" } }} className="w-full mt-1 text-[10px] px-2 py-1 rounded">{item.name}</Link>
                                                         </div>
                                                     ))}
                                                 </div>

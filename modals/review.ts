@@ -3,6 +3,7 @@ import { Schema, model, models } from 'mongoose'
 const reviewSchema = new Schema({
     user: {
         type: Schema.Types.ObjectId,
+        ref: 'User',
     },
     sentence: {
         type: String,
@@ -26,7 +27,18 @@ const reviewSchema = new Schema({
     },
     grammar :{
         type:String
-    }
-});
+    },
+    sendToTeacher :{
+        type:Boolean,
+        default: false
+    },
+    teacherAnswer :{
+        type:String,
+        default: null
+    },
+},
+
+);
+
 
 export default models.Review || model('Review', reviewSchema);

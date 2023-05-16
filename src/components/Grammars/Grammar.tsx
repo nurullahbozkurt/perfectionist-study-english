@@ -4,12 +4,10 @@ import React, { useEffect, useMemo, useState } from 'react'
 import { useApp } from '@/states/app'
 import { useRouter } from 'next/router'
 import { Layout } from '@/components/Layout';
-import StudyAreaLayout from '../StudyAreaLayout'
+import WorkSpaceLayout from '../WorkSpaceLayout'
 import { PostOrPage } from '@tryghost/content-api'
 import { IGrammar } from '@/types/api'
-import NewLayout from '../Layout/Layout'
-import { is } from 'date-fns/locale';
-import MobileStudyAreaLayout from '../MobileStudyAreaLayout';
+import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
 
 
 
@@ -139,7 +137,7 @@ const Grammar = (props: Props) => {
     return (
         <Layout>
             <div className='hidden lg:block' >
-                <StudyAreaLayout
+                <WorkSpaceLayout
                     post={props.post}
                     postError={props.postError}
                     isLoading={isLoading}
@@ -157,7 +155,7 @@ const Grammar = (props: Props) => {
             </div>
 
             <div className='block lg:hidden' >
-                <MobileStudyAreaLayout
+                <MobileWorkSpaceLayout
                     post={props.post}
                     postError={props.postError}
                     isLoading={isLoading}

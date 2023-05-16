@@ -1,3 +1,3 @@
-import { StudentNotes } from "@/components/StudentNotes";
+import { StudentQuestions } from '@/components/Admin'
 
-export default StudentNotes
+export default StudentQuestions
