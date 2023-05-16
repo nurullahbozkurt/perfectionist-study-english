@@ -49,12 +49,19 @@
 .blog ul {
   @apply pl-6 my-4
 }
+
+
 .blog h3{
   @apply text-lg font-medium my-4 text-red-800 font-semibold
 }
 .blog .kg-callout-card{
   @apply p-4 rounded border flex items-center gap-2 my-2 italic mb-7
 }
+
+.kg-callout-card {
+  @apply !my-0 sm:my-auto
+}
+
 .blog .kg-callout-emoji{
   @apply lg:text-lg
 }

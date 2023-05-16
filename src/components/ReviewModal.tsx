@@ -42,8 +42,8 @@ export default function ReviewModal(props: Props) {
 
     return (
         <>
-            <Transition appear show={isReviewModalOpen} as={Fragment}>
-                <Dialog as="div" className="relative z-10" onClose={closeModal}>
+            <Transition appear show={isReviewModalOpen} as={Fragment} >
+                <Dialog as="div" className="relative z-20" onClose={closeModal}>
                     <Transition.Child
                         as={Fragment}
                         enter="ease-out duration-300"
@@ -67,28 +67,28 @@ export default function ReviewModal(props: Props) {
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full max-w-lg transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="w-full sm:max-w-lg max-w-[300px] ml-10 transform overflow-hidden rounded-2xl bg-white p-3 sm:p-6 text-left align-middle shadow-xl transition-all">
                                     <Dialog.Title
                                         as="h3"
                                         className="text-xl font-medium leading-6 text-gray-900 border-b text-center py-2"
                                     >
-                                        <p className='font-light text-xl' >{props.sentence}</p>
+                                        <p className='font-light text-lg sm:text-xl' >{props.sentence}</p>
 
                                     </Dialog.Title>
                                     <div className="mt-2">
-                                        <div className='flex flex-col gap-1' >
+                                        <div className='flex flex-col gap-1 text-sm sm:text-base' >
                                             <p><span className='font-semibold' >Senin Cümlen:</span> {props.yourSentence}</p>
                                             <p><span className='font-semibold' >Doğru Cümle:</span> {props.correctSentence}</p>
                                         </div>
                                     </div>
-                                    <div className='pt-5' >
+                                    <div className='pt-5 text-sm sm:text-base' >
                                         <label className="block text-sm  text-gray-700 font-light">
                                             Not Bırak
                                         </label>
                                         <textarea onChange={(e) => setReviewNote(e.target.value)} value={reviewNote} className='border rounded w-full p-3' />
                                     </div>
 
-                                    <div className="mt-4">
+                                    <div className="mt-4 text-sm sm:text-base">
                                         <button
                                             type="button"
                                             className="inline-flex justify-center rounded-md border border-transparent bg-primary-700 px-4 py-2 text-sm font-medium text-white hover:bg-primary-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"

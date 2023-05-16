@@ -9,6 +9,7 @@ import { PostOrPage } from '@tryghost/content-api'
 import { IGrammar } from '@/types/api'
 import NewLayout from '../Layout/Layout'
 import { is } from 'date-fns/locale';
+import MobileStudyAreaLayout from '../MobileStudyAreaLayout';
 
 
 
@@ -137,21 +138,41 @@ const Grammar = (props: Props) => {
 
     return (
         <Layout>
-            <StudyAreaLayout
-                post={props.post}
-                postError={props.postError}
-                isLoading={isLoading}
-                turkishSentence={sentence?.turkishSentence}
-                englishSentence={sentence?.englishSentence}
-                topic={sentence.topic}
-                changeSentence={changeSentence}
-                answer={answer}
-                setAnswer={setAnswer}
-                sendAnswer={sendAnswer}
-                correctSentence={correctSentence}
-                setCorretSentence={() => setCorrectSentence}
-                openReviewModal={openReviewModal}
-            />
+            <div className='hidden lg:block' >
+                <StudyAreaLayout
+                    post={props.post}
+                    postError={props.postError}
+                    isLoading={isLoading}
+                    turkishSentence={sentence?.turkishSentence}
+                    englishSentence={sentence?.englishSentence}
+                    topic={sentence.topic}
+                    changeSentence={changeSentence}
+                    answer={answer}
+                    setAnswer={setAnswer}
+                    sendAnswer={sendAnswer}
+                    correctSentence={correctSentence}
+                    setCorretSentence={() => setCorrectSentence}
+                    openReviewModal={openReviewModal}
+                />
+            </div>
+
+            <div className='block lg:hidden' >
+                <MobileStudyAreaLayout
+                    post={props.post}
+                    postError={props.postError}
+                    isLoading={isLoading}
+                    turkishSentence={sentence?.turkishSentence}
+                    englishSentence={sentence?.englishSentence}
+                    topic={sentence.topic}
+                    changeSentence={changeSentence}
+                    answer={answer}
+                    setAnswer={setAnswer}
+                    sendAnswer={sendAnswer}
+                    correctSentence={correctSentence}
+                    setCorretSentence={() => setCorrectSentence}
+                    openReviewModal={openReviewModal}
+                />
+            </div>
 
         </Layout>
     )

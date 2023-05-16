@@ -27,7 +27,7 @@ const PathNav = (props: Props) => {
 
     return (
         <>
-            {routerQuery && <nav className="flex px-5 py-3 text-gray-700  rounded-full bg-gray-50" aria-label="Breadcrumb">
+            {routerQuery && <nav className="hidden md:flex px-5 py-3 text-gray-700  rounded-full bg-gray-50" aria-label="Breadcrumb">
                 <div className="inline-flex items-center space-x-1 md:space-x-3">
                     <div className="inline-flex items-center">
                         <div className="inline-flex items-center text-sm font-medium text-gray-700 hover:text-gray-900">

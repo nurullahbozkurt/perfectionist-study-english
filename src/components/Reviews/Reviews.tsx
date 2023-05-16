@@ -67,7 +67,7 @@ const Reviews = (props: Props) => {
                 <div className='py-10' >
                     <h1 className='text-3xl font-semibold' >Notlarım</h1>
                 </div>
-                <div className='grid grid-cols-3 gap-5' >
+                <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5 p-1' >
                     {data?.map((item: IReview) => (
                         <div className={`relative flex flex-col shadow-md gap-2 border overflow-hidden border-primary-800/70 rounded-lg  bg-stone-50`} >
                             <div className={`absolute top-0 bottom-0 left-0 right-0 ${item.enabled ? "hidden " : "block bg-stone-50/80"}`} ></div>

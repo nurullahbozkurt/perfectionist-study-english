@@ -58,8 +58,8 @@ const StudyAreaLayout = (props: Props) => {
     return (
         <div className='bg-gray-100' >
             <div className='container mx-auto ' >
-                <div style={contentStyle} className='flex w-full ' >
-                    <div className='w-1/3 border-r pr-4 pt-5' >
+                <div style={contentStyle} className='grid md:grid-cols-2 xl:grid-cols-3 w-full ' >
+                    <div className='col-span-1 border-r pr-4 pt-5' >
                         <div className='flex flex-col justify-between max-h-[800px] h-full bg-white p-2 rounded shadow-md border border-primary-900' >
                             <div className='flex flex-col gap-2 overflow-hidden ' >
                                 <div className='w-full px-10 py-5 bg-primary-800 border border-primary-900 text-white rounded flex flex-col gap-5' >
@@ -109,7 +109,7 @@ const StudyAreaLayout = (props: Props) => {
                             </form>
                         </div>
                     </div>
-                    <div className='w-2/3 p-5' >
+                    <div className='col-span-1 xl:col-span-2 p-5' >
                         <div ref={setScrollContainer} className='flex flex-col gap-5 max-h-full overflow-scroll' >
                             {props.correctSentence && props.correctSentence.map((item, index) => (
                                 <div className='border  border-primary-700 rounded flex flex-col gap-2 p-2 bg-white shadow-md' >

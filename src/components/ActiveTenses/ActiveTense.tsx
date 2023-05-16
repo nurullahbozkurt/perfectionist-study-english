@@ -6,6 +6,7 @@ import { IActiveTense } from '@/types/api';
 import StudyAreaLayout from '../StudyAreaLayout';
 import { PostOrPage } from '@tryghost/content-api';
 import { useApp } from '@/states/app';
+import MobileStudyAreaLayout from '../MobileStudyAreaLayout';
 
 type Props = {
     post: PostOrPage
@@ -108,21 +109,40 @@ const ActiveTense = (props: Props) => {
 
     return (
         <Layout>
-            <StudyAreaLayout
-                sendAnswer={sendAnswer}
-                isLoading={isLoading}
-                turkishSentence={activeSentence?.turkish}
-                englishSentence={activeSentence?.english}
-                topic={router.query.activeTenses as string}
-                setAnswer={setAnswer}
-                answer={answer}
-                correctSentence={correctSentence}
-                setCorretSentence={() => setCorrectSentence}
-                post={props.post}
-                openReviewModal={openReviewModal}
-                postError={props.postError}
+            <div className='hidden lg:block' >
+                <StudyAreaLayout
+                    sendAnswer={sendAnswer}
+                    isLoading={isLoading}
+                    turkishSentence={activeSentence?.turkish}
+                    englishSentence={activeSentence?.english}
+                    topic={router.query.activeTenses as string}
+                    setAnswer={setAnswer}
+                    answer={answer}
+                    correctSentence={correctSentence}
+                    setCorretSentence={() => setCorrectSentence}
+                    post={props.post}
+                    openReviewModal={openReviewModal}
+                    postError={props.postError}
 
-            />
+                />
+            </div>
+
+            <div className='block lg:hidden' >
+                <MobileStudyAreaLayout
+                    sendAnswer={sendAnswer}
+                    isLoading={isLoading}
+                    turkishSentence={activeSentence?.turkish}
+                    englishSentence={activeSentence?.english}
+                    topic={router.query.activeTenses as string}
+                    setAnswer={setAnswer}
+                    answer={answer}
+                    correctSentence={correctSentence}
+                    setCorretSentence={() => setCorrectSentence}
+                    post={props.post}
+                    openReviewModal={openReviewModal}
+                    postError={props.postError}
+                />
+            </div>
         </Layout>
     );
 };
