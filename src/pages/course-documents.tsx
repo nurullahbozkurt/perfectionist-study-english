@@ -1,6 +1,7 @@
 import { CourseDocuments } from "@/components/CourseDocuments";
 import { GetStaticProps, GetStaticPaths, GetServerSideProps, GetServerSidePropsContext } from 'next'
 import GhostContentAPI from '@tryghost/content-api'
+import { getSession } from "next-auth/react";
 
 
 
@@ -13,6 +14,17 @@ const api = new GhostContentAPI({
 
 export const getServerSideProps: GetServerSideProps = async (context: GetServerSidePropsContext) => {
     let post;
+
+    const session = await getSession(context);
+
+    if (!session) {
+        return {
+            redirect: {
+                destination: "/auth/login",
+                permanent: false,
+            },
+        };
+    }
 
     try {
         post = await api.posts.read({ slug: "course-documents" }, { include: "authors" });

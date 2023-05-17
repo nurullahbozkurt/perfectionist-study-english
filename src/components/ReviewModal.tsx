@@ -16,6 +16,7 @@ export default function ReviewModal(props: Props) {
     const [reviewNote, setReviewNote] = useState('')
     const { headerHeight, setHeaderHeight, isReviewModalOpen, setIsReviewModalOpen } = useApp();
 
+
     const { data: session } = useSession()
     function closeModal() {
         setIsReviewModalOpen(false)
@@ -34,6 +35,8 @@ export default function ReviewModal(props: Props) {
             console.log(res)
         }).catch(err => {
             console.log(err)
+        }).finally(() => {
+            setReviewNote('')
         })
         closeModal()
     }

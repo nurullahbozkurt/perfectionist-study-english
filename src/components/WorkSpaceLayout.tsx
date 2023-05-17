@@ -1,6 +1,5 @@
 import { useApp } from '@/states/app';
 import React, { useEffect, useState } from 'react'
-import { AiFillRightCircle } from 'react-icons/ai';
 import { IoIosAddCircle } from 'react-icons/io';
 import { Puff } from 'react-loader-spinner'
 import ReviewModal from './ReviewModal';
@@ -23,6 +22,7 @@ type Props = {
         yourSentence: string;
         correctSentence: string;
         sentence: string;
+        topic: string;
     }[]
     setCorretSentence: (correctSentence: string) => void;
     post?: PostOrPage
@@ -30,12 +30,25 @@ type Props = {
     openReviewModal: () => void;
 
 }
+type SendReview = {
+    yourSentence: string;
+    correctSentence: string;
+    sentence: string;
+    topic: string;
+}
 
 const WorkSpaceLayout = (props: Props) => {
     const { headerHeight, setHeaderHeight } = useApp();
     const [contentHeight, setContentHeight] = useState(0);
     const [scrollContainer, setScrollContainer] = useState<HTMLDivElement | null>(null);
+    const [review, setReview] = useState<SendReview | null>(null);
 
+
+
+    const handleReviewModal = (item: SendReview) => {
+        setReview(item);
+        props.openReviewModal();
+    }
 
     useEffect(() => {
         const handleResize = () => {
@@ -55,6 +68,11 @@ const WorkSpaceLayout = (props: Props) => {
     const contentStyle = {
         height: `calc(${contentHeight}px - ${headerHeight}px)`,
     };
+
+    if (props.isLoading) {
+        return (
+            <div>loading..</div>)
+    }
     return (
         <div className='bg-gray-100' >
             <div className='container mx-auto ' >
@@ -109,23 +127,23 @@ const WorkSpaceLayout = (props: Props) => {
                             </form>
                         </div>
                     </div>
-                    <div className='col-span-1 xl:col-span-2 p-5' >
-                        <div ref={setScrollContainer} className='flex flex-col gap-5 max-h-full overflow-scroll' >
+                    <div className='col-span-1 xl:col-span-2 p-5 overflow-y-scroll' >
+                        <div ref={setScrollContainer} className='flex flex-col gap-5 max-h-full overflow-y-scroll' >
                             {props.correctSentence && props.correctSentence.map((item, index) => (
                                 <div className='border  border-primary-700 rounded flex flex-col gap-2 p-2 bg-white shadow-md' >
                                     <div className='flex items-center justify-between' >
                                         <p className='border-b text-sm' >{item.sentence}</p>
-                                        <button onClick={props.openReviewModal} className='text-3xl text-primary-900 hover:text-primary-700'> <IoIosAddCircle /></button>
+                                        <button onClick={() => handleReviewModal(item)} className='text-3xl text-primary-900 hover:text-primary-700'> <IoIosAddCircle /></button>
                                     </div>
                                     <p><span className='font-semibold' >Senin Cümlen: </span>{item.yourSentence}</p>
                                     <p><span className='font-semibold text-green-800' >Doğru Cümle  : </span>{item.correctSentence}</p>
-                                    <ReviewModal yourSentence={item.yourSentence} correctSentence={item.correctSentence} sentence={item.sentence} grammar={props.topic} />
                                 </div>
                             ))}
                         </div>
                     </div>
                 </div>
             </div>
+            <ReviewModal yourSentence={review?.yourSentence as string} correctSentence={review?.correctSentence as string} sentence={review?.sentence as string} grammar={review?.topic as string} />
         </div >
     )
 }

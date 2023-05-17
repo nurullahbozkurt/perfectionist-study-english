@@ -8,6 +8,8 @@ import { useApp } from '@/states/app';
 import MenuModal from './MenuModal';
 import { IoDocumentsSharp } from 'react-icons/io5'
 import { SiBloglovin } from 'react-icons/si'
+import { FaSignOutAlt } from 'react-icons/fa'
+
 
 type Props = {}
 
@@ -117,6 +119,11 @@ const Sidebar = (props: Props) => {
                             <p className='whitespace-nowrap' >Admin</p>
                         </div>
                     </Link>}
+                    {<button onClick={() => signOut({ callbackUrl: '/auth/login' })} className="hover:ml-10 w-full cursor-pointer text-white hover:text-yellow-400  bg-primary-800 p-2 pl-8 rounded-full transform ease-in-out duration-300 flex flex-row items-center space-x-3">
+                        <FaSignOutAlt />
+                        <p className='whitespace-nowrap' >Çıkış Yap</p>
+                    </button>}
+
                 </div>
                 <div ref={miniSidebarRef} className="mini mt-20 flex flex-col space-y-2 w-full h-[calc(100vh)]">
                     <button onClick={() => openGrammarModal("miniSidebar")} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
@@ -154,6 +161,9 @@ const Sidebar = (props: Props) => {
                     {session?.user.role === "admin" && <Link passHref href={{ pathname: "/admin", query: { page: "Admin" } }} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
                         <FaUserTie />
                     </Link>}
+                    <button onClick={() => signOut({ callbackUrl: '/auth/login' })} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex ">
+                        <FaSignOutAlt />
+                    </button>
                 </div>
             </aside>
 

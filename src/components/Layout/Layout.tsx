@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import { useSession, signOut } from 'next-auth/react'
 import Sidebar from './Sidebar'
 import { useApp } from '@/states/app'
@@ -16,10 +16,30 @@ const Layout = (props: Props) => {
     const { data: session, status } = useSession();
     const { isSidebarOpen, setIsSidebarOpen, openNav } = useApp();
 
+    console.log("isSidebarOpen", isSidebarOpen)
+
     const closeSidebar = () => {
         openNav && openNav()
         setIsSidebarOpen(false)
     }
+    // isSidebarOpen === true ise body'e scroll'u en üste al ve overflow hidden ver. 
+
+    useEffect(() => {
+        if (isSidebarOpen) {
+            document.body.style.overflow = 'hidden';
+            document.body.style.position = 'fixed';
+            document.body.style.top = `-${window.scrollY}px`;
+            document.body.style.width = '100%';
+            document.body.style.scrollBehavior = 'unset';
+        } else {
+            const scrollY = document.body.style.top;
+            document.body.style.overflow = 'auto';
+            document.body.style.position = '';
+            document.body.style.top = '';
+            document.body.style.width = '';
+            window.scrollTo(0, parseInt(scrollY || '0') * -1);
+        }
+    }, [isSidebarOpen]);
 
 
     return (
@@ -51,7 +71,7 @@ const Layout = (props: Props) => {
                 </div>
                 <Sidebar />
 
-                <div className={`pt-[64px] pl-[48px] ${isSidebarOpen ? "relative " : ""}`} >
+                <div className={`pt-[64px] pl-[48px] ${isSidebarOpen ? "relative " : ""} `} >
                     {isSidebarOpen && <div onClick={() => closeSidebar()} className={`${isSidebarOpen ? "block bg-black/50 h-screen" : "hidden "} absolute z-10 top-0 bottom-0 right-0 left-0`} ></div>}
                     {props.children}
                 </div>

@@ -22,11 +22,14 @@ interface CorrectSentence {
     yourSentence: string;
     correctSentence: string;
     sentence: string;
+    topic: string;
 }
 
 const ActiveTense = (props: Props) => {
     const router = useRouter();
     const { headerHeight, setHeaderHeight, isReviewModalOpen, setIsReviewModalOpen } = useApp();
+
+    console.log('router.query.activeTenses', router.query.activeTenses);
 
     const [activeIndex, setActiveIndex] = useState(0);
     const [activeSentenceIndex, setActiveSentenceIndex] = useState(0);
@@ -92,7 +95,7 @@ const ActiveTense = (props: Props) => {
     const sendAnswer = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         setActiveSentenceIndex((prevIndex) => prevIndex + 1);
-        setCorrectSentence([...correctSentence, { yourSentence: answer, correctSentence: activeSentence?.english || '', sentence: activeSentence?.turkish || '' }]);
+        setCorrectSentence([...correctSentence, { yourSentence: answer, correctSentence: activeSentence?.english || '', sentence: activeSentence?.turkish || '', topic: router.query.activeTenses as string }]);
         setAnswer('');
     };
 

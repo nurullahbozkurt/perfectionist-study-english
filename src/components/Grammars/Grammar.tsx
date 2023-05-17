@@ -20,6 +20,7 @@ interface CorrectSentence {
     yourSentence: string;
     correctSentence: string;
     sentence: string;
+    topic: string;
 }
 
 interface Sentence {
@@ -83,7 +84,7 @@ const Grammar = (props: Props) => {
     const sendAnswer = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
         if (!sentence) return
-        setCorrectSentence([...correctSentence, { yourSentence: answer, correctSentence: sentence.englishSentence, sentence: sentence.turkishSentence }])
+        setCorrectSentence([...correctSentence, { yourSentence: answer, correctSentence: sentence.englishSentence, sentence: sentence.turkishSentence, topic: sentence.topic }])
         setAnswer('')
         changeSentence()
     }

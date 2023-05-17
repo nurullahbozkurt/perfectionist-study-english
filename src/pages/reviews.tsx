@@ -5,7 +5,6 @@ import { Reviews } from "@/components/Reviews";
 export async function getServerSideProps(context: any) {
     const session = await getSession(context);
 
-    console.log("session", session)
     if (!session) {
         return {
             redirect: {

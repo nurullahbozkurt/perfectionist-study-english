@@ -1,6 +1,7 @@
 import { Grammar } from "@/components/Grammars";
 import { GetStaticProps, GetStaticPaths, GetServerSideProps, GetServerSidePropsContext } from 'next'
 import GhostContentAPI from '@tryghost/content-api'
+import { getSession } from "next-auth/react";
 
 
 
@@ -12,6 +13,17 @@ const api = new GhostContentAPI({
 
 
 export const getServerSideProps: GetServerSideProps = async (context: GetServerSidePropsContext) => {
+    const session = await getSession(context);
+
+    if (!session) {
+        return {
+            redirect: {
+                destination: "/auth/login",
+                permanent: false,
+            },
+        };
+    }
+
     const slug = context.params?.grammar as string
     let post;
 

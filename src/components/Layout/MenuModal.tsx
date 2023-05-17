@@ -118,7 +118,7 @@ export default function MenuModal(props: Props) {
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full z-50 max-h-[520px] sm:max-h-max overflow-y-scroll sm:max-w-3xl max-w-[300px] ml-[40px] transform overflow-hidden rounded-2xl bg-white p-2 sm:p-6 text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="w-full z-50 max-h-[500px] sm:max-h-max overflow-y-scroll sm:max-w-3xl max-w-[300px] ml-[40px] transform overflow-hidden rounded-2xl bg-white p-2 sm:p-6 text-left align-middle shadow-xl transition-all">
                                     <Dialog.Title
                                         as="h3"
                                         className="text-lg font-medium leading-6 text-gray-900 ml-3 pt-1 sm:ml-0"
@@ -146,7 +146,7 @@ export default function MenuModal(props: Props) {
                                                     <h3 className="text-xs leading-6 font-medium text-gray-900">{tense}</h3>
                                                     {activeTenses.filter((item) => item.tense === tense).map((item) => (
                                                         <div className='border p-0.5 rounded m-0.5 md:m-1 text-gray-900 hover:bg-gray-200' >
-                                                            <Link onClick={closeModal} passHref href={{ pathname: item.href, query: { page: "Active Tense" } }} className="w-full mt-1 text-[10px] px-2 py-1 rounded">{item.name}</Link>
+                                                            <Link onClick={closeModal} passHref href={{ pathname: item.href, query: { page: "Active Tense" } }} className="w-full flex items-center mt-1 text-[10px] px-2 py-1 rounded">{item.name}</Link>
                                                         </div>
                                                     ))}
                                                 </div>

@@ -2,6 +2,7 @@ import { GetServerSideProps, GetServerSidePropsContext } from 'next'
 
 import { Slug } from "@/components/Blog/Slug";
 import GhostContentAPI from '@tryghost/content-api'
+import { getSession } from 'next-auth/react';
 
 const api = new GhostContentAPI({
     url: 'https://yungsten-tech.digitalpress.blog',
@@ -10,6 +11,16 @@ const api = new GhostContentAPI({
 });
 
 export const getServerSideProps: GetServerSideProps = async (context: GetServerSidePropsContext) => {
+    const session = await getSession(context);
+
+    if (!session) {
+        return {
+            redirect: {
+                destination: "/auth/login",
+                permanent: false,
+            },
+        };
+    }
     const slug = context.params?.slug as string
     const post = await api.posts.read({ slug }, { include: "authors" });
     const posts = await api.posts.browse({ limit: 4, include: ['tags', 'authors'] });

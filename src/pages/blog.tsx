@@ -2,6 +2,7 @@ import { GetServerSideProps } from 'next'
 
 import { Blog } from "@/components/Blog";
 import GhostContentAPI from '@tryghost/content-api'
+import { getSession } from 'next-auth/react';
 
 
 const api = new GhostContentAPI({
@@ -12,6 +13,17 @@ const api = new GhostContentAPI({
 
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
+    const session = await getSession(context);
+
+    if (!session) {
+        return {
+            redirect: {
+                destination: "/auth/login",
+                permanent: false,
+            },
+        };
+    }
+
     const posts = await api.posts.browse({ include: ['tags', 'authors'] });
     return {
         props: { posts }, // will be passed to the page component as props

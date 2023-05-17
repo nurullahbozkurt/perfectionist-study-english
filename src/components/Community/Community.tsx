@@ -1,60 +1,39 @@
 import React from 'react'
 import { Layout } from '../Layout'
+import { useSession } from 'next-auth/react'
+import { FaUserGraduate } from 'react-icons/fa'
+
 
 type Props = {}
 
 const Community = (props: Props) => {
+    const { data: session, status } = useSession()
+    console.log(session)
+
     return (
         <Layout>
-            <article className="px-12 grid grid-cols-3 gap-5">
-                <div className=" p-10 col-span-1 ">
+            <div className='mt-5 border rounded bg-yellow-200 py-2 top-16 sticky z-10 ' >
+                <p className='w-full text-sm lg:text-base text-center text-black italic' >Topluluk sayfası Henüz Prototip Aşamasında ve İçerikler Örnektir</p>
+            </div>
+            <article className="px-2 lg:px-12 lg:grid lg:grid-cols-3 gap-5">
+
+                <div className=" p-10 col-span-1 hidden lg:block">
                     <div className='top-16 sticky ' >
                         <div className='bg-stone-50 border rounded py-2' >
                             <div className="flex flex-col gap-1 text-center items-center">
-                                <img className="h-32 w-32 bg-white p-2 rounded-full shadow mb-4" src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=2000&amp;q=80" alt="" />
-                                <p className="font-semibold">John Doe</p>
-                                <div className="text-sm leading-normal text-gray-400 flex justify-center items-center">
-                                    <svg viewBox="0 0 24 24" className="mr-1" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                                    Los Angeles, California
+                                <div className="h-32 w-32 bg-white p-2 rounded-full shadow mb-4 flex items-center justify-center"  >
+                                    <FaUserGraduate className='w-full text-center text-7xl text-gray-700' />
+                                </div>
+                                <p className="font-semibold"><span className=' capitalize' >{session?.user.name}</span>{" "}<span className=' capitalize' >{session?.user.lastName}</span></p>
+                                <div className="text-sm leading-normal text-gray-300 flex justify-center items-center">
+                                    {session?.user.email}
                                 </div>
                             </div>
-                            <div className="flex justify-center items-center gap-2 my-3">
-                                <div className="font-semibold text-center mx-4">
-                                    <p className="text-black">102</p>
-                                    <span className="text-gray-400">Posts</span>
-                                </div>
-                                <div className="font-semibold text-center mx-4">
-                                    <p className="text-black">102</p>
-                                    <span className="text-gray-400">Kullanıcılar</span>
-                                </div>
-                                <div className="font-semibold text-center mx-4">
-                                    <p className="text-black">102</p>
-                                    <span className="text-gray-400">Folowing</span>
-                                </div>
-                            </div>
+
                         </div>
                         <div className="bg-stone-50 border rounded shadow mt-8 p-6">
                             <h3 className="text-gray-600 text-sm font-semibold mb-4">Kullanıcılar</h3>
-                            <ul className="flex items-center justify-center space-x-2">
-                                <li className="flex flex-col items-center space-y-2">
-                                    <a className="block bg-white p-1 rounded-full" href="#">
-                                        <img className="w-16 rounded-full" src="https://images.unsplash.com/photo-1638612913771-8f00622b96fb?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=200&amp;h=200&amp;q=80" />
-                                    </a>
-                                    <span className="text-xs text-gray-500">
-                                        Sage
-                                    </span>
-                                </li>
-
-                                <li className="flex flex-col items-center space-y-2">
-                                    <a className="block bg-white p-1 rounded-full" href="#">
-                                        <img className="w-16 rounded-full" src="https://images.unsplash.com/photo-1638649602320-450b717fa622?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=200&amp;h=200&amp;q=80" />
-                                    </a>
-
-
-                                    <span className="text-xs text-gray-500">
-                                        Jett
-                                    </span>
-                                </li>
+                            <ul className="flex items-center  space-x-2">
 
                                 <li className="flex flex-col items-center space-y-2">
                                     <a className="block bg-white p-1 rounded-full" href="#">
@@ -102,6 +81,7 @@ const Community = (props: Props) => {
                     </div>
                 </div>
                 <div className='col-span-2 ' >
+
                     <form className="bg-primary-800 shadow rounded-lg mb-6 mt-10 p-5">
                         <textarea name="message" placeholder="Type something..." className="w-full rounded-lg p-2 text-sm bg-gray-100 border border-transparent appearance-none rounded-tg placeholder-gray-400"></textarea>
                         <footer className="flex justify-between mt-2">
