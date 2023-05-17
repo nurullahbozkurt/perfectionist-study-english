@@ -1,20 +1,19 @@
-import React, { useState } from 'react'
-import { SignInResponse, signIn, useSession } from 'next-auth/react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
+import React, { useState } from 'react'
+import { SignInResponse, signIn } from 'next-auth/react'
 
 type Props = {}
 
 const Login = (props: Props) => {
-    const { data: session, status, } = useSession()
-
-    const [errorMessage, setErrorMessage] = useState('')
     const router = useRouter()
+    const [errorMessage, setErrorMessage] = useState('')
 
     const [userForm, setUserForm] = useState({
         email: '',
         password: ''
     })
+
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
         try {
@@ -32,6 +31,7 @@ const Login = (props: Props) => {
             console.log(e)
         }
     }
+
     return (
         <div>
             <section className="bg-gray-50 dark:bg-gray-900">

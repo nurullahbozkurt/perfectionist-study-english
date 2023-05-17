@@ -1,29 +1,19 @@
-import React from 'react'
-import SeeTheQuestionModal from './SeeTheQuestionModal'
-import { useState } from 'react'
-import { FaUserGraduate } from 'react-icons/fa'
-import useGetStudentQuestions from '@/hooks/get-student-questions'
+import React, { useState } from 'react'
 import { Puff } from 'react-loader-spinner'
+import { FaUserGraduate } from 'react-icons/fa'
+
 import { IReview } from '@/types/api'
+import SeeTheQuestionModal from './SeeTheQuestionModal'
+import useGetStudentQuestions from '@/hooks/get-student-questions'
 
 
 type Props = {}
 
 const QuestionsTable = (props: Props) => {
-    const [isOpenQuestionModal, setIsOpenQuestionModal] = useState(false)
-    const [question, setQuestion] = useState<IReview | null>(null)
-
     const { data, isLoading, isError, error, refetch } = useGetStudentQuestions();
 
-    console.log("data::", data)
-
-
-    if (isLoading) {
-        return (
-            <Puff color="#00BFFF" height={100} width={100} />
-        )
-    }
-
+    const [question, setQuestion] = useState<IReview | null>(null)
+    const [isOpenQuestionModal, setIsOpenQuestionModal] = useState(false)
 
     const openQuestion = (questionId: string) => {
         const question = data?.find((question: IReview) => question._id === questionId)
@@ -32,6 +22,14 @@ const QuestionsTable = (props: Props) => {
             setQuestion(question)
             setIsOpenQuestionModal(true)
         }
+    }
+
+    if (isLoading) {
+        return (
+            <div className='flex mt-20 items-center justify-center' >
+                <Puff color="#0e7490" height={50} width={50} />
+            </div>
+        )
     }
 
     return (

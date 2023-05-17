@@ -1,11 +1,11 @@
-import { useApp } from '@/states/app';
-import React, { useEffect, useState } from 'react'
-import { IoIosAddCircle } from 'react-icons/io';
+import { Inter } from 'next/font/google'
 import { Puff } from 'react-loader-spinner'
+import { IoIosAddCircle } from 'react-icons/io';
+import React, { useEffect, useState } from 'react'
+
+import { useApp } from '@/states/app';
 import ReviewModal from './ReviewModal';
 import { PostOrPage } from '@tryghost/content-api'
-import { Inter } from 'next/font/google'
-
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -22,7 +22,7 @@ type Props = {
         yourSentence: string;
         correctSentence: string;
         sentence: string;
-        topic: string;
+        topic?: string;
     }[]
     setCorretSentence: (correctSentence: string) => void;
     post?: PostOrPage
@@ -34,7 +34,7 @@ type SendReview = {
     yourSentence: string;
     correctSentence: string;
     sentence: string;
-    topic: string;
+    topic?: string;
 }
 
 const WorkSpaceLayout = (props: Props) => {
@@ -71,7 +71,10 @@ const WorkSpaceLayout = (props: Props) => {
 
     if (props.isLoading) {
         return (
-            <div>loading..</div>)
+            <div className='flex items-center justify-center' >
+                <Puff color="#0e7490" height={50} width={50} />
+            </div>
+        )
     }
     return (
         <div className='bg-gray-100' >

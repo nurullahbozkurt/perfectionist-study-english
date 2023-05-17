@@ -1,10 +1,9 @@
-import { IActiveTense } from '@/types/api'
 import React from 'react'
+import { IActiveTense } from '@/types/api'
 
 type Props = {
     activeTenses: IActiveTense[] | undefined
 }
-
 
 const Table = (props: Props) => {
 

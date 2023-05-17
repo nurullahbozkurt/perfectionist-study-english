@@ -1,11 +1,12 @@
-import React, { useState, useEffect } from 'react';
-import useGetActiveTenses from '@/hooks/get-active-tenses';
 import { useRouter } from 'next/router';
-import { Layout } from '@/components/Layout';
+import { Puff } from 'react-loader-spinner';
+import React, { useState, useEffect } from 'react';
+
+import { useApp } from '@/states/app';
 import { IActiveTense } from '@/types/api';
+import { Layout } from '@/components/Layout';
 import WorkSpaceLayout from '../WorkSpaceLayout';
 import { PostOrPage } from '@tryghost/content-api';
-import { useApp } from '@/states/app';
 import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
 
 type Props = {
@@ -27,22 +28,21 @@ interface CorrectSentence {
 
 const ActiveTense = (props: Props) => {
     const router = useRouter();
-    const { headerHeight, setHeaderHeight, isReviewModalOpen, setIsReviewModalOpen } = useApp();
+    const { setIsReviewModalOpen } = useApp();
 
-    console.log('router.query.activeTenses', router.query.activeTenses);
 
+    const [answer, setAnswer] = useState('');
     const [activeIndex, setActiveIndex] = useState(0);
     const [activeSentenceIndex, setActiveSentenceIndex] = useState(0);
     const [correctSentence, setCorrectSentence] = useState<CorrectSentence[]>([]);
-    const [answer, setAnswer] = useState('');
 
     // const { data: activeTenses, isLoading } = useGetActiveTenses({
     //     collectionName: `activeTense_${router.query.activeTenses}` as string,
     // });
 
     const useStaticGrammarData = (grammar: any) => {
-        const [data, setData] = useState<IActiveTense[] | null>(null);
         const [isLoading, setIsLoading] = useState(true);
+        const [data, setData] = useState<IActiveTense[] | null>(null);
 
         useEffect(() => {
             const fetchData = async () => {
@@ -61,13 +61,8 @@ const ActiveTense = (props: Props) => {
 
         return { data, isLoading };
     };
-    const { data: activeTenses, isLoading } = useStaticGrammarData(router.query.activeTenses);
 
-    useEffect(() => {
-        setActiveIndex(0);
-        setActiveSentenceIndex(0);
-        setCorrectSentence([]);
-    }, [activeTenses]);
+    const { data: activeTenses, isLoading } = useStaticGrammarData(router.query.activeTenses);
 
     const getActiveSentence = (): ISentence | null => {
         if (activeTenses?.length === 0) return null;
@@ -92,6 +87,8 @@ const ActiveTense = (props: Props) => {
 
     const activeSentence = getActiveSentence();
 
+    console.log("activeSentence", activeSentence)
+
     const sendAnswer = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         setActiveSentenceIndex((prevIndex) => prevIndex + 1);
@@ -103,11 +100,22 @@ const ActiveTense = (props: Props) => {
         setIsReviewModalOpen(true)
     }
 
-    if (!activeSentence) {
-        return <p>Loading...</p>;
-    }
-    if (!router.query.activeTenses) {
-        return <p>Loading...</p>;
+
+    useEffect(() => {
+        setActiveIndex(0);
+        setActiveSentenceIndex(0);
+        setCorrectSentence([]);
+    }, [activeTenses]);
+
+
+    if (!router.query.activeTenses || isLoading || !activeSentence) {
+        return (
+            <Layout>
+                <div className='flex items-center justify-center' >
+                    <Puff color="#0e7490" height={50} width={50} />
+                </div>
+            </Layout>
+        );
     }
 
     return (

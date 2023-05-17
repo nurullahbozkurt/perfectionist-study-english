@@ -1,15 +1,14 @@
+import { useRouter } from 'next/router'
 import React, { useEffect, useMemo, useState } from 'react'
 
 
 import { useApp } from '@/states/app'
-import { useRouter } from 'next/router'
+import { IGrammar } from '@/types/api'
 import { Layout } from '@/components/Layout';
 import WorkSpaceLayout from '../WorkSpaceLayout'
 import { PostOrPage } from '@tryghost/content-api'
-import { IGrammar } from '@/types/api'
 import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
-
-
+import { Puff } from 'react-loader-spinner';
 
 type Props = {
     post: PostOrPage
@@ -69,7 +68,6 @@ const Grammar = (props: Props) => {
     const { data: grammaticalSentences, isLoading } = useStaticGrammarData(router.query.grammar);
 
 
-
     const changeSentence = () => {
         if (grammaticalSentences) {
             const randomIndex = Math.floor(Math.random() * grammaticalSentences?.length)
@@ -96,6 +94,7 @@ const Grammar = (props: Props) => {
         }
     }, [grammaticalSentences])
 
+
     useEffect(() => {
         const header = document.getElementById("header");
         if (header) {
@@ -121,16 +120,12 @@ const Grammar = (props: Props) => {
 
 
 
-    if (!sentence) {
+    if (!sentence || isLoading || !router.query.grammar) {
         return (
             <Layout>
-            </Layout>
-        )
-    }
-
-    if (!router.query.grammar) {
-        return (
-            <Layout>
+                <div className='flex items-center justify-center' >
+                    <Puff color="#0e7490" height={50} width={50} />
+                </div>
             </Layout>
         )
     }

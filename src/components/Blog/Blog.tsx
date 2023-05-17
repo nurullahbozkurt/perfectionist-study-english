@@ -1,21 +1,17 @@
 
 import React from 'react';
-import Head from 'next/head';
 import { PostOrPage, PostsOrPages } from '@tryghost/content-api'
 
 import BlogCard from './BlogCard'
 import { Layout } from '../Layout';
 
 const Blog = ({ posts }: { posts: PostsOrPages }) => {
-
-
     const firstPost = posts[0]
     const allPosts = posts.slice(1)
 
     return (
         <div style={{ overflow: "hidden" }} className='relative overflow-scroll text-primaryText' >
             <Layout>
-
                 <div className='container mx-auto pb-10 lg:pb-16 px-4' >
                     <div className='flex flex-col my-10 p-4' >
                         <p className='text-sm opacity-70 pb-1' >Neden </p>

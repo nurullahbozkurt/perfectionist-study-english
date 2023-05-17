@@ -1,22 +1,19 @@
 import React from 'react'
-import { Layout } from '../Layout'
 import { useSession } from 'next-auth/react'
 import { FaUserGraduate } from 'react-icons/fa'
 
+import { Layout } from '../Layout'
 
 type Props = {}
 
 const Community = (props: Props) => {
     const { data: session, status } = useSession()
-    console.log(session)
-
     return (
         <Layout>
             <div className='mt-5 border rounded bg-yellow-200 py-2 top-16 sticky z-10 ' >
                 <p className='w-full text-sm lg:text-base text-center text-black italic' >Topluluk sayfası Henüz Prototip Aşamasında ve İçerikler Örnektir</p>
             </div>
             <article className="px-2 lg:px-12 lg:grid lg:grid-cols-3 gap-5">
-
                 <div className=" p-10 col-span-1 hidden lg:block">
                     <div className='top-16 sticky ' >
                         <div className='bg-stone-50 border rounded py-2' >
@@ -34,33 +31,26 @@ const Community = (props: Props) => {
                         <div className="bg-stone-50 border rounded shadow mt-8 p-6">
                             <h3 className="text-gray-600 text-sm font-semibold mb-4">Kullanıcılar</h3>
                             <ul className="flex items-center  space-x-2">
-
                                 <li className="flex flex-col items-center space-y-2">
                                     <a className="block bg-white p-1 rounded-full" href="#">
                                         <img className="w-16 rounded-full" src="https://images.unsplash.com/photo-1638708644743-2502f38000a0?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=200&amp;h=200&amp;q=80" />
                                     </a>
-
                                     <span className="text-xs text-gray-500">
                                         Sky
                                     </span>
                                 </li>
-
                                 <li className="flex flex-col items-center space-y-2">
                                     <a className="block bg-white p-1 rounded-full" href="#">
                                         <img className="w-16 rounded-full" src="https://images.unsplash.com/photo-1638691899851-0e955bceba1f?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=200&amp;h=200&amp;q=80" />
                                     </a>
-
                                     <span className="text-xs text-gray-500">
                                         Olivia
                                     </span>
                                 </li>
-
                                 <li className="flex flex-col items-center space-y-2">
                                     <a className="block bg-white p-1 rounded-full" href="#">
                                         <img className="w-16 rounded-full" src="https://images.unsplash.com/photo-1638612913771-8f00622b96fb?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=200&amp;h=200&amp;q=80" />
                                     </a>
-
-
                                     <span className="text-xs text-gray-500">
                                         Julia
                                     </span>
@@ -69,13 +59,10 @@ const Community = (props: Props) => {
                                     <a className="block bg-white p-1 rounded-full" href="#">
                                         <img className="w-16 rounded-full" src="https://images.unsplash.com/photo-1638649602320-450b717fa622?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=200&amp;h=200&amp;q=80" />
                                     </a>
-
-
                                     <span className="text-xs text-gray-500">
                                         Hendrick
                                     </span>
                                 </li>
-
                             </ul>
                         </div>
                     </div>

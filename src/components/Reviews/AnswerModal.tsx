@@ -1,5 +1,5 @@
+import { Fragment } from 'react'
 import { Dialog, Transition } from '@headlessui/react'
-import { Fragment, useState } from 'react'
 
 type Props = {
   answer: string
@@ -12,7 +12,6 @@ export default function AnswerModal(props: Props) {
   function closeModal() {
     props.setAnswerModalOpen(false)
   }
-
 
   return (
     <>

@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import { Dialog, Disclosure, Popover, Transition } from '@headlessui/react'
+import { Popover, Transition } from '@headlessui/react'
 import { ChevronDownIcon } from '@heroicons/react/24/outline'
 
 

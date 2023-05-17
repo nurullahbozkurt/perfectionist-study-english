@@ -1,11 +1,9 @@
-import { useState } from 'react'
-import { Switch } from '@headlessui/react'
-import { useMutation } from "react-query";
 import axios from "axios";
+import { useState } from 'react'
+import { useMutation } from "react-query";
 import { Puff } from 'react-loader-spinner'
-import { set } from 'mongoose';
 
-
+import { Switch } from '@headlessui/react'
 
 type Props = {
     itemId: string
@@ -54,7 +52,6 @@ export default function OpenToggle(props: Props) {
                             visible={true}
                         />
                     )}
-
                 </span>
             </Switch>
         </div>

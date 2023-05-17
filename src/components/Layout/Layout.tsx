@@ -1,10 +1,10 @@
-import React, { useEffect, useRef, useState } from 'react'
-import { useSession, signOut } from 'next-auth/react'
-import Sidebar from './Sidebar'
-import { useApp } from '@/states/app'
-import PathNav from './PathNav'
 import Link from 'next/link'
+import { useSession, signOut } from 'next-auth/react'
+import React, { useEffect, useRef, useState } from 'react'
 
+import Sidebar from './Sidebar'
+import PathNav from './PathNav'
+import { useApp } from '@/states/app'
 
 type Props = {
     children: React.ReactNode
@@ -16,13 +16,11 @@ const Layout = (props: Props) => {
     const { data: session, status } = useSession();
     const { isSidebarOpen, setIsSidebarOpen, openNav } = useApp();
 
-    console.log("isSidebarOpen", isSidebarOpen)
 
     const closeSidebar = () => {
         openNav && openNav()
         setIsSidebarOpen(false)
     }
-    // isSidebarOpen === true ise body'e scroll'u en üste al ve overflow hidden ver. 
 
     useEffect(() => {
         if (isSidebarOpen) {

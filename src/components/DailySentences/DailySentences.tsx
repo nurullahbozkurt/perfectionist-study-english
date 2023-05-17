@@ -1,7 +1,9 @@
+import { Puff } from 'react-loader-spinner';
 import React, { useEffect, useState } from 'react'
-import { Layout } from '@/components/Layout';
-import { IDailySentence } from '@/types/api';
+
 import { useApp } from '@/states/app';
+import { IDailySentence } from '@/types/api';
+import { Layout } from '@/components/Layout';
 import WorkSpaceLayout from '../WorkSpaceLayout';
 import { PostOrPage } from '@tryghost/content-api';
 import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
@@ -26,6 +28,7 @@ interface Sentence {
 
 const DailySentences = (props: Props) => {
     const { headerHeight, setHeaderHeight, isReviewModalOpen, setIsReviewModalOpen } = useApp();
+
     const [answer, setAnswer] = useState('')
     const [sentence, setSentence] = useState<Sentence>()
     const [contentHeight, setContentHeight] = useState(0);
@@ -47,16 +50,12 @@ const DailySentences = (props: Props) => {
                     setIsLoading(false);
                 }
             };
-
             fetchData();
         }, []);
-
         return { data, isLoading };
     };
+
     const { data: dailySentences, isLoading } = useStaticGrammarData()
-
-
-
 
     const changeSentence = () => {
         if (dailySentences) {
@@ -107,9 +106,13 @@ const DailySentences = (props: Props) => {
         }
     }, [correctSentence]);
 
-    if (!sentence) {
+
+    if (!sentence || isLoading) {
         return (
             <Layout>
+                <div className='flex items-center justify-center' >
+                    <Puff color="#0e7490" height={50} width={50} />
+                </div>
             </Layout>
         )
     }

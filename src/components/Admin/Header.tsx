@@ -1,9 +1,9 @@
-import { Fragment } from 'react'
-import { Disclosure, Menu, Transition } from '@headlessui/react'
-import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
-import { FaUserTie } from 'react-icons/fa'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
+import { FaUserTie } from 'react-icons/fa'
+
+import { Disclosure, } from '@headlessui/react'
+import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
     { name: 'Öğrenciler', href: '/admin/students', page: "students", current: true },

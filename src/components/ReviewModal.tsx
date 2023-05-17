@@ -1,11 +1,11 @@
-import { Dialog, Transition } from '@headlessui/react'
-import { Fragment, useState } from 'react'
 import axios from 'axios'
+import { Fragment, useState } from 'react'
 import { useSession } from 'next-auth/react'
+
 import { useApp } from '@/states/app'
+import { Dialog, Transition } from '@headlessui/react'
 
 type Props = {
-
     yourSentence: string;
     correctSentence: string;
     sentence: string;
@@ -14,13 +14,12 @@ type Props = {
 
 export default function ReviewModal(props: Props) {
     const [reviewNote, setReviewNote] = useState('')
-    const { headerHeight, setHeaderHeight, isReviewModalOpen, setIsReviewModalOpen } = useApp();
-
+    const { isReviewModalOpen, setIsReviewModalOpen } = useApp();
 
     const { data: session } = useSession()
+
     function closeModal() {
         setIsReviewModalOpen(false)
-
     }
 
     const addToReview = async () => {
@@ -40,8 +39,6 @@ export default function ReviewModal(props: Props) {
         })
         closeModal()
     }
-
-
 
     return (
         <>

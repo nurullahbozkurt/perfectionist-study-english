@@ -1,25 +1,26 @@
 import Link from 'next/link';
-import React, { useRef, useState } from 'react'
-import { AiFillAlipayCircle, AiFillLayout, AiFillEdit, AiFillAudio } from 'react-icons/ai';
-import { IoLogoWechat } from 'react-icons/io5';
-import { FaUserTie, FaUsers } from 'react-icons/fa'
-import { useSession, signOut } from 'next-auth/react'
-import { useApp } from '@/states/app';
-import MenuModal from './MenuModal';
-import { IoDocumentsSharp } from 'react-icons/io5'
+import React, { useState } from 'react'
 import { SiBloglovin } from 'react-icons/si'
 import { FaSignOutAlt } from 'react-icons/fa'
+import { FaUserTie, FaUsers } from 'react-icons/fa'
+import { useSession, signOut } from 'next-auth/react'
+import { IoLogoWechat, IoDocumentsSharp } from 'react-icons/io5';
+import { AiFillAlipayCircle, AiFillLayout, AiFillEdit, AiFillAudio } from 'react-icons/ai';
+
+
+import MenuModal from './MenuModal';
+import { useApp } from '@/states/app';
 
 
 type Props = {}
 
 const Sidebar = (props: Props) => {
     const { data: session, status } = useSession();
-    const { isSidebarOpen, setIsSidebarOpen, logoRef, sidebarRef, contentRef, maxSidebarRef, maxToolbarRef, miniSidebarRef, openNav } = useApp();
-    console.log("session", session)
+    const { sidebarRef, maxSidebarRef, maxToolbarRef, miniSidebarRef, openNav } = useApp();
+
+    const [showGrammers, setShowGrammers] = useState(false);
     const [isOpenMenuModal, setIsOpenMenuModal] = useState(false);
     const [showActiveTenses, setShowActiveTenses] = useState(false);
-    const [showGrammers, setShowGrammers] = useState(false);
 
 
     const openGrammarModal = (e: any) => {
@@ -41,8 +42,6 @@ const Sidebar = (props: Props) => {
         }
 
     }
-
-
 
     return (
         <>

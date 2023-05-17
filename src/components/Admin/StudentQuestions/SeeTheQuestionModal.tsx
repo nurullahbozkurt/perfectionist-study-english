@@ -1,21 +1,20 @@
-import { IReview } from '@/types/api'
-import { Dialog, Transition } from '@headlessui/react'
-import { Fragment, useEffect, useState } from 'react'
-import { FaUserGraduate } from 'react-icons/fa'
-import { useMutation } from 'react-query'
 import axios from 'axios'
+import { IReview } from '@/types/api'
+import { useMutation } from 'react-query'
+import { FaUserGraduate } from 'react-icons/fa'
+import { Fragment, useEffect, useState } from 'react'
+import { Dialog, Transition } from '@headlessui/react'
 
 
 type Props = {
-    isOpenQuestionModal: boolean
-    setIsOpenQuestionModal: (isOpen: boolean) => void
     question: IReview | null
+    isOpenQuestionModal: boolean
     questionsRefetch: () => void
+    setIsOpenQuestionModal: (isOpen: boolean) => void
 }
 
 export default function SeeTheQuestionModal(props: Props) {
     const [teacherAnswer, setTeacherAnswer] = useState("")
-
 
     const mutation = useMutation(async (teacherAnswer: string) =>
         await axios.put(`/api/admin/reviews`, {

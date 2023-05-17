@@ -1,20 +1,26 @@
-import React, { useEffect, useMemo, useState } from 'react'
-import { Layout } from '@/components/Layout';
-import { useQuery, useMutation } from 'react-query'
-import { useSession } from 'next-auth/react'
 import axios from 'axios'
-import { IReview } from '@/types/api'
-import OpenToggle from './OpenToggle'
-import { format, compareAsc } from 'date-fns'
+import { format } from 'date-fns'
 import tr from 'date-fns/locale/tr';
-import { TiTimes } from 'react-icons/ti'
+import React, { useState } from 'react'
 import { TiDelete } from 'react-icons/ti'
 import { Puff } from 'react-loader-spinner'
+import { useSession } from 'next-auth/react'
 import { AiOutlineSend } from 'react-icons/ai'
+import { useQuery, useMutation } from 'react-query'
+
+
+import { IReview } from '@/types/api'
+import OpenToggle from './OpenToggle'
 import AnswerModal from './AnswerModal';
+import { Layout } from '@/components/Layout';
 
 
 type Props = {}
+
+type SendQuestionProps = {
+    itemId: string
+    sendToTeacher: boolean
+}
 
 const Reviews = (props: Props) => {
     const { data: session, status } = useSession()
@@ -43,11 +49,6 @@ const Reviews = (props: Props) => {
     const deleteReview = async (itemId: string) => {
         await deleteMutation.mutateAsync(itemId);
         refetch()
-    }
-
-    type SendQuestionProps = {
-        itemId: string
-        sendToTeacher: boolean
     }
 
     const mutationChangeQuestionStatus = useMutation(async (props: SendQuestionProps) =>
@@ -82,26 +83,17 @@ const Reviews = (props: Props) => {
     }
 
 
-
-    if (isLoading) {
+    if (isLoading || deleteMutation.isLoading) {
         return (
             <Layout>
-                <div className='flex justify-center items-center h-screen' >
-                    <Puff color='#155e75' />
+                <div className='flex items-center justify-center' >
+                    <Puff color="#0e7490" height={50} width={50} />
                 </div>
             </Layout>
         )
     }
 
-    if (deleteMutation.isLoading) {
-        return (
-            <Layout>
-                <div className='flex justify-center items-center h-screen' >
-                    <Puff color='#155e75' />
-                </div>
-            </Layout>
-        )
-    }
+
 
     return (
         <Layout>

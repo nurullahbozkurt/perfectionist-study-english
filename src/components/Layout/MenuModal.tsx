@@ -1,8 +1,7 @@
-import { Fragment, useState } from 'react'
-import { Dialog, Disclosure, Popover, Transition } from '@headlessui/react'
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-import { ChevronDownIcon, PhoneIcon, PlayCircleIcon } from '@heroicons/react/20/solid'
 import Link from 'next/link'
+import { Fragment } from 'react'
+import { Dialog, Transition } from '@headlessui/react'
+
 import { useApp } from '@/states/app'
 
 
@@ -80,8 +79,6 @@ type Props = {
 
 export default function MenuModal(props: Props) {
     const { setIsSidebarOpen, isSidebarOpen, openNav } = useApp()
-
-
 
     function closeModal() {
         props.setIsOpenMenuModal(false)

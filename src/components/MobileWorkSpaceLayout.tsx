@@ -1,7 +1,6 @@
 import { PostOrPage } from '@tryghost/content-api';
 import React, { useEffect, useState } from 'react'
 import { IoIosAddCircle } from 'react-icons/io';
-import ReviewModal from './ReviewModal';
 
 
 type Props = {
@@ -28,7 +27,6 @@ type Props = {
 const MobileWorkSpaceLayout = (props: Props) => {
     const [scrollContainer, setScrollContainer] = useState<HTMLDivElement | null>(null);
 
-    console.log("props.correctSentence", props.correctSentence)
 
     useEffect(() => {
         if (scrollContainer) {
@@ -40,7 +38,6 @@ const MobileWorkSpaceLayout = (props: Props) => {
         <div className='mx-2' >
             <div className='w-full top-[64px] sticky bg-white' >
                 {props.correctSentence.length > 0 && <div ref={setScrollContainer} className=' my-2 md:my-5 flex flex-col gap-2 max-h-[95px] md:max-h-[120px] border shadow-sm rounded p-0.5 overflow-y-scroll' >
-
                     {
                         props.correctSentence.map((sentence, index) => (
                             <div className='flex flex-col border p-2 border-gray-300 bg-gray-100' >

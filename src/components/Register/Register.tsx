@@ -1,16 +1,14 @@
-import React, { use, useState } from 'react'
-import { signIn, useSession } from 'next-auth/react'
 import axios from 'axios'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-import { ro } from 'date-fns/locale'
+import React, { useState } from 'react'
+import { signIn, useSession } from 'next-auth/react'
 
 type Props = {}
 
 const Register = (props: Props) => {
-    const { data: session, status } = useSession()
-    const [errorMessage, setErrorMessage] = useState('')
     const router = useRouter()
+    const [errorMessage, setErrorMessage] = useState('')
 
     const [confirmPassword, setConfirmPassword] = useState('')
 
