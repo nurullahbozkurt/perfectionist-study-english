@@ -33,7 +33,6 @@ const Sidebar = (props: Props) => {
     }
 
     const openActiveTensesModal = (e: any) => {
-        console.log("e", e)
         setIsOpenMenuModal(true);
         setShowGrammers(false);
         setShowActiveTenses(true);

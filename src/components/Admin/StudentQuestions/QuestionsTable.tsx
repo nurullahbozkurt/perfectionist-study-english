@@ -17,7 +17,6 @@ const QuestionsTable = (props: Props) => {
 
     const openQuestion = (questionId: string) => {
         const question = data?.find((question: IReview) => question._id === questionId)
-        console.log("question::", question)
         if (question) {
             setQuestion(question)
             setIsOpenQuestionModal(true)
@@ -28,6 +27,14 @@ const QuestionsTable = (props: Props) => {
         return (
             <div className='flex mt-20 items-center justify-center' >
                 <Puff color="#0e7490" height={50} width={50} />
+            </div>
+        )
+    }
+
+    if (data?.length === 0) {
+        return (
+            <div className='mt-5 border rounded bg-yellow-200/50 py-1 ' >
+                <p className='w-full text-sm lg:text-base text-center text-black italic' >Henüz Soru Gelmedi</p>
             </div>
         )
     }

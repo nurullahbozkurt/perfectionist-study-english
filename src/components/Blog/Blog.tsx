@@ -13,9 +13,12 @@ const Blog = ({ posts }: { posts: PostsOrPages }) => {
         <div style={{ overflow: "hidden" }} className='relative overflow-scroll text-primaryText' >
             <Layout>
                 <div className='container mx-auto pb-10 lg:pb-16 px-4' >
+                    <div className='mt-5 w-full border rounded bg-yellow-200 py-2 sticky top-14 z-10 ' >
+                        <p className='w-full text-sm lg:text-base text-center text-black italic' >Blog Sayfası Aktif Olarak Çalışmakla Birlikte İçerikler Örnektir</p>
+                    </div>
                     <div className='flex flex-col my-10 p-4' >
-                        <p className='text-sm opacity-70 pb-1' >Neden </p>
-                        <h1 className='text-3xl lg:text-[40px] font-semibold' >Perfectionist
+                        <p className='text-sm opacity-70 pb-1' > </p>
+                        <h1 className='text-3xl lg:text-[40px] font-semibold mt-2' >Perfectionist
                         </h1>
                         <p className='pt-5 italic' > 📌 İngilizce Öğrenmeyi Öğreniyoruz</p>
                     </div>

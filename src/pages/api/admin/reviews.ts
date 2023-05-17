@@ -7,23 +7,18 @@ import connectMongoDB from '../../../../lib/mongodb'
 
 
 const getReviews = async (req: NextApiRequest, res: NextApiResponse) => {
-    console.log("getReviews")
     const reviews = await Review.find({
         sendToTeacher: true
     }).sort({ createdAt: -1 }).populate('user',{password:0})
-
-    console.log("reviews",reviews)
 
     res.status(200).json(reviews)
 }
 
 const updateReview = async (req: NextApiRequest, res: NextApiResponse) => {
     const { reviewId,teacherAnswer } = req.body
-console.log("reviewId",reviewId)
     const review = await Review.findOne({
         _id: reviewId
     })
-    console.log("review",review)
     if (!review) {
         return res.status(404).send("Review not found")
     }

@@ -93,15 +93,21 @@ const Reviews = (props: Props) => {
         )
     }
 
-
-
     return (
         <Layout>
             <div className='container mx-auto' >
+
                 <div className='py-10' >
-                    <h1 className='text-3xl font-semibold' >Notlarım</h1>
+                    <h1 className='text-3xl font-semibold' >Öğrenci Notları</h1>
                 </div>
                 <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5 p-1' >
+                    {
+                        data?.length === 0 && (
+                            <div className='mt-5 border rounded bg-yellow-200/50 py-1 ' >
+                                <p className='w-full text-sm lg:text-base text-center text-black italic' >Henüz Bir Not Eklemediniz</p>
+                            </div>
+                        )
+                    }
                     {data?.map((item: IReview) => (
                         <>
                             <div className={`relative flex flex-col shadow-md gap-2 border overflow-hidden border-primary-800/70 rounded-lg  bg-stone-50`} >

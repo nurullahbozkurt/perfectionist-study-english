@@ -87,7 +87,6 @@ const ActiveTense = (props: Props) => {
 
     const activeSentence = getActiveSentence();
 
-    console.log("activeSentence", activeSentence)
 
     const sendAnswer = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();

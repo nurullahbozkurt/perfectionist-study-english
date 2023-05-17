@@ -40,7 +40,6 @@ const updateReview = async (req: NextApiRequest, res: NextApiResponse) => {
         review.enabled = req.body.enabled;
     }
     if(req.body.sendToTeacher !== undefined){
-        console.log("sea")
         review.sendToTeacher = req.body.sendToTeacher;
     }
 
