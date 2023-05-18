@@ -88,21 +88,22 @@
         ],
         "negativeSentence":[
             {
-                "english":"They AREN'T ill.",
-                "turkish":"Hasta değiller."
+                "english":"They WEREN’T ill.",
+                "turkish":"Hasta değillerdi."
             }
         ],
         "questionSentence":[
             {
-                "english":"ARE they ill?",
+                "english":"WERE they ill?",
                 "turkish":"Hastalar mıydı?"
             }
         ],
         "negativeInterrogativeSentence":[
             {
-                "english":"AREN'T they ill?",
-                "turkish":"Hasta değil miydi?"
+                "english":"WEREN’T they ill?",
+                "turkish":"Hasta değiller miydi?"
             }
         ]
     }
 ]
+

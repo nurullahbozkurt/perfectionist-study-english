@@ -53,7 +53,7 @@ const MobileWorkSpaceLayout = (props: Props) => {
                         ))
                     }
                 </div>}
-                <div className='' >
+                <div className='pt-2' >
                     <div className='flex flex-col gap-1 bg-primary-800 text-white p-2' >
                         <div className='flex items-center justify-between my-1' >
                             <p className='text-xs' >Cümleyi çevir</p>

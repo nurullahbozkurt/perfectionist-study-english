@@ -16,6 +16,8 @@ const Layout = (props: Props) => {
     const { data: session, status } = useSession();
     const { isSidebarOpen, setIsSidebarOpen, openNav } = useApp();
 
+    console.log("session", session)
+
 
     const closeSidebar = () => {
         openNav && openNav()
@@ -59,6 +61,9 @@ const Layout = (props: Props) => {
                         </div>)}
                         {session?.user && (<div className="hidden lg:flex lg:flex-1 lg:justify-end">
                             <div className='flex items-center gap-2'>
+                                <p className="text-sm font-semibold leading-6 text-gray-100 capitalize">
+                                    {session?.user?.name}
+                                </p>
                                 <button onClick={() => signOut({ callbackUrl: '/auth/login' })} className="text-xs border hover:bg-primary-800 px-2 rounded font-semibold leading-6 text-gray-100">
                                     Çıkış Yap <span aria-hidden="true">&rarr;</span>
                                 </button>
