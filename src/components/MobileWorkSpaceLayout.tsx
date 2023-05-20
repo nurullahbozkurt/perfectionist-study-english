@@ -1,7 +1,7 @@
 import { PostOrPage } from '@tryghost/content-api';
 import React, { useEffect, useState } from 'react'
 import { IoIosAddCircle } from 'react-icons/io';
-
+import { FaHandPointRight } from 'react-icons/fa'
 
 type Props = {
     isLoading: boolean;
@@ -34,6 +34,9 @@ const MobileWorkSpaceLayout = (props: Props) => {
         }
     }, [props.correctSentence]);
 
+    console.log("sds", props.correctSentence)
+
+
     return (
         <div className='mx-2' >
             <div className='w-full top-[64px] sticky bg-white' >
@@ -41,7 +44,7 @@ const MobileWorkSpaceLayout = (props: Props) => {
                     {
                         props.correctSentence.map((sentence, index) => (
                             <div className='flex flex-col border p-2 border-gray-300 bg-gray-100' >
-
+                                <div className='flex items-center text-sm gap-1 text-gray-900'><FaHandPointRight /><p>{sentence.sentence}</p></div>
                                 <div className='flex items-center justify-between' >
                                     <p><span className='font-semibold' >Cümlen :</span>{sentence.yourSentence}</p>
                                     <button onClick={props.openReviewModal} className='text-primary-800' >

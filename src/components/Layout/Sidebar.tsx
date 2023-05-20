@@ -111,7 +111,7 @@ const Sidebar = (props: Props) => {
                         </div>
                     </Link>
 
-                    {session?.user.role === "admin" && <Link onClick={openNav} href="/admin" className="hover:ml-10 w-full cursor-pointer text-white hover:text-yellow-400  bg-primary-800 p-2 pl-8 rounded-full transform ease-in-out duration-300 flex flex-row items-center space-x-3">
+                    {session?.user.role === "admin" && <Link onClick={openNav} passHref href={{ pathname: "/admin/students", query: { page: "students" } }} className="hover:ml-10 w-full cursor-pointer text-white hover:text-yellow-400  bg-primary-800 p-2 pl-8 rounded-full transform ease-in-out duration-300 flex flex-row items-center space-x-3">
                         <FaUserTie />
                         <div>
                             <p className='whitespace-nowrap' >Admin</p>
@@ -156,7 +156,7 @@ const Sidebar = (props: Props) => {
                         <SiBloglovin />
                     </Link>
 
-                    {session?.user.role === "admin" && <Link passHref href={{ pathname: "/admin", query: { page: "Admin" } }} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
+                    {session?.user.role === "admin" && <Link passHref href={{ pathname: "/admin/students", query: { page: "students" } }} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex">
                         <FaUserTie />
                     </Link>}
                     <button onClick={() => signOut({ callbackUrl: '/auth/login' })} className="hover:ml-4 justify-end pr-5 text-white hover:text-yellow-400  w-full bg-primary-800 p-3 rounded-full transform ease-in-out duration-300 flex ">

@@ -15,6 +15,7 @@ const StudentsTable = (props: Props) => {
         return response.data
     })
 
+
     if (isLoading) {
         return (
             <div className='flex items-center justify-center' >
@@ -24,14 +25,18 @@ const StudentsTable = (props: Props) => {
     }
 
     return (
-        <div className="antialiased font-sans pt-20">
+        <div className="antialiased font-sans ">
             <div className="container mx-auto px-4 sm:px-8">
-                <div className="py-8">
+                <div className="w-full py-8">
                     <div>
                         <h2 className="text-2xl font-semibold leading-tight">Öğrenciler</h2>
                     </div>
-                    <div className="flex items-center justify-between my-2 ">
-                        <div className='flex sm:flex-row flex-col' >
+                    <div className="w-full flex items-center justify-between my-2 ">
+                        <div className='flex items-center gap-1' >
+                            <p className='font-extralight ' >Aktif Öğrenci :</p>
+                            <p className='font-extralight '>{data?.length}</p>
+                        </div>
+                        {/* <div className='flex sm:flex-row flex-col' >
                             <div className="flex flex-row mb-1 sm:mb-0">
                                 <div className="relative">
                                     <select
@@ -73,8 +78,8 @@ const StudentsTable = (props: Props) => {
                                 <input placeholder="Search"
                                     className="appearance-none rounded-r rounded-l sm:rounded-l-none border border-gray-400 border-b block pl-8 pr-6 py-2 w-full bg-white text-sm placeholder-gray-400 text-gray-700 focus:bg-white focus:placeholder-gray-600 focus:text-gray-700 focus:outline-none" />
                             </div>
-                        </div>
-                        <button disabled className='flex  duration-500 items-center gap-2 px-4 py-1 rounded border border-primary-900 bg-white text-primary-900 opacity-40' >
+                        </div> */}
+                        <button disabled className='flex duration-500 items-center gap-2 px-4 py-1 rounded border border-primary-900 bg-white text-primary-900 opacity-40' >
                             <FiUserPlus />
                             <p className='text-sm' >Öğrenci Ekle</p>
                         </button>

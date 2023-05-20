@@ -10,9 +10,7 @@ type Props = {}
 const Students = (props: Props) => {
     return (
         <Layout>
-            <div className='fixed top-[64px] z-10 w-full' >
-                <Header />
-            </div>
+            <Header />
             <StudentsTable />
 
         </Layout>

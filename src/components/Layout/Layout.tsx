@@ -16,7 +16,6 @@ const Layout = (props: Props) => {
     const { data: session, status } = useSession();
     const { isSidebarOpen, setIsSidebarOpen, openNav } = useApp();
 
-    console.log("session", session)
 
 
     const closeSidebar = () => {
