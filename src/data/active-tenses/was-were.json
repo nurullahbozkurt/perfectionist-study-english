@@ -10,7 +10,7 @@
         "negativeSentence":[
             {
                 "english":"I WASN'T happy",
-                "turkish":"Ben mutlu değildim"
+                "turkish":"Ben mutlu değildim."
             }
         ],
         "questionSentence":[
@@ -31,7 +31,7 @@
         "positiveSentence":[
             {
                 "english":"You were strong",
-                "turkish":"Güçlüydün"
+                "turkish":"Güçlüydün."
             }
         ],
         "negativeSentence":[
@@ -57,13 +57,13 @@
         "positiveSentence":[
             {
                 "english":"He WAS angry.",
-                "turkish":"O kızgın."
+                "turkish":"O kızgındı."
             }
         ],
         "negativeSentence":[
             {
                 "english":"He WASN'T angry.",
-                "turkish":"O kızgın değil."
+                "turkish":"O kızgın değildi."
             }
         ],
         "questionSentence":[
