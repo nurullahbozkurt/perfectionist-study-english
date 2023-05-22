@@ -61,7 +61,7 @@ const MobileWorkSpaceLayout = (props: Props) => {
                     </div>
                 </div>
 
-                {<div ref={scrollContainer} className='my-2 md:my-5 mb-[180px] max-h-[1000px] flex flex-col gap-2 p-0.5 overflow-y-scroll' >
+                {<div ref={scrollContainer} className='my-2 md:my-5 mb-[180px] max-h-[600px] flex flex-col gap-2 p-0.5 overflow-y-scroll' >
                     {
                         props.correctSentence.map((sentence, index) => (
                             <div className='flex flex-col border rounded p-2 border-gray-300 bg-gray-100' >

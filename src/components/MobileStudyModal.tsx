@@ -42,7 +42,7 @@ export default function MobileStudyModal({ post, isStudyModalOpen, setIsStudyMod
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full max-w-md max-h-[600px] transform overflow-y-scroll rounded-2xl bg-white  text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="w-full max-w-md max-h-[500px] transform overflow-y-scroll rounded-2xl bg-white  text-left align-middle shadow-xl transition-all">
                                     <div className="mt-2 p-2">
                                         {post && <div className='w-full h-full overflow-y-scroll ' >
                                             <div><h1 className='text-lg md:text-2xl font-semibold px-2 capitalize' >{post?.title}</h1></div>
