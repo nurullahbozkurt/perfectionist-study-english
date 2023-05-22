@@ -56,8 +56,8 @@ export default function ReviewModal(props: Props) {
                         <div className="fixed inset-0 bg-black bg-opacity-25" />
                     </Transition.Child>
 
-                    <div className="fixed inset-0 overflow-y-auto">
-                        <div className="flex min-h-full items-center justify-center p-4 text-center">
+                    <div className="fixed w-full inset-0 overflow-y-auto">
+                        <div className="w-full flex min-h-full items-center justify-center p-4 text-center">
                             <Transition.Child
                                 as={Fragment}
                                 enter="ease-out duration-300"
@@ -67,7 +67,7 @@ export default function ReviewModal(props: Props) {
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full sm:max-w-lg max-w-[300px] ml-10 transform overflow-hidden rounded-2xl bg-white p-3 sm:p-6 text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="w-full sm:max-w-lg max-w-[300px] ml-0 lg:ml-10 transform overflow-hidden rounded-2xl bg-white p-3 sm:p-6 text-left align-middle shadow-xl transition-all">
                                     <Dialog.Title
                                         as="h3"
                                         className="text-xl font-medium leading-6 text-gray-900 border-b text-center py-2"
@@ -75,7 +75,7 @@ export default function ReviewModal(props: Props) {
                                         <p className='font-light text-lg sm:text-xl' >{props.sentence}</p>
 
                                     </Dialog.Title>
-                                    <div className="mt-2">
+                                    <div className="w-full mt-2">
                                         <div className='flex flex-col gap-1 text-sm sm:text-base' >
                                             <p><span className='font-semibold' >Senin Cümlen:</span> {props.yourSentence}</p>
                                             <p><span className='font-semibold' >Doğru Cümle:</span> {props.correctSentence}</p>

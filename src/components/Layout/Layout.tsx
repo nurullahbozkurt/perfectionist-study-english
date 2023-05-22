@@ -45,7 +45,7 @@ const Layout = (props: Props) => {
         <>
             <div className="body bg-white ">
                 <div id='header' className="fixed w-full bg-primary-800 z-30 flex p-2 items-center justify-center h-16 px-10">
-                    <div ref={logo} className="logo ml-12 mr-6 transform ease-in-out duration-500 flex-none h-full flex items-center justify-center">
+                    <div ref={logo} className="logo ml-6 lg:ml-12 mr-6 transform ease-in-out duration-500 flex-none h-full flex items-center justify-center">
                         <Link href="/" className='text-white text-sm' > Perfectionist</Link>
                     </div>
                     <PathNav />
@@ -73,7 +73,7 @@ const Layout = (props: Props) => {
                 </div>
                 <Sidebar />
 
-                <div className={`pt-[64px] pl-[48px] ${isSidebarOpen ? "relative " : ""} `} >
+                <div className={`pt-[64px] pl-0 lg:pl-[48px] ${isSidebarOpen ? "relative " : ""} `} >
                     {isSidebarOpen && <div onClick={() => closeSidebar()} className={`${isSidebarOpen ? "block bg-black/50 h-screen" : "hidden "} absolute z-10 top-0 bottom-0 right-0 left-0`} ></div>}
                     {props.children}
                 </div>

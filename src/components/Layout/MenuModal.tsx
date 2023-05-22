@@ -115,7 +115,7 @@ export default function MenuModal(props: Props) {
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full z-50 max-h-[500px] sm:max-h-max overflow-y-scroll sm:max-w-3xl max-w-[300px] ml-[40px] transform overflow-hidden rounded-2xl bg-white p-2 sm:p-6 text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="w-full z-50 max-h-[500px] sm:max-h-max overflow-y-scroll sm:max-w-3xl max-w-[300px] lg:ml-[40px] transform overflow-hidden rounded-2xl bg-white p-2 sm:p-6 text-left align-middle shadow-xl transition-all">
                                     <Dialog.Title
                                         as="h3"
                                         className="text-lg font-medium leading-6 text-gray-900 ml-3 pt-1 sm:ml-0"

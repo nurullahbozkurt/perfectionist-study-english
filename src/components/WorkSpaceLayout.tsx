@@ -43,6 +43,8 @@ const WorkSpaceLayout = (props: Props) => {
     const [scrollContainer, setScrollContainer] = useState<HTMLDivElement | null>(null);
     const [review, setReview] = useState<SendReview | null>(null);
 
+    console.log('props', props.changeSentence);
+
 
 
     const handleReviewModal = (item: SendReview) => {
