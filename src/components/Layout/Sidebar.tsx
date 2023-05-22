@@ -45,7 +45,7 @@ const Sidebar = (props: Props) => {
     return (
         <>
             <MenuModal showGrammers={showGrammers} showActiveTenses={showActiveTenses} isOpenMenuModal={isOpenMenuModal} setIsOpenMenuModal={setIsOpenMenuModal} />
-            <aside ref={sidebarRef} className="w-48 lg:w-60 -translate-x-48 fixed transition transform ease-in-out duration-1000 z-50 flex h-screen bg-primary-800 ">
+            <aside ref={sidebarRef} className="w-48 lg:w-60 -translate-x-48 fixed transition transform ease-in-out duration-1000 z-40 flex h-screen bg-primary-800 ">
                 <div ref={maxToolbarRef} className="max-toolbar translate-x-24 scale-x-0 w-full -right-6 transition transform ease-in duration-300 flex items-center justify-between border-4 border-white bg-primary-800  absolute top-2 rounded-full h-12">
                     <div className="flex pl-4 items-center space-x-2 ">
                     </div>
