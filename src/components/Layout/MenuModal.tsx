@@ -91,7 +91,7 @@ export default function MenuModal(props: Props) {
     return (
         <>
             <Transition appear show={props.isOpenMenuModal} as={Fragment}>
-                <Dialog as="div" className="relative z-10" onClose={closeModal}>
+                <Dialog as="div" className="relative z-30" onClose={closeModal}>
                     <Transition.Child
                         as={Fragment}
                         enter="ease-out duration-300"
@@ -104,7 +104,7 @@ export default function MenuModal(props: Props) {
                         <div className="fixed inset-0 bg-black bg-opacity-25" />
                     </Transition.Child>
 
-                    <div className="fixed inset-0 overflow-y-auto z-50">
+                    <div className="fixed inset-0 overflow-y-auto">
                         <div className="flex min-h-full items-center justify-center p-4 text-center">
                             <Transition.Child
                                 as={Fragment}
@@ -115,7 +115,7 @@ export default function MenuModal(props: Props) {
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full z-50 max-h-[500px] sm:max-h-max overflow-y-scroll sm:max-w-3xl max-w-[300px] lg:ml-[40px] transform overflow-hidden rounded-2xl bg-white p-2 sm:p-6 text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="w-full max-h-[500px] sm:max-h-max overflow-y-scroll sm:max-w-3xl max-w-[300px] lg:ml-[40px] transform overflow-hidden rounded-2xl bg-white p-2 sm:p-6 text-left align-middle shadow-xl transition-all">
                                     <Dialog.Title
                                         as="h3"
                                         className="text-lg font-medium leading-6 text-gray-900 ml-3 pt-1 sm:ml-0"
