@@ -29,7 +29,7 @@
     {
         "positiveSentence":[
             {
-                "english":"Youl WILL BE strong.",
+                "english":"You WILL BE strong.",
                 "turkish":"Güçlü olacaksın."
             }
         ],
@@ -56,25 +56,25 @@
         "positiveSentence":[
             {
                 "english":"He WILL BE angry.",
-                "turkish":"Kızgın olacaksın."
+                "turkish":"Kızgın olacak."
             }
         ],
         "negativeSentence":[
             {
                 "english":"He WON'T BE angry.",
-                "turkish":"Kızgın olmayacaksın."
+                "turkish":"Kızgın olmayacak."
             }
         ],
         "questionSentence":[
             {
                 "english":"WILL he BE angry?",
-                "turkish":"Kızgın olacak mısın?"
+                "turkish":"Kızgın olacak mı?"
             }
          ],
         "negativeInterrogativeSentence":[
             {
                 "english":"WON'T he BE angry?",
-                "turkish":"Kızgın olmayacak mısın?"
+                "turkish":"Kızgın olmayacak mı?"
             }
         ]
     },

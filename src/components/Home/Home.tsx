@@ -13,7 +13,7 @@ const Home = (props: Props) => {
     return (
         <Layout>
             <>
-                <div className="min-h-full my-20 bg-gradient-to-tr flex justify-center items-center ">
+                <div className="min-h-full my-7 lg:my-20 bg-gradient-to-tr flex justify-center items-center ">
                     <div className="md:px-4 md:grid md:grid-cols-2 lg:grid-cols-3 gap-5 space-y-4 md:space-y-0">
                         <LetsStart image='/grammar.jpg' href='/grammars/was-were?page=Gramer' width="3712" height="5568" title='Gramer Çalışması' subtitle='Gramer' miniTitle1='Gramer Notlarını Gör' miniTitle2='Tüm Gramerler İle Cümle Kur' />
                         <LetsStart image="/active-tense2.jpg" href='/active-tenses/was-were?page=Gramer' width="2465" height="3358" title="Active Tense Alıştırması" subtitle='Active Tense' miniTitle1='Olumlu, Olumsuz ve Soru Cümleleri' miniTitle2='Hızlı Cümle Kurma Pratiği' />

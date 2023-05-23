@@ -1,9 +1,11 @@
 import axios from 'axios'
 import { Fragment, useState } from 'react'
 import { useSession } from 'next-auth/react'
+import { useMutation } from 'react-query'
 
 import { useApp } from '@/states/app'
 import { Dialog, Transition } from '@headlessui/react'
+import { Puff } from 'react-loader-spinner'
 
 type Props = {
     yourSentence: string;
@@ -22,7 +24,7 @@ export default function ReviewModal(props: Props) {
         setIsReviewModalOpen(false)
     }
 
-    const addToReview = async () => {
+    const addToReviewMutation = useMutation(async () => {
         await axios.post('/api/reviews', {
             user: session?.user.id,
             yourSentence: props.yourSentence,
@@ -30,15 +32,20 @@ export default function ReviewModal(props: Props) {
             sentence: props.sentence,
             reviewNote: reviewNote,
             grammar: props.grammar
-        }).then(res => {
-            console.log(res)
-        }).catch(err => {
-            console.log(err)
-        }).finally(() => {
-            setReviewNote('')
-        })
-        closeModal()
-    }
+        });
+    }, {
+        onSuccess: (res) => {
+            console.log(res);
+            closeModal();
+        },
+        onError: (err) => {
+            console.log(err);
+        },
+        onSettled: () => {
+            setReviewNote('');
+        }
+    });
+
 
     return (
         <>
@@ -70,7 +77,7 @@ export default function ReviewModal(props: Props) {
                                 <Dialog.Panel className="w-full sm:max-w-lg max-w-[300px] ml-0 lg:ml-10 transform overflow-hidden rounded-2xl bg-white p-3 sm:p-6 text-left align-middle shadow-xl transition-all">
                                     <Dialog.Title
                                         as="h3"
-                                        className="text-xl font-medium leading-6 text-gray-900 border-b text-center py-2"
+                                        className="text-xl font-medium leading-6 text-gray-900 text-center py-2"
                                     >
                                         <p className='font-light text-lg sm:text-xl' >{props.sentence}</p>
 
@@ -85,16 +92,32 @@ export default function ReviewModal(props: Props) {
                                         <label className="block text-sm  text-gray-700 font-light">
                                             Not Bırak
                                         </label>
-                                        <textarea onChange={(e) => setReviewNote(e.target.value)} value={reviewNote} className='border rounded w-full p-3' />
+                                        <textarea onBlur={() => console.log("bkur")} onChange={(e) => setReviewNote(e.target.value)} value={reviewNote} className='border rounded w-full p-3' />
                                     </div>
 
-                                    <div className="mt-4 text-sm sm:text-base">
+                                    <div className="flex items-center justify-between mt-4 text-sm sm:text-base">
+                                        <div className='flex items-center gap-2' >
+                                            <button
+                                                type="button"
+                                                className="inline-flex justify-center rounded-md border border-transparent bg-primary-700 px-4 py-2 text-sm font-medium text-white hover:bg-primary-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+                                                onClick={() => addToReviewMutation.mutate()}
+                                            >
+                                                Notlara Ekle
+                                            </button>
+                                            <div>
+                                                {addToReviewMutation.isLoading &&
+                                                    <div className='flex items-center justify-center' >
+                                                        <Puff color="#0e7490" height={30} width={30} />
+                                                    </div>
+                                                }
+                                            </div>
+                                        </div>
                                         <button
                                             type="button"
-                                            className="inline-flex justify-center rounded-md border border-transparent bg-primary-700 px-4 py-2 text-sm font-medium text-white hover:bg-primary-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
-                                            onClick={addToReview}
+                                            className="inline-flex justify-center rounded-md border border-transparent bg-red-700 px-4 py-2 text-sm font-medium text-white hover:bg-red-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+                                            onClick={closeModal}
                                         >
-                                            Notlara Ekle
+                                            İptal
                                         </button>
                                     </div>
                                 </Dialog.Panel>
