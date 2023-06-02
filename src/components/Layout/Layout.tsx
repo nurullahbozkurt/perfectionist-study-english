@@ -43,7 +43,7 @@ const Layout = (props: Props) => {
 
     return (
         <>
-            <div className="body bg-white ">
+            <div style={{ paddingBottom: 'env(safe-area-inset-bottom)' }} className="body bg-white ">
                 <div id='header' className="fixed w-full bg-primary-800 z-30 flex p-2 items-center justify-center h-16 px-10">
                     <div ref={logo} className="logo ml-6 lg:ml-12 mr-6 transform ease-in-out duration-500 flex-none h-full flex items-center justify-center">
                         <Link href="/" className='text-white text-sm' > Perfectionist</Link>

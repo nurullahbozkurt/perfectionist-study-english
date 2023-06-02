@@ -91,7 +91,7 @@ export default function MenuModal(props: Props) {
     return (
         <>
             <Transition appear show={props.isOpenMenuModal} as={Fragment}>
-                <Dialog as="div" className="relative z-40" onClose={closeModal}>
+                <Dialog as="div" className="relative z-50" onClose={closeModal}>
                     <Transition.Child
                         as={Fragment}
                         enter="ease-out duration-300"
@@ -104,7 +104,7 @@ export default function MenuModal(props: Props) {
                         <div className="fixed inset-0 bg-black bg-opacity-25" />
                     </Transition.Child>
 
-                    <div className="fixed inset-0 overflow-y-auto">
+                    <div className="fixed inset-0 overflow-y-auto z-50">
                         <div className="flex min-h-full items-center justify-center p-4 text-center">
                             <Transition.Child
                                 as={Fragment}
@@ -123,7 +123,7 @@ export default function MenuModal(props: Props) {
                                         {props.showGrammers && "Gramerler"}
                                         {props.showActiveTenses && "Active Tense"}
                                     </Dialog.Title>
-                                    <div className="mt-2">
+                                    <div className="mt-2 z-50">
                                         {props.showGrammers && <div className="p-2 sm:p-4 grid grid-cols-2 sm:grid-cols-3 gap-4">
                                             {tenses.map((tense) => (
                                                 <div className='w-full' >

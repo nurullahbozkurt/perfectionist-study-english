@@ -1,6 +1,7 @@
 import { useRouter } from 'next/router';
 import { Puff } from 'react-loader-spinner';
 import React, { useState, useEffect } from 'react';
+import { useMutation } from 'react-query';
 
 import { useApp } from '@/states/app';
 import { IActiveTense } from '@/types/api';
@@ -8,6 +9,8 @@ import { Layout } from '@/components/Layout';
 import WorkSpaceLayout from '../WorkSpaceLayout';
 import { PostOrPage } from '@tryghost/content-api';
 import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
+import { useSession } from 'next-auth/react';
+import axios from 'axios';
 
 type Props = {
     post: PostOrPage
@@ -26,9 +29,12 @@ interface CorrectSentence {
     topic: string;
 }
 
+
 const ActiveTense = (props: Props) => {
     const router = useRouter();
     const { setIsReviewModalOpen } = useApp();
+    const { data: session } = useSession();
+    console.log("session", session);
 
 
     const [answer, setAnswer] = useState('');
@@ -36,13 +42,30 @@ const ActiveTense = (props: Props) => {
     const [activeSentenceIndex, setActiveSentenceIndex] = useState(0);
     const [correctSentence, setCorrectSentence] = useState<CorrectSentence[]>([]);
 
-    // const { data: activeTenses, isLoading } = useGetActiveTenses({
-    //     collectionName: `activeTense_${router.query.activeTenses}` as string,
-    // });
+
+    const addUsersAnswerMutation = useMutation(async () => {
+        await axios.post("/api/users-answer", {
+            user: session?.user?.id,
+            userSentence: answer,
+            correctSentence: activeSentence?.english || '',
+            sentence: activeSentence?.turkish || '',
+            topic: router.query.activeTenses as string
+        })
+    },
+        {
+            onSuccess: (res) => {
+                console.log(res);
+            },
+            onError: (err) => {
+                console.log(err);
+            },
+        }
+    )
 
     const useStaticGrammarData = (grammar: any) => {
         const [isLoading, setIsLoading] = useState(true);
         const [data, setData] = useState<IActiveTense[] | null>(null);
+
 
         useEffect(() => {
             const fetchData = async () => {
@@ -88,11 +111,12 @@ const ActiveTense = (props: Props) => {
     const activeSentence = getActiveSentence();
 
 
-    const sendAnswer = (e: React.FormEvent<HTMLFormElement>) => {
+    const sendAnswer = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         setActiveSentenceIndex((prevIndex) => prevIndex + 1);
         setCorrectSentence([...correctSentence, { yourSentence: answer, correctSentence: activeSentence?.english || '', sentence: activeSentence?.turkish || '', topic: router.query.activeTenses as string }]);
         setAnswer('');
+        await addUsersAnswerMutation.mutateAsync();
     };
 
     const openReviewModal = () => {
@@ -105,6 +129,8 @@ const ActiveTense = (props: Props) => {
         setActiveSentenceIndex(0);
         setCorrectSentence([]);
     }, [activeTenses]);
+
+
 
 
     if (!router.query.activeTenses || isLoading || !activeSentence) {

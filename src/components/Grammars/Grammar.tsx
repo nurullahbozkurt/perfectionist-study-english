@@ -1,5 +1,7 @@
 import { useRouter } from 'next/router'
 import React, { useEffect, useMemo, useState } from 'react'
+import { useMutation } from 'react-query'
+import { useSession } from 'next-auth/react'
 
 
 import { useApp } from '@/states/app'
@@ -9,6 +11,8 @@ import WorkSpaceLayout from '../WorkSpaceLayout'
 import { PostOrPage } from '@tryghost/content-api'
 import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
 import { Puff } from 'react-loader-spinner';
+import axios from 'axios'
+import { set } from 'mongoose'
 
 type Props = {
     post: PostOrPage
@@ -31,6 +35,7 @@ interface Sentence {
 
 const Grammar = (props: Props) => {
     const router = useRouter()
+    const { data: session } = useSession()
 
     const { headerHeight, setHeaderHeight, isReviewModalOpen, setIsReviewModalOpen } = useApp();
 
@@ -43,6 +48,27 @@ const Grammar = (props: Props) => {
     // const { data: grammaticalSentences, isLoading } = useGetGrammaticalSentences({
     //     collectionName: `grammar_${router.query.grammar}` as string
     // })
+
+
+    const addUsersAnswerMutation = useMutation(async () => {
+        console.log("coorect sentence: ", sentence?.englishSentence)
+        await axios.post("/api/users-answer", {
+            user: session?.user?.id,
+            userSentence: answer,
+            correctSentence: sentence?.englishSentence || '',
+            sentence: sentence?.turkishSentence || '',
+            topic: router.query.grammar as string
+        })
+    },
+        {
+            onSuccess: (res) => {
+                console.log(res);
+            },
+            onError: (err) => {
+                console.log(err);
+            },
+        }
+    )
 
     const useStaticGrammarData = (grammar: any) => {
         const [data, setData] = useState<IGrammar[] | null>(null);
@@ -73,18 +99,20 @@ const Grammar = (props: Props) => {
             const randomIndex = Math.floor(Math.random() * grammaticalSentences?.length)
             setSentence(grammaticalSentences && grammaticalSentences[randomIndex])
         }
+        setAnswer('')
     }
 
     const openReviewModal = () => {
         setIsReviewModalOpen(true)
     }
 
-    const sendAnswer = (e: React.FormEvent<HTMLFormElement>) => {
+    const sendAnswer = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
         if (!sentence) return
         setCorrectSentence([...correctSentence, { yourSentence: answer, correctSentence: sentence.englishSentence, sentence: sentence.turkishSentence, topic: sentence.topic }])
         setAnswer('')
         changeSentence()
+        await addUsersAnswerMutation.mutateAsync()
     }
 
     useEffect(() => {

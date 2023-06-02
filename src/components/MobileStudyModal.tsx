@@ -52,7 +52,7 @@ export default function MobileStudyModal({ post, isStudyModalOpen, setIsStudyMod
                                     <div className="mt-4 w-full sticky bottom-0 left-0 right-0 ">
                                         <button
                                             type="button"
-                                            className="inline-flex w-full justify-center border border-transparent bg-blue-100 px-4 py-2 text-sm font-medium text-blue-900 hover:bg-blue-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+                                            className="inline-flex w-full justify-center border border-transparent bg-primary-800 p-4 text-sm font-medium text-white hover:bg-blue-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
                                             onClick={closeModal}
                                         >
                                             Kapat

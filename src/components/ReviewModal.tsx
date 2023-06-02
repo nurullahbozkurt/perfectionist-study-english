@@ -50,7 +50,7 @@ export default function ReviewModal(props: Props) {
     return (
         <>
             <Transition appear show={isReviewModalOpen} as={Fragment} >
-                <Dialog as="div" className="relative z-20" onClose={closeModal}>
+                <Dialog as="div" className="relative z-50" onClose={closeModal}>
                     <Transition.Child
                         as={Fragment}
                         enter="ease-out duration-300"
@@ -64,7 +64,7 @@ export default function ReviewModal(props: Props) {
                     </Transition.Child>
 
                     <div className="fixed w-full inset-0 overflow-y-auto z-50">
-                        <div className="w-full flex min-h-full items-center justify-center p-4 text-center">
+                        <div className="w-full flex  items-center justify-center p-4 text-center">
                             <Transition.Child
                                 as={Fragment}
                                 enter="ease-out duration-300"

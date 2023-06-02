@@ -124,7 +124,7 @@ const WorkSpaceLayout = (props: Props) => {
                                 }
                             </div>
 
-                            <form onSubmit={(e) => props.sendAnswer(e)} className='w-full flex items-center justify-between gap-2' >
+                            <form onSubmit={props.sendAnswer} className='w-full flex items-center justify-between gap-2' >
                                 <div className='w-full flex-1' >
                                     <input onChange={(e) => props.setAnswer(e.target.value)} value={props.answer} className='w-full border border-gray-400 rounded px-2 py-1 bg-gray-50' />
                                 </div>

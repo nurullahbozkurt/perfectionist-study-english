@@ -1,4 +1,6 @@
+import { useMutation } from 'react-query'
 import { Puff } from 'react-loader-spinner';
+import { useSession } from 'next-auth/react';
 import React, { useEffect, useState } from 'react'
 
 import { useApp } from '@/states/app';
@@ -7,6 +9,8 @@ import { Layout } from '@/components/Layout';
 import WorkSpaceLayout from '../WorkSpaceLayout';
 import { PostOrPage } from '@tryghost/content-api';
 import MobileWorkSpaceLayout from '../MobileWorkSpaceLayout';
+import axios from 'axios';
+import { useRouter } from 'next/router';
 
 type Props = {
     post: PostOrPage
@@ -28,12 +32,33 @@ interface Sentence {
 
 const DailySentences = (props: Props) => {
     const { headerHeight, setHeaderHeight, isReviewModalOpen, setIsReviewModalOpen } = useApp();
+    const router = useRouter()
+    const { data: session } = useSession()
 
     const [answer, setAnswer] = useState('')
     const [sentence, setSentence] = useState<Sentence>()
     const [contentHeight, setContentHeight] = useState(0);
     const [correctSentence, setCorrectSentence] = useState<CorrectSentence[]>([]);
     const [scrollContainer, setScrollContainer] = useState<HTMLDivElement | null>(null);
+
+    const addUsersAnswerMutation = useMutation(async () => {
+        await axios.post("/api/users-answer", {
+            user: session?.user?.id,
+            userSentence: answer,
+            correctSentence: sentence?.englishSentence || '',
+            sentence: sentence?.turkishSentence || '',
+            topic: "daily-sentences"
+        })
+    },
+        {
+            onSuccess: (res) => {
+                console.log(res);
+            },
+            onError: (err) => {
+                console.log(err);
+            },
+        }
+    )
 
     const useStaticGrammarData = () => {
         const [data, setData] = useState<IDailySentence[] | null>(null);
@@ -62,18 +87,20 @@ const DailySentences = (props: Props) => {
             const randomIndex = Math.floor(Math.random() * dailySentences?.length)
             setSentence(dailySentences && dailySentences[randomIndex])
         }
+        setAnswer('')
     }
 
     const openReviewModal = () => {
         setIsReviewModalOpen(true)
     }
 
-    const sendAnswer = (e: React.FormEvent<HTMLFormElement>) => {
+    const sendAnswer = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
         if (!sentence) return
         setCorrectSentence([...correctSentence, { yourSentence: answer, correctSentence: sentence.englishSentence, sentence: sentence.turkishSentence }])
         setAnswer('')
         changeSentence()
+        await addUsersAnswerMutation.mutateAsync()
     }
 
     useEffect(() => {
