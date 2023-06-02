@@ -24,6 +24,7 @@ type Props = {
     post?: PostOrPage
     postError?: string
     openReviewModal: () => void;
+    words?: string[];
 
 }
 

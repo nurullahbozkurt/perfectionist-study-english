@@ -20,6 +20,7 @@ type Props = {
 interface ISentence {
     english: string;
     turkish: string;
+    words?: string[];
 }
 
 interface CorrectSentence {
@@ -34,7 +35,6 @@ const ActiveTense = (props: Props) => {
     const router = useRouter();
     const { setIsReviewModalOpen } = useApp();
     const { data: session } = useSession();
-    console.log("session", session);
 
 
     const [answer, setAnswer] = useState('');
@@ -109,6 +109,7 @@ const ActiveTense = (props: Props) => {
     };
 
     const activeSentence = getActiveSentence();
+    console.log("activeSentence", activeSentence)
 
 
     const sendAnswer = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -150,6 +151,7 @@ const ActiveTense = (props: Props) => {
                     sendAnswer={sendAnswer}
                     isLoading={isLoading}
                     turkishSentence={activeSentence?.turkish}
+                    words={activeSentence?.words}
                     englishSentence={activeSentence?.english}
                     topic={router.query.activeTenses as string}
                     setAnswer={setAnswer}
@@ -159,7 +161,6 @@ const ActiveTense = (props: Props) => {
                     post={props.post}
                     openReviewModal={openReviewModal}
                     postError={props.postError}
-
                 />
             </div>
 
@@ -168,6 +169,7 @@ const ActiveTense = (props: Props) => {
                     sendAnswer={sendAnswer}
                     isLoading={isLoading}
                     turkishSentence={activeSentence?.turkish}
+                    words={activeSentence?.words}
                     englishSentence={activeSentence?.english}
                     topic={router.query.activeTenses as string}
                     setAnswer={setAnswer}

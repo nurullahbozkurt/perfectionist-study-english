@@ -4,25 +4,29 @@
         "positiveSentence":[
             {
                 "english":"I HAD BEEN happy since yesterday.  ",
-                "turkish":"Dünden beri mutluydum"
+                "turkish":"Dünden beri mutluydum",
+                "words":["happy","since yesterday"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"I HADN'T BEEN happy since yesterday. ",
-                "turkish":"Dünden beri mutlu değildim"
+                "turkish":"Dünden beri mutlu değildim",
+                "words":["happy","since yesterday"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAD I BEEN happy since yesterday?",
-                "turkish":"Dünden beri mutlu muydum?"
+                "turkish":"Dünden beri mutlu muydum?",
+                "words":["happy","since yesterday"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HADN'T I BEEN happy since yesterday?",
-                "turkish":"Dünden beri mutlu değil miydim?"
+                "turkish":"Dünden beri mutlu değil miydim?",
+                "words":["happy","since yesterday"]
             }
         ]
     },
@@ -30,25 +34,29 @@
         "positiveSentence":[
             {
                 "english":"You HAD BEEN strong since 2002. ",
-                "turkish":"2002'den beri güçlüydün."
+                "turkish":"2002'den beri güçlüydün.",
+                "words":["strong","since 2002"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You HADN'T BEEN strong since 2002. ",
-                "turkish":"2002'den beri güçlü değildin."
+                "turkish":"2002'den beri güçlü değildin.",
+                "words":["strong","since 2002"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAD you BEEN strong since 2002?",
-                "turkish":"2002'den beri güçlü müydün?"
+                "turkish":"2002'den beri güçlü müydün?",
+                "words":["strong","since 2002"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HADN'T you BEEN strong since 2002?",
-                "turkish":"2002'den beri güçlü değil miydin?"
+                "turkish":"2002'den beri güçlü değil miydin?",
+                "words":["strong","since 2002"]
             }
         ]
     },
@@ -56,25 +64,29 @@
         "positiveSentence":[
             {
                 "english":"He HAD BEEN angry for two hours.",
-                "turkish":"İki saattir kızgındı."
+                "turkish":"İki saattir kızgındı.",
+                "words":["angry","for two hours"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"He HADN'T BEEN angry for two hours.",
-                "turkish":"İki saattir kızgın değildi."
+                "turkish":"İki saattir kızgın değildi.",
+                "words":["angry","for two hours"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAD he BEEN angry for two hours?",
-                "turkish":"İki saattir kızgın mıydı?"
+                "turkish":"İki saattir kızgın mıydı?",
+                "words":["angry","for two hours"]
             }
          ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HADN'T he BEEN angry for two hours?",
-                "turkish":"İki saattir kızgın değil miydi?"
+                "turkish":"İki saattir kızgın değil miydi?",
+                "words":["angry","for two hours"]
             }
         ]
     },
@@ -83,25 +95,29 @@
         "positiveSentence":[
             {
                 "english":"She HAD BEEN beautiful for years. ",
-                "turkish":"Yıllardır güzeldi."
+                "turkish":"Yıllardır güzeldi.",
+                "words":["beautiful","for years"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"She HADN’T BEEN beautiful for years. ",
-                "turkish":"Yıllardır güzel değildi."
+                "turkish":"Yıllardır güzel değildi.",
+                "words":["beautiful","for years"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAD she BEEN beautiful for years?",
-                "turkish":"Yıllardır güzel miydi?"
+                "turkish":"Yıllardır güzel miydi?",
+                "words":["beautiful","for years"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HADN’T she BEEN beautiful for years?",
-                "turkish":"Yıllardır güzel değil miydi?"
+                "turkish":"Yıllardır güzel değil miydi?",
+                "words":["beautiful","for years"]
             }
         ]
     },
@@ -110,25 +126,29 @@
         "positiveSentence":[
             {
                 "english":"It HAD BEEN perfect for six months.",
-                "turkish":"Altı aydır mükemmeldi."
+                "turkish":"Altı aydır mükemmeldi.",
+                "words":["perfect","for six months"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"It HADN’T BEEN perfect for six months.",
-                "turkish":"Altı aydır mükemmel değildi."
+                "turkish":"Altı aydır mükemmel değildi.",
+                "words":["perfect","for six months"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAD it BEEN perfect for six months?",
-                "turkish":"Altı aydır mükemmel miydi?"
+                "turkish":"Altı aydır mükemmel miydi?",
+                "words":["perfect","for six months"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HADN’T it BEEN perfect for six months?",
-                "turkish":"Altı aydır mükemmel değil miydi?"
+                "turkish":"Altı aydır mükemmel değil miydi?",
+                "words":["perfect","for six months"]
             }
         ]
     },
@@ -136,25 +156,29 @@
         "positiveSentence":[
             {
                 "english":"We HAD BEEN calm for three days.",
-                "turkish":"Üç gündür sakindik."
+                "turkish":"Üç gündür sakindik.",
+                "words":["calm","for three days"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"We HADN’T BEEN calm for three days.",
-                "turkish":"Üç gündür sakin değildik."
+                "turkish":"Üç gündür sakin değildik.",
+                "words":["calm","for three days"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAD we BEEN calm for three days?",
-                "turkish":"Üç gündür sakin miydik?"
+                "turkish":"Üç gündür sakin miydik?",
+                "words":["calm","for three days"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HADN’T we BEEN calm for three days?",
-                "turkish":"Üç gündür sakin değil miydik?"
+                "turkish":"Üç gündür sakin değil miydik?",
+                "words":["calm","for three days"]
             }
         ]
     },
@@ -162,25 +186,29 @@
         "positiveSentence":[
             {
                 "english":"You HAD BEEN successful for days. ",
-                "turkish":"Mayıstan beri hastalardı."
+                "turkish":"Mayıstan beri hastalardı.",
+                "words":["successful","for days"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You HADN’T BEEN successful for days. ",
-                "turkish":"Mayıstan beri hasta değildi."
+                "turkish":"Mayıstan beri hasta değildi.",
+                "words":["successful","for days"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAD you BEEN successful for days?",
-                "turkish":"Mayıstan beri hasta mıydı?"
+                "turkish":"Mayıstan beri hasta mıydı?",
+                "words":["successful","for days"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HADN’T you BEEN successful for days?",
-                "turkish":"Mayıstan beri hasta değil miydi?"
+                "turkish":"Mayıstan beri hasta değil miydi?",
+                "words":["successful","for days"]
             }
         ]
     }

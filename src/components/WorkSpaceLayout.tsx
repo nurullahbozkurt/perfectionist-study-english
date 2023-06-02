@@ -28,6 +28,7 @@ type Props = {
     post?: PostOrPage
     postError?: string
     openReviewModal: () => void;
+    words?: string[];
 
 }
 type SendReview = {
@@ -101,8 +102,17 @@ const WorkSpaceLayout = (props: Props) => {
                                     {!props.isLoading && (
                                         <>
                                             <p className='font-bold text-[15px]' >Cümleyi  <span className='bg-primary-700 rounded text-white px-2' >{props.topic}</span> gramer kuralına göre çevir.</p>
-                                            <div className='flex items-start gap-1' >
-                                                <h1 className='text-base text-black border shadow-lg bg-gray-100  px-2 py-1 rounded' >{props.turkishSentence}</h1>
+                                            <div className='flex flex-col gap-2' >
+                                                <div className='flex items-start gap-1' >
+                                                    <h1 className='text-base text-black border shadow-lg bg-gray-100  px-2 py-1 rounded' >{props.turkishSentence}</h1>
+                                                </div>
+                                                <div className='flex items-center gap-1 text-xs ml-1'>
+                                                    <p>Yardımcı Kelimeler:</p>
+                                                    {props.words?.map((item, index) => (
+                                                        <h1>{item},</h1>
+                                                    ))}
+
+                                                </div>
                                             </div>
                                             <div className='flex justify-end' >
                                                 <p className='rounded px-2 py-0.5 text-xs bg-white text-primary-900 shadow' ><span className='font-bold' >Gramer:</span>{props.topic}</p>

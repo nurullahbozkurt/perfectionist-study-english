@@ -3,25 +3,29 @@
         "positiveSentence": [
             {
                 "english": "I HAD BEEN speakING for months.",
-                "turkish": "Aylardır konuşuyordum."
+                "turkish": "Aylardır konuşuyordum.",
+                "word": ["speak spoke spoken","for months"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "I HADN'T BEEN speakING for months.",
-                "turkish": "Aylardır konuşmuyordum."
+                "turkish": "Aylardır konuşmuyordum.",
+                "word": ["speak spoke spoken","for months"]
             }
         ],
         "questionSentence": [
             {
                 "english": "HAD I BEEN speakING for months?",
-                "turkish": "Aylardır konuşuyor muydum?"
+                "turkish": "Aylardır konuşuyor muydum?",
+                "word": ["speak spoke spoken","for months"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "HADN'T I BEEN speakING for months?",
-                "turkish": "Aylardır konuşmuyor muydum?"
+                "turkish": "Aylardır konuşmuyor muydum?",
+                "word": ["speak spoke spoken","for months"]
             }
         ]
     },
@@ -29,25 +33,29 @@
         "positiveSentence": [
             {
                 "english": "You HAD BEEN askING since 2002.",
-                "turkish": "2002'den beri soruyordun."
+                "turkish": "2002'den beri soruyordun.",
+                "word": ["ask asked asked","since 2002"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "You HADN'T BEEN askING since 2002.",
-                "turkish": "2002'den beri sormuyordun."
+                "turkish": "2002'den beri sormuyordun.",
+                "word": ["ask asked asked","since 2002"]
             }
         ],
         "questionSentence": [
             {
                 "english": "HAD YOU BEEN askING since 2002?",
-                "turkish": "2002'den beri soruyor muydun?"
+                "turkish": "2002'den beri soruyor muydun?",
+                "word": ["ask asked asked","since 2002"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "HADN'T YOU BEEN askING since 2002?",
-                "turkish": "2002'den beri sormuyor muydun?"
+                "turkish": "2002'den beri sormuyor muydun?",
+                "word": ["ask asked asked","since 2002"]
             }
         ]
     },
@@ -55,25 +63,29 @@
         "positiveSentence": [
             {
                 "english": "He HAD BEEN tellING for two hours.",
-                "turkish": "İki saattir anlatıyordu."
+                "turkish": "İki saattir anlatıyordu.",
+                "word": ["tell told told","two hours"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "He HADN'T BEEN tellING for two hours.",
-                "turkish": "İki saattir anlatmıyordu."
+                "turkish": "İki saattir anlatmıyordu.",
+                "word": ["tell told told","two hours"]
             }
         ],
         "questionSentence": [
             {
                 "english": "HAD HE BEEN tellING for two hours?",
-                "turkish": "İki saattir anlatıyor muydu?"
+                "turkish": "İki saattir anlatıyor muydu?",
+                "word": ["tell told told","two hours"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "HADN'T HE BEEN tellING for two hours?",
-                "turkish": "İki saattir anlatmıyor muydu?"
+                "turkish": "İki saattir anlatmıyor muydu?",
+                "word": ["tell told told","two hours"]
             }
         ]
     },
@@ -81,25 +93,29 @@
         "positiveSentence": [
             {
                 "english": "She HAD BEEN listenING for years.",
-                "turkish": "Yıllardır dinliyordu."
+                "turkish": "Yıllardır dinliyordu.",
+                "word": ["listen listened listened","years"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "She HADN'T BEEN listenING for years.",
-                "turkish": "Yıllardır dinlemiyor."
+                "turkish": "Yıllardır dinlemiyor.",
+                "word": ["listen listened listened","years"]
             }
         ],
         "questionSentence": [
             {
                 "english": "HAD SHE BEEN listenING for years?",
-                "turkish": "Yıllardır dinliyor mu?"
+                "turkish": "Yıllardır dinliyor mu?",
+                "word": ["listen listened listened","years"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "HADN'T SHE BEEN listenING for years?",
-                "turkish": "Yıllardır dinlemiyor mu?"
+                "turkish": "Yıllardır dinlemiyor mu?",
+                "word": ["listen listened listened","years"]
             }
         ]
     },
@@ -107,25 +123,29 @@
         "positiveSentence": [
             {
                 "english": "It HAD BEEN barkING for minutes.",
-                "turkish": "Dakikalarca havlıyordu."
+                "turkish": "Dakikalarca havlıyordu.",
+                "word": ["bark barked barked","minutes"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "It HADN'T BEEN barkING for minutes.",
-                "turkish": "Dakikalarca havlamıyordu."
+                "turkish": "Dakikalarca havlamıyordu.",
+                "word": ["bark barked barked","minutes"]
             }
         ],
         "questionSentence": [
             {
                 "english": "HAD IT BEEN barkING for minutes?",
-                "turkish": "Dakikalarca havlıyor muydu?"
+                "turkish": "Dakikalarca havlıyor muydu?",
+                "word": ["bark barked barked","minutes"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "HADN'T IT BEEN barkING for minutes?",
-                "turkish": "Dakikalarca havlamıyor muydu?"
+                "turkish": "Dakikalarca havlamıyor muydu?",
+                "word": ["bark barked barked","minutes"]
             }
         ]
     },
@@ -133,25 +153,29 @@
         "positiveSentence": [
             {
                 "english": "We HAD BEEN teachING since April.",
-                "turkish": "Nisan'dan beri öğretiyorduk."
+                "turkish": "Nisan'dan beri öğretiyorduk.",
+                "word": ["teach taught taught","since April"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "We HADN'T BEEN teachING since April.",
-                "turkish": "Nisan'dan beri öğretmiyorduk."
+                "turkish": "Nisan'dan beri öğretmiyorduk.",
+                "word": ["teach taught taught","since April"]
             }
         ],
         "questionSentence": [
             {
                 "english": "HAD WE BEEN teachING since April?",
-                "turkish": "Nisan'dan beri öğretiyor muyduk?"
+                "turkish": "Nisan'dan beri öğretiyor muyduk?",
+                "word": ["teach taught taught","since April"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "HADN'T WE BEEN teachING since April?",
-                "turkish": "Nisan'dan beri öğretmiyor muyduk?"
+                "turkish": "Nisan'dan beri öğretmiyor muyduk?",
+                "word": ["teach taught taught","since April"]
             }
         ]
     },
@@ -159,25 +183,29 @@
         "positiveSentence": [
             {
                 "english": "You HAD BEEN learnING for days.",
-                "turkish": "Günlerdir öğreniyordunuz."
+                "turkish": "Günlerdir öğreniyordunuz.",
+                "word": ["learn learnt learnt","for days"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "You HADN'T BEEN learnING for days.",
-                "turkish": "Günlerdir öğrenmiyordunuz."
+                "turkish": "Günlerdir öğrenmiyordunuz.",
+                "word": ["learn learnt learnt","for days"]
             }
         ],
         "questionSentence": [
             {
                 "english": "HAD YOU BEEN learnING for days?",
-                "turkish": "Günlerdir öğreniyor muydunuz?"
+                "turkish": "Günlerdir öğreniyor muydunuz?",
+                "word": ["learn learnt learnt","for days"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "HADN'T YOU BEEN learnING for days?",
-                "turkish": "Günlerdir öğrenmiyor muydunuz?"
+                "turkish": "Günlerdir öğrenmiyor muydunuz?",
+                "word": ["learn learnt learnt","for days"]
             }
         ]
     },
@@ -185,25 +213,29 @@
         "positiveSentence": [
             {
                 "english": "They HAD BEEN workING for weeks.",
-                "turkish": "Haftalardır çalışıyorlardı."
+                "turkish": "Haftalardır çalışıyorlardı.",
+                "word": ["work worked worked","for weeks"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "They HADN'T BEEN workING for weeks.",
-                "turkish": "Haftalardır çalışmıyorlardı."
+                "turkish": "Haftalardır çalışmıyorlardı.",
+                "word": ["work worked worked","for weeks"]
             }
         ],
         "questionSentence": [
             {
                 "english": "HAD THEY BEEN workING for weeks?",
-                "turkish": "Haftalardır çalışıyorlar mıydı?"
+                "turkish": "Haftalardır çalışıyorlar mıydı?",
+                "word": ["work worked worked","for weeks"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "HADN'T THEY BEEN workING for weeks?",
-                "turkish": "Haftalardır çalışmıyorlar mıydı?"
+                "turkish": "Haftalardır çalışmıyorlar mıydı?",
+                "word": ["work worked worked","for weeks"]
             }
         ]
     }

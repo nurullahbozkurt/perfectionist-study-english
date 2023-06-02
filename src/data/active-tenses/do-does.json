@@ -4,25 +4,29 @@
         "positiveSentence":[
             {
                 "english":"I speak",
-                "turkish":"Konuşurum."
+                "turkish":"Konuşurum.",
+                "words":["speak spoken spoken"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"I DON'T speak",
-                "turkish":"Konuşmam."
+                "turkish":"Konuşmam.",
+                "words":["speak spoken spoken"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DO I speak?",
-                "turkish":"Konuşur muyum?"
+                "turkish":"Konuşur muyum?",
+                "words":["speak spoken spoken"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DON'T I speak?",
-                "turkish":"Konuşmaz mıyım?"
+                "turkish":"Konuşmaz mıyım?",
+                "words":["speak spoken spoken"]
             }
         ]
     },
@@ -30,25 +34,29 @@
         "positiveSentence":[
             {
                 "english":"You ask",
-                "turkish":"Sorarsın"
+                "turkish":"Sorarsın",
+                "words":["ask asked asked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You DON'T ask",
-                "turkish":"Sormazsın"
+                "turkish":"Sormazsın",
+                "words":["ask asked asked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DO you ask?",
-                "turkish":"Sorar mısın?"
+                "turkish":"Sorar mısın?",
+                "words":["ask asked asked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DON'T you ask?",
-                "turkish":"Sormaz mısın?"
+                "turkish":"Sormaz mısın?",
+                "words":["ask asked asked"]
             }
         ]
     },
@@ -56,25 +64,29 @@
         "positiveSentence":[
             {
                 "english":"He tells",
-                "turkish":"Anlatır"
+                "turkish":"Anlatır",
+                "words":["tell told told"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"He DOESN'T tell",
-                "turkish":"Anlatmaz"
+                "turkish":"Anlatmaz",
+                "words":["tell told told"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DOES he tell?",
-                "turkish":"Anlatır mı?"
+                "turkish":"Anlatır mı?",
+                "words":["tell told told"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DOESN'T he tell?",
-                "turkish":"Anlatmaz mı?"
+                "turkish":"Anlatmaz mı?",
+                "words":["tell told told"]
             }
         ]
     },
@@ -83,26 +95,30 @@
         "positiveSentence":[
             {
                 "english":"She listens",
-                "turkish":"Dinler"
+                "turkish":"Dinler",
+                "words":["listen listened listened"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"She DOESN'T listen",
-                "turkish":"Dinlemez"
+                "turkish":"Dinlemez",
+                "words":["listen listened listened"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DOES she listen?",
-                "turkish":"Dinler mi?"
+                "turkish":"Dinler mi?",
+                "words":["listen listened listened"]
             }
         
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DOESN'T she listen?",
-                "turkish":"Dinlemez mi?"
+                "turkish":"Dinlemez mi?",
+                "words":["listen listened listened"]
             }
         
         ]
@@ -112,25 +128,29 @@
         "positiveSentence":[
             {
                 "english":"It barks",
-                "turkish":"Havlar"
+                "turkish":"Havlar",
+                "words":["bark barked barked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"It DOESN'T bark",
-                "turkish":"Havlamaz"
+                "turkish":"Havlamaz",
+                "words":["bark barked barked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DOES it bark?",
-                "turkish":"Havlar mı?"
+                "turkish":"Havlar mı?",
+                "words":["bark barked barked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DOESN'T it bark?",
-                "turkish":"Havlamaz mı?"
+                "turkish":"Havlamaz mı?",
+                "words":["bark barked barked"]
             }
         ]
     },
@@ -138,25 +158,29 @@
         "positiveSentence":[
             {
                 "english":"We teach",
-                "turkish":"Öğretiriz"
+                "turkish":"Öğretiriz",
+                "words":["teach taught taught"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"We DON'T teach",
-                "turkish":"Öğretmeyiz."
+                "turkish":"Öğretmeyiz.",
+                "words":["teach taught taught"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DO we teach?",
-                "turkish":"Öğretir miyiz?"
+                "turkish":"Öğretir miyiz?",
+                "words":["teach taught taught"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DON'T we teach?",
-                "turkish":"Öğretmez miyiiz?"
+                "turkish":"Öğretmez miyiiz?",
+                "words":["teach taught taught"]
             }
         ]
     },
@@ -164,25 +188,29 @@
         "positiveSentence":[
             {
                 "english":"You learn",
-                "turkish":"Öğrenirsiniz"
+                "turkish":"Öğrenirsiniz",
+                "words":["learn learnt learnt"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You DON'T learn",
-                "turkish":"Öğrenmezsiniz"
+                "turkish":"Öğrenmezsiniz",
+                "words":["learn learnt learnt"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DO you learn?",
-                "turkish":"Öğrenir misiniz?"
+                "turkish":"Öğrenir misiniz?",
+                "words":["learn learnt learnt"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DON'T you learn?",
-                "turkish":"Öğrenmez misiniz?"
+                "turkish":"Öğrenmez misiniz?",
+                "words":["learn learnt learnt"]
             }
         ]
     },
@@ -190,25 +218,29 @@
         "positiveSentence":[
             {
                 "english":"They work.",
-                "turkish":"Çalışırlar"
+                "turkish":"Çalışırlar",
+                "words":["work worked worked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"They DON'T work",
-                "turkish":"Çalışmazlar."
+                "turkish":"Çalışmazlar.",
+                "words":["work worked worked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DO they work?",
-                "turkish":"Çalışırlar mı?"
+                "turkish":"Çalışırlar mı?",
+                "words":["work worked worked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DON'T they work?",
-                "turkish":"Çalışmazlar mı?"
+                "turkish":"Çalışmazlar mı?",
+                "words":["work worked worked"]
             }
         ]
     }

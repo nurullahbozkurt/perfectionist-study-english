@@ -3,25 +3,29 @@
         "positiveSentence": [
             {
                 "english": "I WILL HAVE spoken.",
-                "turkish": "Konuşmuş olacağım."
+                "turkish": "Konuşmuş olacağım.",
+                "words":["speak spoke spoken"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "I WON'T HAVE spoken.",
-                "turkish": "Konuşmuş olmayacağım."
+                "turkish": "Konuşmuş olmayacağım.",
+                "words":["speak spoke spoken"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL I HAVE spoken?",
-                "turkish": "Konuşmuş olacak mıyım?"
+                "turkish": "Konuşmuş olacak mıyım?",
+                "words":["speak spoke spoken"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T I HAVE spoken?",
-                "turkish": "Konuşmuş olmayacak mıyım?"
+                "turkish": "Konuşmuş olmayacak mıyım?",
+                "words":["speak spoke spoken"]
             }
         ]
     },
@@ -29,25 +33,29 @@
         "positiveSentence": [
             {
                 "english": "You WILL HAVE asked.",
-                "turkish": "Sormuş olacaksın."
+                "turkish": "Sormuş olacaksın.",
+                "words":["ask asked asked"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "You WON'T HAVE asked.",
-                "turkish": "Sormuş olmayacaksın."
+                "turkish": "Sormuş olmayacaksın.",
+                "words":["ask asked asked"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL YOU HAVE asked?",
-                "turkish": "Sormuş olacak mısın?"
+                "turkish": "Sormuş olacak mısın?",
+                "words":["ask asked asked"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T YOU HAVE asked?",
-                "turkish": "Sormuş olmayacak mısın?"
+                "turkish": "Sormuş olmayacak mısın?",
+                "words":["ask asked asked"]
             }
         ]
     },
@@ -55,25 +63,29 @@
         "positiveSentence": [
             {
                 "english": "He WILL HAVE told.",
-                "turkish": "Anlatmış olacak."
+                "turkish": "Anlatmış olacak.",
+                "words":["tell told told"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "He WON'T HAVE told.",
-                "turkish": "Anlatmış olmayacak."
+                "turkish": "Anlatmış olmayacak.",
+                "words":["tell told told"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL HE HAVE told?",
-                "turkish": "Anlatmış olacak mı?"
+                "turkish": "Anlatmış olacak mı?",
+                "words":["tell told told"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T HE HAVE told?",
-                "turkish": "Anlatmış olmayacak mı?"
+                "turkish": "Anlatmış olmayacak mı?",
+                "words":["tell told told"]
             }
         ]
     },
@@ -81,25 +93,29 @@
         "positiveSentence": [
             {
                 "english": "She WILL HAVE listened.",
-                "turkish": "Dinlemiş olacak."
+                "turkish": "Dinlemiş olacak.",
+                "words":["listen listened listened"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "She WON'T HAVE listened.",
-                "turkish": "Dinlemiş olmayacak."
+                "turkish": "Dinlemiş olmayacak.",
+                "words":["listen listened listened"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL SHE HAVE listened?",
-                "turkish": "Dinlemiş olacak mı?"
+                "turkish": "Dinlemiş olacak mı?",
+                "words":["listen listened listened"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T SHE HAVE listened?",
-                "turkish": "Dinlemiş olmayacak mı?"
+                "turkish": "Dinlemiş olmayacak mı?",
+                "words":["listen listened listened"]
             }
         ]
     },
@@ -107,25 +123,29 @@
         "positiveSentence": [
             {
                 "english": "It WILL HAVE barked.",
-                "turkish": "Havlamış olacak."
+                "turkish": "Havlamış olacak.",
+                "words":["bark barked barked"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "It WON'T HAVE barked.",
-                "turkish": "Havlamış olmayacak."
+                "turkish": "Havlamış olmayacak.",
+                "words":["bark barked barked"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL IT HAVE barked?",
-                "turkish": "Havlamış olacak mı?"
+                "turkish": "Havlamış olacak mı?",
+                "words":["bark barked barked"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T IT HAVE barked?",
-                "turkish": "Havlamış olmayacak mı?"
+                "turkish": "Havlamış olmayacak mı?",
+                "words":["bark barked barked"]
             }
         ]
     },
@@ -133,25 +153,29 @@
         "positiveSentence": [
             {
                 "english": "We WILL HAVE taught.",
-                "turkish": "Öğretmiş olacağız."
+                "turkish": "Öğretmiş olacağız.",
+                "words":["teach taught taught"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "We WON'T HAVE taught.",
-                "turkish": "Öğretmiş olmayacağız."
+                "turkish": "Öğretmiş olmayacağız.",
+                "words":["teach taught taught"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL WE HAVE taught?",
-                "turkish": "Öğretmiş olacak mıyız?"
+                "turkish": "Öğretmiş olacak mıyız?",
+                "words":["teach taught taught"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T WE HAVE taught?",
-                "turkish": "Öğretmiş olmayacak mıyız?"
+                "turkish": "Öğretmiş olmayacak mıyız?",
+                "words":["teach taught taught"]
             }
          ]
     },
@@ -159,25 +183,29 @@
         "positiveSentence": [
             {
                 "english": "You WILL HAVE learned.",
-                "turkish": "Öğrenmiş olacaksın."
+                "turkish": "Öğrenmiş olacaksın.",
+                "words":["learn learned learned"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "You WON'T HAVE learned.",
-                "turkish": "Öğrenmiş olmayacaksın."
+                "turkish": "Öğrenmiş olmayacaksın.",
+                "words":["learn learned learned"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL YOU HAVE learned?",
-                "turkish": "Öğrenmiş olacak mısın?"
+                "turkish": "Öğrenmiş olacak mısın?",
+                "words":["learn learned learned"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T YOU HAVE learned?",
-                "turkish": "Öğrenmiş olmayacak mısın?"
+                "turkish": "Öğrenmiş olmayacak mısın?",
+                "words":["learn learned learned"]
             }
         ]
     }

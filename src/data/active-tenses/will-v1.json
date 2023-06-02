@@ -3,25 +3,30 @@
         "positiveSentence": [
             {
                 "english": "I will speak.",
-                "turkish": "Konuşacağım. / Konuşurum."
+                "turkish": "Konuşacağım. / Konuşurum.",
+                "words": "speak spoke spoken"
             }
         ],
         "negativeSentence": [
             {
                 "english": "I WON'T speak.",
-                "turkish": "Konuşmayacağım. / Konuşmam."
+                "turkish": "Konuşmayacağım. / Konuşmam.",
+                "words": "speak spoke spoken"
             }
         ],
         "questionSentence": [
             {
                 "english": "Will I speak?",
-                "turkish": "Konuşacak mıyım? / Konuşur muyum?"
+                "turkish": "Konuşacak mıyım? / Konuşur muyum?",
+                "words": "speak spoke spoken"
+
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "Won't I speak?",
-                "turkish": "Konuşmayacak mıyım? / Konuşmam mı?"
+                "turkish": "Konuşmayacak mıyım? / Konuşmam mı?",
+                "words": "speak spoke spoken"
             }
         ]
     },
@@ -29,25 +34,29 @@
         "positiveSentence": [
             {
                 "english": "You will ask",
-                "turkish": "Soracaksın. / Sorarsın."
+                "turkish": "Soracaksın. / Sorarsın.",
+                "words": "ask asked asked"
             }
         ],
         "negativeSentence": [
             {
                 "english": "You WON'T ask",
-                "turkish": "Sormayacaksın. / Sormazsın."
+                "turkish": "Sormayacaksın. / Sormazsın.",
+                "words": "ask asked asked"
             }
         ],
         "questionSentence": [
             {
                 "english": "Will you ask?",
-                "turkish": "Soracak mısın? / Sorar mısın?"
+                "turkish": "Soracak mısın? / Sorar mısın?",
+                "words": "ask asked asked"
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T you ask?",
-                "turkish": "Sormayacak mısın? / Sormaz mısın?"
+                "turkish": "Sormayacak mısın? / Sormaz mısın?",
+                "words": "ask asked asked"
             }
         ]
     },
@@ -55,25 +64,29 @@
         "positiveSentence": [
             {
                 "english": "He WILL tell.",
-                "turkish": "Anlatacak. / Anlatır."
+                "turkish": "Anlatacak. / Anlatır.",
+                "words": "tell told told"
             }
         ],
         "negativeSentence": [
             {
                 "english": "He WON'T tell.",
-                "turkish": "Anlatmayacak. / Anlatmaz."
+                "turkish": "Anlatmayacak. / Anlatmaz.",
+                "words": "tell told told"
             }
         ],
         "questionSentence": [
             {
                 "english": "Will he tell?",
-                "turkish": "Anlatacak mı? / Anlatır mı?"
+                "turkish": "Anlatacak mı? / Anlatır mı?",
+                "words": "tell told told"
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T he tell?",
-                "turkish": "Anlatmayacak mı? / Anlatmaz mı?"
+                "turkish": "Anlatmayacak mı? / Anlatmaz mı?",
+                "words": "tell told told"
             }
         ]
     },
@@ -81,25 +94,29 @@
         "positiveSentence": [
             {
                 "english": "She WILL listen.",
-                "turkish": "Dinleyecek. / Dinler."
+                "turkish": "Dinleyecek. / Dinler.",
+                "words": "listen listened listened"
             }
         ],
         "negativeSentence": [
             {
                 "english": "She WON'T listen.",
-                "turkish": "Dinlemeyecek. / Dinlemez."
+                "turkish": "Dinlemeyecek. / Dinlemez.",
+                "words": "listen listened listened"
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL she listen?",
-                "turkish": "Dinleyecek mi? / Dinler mi?"
+                "turkish": "Dinleyecek mi? / Dinler mi?",
+                "words": "listen listened listened"
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T she listen?",
-                "turkish": "Dinlemeyecek mi? / Dinlemez mi?"
+                "turkish": "Dinlemeyecek mi? / Dinlemez mi?",
+                "words": "listen listened listened"
             }
         ]
     },
@@ -107,25 +124,29 @@
         "positiveSentence": [
             {
                 "english": "It WILL bark",
-                "turkish": "Havlayacak. / Havlar."
+                "turkish": "Havlayacak. / Havlar.",
+                "words": "bark barked barked"
             }
         ],
         "negativeSentence": [
             {
                 "english": "It WON'T bark",
-                "turkish": "Havlamayacak. / Havlamaz."
+                "turkish": "Havlamayacak. / Havlamaz.",
+                "words": "bark barked barked"
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL it bark?",
-                "turkish": "Havlayacak mı? / Havlar mı?"
+                "turkish": "Havlayacak mı? / Havlar mı?",
+                "words": "bark barked barked"
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T it bark?",
-                "turkish": "Havlamayacak mı? / Havlamaz mı?"
+                "turkish": "Havlamayacak mı? / Havlamaz mı?",
+                "words": "bark barked barked"
             }
         ]
     },
@@ -133,25 +154,29 @@
         "positiveSentence": [
             {
                 "english": "We WILL teach.",
-                "turkish": "Öğreteceğiz. / Öğretiriz."
+                "turkish": "Öğreteceğiz. / Öğretiriz.",
+                "words": "teach taught taught"
             }
         ],
         "negativeSentence": [
             {
                 "english": "We WON'T teach.",
-                "turkish": "Öğretmeyeceğiz. / Öğretmeyiz."
+                "turkish": "Öğretmeyeceğiz. / Öğretmeyiz.",
+                "words": "teach taught taught"
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL we teach?",
-                "turkish": "Öğretecek miyiz? / Öğretir miyiz?"
+                "turkish": "Öğretecek miyiz? / Öğretir miyiz?",
+                "words": "teach taught taught"
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T we teach?",
-                "turkish": "Öğretmeyecek miyiz? / Öğretmeyecek miyiz?"
+                "turkish": "Öğretmeyecek miyiz? / Öğretmeyecek miyiz?",
+                "words": "teach taught taught"
             }
         ]
     },
@@ -159,25 +184,29 @@
         "positiveSentence": [
             {
                 "english": "You WILL learn.",
-                "turkish": "Öğreneceksiniz. / Öğrenirsiniz."
+                "turkish": "Öğreneceksiniz. / Öğrenirsiniz.",
+                "words": "learn learned learned"
             }
         ],
         "negativeSentence": [
             {
                 "english": "You WON'T learn.",
-                "turkish": "Öğrenmeyeceksiniz. / Öğrenmezsiniz."
+                "turkish": "Öğrenmeyeceksiniz. / Öğrenmezsiniz.",
+                "words": "learn learned learned"
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL you learn?",
-                "turkish": "Öğrenecek misiniz? / Öğrenir misiniz?"
+                "turkish": "Öğrenecek misiniz? / Öğrenir misiniz?",
+                "words": "learn learned learned"
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T you learn?",
-                "turkish": "Öğrenmeyecek misiniz? / Öğrenmeyecek misiniz?"
+                "turkish": "Öğrenmeyecek misiniz? / Öğrenmeyecek misiniz?",
+                "words": "learn learned learned"
             }
         ]
     }

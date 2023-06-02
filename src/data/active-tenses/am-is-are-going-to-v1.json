@@ -3,25 +3,30 @@
         "positiveSentence": [
             {
                 "english": "I AM GOING to speak.",
-                "turkish": "Konuşacağım."
+                "turkish": "Konuşacağım.",
+                "words":["speak - spoke - spoken"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "I AM NOT GOING to speak.",
-                "turkish": "Konuşmayacağım."
+                "turkish": "Konuşmayacağım.",
+                "words":["speak - spoke - spoken"]
             }
         ],
         "questionSentence": [
             {
                 "english": "AM I GOING to speak?",
-                "turkish":"Konuşacak mıyım?"
+                "turkish":"Konuşacak mıyım?",
+                "words":["speak - spoke - spoken"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "AM I NOT GOING to speak?",
-                "turkish": "Konuşmayacak mıyım?"
+                "turkish": "Konuşmayacak mıyım?",
+                "words":["speak - spoke - spoken"]
+
             }
         ]
     },
@@ -29,25 +34,29 @@
         "positiveSentence": [
             {
                 "english": "You ARE GOING TO ask",
-                "turkish": "Soracaksın."
+                "turkish": "Soracaksın.",
+                "words":["ask - asked - asked"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "You ARE NOT GOING TO ask",
-                "turkish": "Sormayacaksın."
+                "turkish": "Sormayacaksın.",
+                "words":["ask - asked - asked"]
             }
         ],
         "questionSentence": [
             {
                 "english": "ARE YOU GOING TO ask?",
-                "turkish": "Soracak mısın?"
+                "turkish": "Soracak mısın?",
+                "words":["ask - asked - asked"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "AREN'T YOU GOING TO ask?",
-                "turkish": "Sormayacak mısın?"
+                "turkish": "Sormayacak mısın?",
+                "words":["ask - asked - asked"]
             }
         
         ]
@@ -56,25 +65,29 @@
         "positiveSentence": [
             {
                 "english": "He IS GOING TO tell.",
-                "turkish": "Anlatacak."
+                "turkish": "Anlatacak.",
+                "words":["tell - told - told"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "He IS NOT GOING TO tell.",
-                "turkish": "Anlatmayacak."
+                "turkish": "Anlatmayacak.",
+                "words":["tell - told - told"]
             }
         ],
         "questionSentence": [
             {
                 "english": "IS HE GOING TO tell?",
-                "turkish": "Anlatacak mı?"
+                "turkish": "Anlatacak mı?",
+                "words":["tell - told - told"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "ISN'T HE GOING TO tell?",
-                "turkish": "Anlatmayacak mı?"
+                "turkish": "Anlatmayacak mı?",
+                "words":["tell - told - told"]
             }
         ]
     },
@@ -82,25 +95,29 @@
         "positiveSentence": [
             {
                 "english": "She IS GOING TO listen.",
-                "turkish": "Dinleyecek."
+                "turkish": "Dinleyecek.",
+                "words":["listen - listened - listened"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "She ISN'T GOING TO listen.",
-                "turkish": "Dinlemeyecek."
+                "turkish": "Dinlemeyecek.",
+                "words":["listen - listened - listened"]
             }
         ],
         "questionSentence": [
             {
                 "english": "IS SHE GOING TO listen?",
-                "turkish": "Dinleyecek mi?"
+                "turkish": "Dinleyecek mi?",
+                "words":["listen - listened - listened"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "ISN'T SHE GOING TO listen?",
-                "turkish": "Dinlemeyecek mi?"
+                "turkish": "Dinlemeyecek mi?",
+                "words":["listen - listened - listened"]
             }
         ]
     },
@@ -108,25 +125,29 @@
         "positiveSentence": [
             {
                 "english": "It IS GOING TO bark.",
-                "turkish": "Havlayacak."
+                "turkish": "Havlayacak.",
+                "words":["bark - barked - barked"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "It ISN'T GOING TO bark.",
-                "turkish": "Havlamayacak."
+                "turkish": "Havlamayacak.",
+                "words":["bark - barked - barked"]
             }
         ],
         "questionSentence": [
             {
                 "english": "IS IT GOING TO bark?",
-                "turkish": "Havlayacak mı?"
+                "turkish": "Havlayacak mı?",
+                "words":["bark - barked - barked"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "ISN'T IT GOING TO bark?",
-                "turkish": "Havlamayacak mı?"
+                "turkish": "Havlamayacak mı?",
+                "words":["bark - barked - barked"]
             }
         ]
     },
@@ -134,25 +155,29 @@
         "positiveSentence": [
             {
                 "english": "We ARE GOING TO teach.",
-                "turkish": "Öğreteceğiz."
+                "turkish": "Öğreteceğiz.",
+                "words":["teach - taught - taught"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "We AREN'T GOING TO teach.",
-                "turkish": "Öğretmeyeceğiz."
+                "turkish": "Öğretmeyeceğiz.",
+                "words":["teach - taught - taught"]
             }
         ],
         "questionSentence": [
             {
                 "english": "ARE WE GOING TO teach?",
-                "turkish": "Öğretecek miyiz?"
+                "turkish": "Öğretecek miyiz?",
+                "words":["teach - taught - taught"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "AREN'T WE GOING TO teach?",
-                "turkish": "Öğretmeyecek miyiz?"
+                "turkish": "Öğretmeyecek miyiz?",
+                "words":["teach - taught - taught"]
             }
         ]
     },
@@ -160,25 +185,29 @@
         "positiveSentence": [
             {
                 "english": "You ARE GOING TO learn.",
-                "turkish": "Öğreneceksin."
+                "turkish": "Öğreneceksin.",
+                "words":["learn - learnt - learnt"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "You AREN'T GOING TO learn.",
-                "turkish": "Öğrenmeyeceksin."
+                "turkish": "Öğrenmeyeceksin.",
+                "words":["learn - learnt - learnt"]
             }
         ],
         "questionSentence": [
             {
                 "english": "ARE YOU GOING TO learn?",
-                "turkish": "Öğrenecek misin?"
+                "turkish": "Öğrenecek misin?",
+                "words":["learn - learnt - learnt"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "AREN'T YOU GOING TO learn?",
-                "turkish": "Öğrenmeyecek misin?"
+                "turkish": "Öğrenmeyecek misin?",
+                "words":["learn - learnt - learnt"]
             }
         ]
     }

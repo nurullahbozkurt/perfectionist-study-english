@@ -4,25 +4,33 @@
         "positiveSentence":[
             {
                 "english":"I am happy",
-                "turkish":"Ben mutluyum"
+                "turkish":"Ben mutluyum",
+                "words":["happy"]
+                
             }
         ],
         "negativeSentence":[
             {
                 "english":"I am not happy",
-                "turkish":"Ben mutlu değilim"
+                "turkish":"Ben mutlu değilim",
+                "words":["happy"]
+
             }
         ],
         "questionSentence":[
             {
                 "english":"Am i happy?",
-                "turkish":"Ben mutlu muyum?"
+                "turkish":"Ben mutlu muyum?",
+                "words":["happy"]
+
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"Am i not happy?",
-                "turkish":"Ben mutlu değil miyim?"
+                "turkish":"Ben mutlu değil miyim?",
+                "words":["happy"]
+
             }
         ]
     },
@@ -30,25 +38,29 @@
         "positiveSentence":[
             {
                 "english":"You are strong",
-                "turkish":"Güçlüsün"
+                "turkish":"Güçlüsün",
+                "words":["strong"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You are not strong",
-                "turkish":"Güçlü değilsin"
+                "turkish":"Güçlü değilsin",
+                "words":["strong"]
             }
         ],
         "questionSentence":[
             {
                 "english":"Are you strong?",
-                "turkish":"Güçlü müsün?"
+                "turkish":"Güçlü müsün?",
+                "words":["strong"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"Are you not strong?",
-                "turkish":"Güçlü değil misin?"
+                "turkish":"Güçlü değil misin?",
+                "words":["strong"]
             }
         ]
     },
@@ -56,25 +68,29 @@
         "positiveSentence":[
             {
                 "english":"He IS angry.",
-                "turkish":"O kızgın."
+                "turkish":"O kızgın.",
+                "words":["angry"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"He IS NOT angry.",
-                "turkish":"O kızgın değil."
+                "turkish":"O kızgın değil.",
+                "words":["angry"]
             }
         ],
         "questionSentence":[
             {
                 "english":"Is he angry?",
-                "turkish":"O kızgın mı?"
+                "turkish":"O kızgın mı?",
+                "words":["angry"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"Is he not angry?",
-                "turkish":"O kızgın değil mi?"
+                "turkish":"O kızgın değil mi?",
+                "words":["angry"]
             }
         ]
     },
@@ -83,26 +99,30 @@
         "positiveSentence":[
             {
                 "english":"She IS beautiful.",
-                "turkish":"Güzel"
+                "turkish":"Güzel",
+                "words":["beautiful"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"She ISN'T beautiful.",
-                "turkish":"Güzel değil"
+                "turkish":"Güzel değil",
+                "words":["beautiful"]
             }
         ],
         "questionSentence":[
             {
                 "english":"IS she beautiful?",
-                "turkish":"Güzel mi?"
+                "turkish":"Güzel mi?",
+                "words":["beautiful"]
             }
         
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"ISN'T she beautiful?",
-                "turkish":"Güzel değil mi?"
+                "turkish":"Güzel değil mi?",
+                "words":["beautiful"]
             }
         
         ]
@@ -112,26 +132,30 @@
         "positiveSentence":[
             {
                 "english":"It is perfect.",
-                "turkish":"Mükemmel"
+                "turkish":"Mükemmel",
+                "words":["perfect"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"It ISN'T perfect.",
-                "turkish":"Mükemmel değil"
+                "turkish":"Mükemmel değil",
+                "words":["perfect"]
             }
         
         ],
         "questionSentence":[
             {
                 "english":"IS it perfect?",
-                "turkish":"Mükemmel mi?"
+                "turkish":"Mükemmel mi?",
+                "words":["perfect"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"ISN'T it perfect?",
-                "turkish":"Mükemmel değil mi?"
+                "turkish":"Mükemmel değil mi?",
+                "words":["perfect"]
             }
         ]
     },
@@ -139,25 +163,29 @@
         "positiveSentence":[
             {
                 "english":"You ARE successful.",
-                "turkish":"Başarılısın"
+                "turkish":"Başarılısın",
+                "words":["successful"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You AREN'T successful.",
-                "turkish":"Başarılı değilsin"
+                "turkish":"Başarılı değilsin",
+                "words":["successful"]
             }
         ],
         "questionSentence":[
             {
                 "english":"ARE you successful?",
-                "turkish":"Başarılı mısın?"
+                "turkish":"Başarılı mısın?",
+                "words":["successful"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"AREN'T you successful?",
-                "turkish":"Başarılı değil misin?"
+                "turkish":"Başarılı değil misin?",
+                "words":["successful"]
             }
         ]
     },
@@ -165,25 +193,29 @@
         "positiveSentence":[
             {
                 "english":"They ARE ill.",
-                "turkish":"Hastalar"
+                "turkish":"Hastalar",
+                "words":["ill"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"They AREN'T ill.",
-                "turkish":"Hasta değiller."
+                "turkish":"Hasta değiller.",
+                "words":["ill"]
             }
         ],
         "questionSentence":[
             {
                 "english":"ARE they ill?",
-                "turkish":"Hastalar mı?"
+                "turkish":"Hastalar mı?",
+                "words":["ill"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"AREN'T they ill?",
-                "turkish":"Hasta değiller mi?"
+                "turkish":"Hasta değiller mi?",
+                "words":["ill"]
             }
         ]
     }

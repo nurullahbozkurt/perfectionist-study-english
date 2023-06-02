@@ -4,25 +4,29 @@
         "positiveSentence":[
             {
                 "english":"I spoke",
-                "turkish":"Konuştum."
+                "turkish":"Konuştum.",
+                "words":["speak - spoke - spoken"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"I DIDN'T speak",
-                "turkish":"Konuşmadım."
+                "turkish":"Konuşmadım.",
+                "words":["speak - spoke - spoken"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DID I speak?",
-                "turkish":"Konuştum mu?"
+                "turkish":"Konuştum mu?",
+                "words":["speak - spoke - spoken"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DIDN'T I speak?",
-                "turkish":"Konuşmadım mı?"
+                "turkish":"Konuşmadım mı?",
+                "words":["speak - spoke - spoken"]
             }
         ]
     },
@@ -30,25 +34,29 @@
         "positiveSentence":[
             {
                 "english":"You asked",
-                "turkish":"Sordun"
+                "turkish":"Sordun",
+                "words":["ask - asked - asked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You DIDN'T ask",
-                "turkish":"Sormadın"
+                "turkish":"Sormadın",
+                "words":["ask - asked - asked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DID you ask?",
-                "turkish":"Sordun mu?"
+                "turkish":"Sordun mu?",
+                "words":["ask - asked - asked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DIDN'T you ask?",
-                "turkish":"Sormadın mı?"
+                "turkish":"Sormadın mı?",
+                "words":["ask - asked - asked"]
             }
         ]
     },
@@ -56,25 +64,29 @@
         "positiveSentence":[
             {
                 "english":"He told",
-                "turkish":"Anlattı"
+                "turkish":"Anlattı",
+                "words":["tell - told - told"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"He DIDN'T tell",
-                "turkish":"Anlatmadı"
+                "turkish":"Anlatmadı",
+                "words":["tell - told - told"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DID he tell?",
-                "turkish":"Anlattı mı?"
+                "turkish":"Anlattı mı?",
+                "words":["tell - told - told"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DIDN'T he tell?",
-                "turkish":"Anlatmadı mı?"
+                "turkish":"Anlatmadı mı?",
+                "words":["tell - told - told"]
             }
         ]
     },
@@ -83,25 +95,29 @@
         "positiveSentence":[
             {
                 "english":"She listened",
-                "turkish":"Dinledi"
+                "turkish":"Dinledi",
+                "words":["listen - listened - listened"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"She DIDN'T listen",
-                "turkish":"Dinlemedi"
+                "turkish":"Dinlemedi",
+                "words":["listen - listened - listened"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DID she listen?",
-                "turkish":"Dinledi mi?"
+                "turkish":"Dinledi mi?",
+                "words":["listen - listened - listened"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DIDN'T she listen?",
-                "turkish":"Dinlemedi mi?"
+                "turkish":"Dinlemedi mi?",
+                "words":["listen - listened - listened"]
             }
         ]
     },
@@ -110,25 +126,29 @@
         "positiveSentence":[
             {
                 "english":"It barked",
-                "turkish":"Havladı"
+                "turkish":"Havladı",
+                "words":["bark - barked - barked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"It DIDN'T bark",
-                "turkish":"Havlamadı"
+                "turkish":"Havlamadı",
+                "words":["bark - barked - barked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DID it bark?",
-                "turkish":"Havladı mı?"
+                "turkish":"Havladı mı?",
+                "words":["bark - barked - barked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DIDN'T it bark?",
-                "turkish":"Havlamadı mı?"
+                "turkish":"Havlamadı mı?",
+                "words":["bark - barked - barked"]
             }
         ]
     },
@@ -136,25 +156,29 @@
         "positiveSentence":[
             {
                 "english":"We taught",
-                "turkish":"Öğrettik"
+                "turkish":"Öğrettik",
+                "words":["teach - taught - taught"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"We DIDN'T teach",
-                "turkish":"Öğretmedik"
+                "turkish":"Öğretmedik",
+                "words":["teach - taught - taught"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DID we teach?",
-                "turkish":"Öğrettik mi?"
+                "turkish":"Öğrettik mi?",
+                "words":["teach - taught - taught"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DIDN'T we teach?",
-                "turkish":"Öğretmedik mi?"
+                "turkish":"Öğretmedik mi?",
+                "words":["teach - taught - taught"]
             }
         ]
     },
@@ -162,25 +186,29 @@
         "positiveSentence":[
             {
                 "english":"You learned",
-                "turkish":"Öğrendiniz"
+                "turkish":"Öğrendiniz",
+                "words":["learn - learned - learned"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You DIDN'T learn",
-                "turkish":"Öğrenmediniz"
+                "turkish":"Öğrenmediniz",
+                "words":["learn - learned - learned"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DID you learn?",
-                "turkish":"Öğrendiniz mi?"
+                "turkish":"Öğrendiniz mi?",
+                "words":["learn - learned - learned"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DIDN'T you learn?",
-                "turkish":"Öğrenmediniz mi?"
+                "turkish":"Öğrenmediniz mi?",
+                "words":["learn - learned - learned"]
             }
         ]
     },
@@ -188,25 +216,29 @@
         "positiveSentence":[
             {
                 "english":"They worked.",
-                "turkish":"Çalıştılar"
+                "turkish":"Çalıştılar",
+                "words":["work - worked - worked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"They DIDN'T work",
-                "turkish":"Çalışmadılar"
+                "turkish":"Çalışmadılar",
+                "words":["work - worked - worked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"DID they work?",
-                "turkish":"Çalıştılar mı?"
+                "turkish":"Çalıştılar mı?",
+                "words":["work - worked - worked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"DIDN'T they work?",
-                "turkish":"Çalışmadılar mı?"
+                "turkish":"Çalışmadılar mı?",
+                "words":["work - worked - worked"]
             }
         ]
     }

@@ -3,25 +3,29 @@
         "positiveSentence": [
             {
                 "english": "I WILL HAVE BEEN speakING for months.",
-                "turkish": "Aylardır konuşuyor olacağım."
+                "turkish": "Aylardır konuşuyor olacağım.",
+                "words":["speak spoke spoken","for months"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "I WON'T HAVE BEEN speakING for months.",
-                "turkish": "Aylardır konuşmuyor olmayacağım."
+                "turkish": "Aylardır konuşmuyor olmayacağım.",
+                "words":["speak spoke spoken","for months"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL I HAVE BEEN speakING for months?",
-                "turkish": "Aylardır konuşuyor olacak mıyım?"
+                "turkish": "Aylardır konuşuyor olacak mıyım?",
+                "words":["speak spoke spoken","for months"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T I HAVE BEEN speakING for months?",
-                "turkish": "Aylardır konuşmuyor olmayacak mıyım?"
+                "turkish": "Aylardır konuşmuyor olmayacak mıyım?",
+                "words":["speak spoke spoken","for months"]
             }
         ]
     },
@@ -29,25 +33,29 @@
         "positiveSentence": [
             {
                 "english": "You WILL HAVE BEEN askING since July.",
-                "turkish": "Temmuzdan beri soruyor olacaksın."
+                "turkish": "Temmuzdan beri soruyor olacaksın.",
+                "words":["ask asked asked","since July"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "You WON'T HAVE BEEN askING since July.",
-                "turkish": "Temmuzdan beri sormuyor olmayacaksın."
+                "turkish": "Temmuzdan beri sormuyor olmayacaksın.",
+                "words":["ask asked asked","since July"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL YOU HAVE BEEN askING since July?",
-                "turkish": "Temmuzdan beri soruyor olacak mısın?"
+                "turkish": "Temmuzdan beri soruyor olacak mısın?",
+                "words":["ask asked asked","since July"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T YOU HAVE BEEN askING since July?",
-                "turkish": "Temmuzdan beri sormuyor olmayacak mısın?"
+                "turkish": "Temmuzdan beri sormuyor olmayacak mısın?",
+                "words":["ask asked asked","since July"]
             }
         ]
     },
@@ -55,25 +63,29 @@
         "positiveSentence": [
             {
                 "english": "He WILL HAVE BEEN tellING for an hour.",
-                "turkish": "Bir saattir anlatıyor olacak."
+                "turkish": "Bir saattir anlatıyor olacak.",
+                "words":["tell told told","for an hour"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "He WON'T HAVE BEEN tellING for an hour.",
-                "turkish": "Bir saattir anlatıyor olmayacak."
+                "turkish": "Bir saattir anlatıyor olmayacak.",
+                "words":["tell told told","for an hour"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL HE HAVE BEEN tellING for an hour?",
-                "turkish": "Bir saattir anlatıyor olacak mı?"
+                "turkish": "Bir saattir anlatıyor olacak mı?",
+                "words":["tell told told","for an hour"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T HE HAVE BEEN tellING for an hour?",
-                "turkish": "Bir saattir anlatıyor olmayacak mı?"
+                "turkish": "Bir saattir anlatıyor olmayacak mı?",
+                "words":["tell told told","for an hour"]
             }
         ]
     },
@@ -82,25 +94,29 @@
         "positiveSentence": [
             {
                 "english": "She WILL HAVE BEEN listenING since May.",
-                "turkish": "Mayıstan beri dinliyor olacak."
+                "turkish": "Mayıstan beri dinliyor olacak.",
+                "words":["listen listened listened","since May"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "She WON'T HAVE BEEN listenING since May.",
-                "turkish": "Mayıstan beri dinliyor olmayacak."
+                "turkish": "Mayıstan beri dinliyor olmayacak.",
+                "words":["listen listened listened","since May"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL SHE HAVE BEEN listenING since May?",
-                "turkish": "Mayıstan beri dinliyor olacak mı?"
+                "turkish": "Mayıstan beri dinliyor olacak mı?",
+                "words":["listen listened listened","since May"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T SHE HAVE BEEN listenING since May?",
-                "turkish": "Mayıstan beri dinliyor olmayacak mı?"
+                "turkish": "Mayıstan beri dinliyor olmayacak mı?",
+                "words":["listen listened listened","since May"]
             }
         ]
     },
@@ -108,25 +124,29 @@
         "positiveSentence": [
             {
                 "english": "It WILL HAVE BEEN barkING for minutes.",
-                "turkish": "Dakikalardır havlıyor olacak."
+                "turkish": "Dakikalardır havlıyor olacak.",
+                "words":["bark barked barked","for minutes"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "It WON'T HAVE BEEN barkING for minutes.",
-                "turkish": "Dakikalardır havlıyor olmayacak."
+                "turkish": "Dakikalardır havlıyor olmayacak.",
+                "words":["bark barked barked","for minutes"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL IT HAVE BEEN barkING for minutes?",
-                "turkish": "Dakikalardır havlıyor olacak mı?"
+                "turkish": "Dakikalardır havlıyor olacak mı?",
+                "words":["bark barked barked","for minutes"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T IT HAVE BEEN barkING for minutes?",
-                "turkish": "Dakikalardır havlıyor olmayacak mı?"
+                "turkish": "Dakikalardır havlıyor olmayacak mı?",
+                "words":["bark barked barked","for minutes"]
             }
         ]
     },
@@ -134,25 +154,29 @@
         "positiveSentence": [
             {
                 "english": "We WILL HAVE BEEN teachING since April.",
-                "turkish": "Nisandan beri öğretiyor olacağız."
+                "turkish": "Nisandan beri öğretiyor olacağız.",
+                "words":["teach taught taught","since April"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "We WON'T HAVE BEEN teachING since April.",
-                "turkish": "Nisandan beri öğretiyor olmayacağız."
+                "turkish": "Nisandan beri öğretiyor olmayacağız.",
+                "words":["teach taught taught","since April"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL WE HAVE BEEN teachING since April?",
-                "turkish": "Nisandan beri öğretiyor olacak mıyız?"
+                "turkish": "Nisandan beri öğretiyor olacak mıyız?",
+                "words":["teach taught taught","since April"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T WE HAVE BEEN teachING since April?",
-                "turkish": "Nisandan beri öğretiyor olmayacak mıyız?"
+                "turkish": "Nisandan beri öğretiyor olmayacak mıyız?",
+                "words":["teach taught taught","since April"]
             }
         ]
     },
@@ -160,25 +184,29 @@
         "positiveSentence": [
             {
                 "english": "You WILL HAVE BEEN learnING for days.",
-                "turkish": "Günlerdir öğreniyor olacaksınız."
+                "turkish": "Günlerdir öğreniyor olacaksınız.",
+                "words":["learn learnt learnt","for days"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "You WON'T HAVE BEEN learnING for days.",
-                "turkish": "Günlerdir öğreniyor olmayacaksınız."
+                "turkish": "Günlerdir öğreniyor olmayacaksınız.",
+                "words":["learn learnt learnt","for days"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL YOU HAVE BEEN learnING for days?",
-                "turkish": "Günlerdir öğreniyor olacak mısınız?"
+                "turkish": "Günlerdir öğreniyor olacak mısınız?",
+                "words":["learn learnt learnt","for days"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T YOU HAVE BEEN learnING for days?",
-                "turkish": "Günlerdir öğreniyor olmayacak mısınız?"
+                "turkish": "Günlerdir öğreniyor olmayacak mısınız?",
+                "words":["learn learnt learnt","for days"]
             }
         ]
     },
@@ -186,25 +214,29 @@
         "positiveSentence": [
             {
                 "english": "They WILL HAVE BEEN workING for years.",
-                "turkish": "Yıllardır çalışıyor olacaklar."
+                "turkish": "Yıllardır çalışıyor olacaklar.",
+                "words":["work worked worked","for years"]
             }
         ],
         "negativeSentence": [
             {
                 "english": "They WON'T HAVE BEEN workING for years.",
-                "turkish": "Yıllardır çalışıyor olmayacaklar."
+                "turkish": "Yıllardır çalışıyor olmayacaklar.",
+                "words":["work worked worked","for years"]
             }
         ],
         "questionSentence": [
             {
                 "english": "WILL THEY HAVE BEEN workING for years?",
-                "turkish": "Yıllardır çalışıyor olacaklar mı?"
+                "turkish": "Yıllardır çalışıyor olacaklar mı?",
+                "words":["work worked worked","for years"]
             }
         ],
         "negativeInterrogativeSentence": [
             {
                 "english": "WON'T THEY HAVE BEEN workING for years?",
-                "turkish": "Yıllardır çalışıyor olmayacaklar mı?"
+                "turkish": "Yıllardır çalışıyor olmayacaklar mı?",
+                "words":["work worked worked","for years"]
             }
         ]
     }

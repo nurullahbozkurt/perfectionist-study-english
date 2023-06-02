@@ -4,25 +4,29 @@
         "positiveSentence":[
             {
                 "english":"I HAVE spoken",
-                "turkish":"Konuştum. / Konuşmuşum."
+                "turkish":"Konuştum. / Konuşmuşum.",
+                "words":["speak spoke spoken"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"I HAVEN'T spoken",
-                "turkish":"Konuşmadım. / Konuşmamışım."
+                "turkish":"Konuşmadım. / Konuşmamışım.",
+                "words":["speak spoke spoken"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAVE I spoken?",
-                "turkish":"Konuştum mu? / Konuşmuş muyum?"
+                "turkish":"Konuştum mu? / Konuşmuş muyum?",
+                "words":["speak spoke spoken"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HAVEN'T I spoken?",
-                "turkish":"Konuşmadım mı? / Konuşmamış mıyım?"
+                "turkish":"Konuşmadım mı? / Konuşmamış mıyım?",
+                "words":["speak spoke spoken"]
             }
         ]
     },
@@ -30,25 +34,29 @@
         "positiveSentence":[
             {
                 "english":"You have asked",
-                "turkish":"Sordun. / Sormuşsun."
+                "turkish":"Sordun. / Sormuşsun.",
+                "words":["ask asked asked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You HAVEN'T asked",
-                "turkish":"Sormadın. / Sormamışsın."
+                "turkish":"Sormadın. / Sormamışsın.",
+                "words":["ask asked asked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAVE you asked?",
-                "turkish":"Sordun mu? / Sormuş musun?"
+                "turkish":"Sordun mu? / Sormuş musun?",
+                "words":["ask asked asked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HAVEN'T you asked?",
-                "turkish":"Sormadın mı? / Sormamış mısın?"
+                "turkish":"Sormadın mı? / Sormamış mısın?",
+                "words":["ask asked asked"]
             }
         ]
     },
@@ -56,25 +64,29 @@
         "positiveSentence":[
             {
                 "english":"He HAS told",
-                "turkish":"Anlattı. / Anlatmış."
+                "turkish":"Anlattı. / Anlatmış.",
+                "words":["tell told told"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"He HASN'T told",
-                "turkish":"Anlatmadı. / Anlatmamış."
+                "turkish":"Anlatmadı. / Anlatmamış.",
+                "words":["tell told told"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAS he told?",
-                "turkish":"Anlattı mı? / Anlatmış mı?"
+                "turkish":"Anlattı mı? / Anlatmış mı?",
+                "words":["tell told told"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HASN'T he told?",
-                "turkish":"Anlatmadı mı? / Anlatmamış mı?"
+                "turkish":"Anlatmadı mı? / Anlatmamış mı?",
+                "words":["tell told told"]
             }
         ]
     },
@@ -83,25 +95,29 @@
         "positiveSentence":[
             {
                 "english":"She has listened",
-                "turkish":"Dinledi. / Dinlemiş."
+                "turkish":"Dinledi. / Dinlemiş.",
+                "words":["listen listened listened"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"She HASN'T listened",
-                "turkish":"Dinlemedi. / Dinlememiş."
+                "turkish":"Dinlemedi. / Dinlememiş.",
+                "words":["listen listened listened"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAS she listened?",
-                "turkish":"Dinledi mi? / Dinlemiş mi?"
+                "turkish":"Dinledi mi? / Dinlemiş mi?",
+                "words":["listen listened listened"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HASN'T she listened?",
-                "turkish":"Dinlemedi mi? / Dinlememiş mi?"
+                "turkish":"Dinlemedi mi? / Dinlememiş mi?",
+                "words":["listen listened listened"]
             }
         ]
     },
@@ -110,25 +126,29 @@
         "positiveSentence":[
             {
                 "english":"It HAS barked",
-                "turkish":"Havladı. / Havlamış."
+                "turkish":"Havladı. / Havlamış.",
+                "words":["bark barked barked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"It HASN'T barked",
-                "turkish":"Havlamadı. / Havlamamış."
+                "turkish":"Havlamadı. / Havlamamış.",
+                "words":["bark barked barked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAS it barked?",
-                "turkish":"Havladı mı? / Havlamış mı?"
+                "turkish":"Havladı mı? / Havlamış mı?",
+                "words":["bark barked barked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HASN'T it barked?",
-                "turkish":"Havlamadı mı? / Havlamamış mı?"
+                "turkish":"Havlamadı mı? / Havlamamış mı?",
+                "words":["bark barked barked"]
             }
         ]
     },
@@ -136,25 +156,29 @@
         "positiveSentence":[
             {
                 "english":"We have worked",
-                "turkish":"Çalıştık. / Çalışmışız."
+                "turkish":"Çalıştık. / Çalışmışız.",
+                "words":["work worked worked"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"We HAVEN'T worked",
-                "turkish":"Çalışmadık. / Çalışmamışız."
+                "turkish":"Çalışmadık. / Çalışmamışız.",
+                "words":["work worked worked"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAVE we worked?",
-                "turkish":"Çalıştık mı? / Çalışmış mıyız?"
+                "turkish":"Çalıştık mı? / Çalışmış mıyız?",
+                "words":["work worked worked"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HAVEN'T we worked?",
-                "turkish":"Çalışmadık mı? / Çalışmamış mıyız?"
+                "turkish":"Çalışmadık mı? / Çalışmamış mıyız?",
+                "words":["work worked worked"]
             }
         ]
     },
@@ -162,25 +186,29 @@
         "positiveSentence":[
             {
                 "english":"We HAVE taught.",
-                "turkish":"Öğrettik. / Öğretmişiz."
+                "turkish":"Öğrettik. / Öğretmişiz.",
+                "words":["teach taught taught"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"We HAVEN'T taught.",
-                "turkish":"Öğretmedik. / Öğretmemişiz."
+                "turkish":"Öğretmedik. / Öğretmemişiz.",
+                "words":["teach taught taught"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAVE we taught?",
-                "turkish":"Öğrettik mi? / Öğretmiş miyiz?"
+                "turkish":"Öğrettik mi? / Öğretmiş miyiz?",
+                "words":["teach taught taught"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HAVEN'T we taught?",
-                "turkish":"Öğretmedik mi? / Öğretmemiş miyiz?"
+                "turkish":"Öğretmedik mi? / Öğretmemiş miyiz?",
+                "words":["teach taught taught"]
             }
         ]
     },
@@ -188,25 +216,29 @@
         "positiveSentence":[
             {
                 "english":"You HAVE learned.",
-                "turkish":"Öğrendin. / Öğrenmişsin."
+                "turkish":"Öğrendin. / Öğrenmişsin.",
+                "words":["learn learned learned"]
             }
         ],
         "negativeSentence":[
             {
                 "english":"You HAVEN'T learned.",
-                "turkish":"Öğrenmedin. / Öğrenmemişsin."
+                "turkish":"Öğrenmedin. / Öğrenmemişsin.",
+                "words":["learn learned learned"]
             }
         ],
         "questionSentence":[
             {
                 "english":"HAVE you learned?",
-                "turkish":"Öğrendin mi? / Öğrenmiş misin?"
+                "turkish":"Öğrendin mi? / Öğrenmiş misin?",
+                "words":["learn learned learned"]
             }
         ],
         "negativeInterrogativeSentence":[
             {
                 "english":"HAVEN'T you learned?",
-                "turkish":"Öğrenmedin mi? / Öğrenmemiş misin?"
+                "turkish":"Öğrenmedin mi? / Öğrenmemiş misin?",
+                "words":["learn learned learned"]
             }
         ]
     }
