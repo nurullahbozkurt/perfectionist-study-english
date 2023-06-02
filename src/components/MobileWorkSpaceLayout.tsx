@@ -68,7 +68,10 @@ const MobileWorkSpaceLayout = (props: Props) => {
                             <p className='text-xs' >Aşağıdaki Cümleyi Çevir</p>
                             <p className='text-[10px] md:text-xs border rounded  bg-gray-50 text-black px-1' >{props.topic}</p>
                         </div>
-                        <div className='bg-gray-50 text-black p-1 rounded' ><p>{props.turkishSentence}</p></div>
+                        <div className='bg-gray-50 text-black p-1 rounded' >
+                            <p>{props.turkishSentence}</p>
+                        </div>
+                        {props.words && <p className='text-xs' >Kelimeler: {props.words.join(', ')}</p>}
                         <div className='flex items-center justify-between gap-4' >
                             {props.changeSentence && <button onClick={props.changeSentence} className='text-xs md:text-sm bg-primary-700 text-white w-full px-2 py-1 mt-2 rounded' >
                                 Cümleyi Değiştir

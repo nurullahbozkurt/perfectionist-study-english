@@ -106,13 +106,9 @@ const WorkSpaceLayout = (props: Props) => {
                                                 <div className='flex items-start gap-1' >
                                                     <h1 className='text-base text-black border shadow-lg bg-gray-100  px-2 py-1 rounded' >{props.turkishSentence}</h1>
                                                 </div>
-                                                <div className='flex items-center gap-1 text-xs ml-1'>
-                                                    <p>Yardımcı Kelimeler:</p>
-                                                    {props.words?.map((item, index) => (
-                                                        <h1>{item},</h1>
-                                                    ))}
-
-                                                </div>
+                                                {props.words && <div className='flex items-center gap-1 text-xs ml-1'>
+                                                    {props.words && <p className='text-sm' ><span className='font-semibold' >Kelimeler:</span> {props.words.join(', ')}</p>}
+                                                </div>}
                                             </div>
                                             <div className='flex justify-end' >
                                                 <p className='rounded px-2 py-0.5 text-xs bg-white text-primary-900 shadow' ><span className='font-bold' >Gramer:</span>{props.topic}</p>
