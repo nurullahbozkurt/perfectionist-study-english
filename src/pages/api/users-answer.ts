@@ -24,6 +24,7 @@ export default async function handler(
         sentence: sentence,
         userSentence: userSentence,
         correctSentence: correctSentence,
+        createdAt: Date.now(),
     })
 
     res.status(200).json({ message: 'UserAnswer created' })
