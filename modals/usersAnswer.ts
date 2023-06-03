@@ -16,7 +16,11 @@ const userAnswerSchema = new Schema({
    },
    correctSentence:{
             type: String,
-   }
+   },
+   createdAt:{
+            type: Date,
+            default: Date.now,
+      },
 
 });
 
